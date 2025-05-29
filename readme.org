@@ -1,0 +1,32 @@
+#+TITLE: README
+#+AUTHOR: adrian
+
+* LIBRARY
+
+This is the public repository for my various reading notes. Despite being publicly available, this document serves solely my own needs. These notes are rough, messy, maybe even inaccurate.
+
+I do not have any pretensions as to the value anyone else may find for this, and I do not intend to build this with other people's audience in mind. I do not even fully understood some of these stuff I read, and I admit to that.
+
+In any case, if you are curious and wish to make sense of this ever growing org file, here's a guide on the content and structure of the repository.
+
+
+* GUIDE
+
+Books are organized alphabetically. These are a mix of stuff I've read since 2017, when I started keeping track of my books. Books and notes are constantly added, as I consolidate both past and recent notes I've made across various media and note taking apps.
+
+I mainly read history books, so that's what most of these books will be about.
+
+These notes were taken as I read through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
+
+Some books are heavily noted, some aren't. I'm not very consistent about these, and there are also personal circumstances that could've affected my note taking routine; if I'm on a moving train, obviously I wouldn't have pulled out my pen and notebook to jot down a bunch of words.
+
+
+* FUTURE
+
+As I build this library, I will think of other "features" I can add to make this easier for me to peruse.
+
+
+**CREATION DATE: 26 MAY 2025**
+**SOFTWARE USED: GNU EMACS 30.1**
+
+

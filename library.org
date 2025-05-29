@@ -1,0 +1,536 @@
+#+TITLE: LIBRARY
+#+AUTHOR: adrian
+#+DESCRIPTION: Library of Book Notes
+
+* [GENERAL]
+- Alphabetical
+- Created 26 May 2025
+- Useful Commands:
+  - nearest heading: C-c C-u
+  - previous heading: C-c C-b
+  - next heading: C-c C-f
+  - quote block: < q TAB
+  - nov mode line count: C-x l
+- Formatting:
+  - three empty lines above each heading
+  - one empty line each above and below a quote block
+- Future improvements:
+  - table of contents
+  - version control
+
+
+
+* AVIGNON AND ITS PAPACY
+** /Joelle Rollo - Koster/
+
+- Avignon Papacy has very detailed records of its daily affairs.
+- Author believes Clement V has been much maligned, and is a much better pope than usually portrayed.
+- Pope John XXII was the first pope to emphasize the connection between heresies and demonic influence.
+- Franciscan poverty crisis: should Franciscans allow communal possession of goods, or completely reject it and live in absolute poverty?
+- Even before Pope John XXII's rule, the arrangement is that the papacy has nominal possession of the franciscans' properties. The order is largely okay with this, but a faction called the Spirituals insisted on absolute poverty, clashing with the pope and the inquisition on the matter.
+- Pope John XXII ruled that obedience to the papacy is paramount, and reiterated that the order is not obligated to live in total poverty, but the goods and properties that they can peruse will be under ownership of the papacy.
+- Pope Clement VI has become the symbol of Avignon papacy's worldliness and ostentatiousness. The author does concede that Clement VI never lived a humble life like his predecessors, even quipping that he knew better how to be pope than the ones before him. But of course there's still elements of exaggeration in this.
+- The conclave that elected Pope Innocent VI tried to impose greater powers for the College of Cardinals, in expense of the pope's own powers. During his own papacy, Innocent VI repudiated this maneuver, but it will come back again later during the Great Western Schism.
+- In the wake of the Hundred Years' War, France was left destitute and overrun by mercenaries. These forces posed significant threat to Avignon papacy, and the Chuch had to forge alliances as well as bribe the mercenaries to keep the city safe.
+- Pope Urban V highly supported and encouraged intellectual pursuit for his subjects. He was also fastidious, and personally read and notated thousands of documents.
+- Urban V returned to Rome, but to maintain a stable administration, kept the Curia divided between Avignon and Rome. He later returned to Avignon, explaining that pacification of Italy and coninued chaos in France meant that he is more needed in avignon. He died in Avignon months after his return.
+
+#+begin_quote
+  /Gregory did not halve the government of the Church as Urban V had done; he left it in place in Avignon, waiting to transfer the curia whole once he was safely settled in Rome. Gregory's decision demonstrates that he understood his place in the symbolic web of the papacy and the expectations attached to his person. Italians wanted to see the father of the Catholic Church, not the French curial bureaucratic machine behind him./
+#+end_quote
+
+- Gregory XI succeeded in returning the papacy to Rome, but at the cost of inciitng violent reaction from his enemies within the city.
+- Towards the final days of his life, Gregory XI drafted a new regulation amending conclave rules in dire situations, allowing the voting to start within the 9-day mourning period, and foregoing the two-thirds majority vote. These rules, however, were never enacted.
+
+#+begin_quote
+  /The Avignon papacy transformed the administration of the Church by developing archives and recording procedures. This once more demonstrates the efficiency of its leadership. Registrars copied all letters in ledgers. Those made out of paper remained in Avignon until 1784, when they were shipped to Rome; they are commonly named the Avignon registers. Others were recopied on parchment. They were labeled "Vatican registers" and sent to Rome in the 1430s./
+#+end_quote
+
+#+begin_quote
+  /Cardinals and other curialists showed a remarkable detachment toward Avignon and its people, and attitude perhaps revealing their sense of the unnatural and transitory character of the Avignon papacy./
+#+end_quote
+
+- More than the popes, the cardinals were the prime examples of the extravagance and excesses of the Avignon papacy. The popes themselves admonished cardinals who flaunted ostentatious lifestyle, but the cardinals mostly just ignored the criticisms.
+  
+#+begin_quote
+  /The struggle for power among religious and secular authorities shaped life and politics in western Europe in the Early Middle Ages. Popes, kings and nobles, magistrates and burghers: all negotiated, schemed, manipulated, and openly fought for control over medieval cities and the wealth they generated./
+#+end_quote
+
+#+begin_quote
+  /Cemeteries in medieval Avignon were well integrated into the fabric of urban life... Traditionally, urban cemeteries were open spaces, and as population grew, so did the demand for their space. Medieval cemeteries hosted many economic and social activities, an uncomfortable thought for our modern Western society, so sheltered from the sight of death./
+#+end_quote
+
+#+begin_quote
+  /One of the lessons the Schism offers institutional historians is that two papal capitals could compete in advancing the legitimacy of their respective claimants and both be successful. Two papal courts could not only survive but flourish. If Rome and Avignon had not been thriving Christian cities, they would not have rivaled each other for papal supremacy for close to two generations without instigating major social upheavals. The Church's administration had been so well defined by the Avignon popes and was so innovative and efficient that it coul be cut in half and still function quite effectively./
+#+end_quote
+
+- Author seems to take the view that the schism didn't significantly affect religiosity for most Christians. Otherwise, there would've been greater chaos and impetus to resolve the split.
+- The book treats both sides of the Schism fairly. Each is not any more right or wrong in claiming Petrine authority, and both struggled to deal with their religious and political circumstances.
+- A main reason for the Schism's longevity is the support external parties provided for each side. Especially in the Avignon side, their pope enjoyed financial support from both internal and external sources.
+- The author briefly mentions that the Schism promoted the concept of conciliarism, and described it as "dangerous", without elaborating much on it.
+- One of the lasting legacies of Avignon papacy is its massive support for education, including benefices for many students.
+
+#+begin_quote
+  /The Avignon popes were certainly no more venal nor less worthy to claim the papal office than their predecessors and successors. As southwestern Frenchmen, their mental apparatus and reflexes were not that different from their contemporaries; venality and nepotism were rampant among all members of the high society. The popes simply acted like men of their times./
+#+end_quote
+
+
+
+* LOST IN MATH
+** /Sabine Hosenfelder/
+
+- Author argues that scientists - physicists specifically - should not let the concepts of beauty and aesthetics to dictate their theories
+- It's impossible to test all hypotheses, and some criteria have to be used to determine viability of each. Author contends that aesthetics as such a criteria isn't the way to go.
+- Math is most useful as representation of reality. Math is used to formulate theories, and when tested and proved true, it suffices even if the result isn't directly observable.
+- The problem with Schrodinger's cat is that the question looks at the state of the cat upon opening the box. The actual mystery that should be solved is what the cat's state /before/ opening the box. This illustrates the underlying problem of quantum mechanics.
+
+#+begin_quote
+  /So you want to know what holds the world together, how the universe was made, and what rules our existence goes by? The closest you will get to an answer is following the trail of facts down into the basement of science. Follow it until facts get sparse and your onward journey is blocked by theoreticians arguing whose theory is prettier. That’s when you know you’ve reached the foundations./
+#+end_quote
+
+#+begin_quote
+  /In the twentieth century, aesthetic appeal morphed from a bonus of scientific theories to a guide in their construction until, finally, aesthetic principles turned into mathematical requirements. Today we don’t reflect on arguments from beauty anymore—their nonscientific origins have gotten“lost in math.”/
+#+end_quote
+
+#+begin_quote
+  /Quantum mechanics is spectacularly successful. It explains the atomic world and the subatomic world with the highest precision. We’ve tested it upside-down and inside-out, and found nothing wrong with it. Quantum mechanics has been right, right, and right again. But despite this, or maybe because of this, nobody likes it. We’ve just gotten used to it./
+#+end_quote
+
+#+begin_quote
+  /I try to imagine the day when we’ll just feed all cosmological data to an artificial intelligence (AI). We now wonder what dark matter and dark energy are, but this question might not even make sense to the AI. It will just make predictions. We will test them. And if the AI is consistently right, then we’ll know it’s succeeded at finding and extrapolating the right patterns. That thing, then, will be our new concordance model. We put in a question, out comes an answer—and that’s it./
+#+end_quote
+
+#+begin_quote
+  /Black holes form when a sufficiently large amount of matter collapses under the gravitational pull of its own mass. If the matter fails to build up sufficient internal pressure—for example, because a star has exhausted all its fuel—then it can continue to collapse until concentrated in a single point. Once the matter is concentrated enough, the gravitational pull at its surface becomes so strong that not even light can escape: a black hole has been created. The boundary of the trapping region is called the “event horizon.” Light launched directly at the horizon will just about fail to escape, going around in a circle forever, and since nothing travels faster than light, nothing can escape from inside the black hole./
+#+end_quote
+
+
+
+* MAGISTERIA
+** /Nicholas Spencer/
+
+- The book's title comes from Stephen Jay Gould's description of science and religion as being "non-overlapping magisteria".
+- The main narrative of war between science and religion began in the wake of Darwin's work on theory of evolution. Medieval examples, like with Galileo and Copernicus, were revived in the 19th century in the course of evolution debates.
+- It was a biographer of Columbus, Washington Irving, that popularized the false notion that flat earth belief was widespread prior to the discovery of the New World.
+- Copernicus has formed his heliocentric model decades before publishing it. For various reasons, he dragged his foot on the publication. The author implicitly argues that Copernicus would've been more well-received if he published earlier, during more accomodating conditions under friendlier church leaders. This argument does have some hindsight bias.
+- Copernicus' protege, Rheticus, consulted a protestant friend named Andreus Osiander to review the work. Osiander offered to write a preface, in which he downplayed the impact of the work, insisting that readers treat it more as thought experiment rather than actual truth. Rheticus declined, but the preface somehow got into the final version anyway. Osiander's preface has both undermined the book's scientific value, while also further degrading copernicus' reputation with the church authorities, all within the unfolding drama of Reformation and Counter-Reformation.
+- Galileo's trial was an issue of the Church imposing both theological and philosophical authority over the field of sciences. It was less about what his work actually says, but about who decides its merits. It does make me feel bad for Galileo, as he seem to have been a good Catholic until the end.
+
+
+
+* MEDIEVAL CHRISTIANITY
+** /Kevin Madigan/
+
+- Two crucial differences between Gnosticism and (early) Christianity:
+  - Gnosticism's end goal is freedom from ignorance; For Christiainity, it's freedom from sin.
+  - In Gnosticism, such salvation from ignorance is attainable only by a few. In Christianity, the promise of salvation is extended to everyone, and ideally everyone will be capable of attaining it too.
+- Boethius deliberately did not quote the Scriptures in his work consolation of Philosophy, as he meant it as a meditation on topics like the problem of evil, and free will, in a more philosophical manner.
+- Celtic Christianity was a specific kind of Christianity practiced in the Britain and Ireland. It placed greater emphasis on monasticism than the rest of Europe. Even in hierarchy, monasteries and abbots became substitute to dioceses and bishops, respectively. It is not, however, heretical or schismatic. Celts were never on a brink of breaking with Rome.
+
+#+begin_quote
+  /No saint’s life from the early Middle Ages is very trustworthy, historically speaking, because medieval hagiographers were not interested in producing biographies but in writing edifying literature for those aspiring to sanctity. Indeed, it would be wrong to call hagiographers “authors". They were compilers of inspiring and exemplary religious literature./
+#+end_quote
+
+#+begin_quote
+  /No other service was so treasured as the monks’ capacity to pray for society. Monks were imagined by those who founded and supported them as a sort of spiritual militia; they fought against the society’s spiritual enemies, especially the archenemy Satan and his minions. Above all, donors of land and buildings expected that monks would satisfy for the sins they committed against God by their prayers. Punishing penances could be satisfied not by the sinner but by his surrogate, the monk; he performed by his liturgical prayers the penances accumulated by lay sinners./
+#+end_quote
+
+- The focus on monastic prayers to aid in salvation later resulted in most monks being ordained into the priesthood. This allowed them to perform the highest prayer that could be made - the Mass.
+
+#+begin_quote
+  /The essential work of the monks, from the point of view of the society that supported them, was intercessory prayer. A donor who endowed a monastery could be assured that no matter the enormity of his transgressions, regardless of the weight of sin he had accumulated, his penance would be “prayed down” by a community he founded, a community all then believed would exist in perpetuity. An institution that in Benedict’s time was isolated and profoundly disinclined to offer service to surrounding communities, one that concentrated on the supernatural aspirations of its monks, came to offer both civic and spiritual benefits without which early-medieval society found it could not live./
+#+end_quote
+
+- Possibly an important factor for the growth of the Pope's temporal power is Rome's distance from the "Roman" Empire in Constantinople. The emperor's primary representative in the West is the exarch of Ravenna, who is also physically distant from Rome and had little to offer on the city's many issues. Hence, the people relied on their wealthiest and most prominent resident: the Bishop of Rome.
+- A major innovation of Gregory the Great is the deployment of monks for missionary work. This became the precedent for religious orders in centuries to come, and reinforced Rome's power and authority over Christians in faraway territories.
+- Author briefly touched on the controversial Donation of Constantine. The document was a forgery from the 8th century, and has been argued to have been used to support papal supremacy. However, the document wasn't used for such purposes in the succeeding centuries, and by the early 11th century has already been proven to be fake.
+- In Germanic lands, the most common type of church is a proprietary church. It's a small church built by the local lord, who also appoints the local clergy and simply gives visiting privileges to the bishop.
+- Though clerical celibacy has been the tradition for centuries, the appointed priests for proprietary churches can be married men, even ones with concubines. The parishioners themselves were mostly indifferent about this, only grateful to have a local clergy to depend on.
+
+#+begin_quote
+  /Although a few bishops and some synods in the early Middle Ages insisted on clerical continence, their words were a dead letter. Simply put, virtually no rural parishioner or priest in the year 1000 regarded clerical concubinage or marriage as practically or canonically objectionable; it would be more than a century before this would change and we begin to have evidence of reforming lay groups demanding clerical celibacy. Given the difficulties of rural life, the economic motivations for having a wife, and the peasant origins of the clerical clergy, it was doubtless the case that celibacy was thought by many to be too lofty an ideal; some were probably even unaware that clerical concubinage or marriage was uncanonical. Additionally, the indifference or ignorance of parishioners and priests was reinforced by a regime of imperfect episcopal supervision, not to mention that the practices around clerical education and formation were barely adequate, and to describe them as such is being charitable./
+#+end_quote
+
+#+begin_quote
+  /Part of medieval culture was a dynamic interaction between elements of the Christian faith sponsored by priests and those given life or popularity by the people. In attempting to understand medieval Christianity, we stray far from the truth if we imagine priests and people as inhabiting two different worlds of thought and practice or if we believe that the experience of ordinary medieval folk can be captured in the vocabulary of folklore and with the social scientific tools used to describe it today./
+#+end_quote
+
+- Though Jews were indeed, at times, persecuted in Medieval Europe, by and large they didn't lived in desolation all those times. Many anti-Jewish policies and laws were "implemented", but in the sense that they were put into legal writing, but were ignored in practice anyway.
+- In the early Middle Ages, the Church has sought help from secular rulers for protection. This culminated in a papal anointed monarch, like Charlemagne, and later on the Holy Roman Emperors. But this dependence also meant that the secular rulers felt more entitled to ecclesiastical authority, even dressing themselves up like the bishops of the church. This arrangement, necessary at first but centuries later became less so, would be a factor in the ensuing Investiture Crisis.
+
+#+begin_quote
+  /The model of the ancient church and the “life of the apostles” (vita apostolica) were increasingly not just influential or suggestive. More and more, they were understood to be normative. As such, they superseded any practice that was regarded as merely customary or temporarily useful; evolution from ancient conventions slowly became seen as evidence of degeneration from treasured, pristine ideals, archetypes that the church ought, in the eyes of reformers, to embrace again. Reform was largely imagined, then, in terms of a restoration of usages that were imagined to have prevailed as disciplinary, ecclesiastical, moral, and legal norms in the apostolic age./
+#+end_quote
+
+#+begin_quote
+  /It was Dominic’s genius to perceive that no preachers could compete against the Cathars unless they could effectively preach, so to speak, as orthodox perfects. The conviction that learning, poverty, and fairly traditional monastic observance could prepare preachers for this task, combined with the profound confidence that heresy was intolerable for the church—and mortally dangerous to souls—gave Dominic’s new order its initial shape and mission, as well as many of its enduring features./
+#+end_quote
+
+#+begin_quote
+  /The goal of one following the Benedictine Rule was his own supernatural perfection; the aim of the aspiring Dominican was the spiritual direction and guidance of his neighbor./
+#+end_quote
+
+- St. Dominic adopted the Benedictine Rule for his new Order of Preachers, with modifications. After his death, his successors continued to further modify the Rule to more closely follow Dominic's vision for the order. One notable difference of the Dominicans with other orders is the absence of manual labor, replaced by study and, when applicable, preaching.
+
+#+begin_quote
+  /The differences between monastic and scholastic education can be, and have been, exaggerated. We need to remember that even those schools in cities were for clerics training for ordination. Almost needless to say, all “believed in” and serviced the Deity. No scholastic ever claimed to have invented a portion of revelation. Rather, he worked within the very framework of the deposit of faith and attempted, by the strict application of reason, to understand it more profoundly. In other words, in ways that may seem backward to some today, he sought to understand what he already knew to be so. Belief preceded understanding; the latter clarified and reinforced the former./
+#+end_quote
+
+#+begin_quote
+  /The domination of both spiritual and temporal realms was to prove costly, in every way, to the papacy. Secular authorities never accepted the papacy’s claims to temporal oversight. In the ecclesiastical realm, as popes increased their power, they also caused suspicion and frustration among the faithful. As popes claimed more and more authority and acquired more power over Christendom and as the curia became a sort of Supreme Court of Christendom, the successors of St. Peter, ever in need of more money, resorted to a tactic hated in the Middle Ages more than today: taxation. In many other ways, the papacy was believed to have departed from apostolic practice. These deviations from normative practice and the fathomless need for revenue slowly robbed the papacy of affection and respect, with profound consequences in the centuries to come./
+#+end_quote
+
+#+begin_quote
+  /The papacy in the thirteenth and fourteenth centuries began increasing taxes and fees for existing services and charging more and new taxes. Traditional papal revenues included income gained from papal landed estates and a number of other, relatively minor, sources, including Peter’s Pence, a small annual tax; tributes from monasteries under the protection of St. Peter; and so forth. The point of no return came when the papacy began to tax the income of the clergy. Initially, it did so to pay for the Crusades. Later, these funds were used indiscriminately, and the rates at which the clergy could be taxed were equally promiscuous. Finally, the tax went from being an occasional impost to becoming a general tax, from which the papacy derived a dependable stream of revenue by the mid-thirteenth century. There is some grim irony in contemplating that when it came to taxing its main constituency, the papal government was far ahead of its secular counterparts./
+#+end_quote
+
+- The roots of medieval conciliarism were planted throughout centuries, as papal power gradually increased and intensified. By the 13th and 14th centuries, power in the Church has been massively centralized to the pope and his curia. All sorts of taxation and petty penny-pinching have been implemented. The vicar of Christ has become more powerful and much wealthier than secular kings and emperors. All this will culminate in the rise of ecumenical councils targeted towards reforming the moribund papacy.
+
+#+begin_quote
+  /The language of worship, Latin, was not understood, at least not outside the Italian peninsula. This made weekly worship relatively ineffective as a medium of teaching and learning the faith. More insight into the faith they professed may well have been achieved by parishioners in extraordinary times, such as the feast of Good Friday, when the cross was adored, or on Easter, when a new fire was started—and in some parts of Europe, this fire would have been taken into homes. A very powerful impact indeed could have been achieved by these acts of nonverbal ritual and ceremony. Yet it remains true that clergy did not succeed in using worship as a mode of instruction, primarily because they did not even attempt to use it in that way./
+#+end_quote
+
+- It can be difficult to discern the purpose of imageries and icons in medieval churches because of much variety. But the author thinks it's unlikely they were effective as religious instruction. Many, like stained glasses, can look very abstract, and some are even placed too high to be comfortably viewed.
+
+#+begin_quote
+  /By 1300, the church’s lawyers had designated very precisely the conditions—thirteen in all—in which one could charge interest for loans. The new theology of confession and purgatory also helped ease the way for the church grudgingly to tolerate the practice of trade. Treatment of the sin of usury was relocated from the court to the confessional and thus to the conscience of the tradesman. This helped ease the way for the recognition that there was nothing intrinsically sinful in routine commercial transactions./
+
+  /Despite the reservations of the church, the ordinary merchant could, after all, be saved./
+#+end_quote
+
+- What gave the Great Western Schism its particular gravity is the fact that the same College of Cardinals that elected Urban VI also elected the other schismatic "antipope".
+
+#+begin_quote
+  /Indeed, the expression of this highly theoretical view of Roman authority coincided with the loss of actual power in the provincial churches, as kings and secular lords asserted their jurisdiction within their realms and created national churches from the ruins of a Christendom that had crumbled. In this, they reversed trends initiated and supported by the papacy since the eleventh century, when the popes had struggled to free the local churches from secular control. The royal powers were helped enormously by the schism, which accelerated the process of the disintegration of Christendom into territorial and national churches. With these powerful and irreversible trends, the theoretical claims of Laetentur Coeli were in preposterous conflict. What seemed to matter to the popes was that claims be made as magnificent as possible, however impossible their chances of achieving actual expression./
+#+end_quote
+
+#+begin_quote
+  /As these grand claims were made, popes in the century between ca. 1430 and 1530 concentrated their efforts on protecting their Italian domain and in lavishly reconstructing the city of Rome. It is not for nothing that these pontiffs are often called “Renaissance popes.” Posterity owes to them at least the glory of the Sistine Chapel and, more ambiguously, the construction of the new St. Peter’s Basilica. But it seems these popes were constantly enmeshed in war; Italian politics; conflict with the city-states; trafficking in ecclesiastical offices; elevating their relatives (including their children, of whom one pope sired sixteen) to high office; and in the generation and accumulation of art and treasure./
+#+end_quote
+
+#+begin_quote
+  /No matter how much one confessed, it was impossible to say if one was in a state of grace and justified in the eyes of God. Far from offering relief, the salvific instrumentalities of the late-medieval church could have encouraged hypersensitivity and doubt. In the end, what one group of Christians could feel as consolation, another could feel as anxiety-causing torment and, finally, un-Christian. When Christians split over this issue—on how they might be saved—when the same set of Christian practices and pastoral pieties could generate diametrically opposite emotional and religious responses; when one Christian, emerging from the confessional, could feel serene relief and another near-immediate doubt, the Christian Middle Ages can be said to have come to an end. It was profound disagreement over the issue of the media and mechanism of salvation, then, that did much to sunder the religious unity of the medieval Western church./
+#+end_quote
+
+
+
+* NO ENCHANTED PALACE
+** /Mark Mazower/
+
+#+begin_quote
+  /The UN expanded further and more rapidly than its founders had thought possible. But it remained suspended between its twin functions as great power talking shop and supporter of national self-determination across the world. What had started out as a mechanism for defending and adapting empire in an increasingly nationalist age has turned into a global club of national states, devoid of any substantial strategic purpose beyond the almost forgotten one of preventing another world war. Freezing intact the power configuration at the end of the last one, it looks—so far in vain—for a political raison d’être more suited to the needs of the present./
+#+end_quote
+
+- FDR, concerned about the Jewish population in Europe, initiated the top secret "M" Project. The project is tasked to explore and determine suitable permanent settlement venues for the Jews.
+- The "M" Project shows the prevailing sentiment in the 1930s of favoring territorial arrangements for refugees over international protection rights. In short, it was thought, it's better to transfer refugees wholesale into specific places rather than keep them scattered and provide legal protections.
+
+#+begin_quote
+  /The awkward truth was that the UN had abandoned the League’s commitment, however faltering, to protecting minorities, without willing an effective alternative. It would take Cambodia, Bosnia, and Rwanda to drive the point home./
+#+end_quote
+
+#+begin_quote
+  /Like the League, the UN was basically a cooperative grouping of independent states. Explicit where the League was implicit, it rested on the doctrine of the sovereign equality of its members. Yet despite the utopian rhetoric of its supporters, the UN represented a deliberate retreat from the League’s comparative egalitarianism back to the great power conclaves of the past. The General Assembly had, in general, less power than the League’s assembly had done and the five permanent members of the Security Council had more. They were equipped with their new veto-wielding prerogative, and to facilitate the policing role that Roosevelt had emphasized, they also gave themselves the power to call on their own military staff to coordinate security measures for the sake of world peace. In other words, the UN, even morenthan the League, was to be run by the great powers and far less confidence was reposed in international law as a set of norms independent from, and standing above, power politics./
+#+end_quote
+
+#+begin_quote
+  /The emergence in the General Assembly of an entirely new conception of world order—one premised on the breakup of empire rather than its continuation, on politics rather than law—was no figment of the imagination. The General Assembly itself had proved more unpredictable than the drafters of the UN Charter had anticipated. And, for a time, it was more powerful too./
+#+end_quote
+
+#+begin_quote
+  /The past is emphatically not destiny and the UN’s origins need not shape its future. But without some knowledge of the context from which it emerged, we are likely simply to continue rehearsing the arguments of the past rather than to move successfully beyond them./
+#+end_quote
+
+
+
+* RUSSIA'S WAR
+** /Richard Overy/
+
+#+begin_quote
+  /It is difficult to write the history of the war without recognizing that some idea of a Russian 'soul' or 'spirit' mattered too much to ordinary people to be written off as mere sentimentality, however mundane or banal or brutalizing was the real day-to-day experience of war./
+#+end_quote
+
+- In the 1920s, Germany and the Soviet Union formed a military collaboration. For the Soviet Union, it was meant to introduce western military technologies to the Soviet Army. And for Germany, they primarily positioned military training and production within the Soviet territory in order to evade Versailles restrictions on rearmament.
+- In 1939, Stalin initiated talks with Britain and France for a defense pact against Nazi Germany. The Western nations were lukewarm on the offer. They also had different expectations for the alliance; the West wants a diplomatic deterrent against Hitler, but the Soviet Union wants an actual war coalition to fight Germany head-on.
+- The offer for alliance fell apart when the Soviets realized how little the West's military preparations were, not to mention how unwilling Britain and France are to match Soviet military strength. At around this same time, Germany began reaching out to the Soviet Union for a possible non-aggression pact, which  ultimately became the Molotov-Ribbentrop Pact.
+
+
+
+* THE END OF EMPIRES AND A WORLD REMADE
+** /Martin Thomas/
+
+- Main argument: Decolonization is a "globally connected process".
+- The end of empires, and globalization, are codependent with each other.n
+- The idea of decolonization is framed on Western imperialist terms. Independence movements inadvertently campaigned for self-governance, but with the same hierarchical system imposed by the colonizers.
+- Imperial protectionism worsened the effects of the Depression especially in the colonial territories. Most colonies experienced famine in the 1930s due to such policies.
+- Overlaps in language and ideology of anticolonialism and communism enabled the mixture of both, and indeed postwar anticolonial movements and figures are often Marxists too. The structure and methods of communist organizations also became crucial in spreading the idea of decolonization.
+- The Nazi regime and anticolonial movements found a common cause in opposing the allied empires. They had loose alliances of convenience during the War.
+- Author endorses the concept of a greater Second World War.
+- I like how it elaborated on the postwar Huk rebellion in the Philippines. I didn't expect the author to devote a couple of paragraphs on the topic, and it's a concise and fair treatment too.
+- Postwar decolonization violence was fueled by both war-related economic hardships and general anticolonial sentiment.
+- The British Empire distrusted the un, and resolved to hold on to their territories despite wave of anticolonial movements.
+- The British envisioned a Malayan union, but was faced with opposition from various ethnic groups. Ethnic Malays did not want a union with migrant groups. Indians and Chinese, especially in Singapore, faced greater hardship during the war than ethnic Malays, causing animosity with the Malay and the British.
+- War-related hardships endured by the ethnic Chinese pushed them into communist movements. This, in turn, gave the British a cause to demonize them, claiming that the Chinese are bringing in a foreign anomaly (communism) into Malaya, thereby further fueling ethnic Malay hatred towards the Chinese population.
+- The author contends that partition is direct consequence of decolonization.
+- In Kenya, British colonialists promoted the image of underground protest movements as being related to satanic activities and witchcraft.
+- Decolonization in Southern Africa was spearheaded not by the black African majority, but by the white minority that insists on apartheid policy despite widespread opposition locally and globally.
+- France tried to hide the severity of its war in Algeria by means of social policies, but ultimately the truth of the violence flooded global consciousness and made it impossible to prevent Algerian call for independence.
+- Colonial mindset seeped through even in national branches of international organizations. the French Red Cross secretly refused to channel aid to Algerians.
+- Colonial technocrats imposed Western standards of development onto the colonies, without regard for local customs and practices. this is in line with the arguments presented in James Scott's Seeing Like a State.
+- Damages caused by large scale colonial development - especially environmental and agricultural damages - greatly amplified anticolonial sentiment
+the Bretton Woods system poured money into the decolonizing countries, and promoted global free trade, mostly to the advantage of richer countries.
+
+#+begin_quote
+  /Imperialism’s transcontinental presence lent opposition to empire, whether wholeheartedly anticolonial or not, an equally global character. From African American civil rights workers and other political campaigners within the Black Atlantic to medical humanitarians and civil society networks in the communist ‘Second World’ and on to refugee groups and student activists from Palestine to Vietnam, opposition to white supremacy, imperialism, and settler colonialism forged connections that gave decolonization a singular aspect as a global fght against the injustice intrinsic to colonialism./
+#+end_quote
+
+#+begin_quote
+  /In the imperial rhetoric of decolonization’s wars, restoring order meant the resumption of whatever sociopolitical plans, economic projects, or other modernization schemes were interrupted by conﬂict. The priority was to limit the fallout from the exposure of rights abuses, not to question the actions that produced them as counterinsurgency drives unfolded. The logic of ‘order before reform’ was trotted out as stock justifcation for late colonial counterinsurgency until global audiences refused to believe it. But imperial powers felt less need to defend the legal arrangements and security apparatus intrinsic to colonies’ violent liminal condition at other times. Instead, the everyday violence of colonialism was just that: a normative standard with supposedly structural causes rather than a massive agglomeration of civilian maltreatment./
+#+end_quote
+
+#+begin_quote
+  /Sometimes the actions of insurgents and counterinsurgents are better understood as a bargaining process in which those involved tried to secure additional inﬂuence over government. Temporary alliances and local deals cut across supposedly binary divides between imperial security forces and insurgents. From Malaya to Algeria, defance by rebels of a leadership ‘line’, oﬀers of money to fghters willing to surrender, and even changing sides were sufciently commonplace to be integrated into security force strategy. Viewed in this light, the job of colonial security forces was not to defeat insurgents outright but to restrict dissent to levels that enabled administration and economic activity to continue./
+#+end_quote
+
+#+begin_quote
+  /Patterns of protest in newly independent nations were remarkably similar in the decades after independence, with food riots, demonstrations by excluded ethnic minorities, and demands for the fulfllment of decolonization pledges predominating as causes of social unrest. At a deeper level, the distribution of political power in numerous former colonial dependencies could be characterized as variants of state capitalism. For all the leftist leanings of erstwhile anticolonial movements that took ofce after the withdrawal of European rulers, few governments in postcolonial nations sustained early commitments to redistribution. Many proved equally unwilling to invest in more social-democratic alternatives of a mixed economy built around a private sector whose growth would be encouraged by selective governmental support. Instead, the Cold War returned to Africa with a vengeance in the 1970s and 1980s, heightened superpower interventionism manifested in proxy wars and deteriorating standards of governance./
+#+end_quote
+
+#+begin_quote
+  /Anticolonialism makes sense as a unifying abstraction, an expression of opposition to something ethically indefensible, rather than as unswerving support for a particular national form. The idea that, one after another, colonies would become nations ignores the multiplicity of viewpoints and the alternatives in play. Imperial and nationalist conceptions of bounded sovereignty jarred with the pluralistic arrangements and local improvisations that had enabled empires to survive despite the weakness of their structures and the porousness of their borderlands. Transnational connections, cosmopolitan inﬂuences, and diﬀering layers of attachment to kin, community, faith, and locality were everywhere diferent, yet always the same in exposing the myth of nationalism triumphant./
+#+end_quote
+
+#+begin_quote
+  /Imperialist thinking shaped ideas about how sovereign statehood should be constituted and when independent nations should be recognized. Its traces were evident in everything from the constitutional plans of late colonial reformists and the calamities of partition to the developmental projects and human rights discourses promoted by supranational agencies and NGOs in the 1960s and beyond. The decolonizing world was assigned junior status within this global political geography, its elevation to full integration dependent on foreign-led modernization, capital investment, and technology transfer./
+#+end_quote
+
+
+
+* THE GREATEST SHOW ON EARTH
+** /Richard Dawkins/
+
+- Theory has two clashing definitions: system of statements considered as facts; and hypothesis yet to be conclusively proven. Evolution is a theory in the first sense of the word. However, the second sense is what theory is commonly defined as. This is used as ammo by anti-evolution crowd in discrediting the concept.
+- Facts are proven differently in science and in math. The process of proving in mathematics is much more rigorous and demonstrable.
+- Dawkins notes that the first dogs are self-domesticated wolves. As food source became stable, wolves became less risk-averse, having less tendency to flee while eating, and hence more tame.
+- Pleiotropy
+- There is more than sufficient evidence for evolution even without fossil record. The presence or absence of such is largely irrelevant to the theory of evolution. The discovery of fossil is mostly just a bonus, and gaps in the fossil record is not enough to disprove evolution.
+- This also means that absence of the so-called missing link between primates and humans is not a disproof of evolution. In fact, it's not necessary at all to prove evolution, which is already true with or without such a missing link.
+- There are so-called pseudogenes that don't do anything but still exist within the genetic makeup.
+- Flightless birds in New Zealand aren't flightless just because of lack of predator. In fact, the ancestors of moa are already flightless even before reaching new zealand when it was still part of Gondwana.
+- Dawkins contends that there isn't a plausible theory for the origin of life, and it's for the better that the subject remain a mystery. If such a highly plausible theory exists, then life in other planets should be more common.
+
+
+
+* THE INVENTION OF SCIENCE
+** /David Wootton/
+
+- The main thesis is that Scientific Revolution is defined by the similar revolution in language.
+- Scientific Revolution was less about ideas, and more about the experience.
+- The author seems to emphasize the relationship of language and science in the history of modern science.
+- Two critical factors to repudiating old theories on the shape of the earth:
+  - The discovery of the new world is sponsored by kings, so the issue has become a part of political realm, not just a philosophical debate.
+  - The discovery added *new* knowledge; old theories relied on interpretation of *old* knowledge and theories.
+- The scientific revolution involved the mathematization of nature. Perspective drawing, cartography, and ballistics were areas where mathematics found great practical use.
+- By the time Galileo started studying the heavens, telescopes have been in use by lots of people. What gave Galileo the edge is his constant tinkering to improve his telescope, especially its magnification.
+- While experimentation is not a new thing, what was new in the Scientific Revolution is the collaborative method of doing science. Various scientists kept constant communication with each other, and preformed experiments, published results, and others built on these previous works to improve on their own experiments.
+- Alchemy was defeated by open and public practice of science. Experiments have to be replicable, communicated in clear language. This was the opposite of alchemy, which insisted on secrecy and obscurity.
+
+#+begin_quote
+  /To a certain degree, if the world is orderly and predictable, it is because we have worked to make it so by developing technologies that give us control over nature. If we can model its processes, it is because we have developed our own capacities for making nature-like artefacts. It was therefore inevitable that the advocates of the experimental method in the seventeenth century would come to insist that the universe is like a clock, for clocks are embodiments of the principles of order, regularity and efficiency and, moreover, it is we who have made them. If we think of God as a clockmaker, then we can be confident that he will have made a world amenable to experimental enquiry. In the Middle Ages the heavens had been compared to clockwork; now the same principle of regularity was, it was claimed, to be discovered in the sublunary world./
+#+end_quote
+
+- The analogy of God as a clockmaker, and the universe as a clockwork, began in the 17th century.
+- It's interesting that such an analogy was even made, as clocks in the 17th century aren't very reliable.
+
+#+begin_quote
+  /The point about evidence is not that it was a natural type of argument to rely on, nor that it was a sort of argument that was obviously bound to be successful; the point is that relying on evidence just happened to work rather well./
+
+  /The intellectual apparatus of the new science – facts, experiments, theories, laws of nature, evidence – did not establish its worth by philosophical arguments; its success depended upon the fact that, in practice, it produced good results. There may be inhabited worlds in which no culture ever becomes evidence-based; and there could, for all we know, be universes in which looking for evidence simply doesn’t pay off – in which the sceptics not only win the arguments but have the facts on their side. Reality and the new science happened, in certain areas of physics, to dovetail quite neatly together. This was, in the end, good luck./
+#+end_quote
+
+#+begin_quote
+  /We do not just live with the technological benefits of science: the modern scientific way of thinking has become so much part of our culture that it has now become difficult to think our way back into a world where people did not speak of facts, hypotheses and theories, where knowledge was not grounded in evidence, where nature did not have laws. The Scientific Revolution has become almost invisible simply because it has been so astonishingly successful./
+#+end_quote
+
+
+
+* THE KING'S TWO BODIES
+** /Ernst Kantorowicz/
+
+#+begin_quote
+  /Mysticism, when transposed from the warm twilight of myth and fiction to the cold searchlight of fact and reason, has usually little left to recommend itself. Its language, unless resounding within its own magic or mystic circle, will often appear poor and even slightly foolish, and its most baffling metaphors and highflown images, when deprived of their iridescent wings, may easily resemble the pathetic and pitiful sight of Baudelaire's Albatross. Political mysticism in particular is exposed to the danger of losing its spell or becoming quite meaningless when taken out of its native surroundings, its time and its space./
+#+end_quote
+
+#+begin_quote
+  /Infinite cross-relations between Church and State, active in every century of the Middle Ages, produced hybrids in either camp. Mutual borrowings and exchanges of insignia, political symbols, prerogatives, and rights of honor had been carried on perpetually between the spiritual and secular leaders of Christian society. The pope adorned his tiara with a golden crown, donned the imperial purple, and was preceded by the imperial banners when riding in solemn procession through the streets of Rome. The emperor wore under his crown a mitre, donned the pontifical shoes and other clerical raiments, and received, like a bishop, the ring at his coronation. These borrowings affected, in the earlier Middle Ages, chiefly the ruling individuals, both spiritual and secular, until finally the/ sacerdotium /had an imperial appearance and the/
+regnum /a clerical touch./
+#+end_quote
+
+
+
+* THE SPIRIT OF EARLY CHRISTIAN THOUGHT
+** /Robert Louis Wilken/
+
+#+begin_quote
+  /Early Christian thought is biblical, and one of the lasting accomplishments of the patristic period was to forge a way of thinking, scriptural in language and inspiration, that gave to the church and to Western civilization a unified an coherent interpretation of the Bible as a whole. Needless to say, this means that any effort to mount an interpretation of the Bible that ignores its first readers is doomed to end up with a bouquet of fragments that are neither the book of the church nor the imaginative wellspring of Western literature, art, and music./
+#+end_quote
+
+- Author contends that early Christian thinkers, though influenced by Greco-Roman philosophy, nonetheless developed their own way of thinking. This uniquely Christian way of philosophy should be examined on its own merits, independently of its Aristotelian trappings.
+- Well, I didn't expect the book to be unabashedly Christian in bias haha. It's all good, though I would still have preferred a less overtly religious viewpoint.
+- Many of the early Christian thinkers were themselves bishops. Their writings, therefore, come from the context of a community that regularly worships God.
+- The Church fathers were very explicit in identifying the bread and wine as the /literal/ body and blood of Christ. Considering the author is a Lutheran, this is definitely an expected viewpoint to take.
+
+#+begin_quote
+  /Although tradition has to do with handing on practices, teachings, and institutional forms, human beings do the handing on. From the beginning Christians honored those who had given witness to what they had received, most notably the martyrs and holy men and women. Christian faith is inexcapably bound up with the lives and words of actual persons, for the truth of what was handed on rested finally on the faithfulness of the/ traditores, /those who did the handing on./
+#+end_quote
+
+#+begin_quote
+  /Only as the biblical texts on the Holy Spirit were read in the context of the church's life and worship did they disclose their meaning./
+#+end_quote
+
+- Jesus' "Agony in the Garden" became a significant point of contention in the 7th century. The debate on whether he has his own human will has ended in the confirmation that Jesus is God with two natures and two wills - divine and human.
+- Well, the author did start referring to later bishops of Rome as pope.
+- From the beginnings of Christianity, it has always been argued that faith and reason are incompatible. One counter argument is that, if this were the case, the back-and-forth between early Christian thinkers and pagan philosophers wouldn't have lasted for centuries, and wouldn't have taken the historical significance that it did.
+- Augustine argues that authority is a necessity in knowledge. Autonomous reason is unreliable, if not outirght improbable. Truth is not something that can be discovered alone, and is reliant on what others have witnessed and reasoned throughout history.
+
+#+begin_quote
+  /Authority invites belief and prepares man for a reason. Reason leads to understanding and knowledge. But reason is not entirely absent from authority, for we have to consider whom we are to believe./ - St. Augustine, /On True Religion/.
+#+end_quote
+
+#+begin_quote
+  /Christian thinking is inescapably bound to the witness of others. From those who have gone before we learn to use language in a distinctive way, to perceive the relation between seemingly disparate aspects of Christian teaching, to know what is peripheral and what is essential. Those who have gon before teach us how to use such words as God, Spirit, hope, grace, sin, forgiveness, and as we grow accustomed to using them we conform our lives and thoughts to those who have gone before. Memory is essential for Christian thinking, and like all memory it is particular and privileges certain moments and events in the Christian past, certain books and ideas, certain terms, and most of all certain persons. It begins with what has been received./
+#+end_quote
+
+#+begin_quote
+  /The more we strive for virtue and holiness, the more we discover refractory forces within ourselves that war against our best efforts. What stands in the way of a virtuous life is not what comes from outside, for example, the evils of society or the iniquity of fellow humans, but our own passions and turbulent desires. Even when we seem to achieve a measure of tranquility in our lives, we learn that virtue does not make us immune from pain and sorrow. Human life offers no lasting peace, whether peace among nations, peace within the city, peace in the home, or peace in the inner chambers of the soul. In this life perfect happiness is illusory./
+#+end_quote
+
+#+begin_quote
+  /Augustine's City of God defends a fundamental truth about human beings and about society. Only God can give ultimate purpose to our deepest convictions, for example, the dignity of the human person, and provide grounds for communal life that transcend self-interest. A society that denies or excludes the principle that makes human beings human, namely, that we are created to love and serve God, will be neither just, nor virtuous, nor peaceful./
+#+end_quote
+
+#+begin_quote
+  /Events take place in space as well as in time, and the events on which Christian faith is based happened not only at a particular time in history, but also at specific places. Where something happened is as significant as when it happened. There is no better way to fix and event or person in the mind than to visit the actual place where the event occurred or where the person lived./
+#+end_quote
+
+- In classical antiquity, and throughout the early Christian history, ethics is instructed and learned primarily through biographies. Learning by example is considered the best way to learn, especially for moral and ethical thinking, and early Christian thinkers emphasized that virtuous acts should be accompanied by equally virtuous reasons.
+- Four cardinal virtues: /prudentia, iustitia, temperantia, fortitudo/
+
+#+begin_quote
+  /The Christian intellectual tradition is an exercise in thinking about the God who is known and seeking the One who is loved. Lacking concepts in the mind and words on the tongue, we cannot speak about what we know, but if we do not love the God to whom these words lead, we do not understand./
+
+  /Christian thinking, like all thinking, requires questioning, interpretation, argument. But reason has short wings. Without love it is tethered to the earth./
+#+end_quote
+
+#+begin_quote
+  /The intellectual accomplishments of the early church would be much less compelling had Christian bishops not been trained in classical rhetoric and known how to use words effectively, to persuade and to inspire, and, not incidentally, to give pleasure to their readers./
+#+end_quote
+
+#+begin_quote
+  /The intellectual tradition that began in the early church was enriched by the philosophical breadth and exactitude of medieval thought. Each period in Christian history makes its own unique contribution to Christian life. The church fathers, however, set in place a foundation that has proven to be irreplaceable. Their writings are more than a stage in the development of Christian thought or an interesting chapter in the history of the interpretation of the Bible. Like an inexhaustible spring, faithful and true, they irrigate the Christian imagination with the life-giving water flowing from the biblical and spiritual sources of the faith. They are still our teachers today./
+#+end_quote
+
+
+
+* THE STRUCTURE OF SCIENTIFIC REVOLUTIONS
+** /Thomas Kuhn/
+
+#+begin_quote
+  /History, if viewed as a repository for more than anecdote or chronology, could produce a decisive transformation in the image of science by which we are now possessed. That image has  been drawn, even by scientists themselves, mainly from the study of finished scientific achievements as these are recorded in the classics and, more recently, in the textbooks from which each new scientific generation learns to practice its trade. Inevitably, however, the aim of such books is persuasive and pedagogic; a concept of science drawn from them is no more likely to fit the enterprise that produced them than an image of a national culture drawn from a tourist brochure or a language text./
+#+end_quote
+
+#+begin_quote
+  /If science is the constellation of facts, theories, and methods collected in current texts, then scientists are the men who, successfully or not, have striven to contribute one or another element to that particular constellation. Scientific development becomes the piecemeal process by which these items have been added, singly and in combination, to the ever growing stockpile that constitutes scientific technique and knowledge./
+#+end_quote
+
+- The author introduces the term *paradigm*, which describes scientific achievements that are (1) unprecedented, and (2) open-ended. This is very significant, as Thomas Kuhn is the one who popularized the term *paradigm shift*.
+
+#+being_quote
+  /To be accepted as a paradigm, a theory must seem better than its competitors, but it need not, and in fact never does, explain all the facts with which it can be confronted./
+#+end_quote
+
+- Normal science within specific fields generally deal with expanding and working within the prevailing paradigms, rather than proving / disproving, replicating, or even supplanting, such paradigms.
+- Three main problems tackled by normal science (in relation to paradigms): determination of significant facts; matching of facts with theory; articulation of theory.
+
+#+begin_quote
+  /A man may be attracted to science for all sorts of reasons. Among them are the desire to be useful, the excitement of exploring new territory, the hope of finding order, and the drive to test established knowledge. These motives and others besides also help to determine the particular problems that will later engage him. Furthermore, though the result is occasional frustration, there is good reason why motives like these should first attract him and then lead him on./
+#+end_quote
+
+#+begin_quote
+  /Rules, I suggest, derive from paradigms, but paradigms can guide research even in the absence of rules./
+#+end_quote
+
+- Paradigms can be established and firmly embedded within the respective fields, even without clear definitions of its particular characteristics.
+- Scientists learn their craft primarily through established knowledge, as well as practical experience. And in the case of experience, they get to closely work within and learn the paradigms without necessarily knowing explicit rules that underpin such paradigms.
+
+#+begin_quote
+  /Discovery commences with the awareness of anomaly, i.e., with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science. It then continues with a more or less extended exploration of the area of anomaly. And it closes only when the paradigm theory has been adjusted so that the anomalous has become the expected. Assimilating a new sort of fact demands a more than additive adjustment of theory, and until that adjustment is completed—until the scientist has learned to see nature in a different way—the new fact is not quite a scientific fact at all./
+#+end_quote
+
+#+begin_quote
+  /Philosophers of science have repeatedly demonstrated that more than one theoretical construction can always be placed upon a given collection of data. History of science indicates that, particularly in the early developmental stages of a new paradigm, it is not even very difficult to invent such alternates. But that invention of alternates is just what scientists seldom undertake except during the pre-paradigm stage of their science’s development and at very special occasions during its subsequent evolution. So long as the tools a paradigm supplies continue to prove capable of solving the problems it defines, science moves fastest and penetrates most deeply through confident employment of those tools. The reason is clear. As in manufacture so in science—retooling is an extravagance to be reserved for the occasion that demands it. The significance of crises is the indication they provide that an occasion for retooling has arrived./
+#+end_quote
+
+- Putting paradigms to the test does not mean outright rejecting them. When a new theory is put forward, the main goal is to attempt to reconcile it with existing paradigm. Only once it has been resonably proven that the new theory is a much better alternative can the prevailing paradigm be replaced. The displacement of the old paradigm and the establishment of a new one happen simultaneously; they cannot, by virtue of normal scientific processes, coexist.
+
+#+begin_quote
+  /Though history is unlikely to record their names, some men have undoubtedly been driven to desert science because of their inability to tolerate crisis. Though history is unlikely to record their names, some men have undoubtedly been driven to desert science because of their inability to tolerate crisis./
+
+  /Once a first paradigm through which to view nature has been found, there is no such thing as research in the absence of any paradigm. To reject one paradigm without simultaneously substituting another is to reject science itself. That act reflects not on the paradigm but on the man. Inevitably he will be seen by his colleagues as “the carpenter who blames his tools.”/
+#+end_quote
+
+#+begin_quote
+  /The transition from a paradigm in crisis to a new one from which a new tradition of normal science can emerge is far from a cumulative process, one achieved by an articulation or extension of the old paradigm. Rather it is a reconstruction of the field from new fundamentals, a reconstruction that changes some of the field’s most elementary theoretical generalizations as well as many of its paradigm methods and applications. During the transition period there will be a large but never complete overlap between the problems that can be solved by the old and by the new paradigm. But there will also be a decisive difference in the modes of solution. When the transition is complete, the profession will have changed its view of the field, its methods, and its goals/.
+#+end_quote
+
+#+begin_quote
+  /Confronted with anomaly or with crisis, scientists take a different attitude toward existing paradigms, and the nature of their research changes accordingly. The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research. It is upon their existence more than upon that of revolutions that the notion of normal science depends./
+#+end_quote
+
+#+begin_quote
+  /One aspect of the parallelism must already be apparent. Political revolutions are inaugurated by a growing sense, often restricted to a segment of the political community, that existing institutions have ceased adequately to meet the problems posed by an environment that they have in part created. In much the same way, scientific revolutions are inaugurated by a growing sense, again often restricted to a narrow subdivision of the scientific community, that an existing paradigm has
+ceased to function adequately in the exploration of an aspect of nature to which that paradigm itself had previously led the way. In both political and scientific development the sense of malfunction that can lead to crisis is prerequisite to revolution./
+#+end_quote
+
+- Author casts doubt on the idea that history of science is cumulative. Old theories don't just get superseded by better ones. Instead, old theories are completely replaced by new ones, because two paradigms cannot coexist, only one is correct.
+
+#+begin_quote
+  /If positivistic restrictions on the range of a theory’s legitimate applicability are taken literally, the mechanism that tells the scientific community what problems may lead to
+fundamental change must cease to function. And when that occurs, the community will inevitably return to something much like its pre-paradigm state, a condition in which all members practice science but in which their gross product scarcely resembles science at all. Is it really any wonder that the price of significant scientific advance is a commitment that runs the risk of being wrong?/
+#+end_quote
+
+#+begin_quote
+  /Science does not deal in all possible laboratory manipulations. Instead, it selects those relevant to the juxtaposition of a paradigm with the immediate experience that that paradigm has partially determined. As a result, scientists with different paradigms engage in different concrete laboratory manipulations./
+#+end_quote
+
+#+begin_quote
+  /Neither scientists nor laymen learn to see the world piecemeal or item by item. Except when all the conceptual and manipulative categories are prepared in advance—e.g., for the discovery of an additional transuranic element or for catching sight of a new house—both scientists and laymen sort out whole areas together from the flux of experience. The child who transfers the word ‘mama’ from all humans to all females and then to his mother is not just learning what ‘mama’ means or who his mother is. Simultaneously he is learning some of the differences between males and females as well as something about the ways in which all but one female will behave toward him. His reactions, expectations, and beliefs—indeed, much of his perceived world—change accordingly. By the same token, the Copernicans who denied its traditional title ‘planet’ to the sun were not only learning what ‘planet’ meant or what the sun was. Instead, they were changing the meaning of ‘planet’ so that it could continue to make useful distinctions in a world where all celestial bodies, not just the sun, were seen differently from the way they had been seen before./
+#+end_quote
+
+#+begin_quote
+  /The depreciation of historical fact is deeply, and probably functionally, ingrained in the ideology of the scientific profession, the same profession that places the highest of all values upon factual details of other sorts./
+#+end_quote
+
+- The author notes that history of science, compared with regular history, is very revisionist and intentionally obscures details of its part. History of science is portrayed as being linear and cumulative, and past mistakes and errors are omitted. Unlike regular history, which revels on revolutions, the story of scientific progress is constantly modified to render revolutions invisible, creating a sense of continuity and inevitability.
+
+#+begin_quote
+  /No theory ever solves all the puzzles with which it is confronted at a given time; nor are the solutions already achieved often perfect. On the contrary, it is just the incompleteness and imperfection of the existing data-theory fit that, at any time, define many of the puzzles that characterize normal science. If any and every failure to fit were ground for theory rejection, all theories ought to be rejected at all times./
+#+end_quote
+
+#+begin_quote
+  /The transfer of allegiance fom paradigm to paradigm is a conversion experience that cannot be forced. Lifelong resistance, particularly from those whose productive careers have committed them to an older tradition of normal science, is not a violation of scientific standards but an index to the nature of scientific research itself. The source of resistance is the assurance that the older paradigm will ultimately solve all its problems, that nature can be shoved into the box the paradigm provides. Inevitably, at times of revolution, that assurance sems stubborn and pigheaded as indeed it sometimes becomes. But it is also something more. That same assurance is what makes normal or puzzle-solving science possible. And it is only through  science that the professional community of scientists succeeds, first, in exploiting the potential scope and precision of the older paradigm and, then, in isolating the difficulty through the study of which a new paradigm may emerge./
+#+end_quote
+
+- Paradigms don't always prevail and triumph through scientific pursuit. In many cases, human connection is what ultimately gets the job done. This can be through persuasion with publications and lectures. But it could also be through personal communication, and at times even through just the force of reputation.
+- One significant factor for adoption of new paradigm is when it's able to solve the biggest problems of the old paradigm.
+- Another consideration for adopting the new paradigm is aesthetics or beauty. This now ties in with Hossenfelder's thesis, who rejects this mindset.
+
+#+begin_quote
+  /The early versions of most new paradigms are crude. By the time their full aesthetic appeal can be developed, most of the community has been persuaded by other means. Nevertheless, the importance of aesthetic considerations can sometimes be decisive. Though they often attract only a few scientists to a new theory, it is upon those few that its ultimate triumph may depend. If they had not quickly taken it up for highly individual reasons, the new candidate for paradigm might never have been sufficiently developed to attract the allegiance of the scientific community as a whole./
+#+end_quote
+
+#+begin_quote
+  /But paradigm debates are not really about relative problem-solving ability, though for good reasons they are usually couched in those terms. Instead, the issue is which paradigm should in the future guide research on problems many of which neither competitor can yet claim to resolve completely. A decision between alternate ways of practicing science is called for, and in the circumstances that decision must be based less on past achievement than on future promise. The man who embraces a new paradigm at an early stage must often do so in defiance of the evidence provided by problem-solving. He must, that is, have faith that the new paradigm will succeed with the many large problems that confront it, knowing only that the older paradigm has failed with a few. A decision of that kind can only be made on faith./
+#+end_quote
+
+- However science settles its paradigmatic conflicts, ultimately it rests on specialized communities rather than appeals to political and social authorities. Science is inherently self-selecting and way more insulated from external interference than other professional fields.
+- Towards the end of the book, Kuhn briefly notes that science as we know it is a product of Western Civilization, and that no other civilization has achieved the level of scientific pursuits that the West has done. West-centric, but not necessarily wrong given the time period the author lived in.
