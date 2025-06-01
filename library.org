@@ -4,19 +4,20 @@
 
 * [GENERAL]
 - Alphabetical
-- Created 26 May 2025
+- Org File
+  - Created 26 May 2025
+- Github Repository
+  - Created 29 May 2025
 - Useful Commands:
   - nearest heading: C-c C-u
   - previous heading: C-c C-b
   - next heading: C-c C-f
   - quote block: < q TAB
-  - nov mode line count: C-x l
 - Formatting:
   - three empty lines above each heading
   - one empty line each above and below a quote block
 - Future improvements:
   - table of contents
-  - version control
 
 
 
@@ -77,7 +78,7 @@
 
 
 * LOST IN MATH
-** /Sabine Hosenfelder/
+** /Sabine Hossenfelder/
 
 - Author argues that scientists - physicists specifically - should not let the concepts of beauty and aesthetics to dictate their theories
 - It's impossible to test all hypotheses, and some criteria have to be used to determine viability of each. Author contends that aesthetics as such a criteria isn't the way to go.
@@ -288,7 +289,7 @@ the Bretton Woods system poured money into the decolonizing countries, and promo
 #+end_quote
 
 #+begin_quote
-  /Sometimes the actions of insurgents and counterinsurgents are better understood as a bargaining process in which those involved tried to secure additional inﬂuence over government. Temporary alliances and local deals cut across supposedly binary divides between imperial security forces and insurgents. From Malaya to Algeria, defance by rebels of a leadership ‘line’, oﬀers of money to fghters willing to surrender, and even changing sides were sufciently commonplace to be integrated into security force strategy. Viewed in this light, the job of colonial security forces was not to defeat insurgents outright but to restrict dissent to levels that enabled administration and economic activity to continue./
+  /Sometimes the actions of insurgents and counterinsurgents are better understood as a bargaining process in which those involved tried to secure additional inﬂuence over government. Temporary alliances and local deals cut across supposedly binary divides between imperial security forces and insurgents. From Malaya to Algeria, defiance by rebels of a leadership ‘line’, oﬀers of money to fghters willing to surrender, and even changing sides were sufciently commonplace to be integrated into security force strategy. Viewed in this light, the job of colonial security forces was not to defeat insurgents outright but to restrict dissent to levels that enabled administration and economic activity to continue./
 #+end_quote
 
 #+begin_quote
@@ -363,6 +364,24 @@ the Bretton Woods system poured money into the decolonizing countries, and promo
 #+begin_quote
   /Infinite cross-relations between Church and State, active in every century of the Middle Ages, produced hybrids in either camp. Mutual borrowings and exchanges of insignia, political symbols, prerogatives, and rights of honor had been carried on perpetually between the spiritual and secular leaders of Christian society. The pope adorned his tiara with a golden crown, donned the imperial purple, and was preceded by the imperial banners when riding in solemn procession through the streets of Rome. The emperor wore under his crown a mitre, donned the pontifical shoes and other clerical raiments, and received, like a bishop, the ring at his coronation. These borrowings affected, in the earlier Middle Ages, chiefly the ruling individuals, both spiritual and secular, until finally the/ sacerdotium /had an imperial appearance and the/
 regnum /a clerical touch./
+#+end_quote
+
+#+begin_quote
+  /The implication of all this is not that the lawyers consciously borrowed from the acts of the early Councils, but that the fiction of the King’s Two Bodies produced interpretations and definitions which perforce would resemble those produced in view of the Two Natures of the God-man. Anyone familiar with the christological discussions of the early centuries of the Christian era will be struck by the similarity of speech and thought in the Inns of Court on the one hand, and in the early Church Councils on the other; also, by the faithfulness with which the English jurists applied, unconsciously rather than consciously, the current theological definitions to the defining of the nature of kingship. Taken all by itself, this transference of definitions from one sphere to another, from theology to law, is anything but surprising or even remarkable. The quid pro quo method—the taking over of theological notions for defining the state— been going on for many centuries, just as, vice versa, in the early centuries of the Christian era the imperial political terminology and the imperial ceremonial had been adapted to the needs of the Church./
+#+end_quote
+
+- In the context of bishops, the concept of /persona mixta/ is representation of the bishop as both a man of the Church and a vassal of the King.
+- The King was also treated as /persona mixta/, at least until it was formally repudiated by the Church. But at the time of the Norman Anonymous, the concept is still widely accepted.
+
+#+begin_quote
+  /With the King’s Two Bodies the doctrine of the persona mixta seems to have no direct relation. The duplication expressed by the concept of the persona mixta refers to temporal and spiritual capacities, but does not refer to bodies natural and politic. Or could it be that the king’s impersonal and immortal super-body appeared, during the earlier Middle Ages, in some way or the other, embedded in that very idea of his spiritual character resulting from the clericalization of the royal office? In fact, it is in that direction that the Norman Anonymous, one of  staunchest defenders of the spiritual essence of a Christ-like kingship, sends us, and we can do nothing better than to take his hint and follow his guidance./
+#+end_quote
+
+- The kings of the Old Testament were Christ's foreshadowers. After Christ, the kings now became imitations. But ultimately, the kings before and after Christ all bore the same dual identity, albeit imperfectly and by virtue of grace.
+- The Norman Anonymous took the concept of duality to a lot of extremities, even ascribing this /persona mixta/ to pagan Roman emperors.
+
+#+begin_quote
+  /Norman author’s vision of the king as a persona geminata is ontological and, as an effluence of a sacramental and liturgical action performed at the altar, it is liturgical as well. His vision is, on the whole, more closely related to the liturgy, to the holy action which itself is image and reality at the same time, than to the distinction of functional capacities and constitutional competencies, or to the concepts of office and dignity as opposed to man./
 #+end_quote
 
 
@@ -444,7 +463,7 @@ regnum /a clerical touch./
 
 - The author introduces the term *paradigm*, which describes scientific achievements that are (1) unprecedented, and (2) open-ended. This is very significant, as Thomas Kuhn is the one who popularized the term *paradigm shift*.
 
-#+being_quote
+#+begin_quote
   /To be accepted as a paradigm, a theory must seem better than its competitors, but it need not, and in fact never does, explain all the facts with which it can be confronted./
 #+end_quote
 
@@ -534,3 +553,35 @@ fundamental change must cease to function. And when that occurs, the community w
 
 - However science settles its paradigmatic conflicts, ultimately it rests on specialized communities rather than appeals to political and social authorities. Science is inherently self-selecting and way more insulated from external interference than other professional fields.
 - Towards the end of the book, Kuhn briefly notes that science as we know it is a product of Western Civilization, and that no other civilization has achieved the level of scientific pursuits that the West has done. West-centric, but not necessarily wrong given the time period the author lived in.
+
+
+
+* WAR AND PUNISHMENT
+** /H E Goemans/
+
+#+begin_quote
+  /Wars can end only when the minmum terms of settlement of both sides become compatible, when both are asking no more than the other side is willing to give up. Therefore, the fundamental cause of war termination is a change in the minimal demands, that is, the inumum terms of settlement of the combatants./
+#+end_quote
+
+#+begin_quote
+  /The main contribution of this book is the theoretical argument and empirical evidence that the decision to continue fighting or settle depends on the nature of the domestic political regime./
+#+end_quote
+
+- The author argues that semirepressive regimes with moderately exclusionary power dynamics have more to lose in a war loss, so they have the greatest incentive to continue fighting.
+- Democratic regimes can feel the brunt in a moderate war loss. Autocratic regimes can still suppress opposition in a moderate loss, but a more significant defeat can result in the regime's collapse.
+
+#+begin_quote
+  /Neither the terrible havoc wrought by the First World War nor tis place as a turning point in history is adequately explained by the events of July 1914. Consider the counterfactual: If the war had ended in November 1914, would this war have been considered as important? Would it even be referred to as "First World War"? To understand why so many people died, and why the war brought such important changes, we need to try to understand why the war lasted so long or, more precisely, why it continued./
+#+end_quote
+
+#+begin_quote
+  /Historians and political scientists doing historical research can easily fall prey to the subtle problem of selecting the depth of their historical research to fit their expectations. For example, if you cannot find evidence for something you strongly believe, you are easily tempted to argue you cannot find it because it is hidden, and you will keep digging until you find it. In contrast, if you were to immediately find evidence supporting your beliefs, you would be tempted to forsake deeper historical probing that could contradict your beliefs./
+#+end_quote
+
+#+begin_quote
+  /War breaks out because on eside demands more than the other is willing to concede, that is, because states have incompatible terms of settlement, and each side hopes to procure its demands through war. In other words, each side expects to do better by going to war than by conceding the opponent his demands. Such demands can vary from maintenance of the status quo to unconditional surrender and need not be explicit./
+#+end_quote
+
+#+begin_quote
+  /Because of the costs of war, the overall pie to be divided between belligerents after war is smaller than it was before the war. In other words, war is a/ negative /sum game. If both sides knew how the pie would be divided after the war, both would be better off if they divided the pie accordingly before the war. Although their share of the pie would be the same, they would be dividing a larger pie and would therefore gain in absolute terms. In other words, because fighting is inefficient ex post there should exist ex ante bargains that rational states would both prefer to war./
+#+end_quote
