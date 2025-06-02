@@ -585,3 +585,35 @@ fundamental change must cease to function. And when that occurs, the community w
 #+begin_quote
   /Because of the costs of war, the overall pie to be divided between belligerents after war is smaller than it was before the war. In other words, war is a/ negative /sum game. If both sides knew how the pie would be divided after the war, both would be better off if they divided the pie accordingly before the war. Although their share of the pie would be the same, they would be dividing a larger pie and would therefore gain in absolute terms. In other words, because fighting is inefficient ex post there should exist ex ante bargains that rational states would both prefer to war./
 #+end_quote
+
+- Ok I did not expect there to be actual data analysis and statistics in here lol. Though this feels like a show of how data science can be used for historical research, which is interesting for a book published in 2000.
+- In the data analysis, Marcos regime was tagged as mixed power that transitioned into dictatorship after moderate defeat in the Vietnam War. Uhm... okay. That's a weird way of looking at it, but okay.
+- The significance of this is that it would make him an exception in the author's thesis about mixed regimes suffering the most in a moderate defeat. In fact, the author tagged Marcos and South Korea's Park Chung-hee as the outliers for the group.
+- So the author started with this thesis, /then/ chose WW1 as primary case study - not the other way around. This is important context that I admittedly didn't realize early on - this isn't quite a WW1 book, as much as it's a general war studies book.
+- I was just thinking of how relevant this study would be on the ongoing Ukraine conflict. Sure enough, the author does have an article - sadly paywalled - about the war. And he seems to take view that - at least as of 2023 - it ight be still too early to try a peace deal, which at this point might be a bad route to take for Ukraine.
+
+#+begin_quote
+  /The need to reward the poeple for their sacrifices led Germany's leaders to formulate war aims to cover the costs of the war. The German regime knew that to stay in power they would have to buy off the domestic opposition after the war. The enormous costs of the war gave the regime only two options. They could buy off the people with real political concessions, specifically a reform of the Prussian franchise and the introduction of parliamentary government. Alternatively, they could buy off the people with the spoils of a victorious war. The German regime could not grant political concessions to the opposition without endangerng their own political survival. That left them only one possibility to buy off the opposition: gains at the expense of their external enemies, in other words, high war aims./
+#+end_quote
+
+#+begin_quote
+  /Precisely because the army was such an important institution in German politics, the elite made sure the army remained a bulwark of the old order and as such helped to exclude the domestic opposition from access to power./
+#+end_quote
+
+- page 93
+- By early 1917, the German leaders have grown ever more pessimistic of the outcome of the war. It's this pessimism that pushed them to go for the high risk strategy of unrestricted submarine warfare.
+- The infamous Zimmerman telegram was also a manifestation of such pessimism. They wouldn't have considered pulling in Mexico to their side if the German leadership was confident of their capability to win the war swiftly.
+
+#+begin_quote
+  /The crucial difference between the conservative elements and Bethmann Hollweg was that Bethmann believed that reforms would be necessary, even if Germany managed to "win" the war./
+#+end_quote
+
+#+begin_quote
+  /The crux of any political reforms dealt with Prussia's extraordinary position in the empire and specifically its electoral laws. Prussia's position in the Reich enabled the conservative Prussian forces to thwart any constitutional reforms and maintain a large measure of control over domestic society. Small wonder, then, that the arguments for political reforms centered around the Prussian electoral laws and parliamentary government./
+#+end_quote
+
+#+begin_quote
+  /Germany's increased territorial demands at the end of 1916, such as the additional land demanded from Poland, were intended to reward the populace in the form of land grants and settlements. Other demands, such as increased economic penetration of Poland and Austria-Hungary, the treaty of commerce with Russia, the exploitation of Belgian mineral resources, and compensations for German losses in other countries, were intended to prevent higher postwar taxes and, through a stronger economy, improved wages./
+#+end_quote
+
+- The author argued that Hindenburg's reputation was used as an insurance for their war aims. Hindenburg, though himself taking on extremist positions in  terms of war conduct and aims, is considered a competent leader across the political spectrum, not just among conservatives but also among the moderates. This meant that in the event Hindenburg has to endorse a "meager peace", his reputation alone would be enough to convince the populace to accept such outcome.
