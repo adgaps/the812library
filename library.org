@@ -34,13 +34,13 @@
 - The conclave that elected Pope Innocent VI tried to impose greater powers for the College of Cardinals, in expense of the pope's own powers. During his own papacy, Innocent VI repudiated this maneuver, but it will come back again later during the Great Western Schism.
 - In the wake of the Hundred Years' War, France was left destitute and overrun by mercenaries. These forces posed significant threat to Avignon papacy, and the Chuch had to forge alliances as well as bribe the mercenaries to keep the city safe.
 - Pope Urban V highly supported and encouraged intellectual pursuit for his subjects. He was also fastidious, and personally read and notated thousands of documents.
-- Urban V returned to Rome, but to maintain a stable administration, kept the Curia divided between Avignon and Rome. He later returned to Avignon, explaining that pacification of Italy and coninued chaos in France meant that he is more needed in avignon. He died in Avignon months after his return.
+- Urban V returned to Rome, but to maintain a stable administration, kept the Curia divided between Avignon and Rome. He later returned to Avignon, explaining that pacification of Italy and continued chaos in France meant that he is more needed in Avignon. He died in Avignon months after his return.
 
 #+begin_quote
   /Gregory did not halve the government of the Church as Urban V had done; he left it in place in Avignon, waiting to transfer the curia whole once he was safely settled in Rome. Gregory's decision demonstrates that he understood his place in the symbolic web of the papacy and the expectations attached to his person. Italians wanted to see the father of the Catholic Church, not the French curial bureaucratic machine behind him./
 #+end_quote
 
-- Gregory XI succeeded in returning the papacy to Rome, but at the cost of inciitng violent reaction from his enemies within the city.
+- Gregory XI succeeded in returning the papacy to Rome, but at the cost of inciting violent reaction from his enemies within the city.
 - Towards the final days of his life, Gregory XI drafted a new regulation amending conclave rules in dire situations, allowing the voting to start within the 9-day mourning period, and foregoing the two-thirds majority vote. These rules, however, were never enacted.
 
 #+begin_quote
@@ -48,7 +48,7 @@
 #+end_quote
 
 #+begin_quote
-  /Cardinals and other curialists showed a remarkable detachment toward Avignon and its people, and attitude perhaps revealing their sense of the unnatural and transitory character of the Avignon papacy./
+  /Cardinals and other curialists showed a remarkable detachment toward Avignon and its people, an attitude perhaps revealing their sense of the unnatural and transitory character of the Avignon papacy./
 #+end_quote
 
 - More than the popes, the cardinals were the prime examples of the extravagance and excesses of the Avignon papacy. The popes themselves admonished cardinals who flaunted ostentatious lifestyle, but the cardinals mostly just ignored the criticisms.
@@ -62,7 +62,7 @@
 #+end_quote
 
 #+begin_quote
-  /One of the lessons the Schism offers institutional historians is that two papal capitals could compete in advancing the legitimacy of their respective claimants and both be successful. Two papal courts could not only survive but flourish. If Rome and Avignon had not been thriving Christian cities, they would not have rivaled each other for papal supremacy for close to two generations without instigating major social upheavals. The Church's administration had been so well defined by the Avignon popes and was so innovative and efficient that it coul be cut in half and still function quite effectively./
+  /One of the lessons the Schism offers institutional historians is that two papal capitals could compete in advancing the legitimacy of their respective claimants and both be successful. Two papal courts could not only survive but flourish. If Rome and Avignon had not been thriving Christian cities, they would not have rivaled each other for papal supremacy for close to two generations without instigating major social upheavals. The Church's administration had been so well defined by the Avignon popes and was so innovative and efficient that it could be cut in half and still function quite effectively./
 #+end_quote
 
 - Author seems to take the view that the schism didn't significantly affect religiosity for most Christians. Otherwise, there would've been greater chaos and impetus to resolve the split.
@@ -278,10 +278,10 @@
 - Colonial mindset seeped through even in national branches of international organizations. the French Red Cross secretly refused to channel aid to Algerians.
 - Colonial technocrats imposed Western standards of development onto the colonies, without regard for local customs and practices. this is in line with the arguments presented in James Scott's Seeing Like a State.
 - Damages caused by large scale colonial development - especially environmental and agricultural damages - greatly amplified anticolonial sentiment
-the Bretton Woods system poured money into the decolonizing countries, and promoted global free trade, mostly to the advantage of richer countries.
+- The Bretton Woods system poured money into the decolonizing countries, and promoted global free trade, mostly to the advantage of richer countries.
 
 #+begin_quote
-  /Imperialism’s transcontinental presence lent opposition to empire, whether wholeheartedly anticolonial or not, an equally global character. From African American civil rights workers and other political campaigners within the Black Atlantic to medical humanitarians and civil society networks in the communist ‘Second World’ and on to refugee groups and student activists from Palestine to Vietnam, opposition to white supremacy, imperialism, and settler colonialism forged connections that gave decolonization a singular aspect as a global fght against the injustice intrinsic to colonialism./
+  /Imperialism’s transcontinental presence lent opposition to empire, whether wholeheartedly anticolonial or not, an equally global character. From African American civil rights workers and other political campaigners within the Black Atlantic to medical humanitarians and civil society networks in the communist ‘Second World’ and on to refugee groups and student activists from Palestine to Vietnam, opposition to white supremacy, imperialism, and settler colonialism forged connections that gave decolonization a singular aspect as a global fight against the injustice intrinsic to colonialism./
 #+end_quote
 
 #+begin_quote
@@ -339,8 +339,7 @@ the Bretton Woods system poured money into the decolonizing countries, and promo
   /To a certain degree, if the world is orderly and predictable, it is because we have worked to make it so by developing technologies that give us control over nature. If we can model its processes, it is because we have developed our own capacities for making nature-like artefacts. It was therefore inevitable that the advocates of the experimental method in the seventeenth century would come to insist that the universe is like a clock, for clocks are embodiments of the principles of order, regularity and efficiency and, moreover, it is we who have made them. If we think of God as a clockmaker, then we can be confident that he will have made a world amenable to experimental enquiry. In the Middle Ages the heavens had been compared to clockwork; now the same principle of regularity was, it was claimed, to be discovered in the sublunary world./
 #+end_quote
 
-- The analogy of God as a clockmaker, and the universe as a clockwork, began in the 17th century.
-- It's interesting that such an analogy was even made, as clocks in the 17th century aren't very reliable.
+- The analogy of God as a clockmaker, and the universe as a clockwork, began in the 17th century. It's interesting that such an analogy was even made, as clocks in the 17th century aren't very reliable.
 
 #+begin_quote
   /The point about evidence is not that it was a natural type of argument to rely on, nor that it was a sort of argument that was obviously bound to be successful; the point is that relying on evidence just happened to work rather well./
@@ -362,19 +361,18 @@ the Bretton Woods system poured money into the decolonizing countries, and promo
 #+end_quote
 
 #+begin_quote
-  /Infinite cross-relations between Church and State, active in every century of the Middle Ages, produced hybrids in either camp. Mutual borrowings and exchanges of insignia, political symbols, prerogatives, and rights of honor had been carried on perpetually between the spiritual and secular leaders of Christian society. The pope adorned his tiara with a golden crown, donned the imperial purple, and was preceded by the imperial banners when riding in solemn procession through the streets of Rome. The emperor wore under his crown a mitre, donned the pontifical shoes and other clerical raiments, and received, like a bishop, the ring at his coronation. These borrowings affected, in the earlier Middle Ages, chiefly the ruling individuals, both spiritual and secular, until finally the/ sacerdotium /had an imperial appearance and the/
-regnum /a clerical touch./
+  /Infinite cross-relations between Church and State, active in every century of the Middle Ages, produced hybrids in either camp. Mutual borrowings and exchanges of insignia, political symbols, prerogatives, and rights of honor had been carried on perpetually between the spiritual and secular leaders of Christian society. The pope adorned his tiara with a golden crown, donned the imperial purple, and was preceded by the imperial banners when riding in solemn procession through the streets of Rome. The emperor wore under his crown a mitre, donned the pontifical shoes and other clerical raiments, and received, like a bishop, the ring at his coronation. These borrowings affected, in the earlier Middle Ages, chiefly the ruling individuals, both spiritual and secular, until finally the/ sacerdotium /had an imperial appearance and the/ regnum /a clerical touch./
 #+end_quote
 
 #+begin_quote
-  /The implication of all this is not that the lawyers consciously borrowed from the acts of the early Councils, but that the fiction of the King’s Two Bodies produced interpretations and definitions which perforce would resemble those produced in view of the Two Natures of the God-man. Anyone familiar with the christological discussions of the early centuries of the Christian era will be struck by the similarity of speech and thought in the Inns of Court on the one hand, and in the early Church Councils on the other; also, by the faithfulness with which the English jurists applied, unconsciously rather than consciously, the current theological definitions to the defining of the nature of kingship. Taken all by itself, this transference of definitions from one sphere to another, from theology to law, is anything but surprising or even remarkable. The quid pro quo method—the taking over of theological notions for defining the state— been going on for many centuries, just as, vice versa, in the early centuries of the Christian era the imperial political terminology and the imperial ceremonial had been adapted to the needs of the Church./
+  /The implication of all this is not that the lawyers consciously borrowed from the acts of the early Councils, but that the fiction of the King’s Two Bodies produced interpretations and definitions which perforce would resemble those produced in view of the Two Natures of the God-man. Anyone familiar with the christological discussions of the early centuries of the Christian era will be struck by the similarity of speech and thought in the Inns of Court on the one hand, and in the early Church Councils on the other; also, by the faithfulness with which the English jurists applied, unconsciously rather than consciously, the current theological definitions to the defining of the nature of kingship. Taken all by itself, this transference of definitions from one sphere to another, from theology to law, is anything but surprising or even remarkable. The quid pro quo method—the taking over of theological notions for defining the state—has been going on for many centuries, just as, vice versa, in the early centuries of the Christian era the imperial political terminology and the imperial ceremonial had been adapted to the needs of the Church./
 #+end_quote
 
 - In the context of bishops, the concept of /persona mixta/ is representation of the bishop as both a man of the Church and a vassal of the King.
 - The King was also treated as /persona mixta/, at least until it was formally repudiated by the Church. But at the time of the Norman Anonymous, the concept is still widely accepted.
 
 #+begin_quote
-  /With the King’s Two Bodies the doctrine of the persona mixta seems to have no direct relation. The duplication expressed by the concept of the persona mixta refers to temporal and spiritual capacities, but does not refer to bodies natural and politic. Or could it be that the king’s impersonal and immortal super-body appeared, during the earlier Middle Ages, in some way or the other, embedded in that very idea of his spiritual character resulting from the clericalization of the royal office? In fact, it is in that direction that the Norman Anonymous, one of  staunchest defenders of the spiritual essence of a Christ-like kingship, sends us, and we can do nothing better than to take his hint and follow his guidance./
+  /With the King’s Two Bodies the doctrine of the persona mixta seems to have no direct relation. The duplication expressed by the concept of the persona mixta refers to temporal and spiritual capacities, but does not refer to bodies natural and politic. Or could it be that the king’s impersonal and immortal super-body appeared, during the earlier Middle Ages, in some way or the other, embedded in that very idea of his spiritual character resulting from the clericalization of the royal office? In fact, it is in that direction that the Norman Anonymous, one of staunchest defenders of the spiritual essence of a Christ-like kingship, sends us, and we can do nothing better than to take his hint and follow his guidance./
 #+end_quote
 
 - The kings of the Old Testament were Christ's foreshadowers. After Christ, the kings now became imitations. But ultimately, the kings before and after Christ all bore the same dual identity, albeit imperfectly and by virtue of grace.
@@ -416,7 +414,7 @@ regnum /a clerical touch./
 #+end_quote
 
 #+begin_quote
-  /Christian thinking is inescapably bound to the witness of others. From those who have gone before we learn to use language in a distinctive way, to perceive the relation between seemingly disparate aspects of Christian teaching, to know what is peripheral and what is essential. Those who have gon before teach us how to use such words as God, Spirit, hope, grace, sin, forgiveness, and as we grow accustomed to using them we conform our lives and thoughts to those who have gone before. Memory is essential for Christian thinking, and like all memory it is particular and privileges certain moments and events in the Christian past, certain books and ideas, certain terms, and most of all certain persons. It begins with what has been received./
+  /Christian thinking is inescapably bound to the witness of others. From those who have gone before we learn to use language in a distinctive way, to perceive the relation between seemingly disparate aspects of Christian teaching, to know what is peripheral and what is essential. Those who have gone before teach us how to use such words as God, Spirit, hope, grace, sin, forgiveness, and as we grow accustomed to using them we conform our lives and thoughts to those who have gone before. Memory is essential for Christian thinking, and like all memory it is particular and privileges certain moments and events in the Christian past, certain books and ideas, certain terms, and most of all certain persons. It begins with what has been received./
 #+end_quote
 
 #+begin_quote
@@ -454,14 +452,14 @@ regnum /a clerical touch./
 ** /Thomas Kuhn/
 
 #+begin_quote
-  /History, if viewed as a repository for more than anecdote or chronology, could produce a decisive transformation in the image of science by which we are now possessed. That image has  been drawn, even by scientists themselves, mainly from the study of finished scientific achievements as these are recorded in the classics and, more recently, in the textbooks from which each new scientific generation learns to practice its trade. Inevitably, however, the aim of such books is persuasive and pedagogic; a concept of science drawn from them is no more likely to fit the enterprise that produced them than an image of a national culture drawn from a tourist brochure or a language text./
+  /History, if viewed as a repository for more than anecdote or chronology, could produce a decisive transformation in the image of science by which we are now possessed. That image has been drawn, even by scientists themselves, mainly from the study of finished scientific achievements as these are recorded in the classics and, more recently, in the textbooks from which each new scientific generation learns to practice its trade. Inevitably, however, the aim of such books is persuasive and pedagogic; a concept of science drawn from them is no more likely to fit the enterprise that produced them than an image of a national culture drawn from a tourist brochure or a language text./
 #+end_quote
 
 #+begin_quote
   /If science is the constellation of facts, theories, and methods collected in current texts, then scientists are the men who, successfully or not, have striven to contribute one or another element to that particular constellation. Scientific development becomes the piecemeal process by which these items have been added, singly and in combination, to the ever growing stockpile that constitutes scientific technique and knowledge./
 #+end_quote
 
-- The author introduces the term *paradigm*, which describes scientific achievements that are (1) unprecedented, and (2) open-ended. This is very significant, as Thomas Kuhn is the one who popularized the term *paradigm shift*.
+- The author introduces the term *paradigm*, which describes scientific achievements that are (1) unprecedented, and (2) open-ended. This is very significant, as Thomas Kuhn is the one who popularized the term paradigm shift.
 
 #+begin_quote
   /To be accepted as a paradigm, a theory must seem better than its competitors, but it need not, and in fact never does, explain all the facts with which it can be confronted./
@@ -536,7 +534,7 @@ fundamental change must cease to function. And when that occurs, the community w
 #+end_quote
 
 #+begin_quote
-  /The transfer of allegiance fom paradigm to paradigm is a conversion experience that cannot be forced. Lifelong resistance, particularly from those whose productive careers have committed them to an older tradition of normal science, is not a violation of scientific standards but an index to the nature of scientific research itself. The source of resistance is the assurance that the older paradigm will ultimately solve all its problems, that nature can be shoved into the box the paradigm provides. Inevitably, at times of revolution, that assurance sems stubborn and pigheaded as indeed it sometimes becomes. But it is also something more. That same assurance is what makes normal or puzzle-solving science possible. And it is only through  science that the professional community of scientists succeeds, first, in exploiting the potential scope and precision of the older paradigm and, then, in isolating the difficulty through the study of which a new paradigm may emerge./
+  /The transfer of allegiance fom paradigm to paradigm is a conversion experience that cannot be forced. Lifelong resistance, particularly from those whose productive careers have committed them to an older tradition of normal science, is not a violation of scientific standards but an index to the nature of scientific research itself. The source of resistance is the assurance that the older paradigm will ultimately solve all its problems, that nature can be shoved into the box the paradigm provides. Inevitably, at times of revolution, that assurance sems stubborn and pigheaded as indeed it sometimes becomes. But it is also something more. That same assurance is what makes normal or puzzle-solving science possible. And it is only through science that the professional community of scientists succeeds, first, in exploiting the potential scope and precision of the older paradigm and, then, in isolating the difficulty through the study of which a new paradigm may emerge./
 #+end_quote
 
 - Paradigms don't always prevail and triumph through scientific pursuit. In many cases, human connection is what ultimately gets the job done. This can be through persuasion with publications and lectures. But it could also be through personal communication, and at times even through just the force of reputation.
@@ -560,7 +558,7 @@ fundamental change must cease to function. And when that occurs, the community w
 ** /H E Goemans/
 
 #+begin_quote
-  /Wars can end only when the minmum terms of settlement of both sides become compatible, when both are asking no more than the other side is willing to give up. Therefore, the fundamental cause of war termination is a change in the minimal demands, that is, the inumum terms of settlement of the combatants./
+  /Wars can end only when the minmum terms of settlement of both sides become compatible, when both are asking no more than the other side is willing to give up. Therefore, the fundamental cause of war termination is a change in the minimal demands, that is, the minimum terms of settlement of the combatants./
 #+end_quote
 
 #+begin_quote
@@ -571,7 +569,7 @@ fundamental change must cease to function. And when that occurs, the community w
 - Democratic regimes can feel the brunt in a moderate war loss. Autocratic regimes can still suppress opposition in a moderate loss, but a more significant defeat can result in the regime's collapse.
 
 #+begin_quote
-  /Neither the terrible havoc wrought by the First World War nor tis place as a turning point in history is adequately explained by the events of July 1914. Consider the counterfactual: If the war had ended in November 1914, would this war have been considered as important? Would it even be referred to as "First World War"? To understand why so many people died, and why the war brought such important changes, we need to try to understand why the war lasted so long or, more precisely, why it continued./
+  /Neither the terrible havoc wrought by the First World War nor its place as a turning point in history is adequately explained by the events of July 1914. Consider the counterfactual: If the war had ended in November 1914, would this war have been considered as important? Would it even be referred to as "First World War"? To understand why so many people died, and why the war brought such important changes, we need to try to understand why the war lasted so long or, more precisely, why it continued./
 #+end_quote
 
 #+begin_quote
@@ -579,7 +577,7 @@ fundamental change must cease to function. And when that occurs, the community w
 #+end_quote
 
 #+begin_quote
-  /War breaks out because on eside demands more than the other is willing to concede, that is, because states have incompatible terms of settlement, and each side hopes to procure its demands through war. In other words, each side expects to do better by going to war than by conceding the opponent his demands. Such demands can vary from maintenance of the status quo to unconditional surrender and need not be explicit./
+  /War breaks out because one side demands more than the other is willing to concede, that is, because states have incompatible terms of settlement, and each side hopes to procure its demands through war. In other words, each side expects to do better by going to war than by conceding the opponent his demands. Such demands can vary from maintenance of the status quo to unconditional surrender and need not be explicit./
 #+end_quote
 
 #+begin_quote
@@ -617,3 +615,57 @@ fundamental change must cease to function. And when that occurs, the community w
 #+end_quote
 
 - The author argued that Hindenburg's reputation was used as an insurance for their war aims. Hindenburg, though himself taking on extremist positions in  terms of war conduct and aims, is considered a competent leader across the political spectrum, not just among conservatives but also among the moderates. This meant that in the event Hindenburg has to endorse a "meager peace", his reputation alone would be enough to convince the populace to accept such outcome.
+- Russia is classified as mixed regime. It's authoritarian in theory, but by the beginning of the 20th century Imperial Russia has become an inefficient police state, unable to effectively stave off widespread opposition at times.
+- Even before the war, Russian leadership was aware that they have slim chances of suppressing a peasant revolution. As war went on, they increased war aims as a way to capture popular support, to no avail. By 1916, it was clear that war defeat would result in a revolution that topples the Trarist regime, and they will be unable to prevent such a scenario.
+- Third Republic political makeup is kinda similar in the Philippines today lol. Politicians switch alliances when convenient, and there's a ton or parties in the Parliament, making it a very pluralistic system. The stability of the Third Republic is that successive Cabinets featured the same set of personalities over and over.
+
+#+begin_quote
+  /Compared to Germany, there was little reason to fear a socialist revolution in France. Not only was the existing nonexclusionary structure willing to co-opt individual socialists and socialist ideas, the basis of socialist support was also much weaker./
+
+  /In general, pressure groups were much weaker and less important players in France than in either Germany or Britain, adn as a result, political cleavages did not harden into solid social blocs./
+#+end_quote
+
+#+begin_quote
+  /The pronounced democratic nature of prewar French politics and the democratic slack in the policy-making process prevented a zero-sum view of domestic politics among the great majority of Frenchmen. No group was systematically excluded from power or feared that a loss on one particular issue would spell their irrevocable demise. Each group could hope to win on some (other) important issues in the future. As a result, the Third Republic was relatively stable and in no immediate danger of overthrow from either left or right./
+#+end_quote
+
+- 1917 French Prime Ministers: Briand, Ribot, Painleve, Clemenceau
+- 1917 French Army Commanders: Nivelle, Petain
+
+#+begin_quote
+  /There hardly can be any doubt that the mutinies presented French leaders with some unpleasant new information: French relative strength and cost tolerance were lower than they had previously estimated. The French army was simply not willing to lose so much blood for so few expected gains./
+
+  /In the period between May-June and November 1917, a deep feeling of depression spread over France. With the repeated promises that victory was near and that the next offensive would be the last now totally discredited, the French populace became unwilling to bear quietly any longer the privations imposed by the war./
+#+end_quote
+
+- By early 1918, the French public actually has more information about an impending German offensive than the Geman populace themselves.
+- Overall, throughout the war the French government was more worried about international consequences rather than domestic ones. France was more concerned with the balance of powers in Europe and beyond, and less on how the people themselves would react to either victory or defeat.
+- Initial French war aims included the return of Alsace-Lorraine's 1790 borders. As war went on, and as pessimism crept in, the demand was revised down to 1870 Alsace-Lorraine, which had substantially smaller portion of the Saar coalfields.
+- Author countered the argument that Alsace-Lorraine was used to buy off the populace and prevent popular unrest. The author argued that there was no major popular pressure from any sector to recover the region. Or rather, the French government did not feel significant threat of overthrow due to an inability to take Alsace-Lorraine. The region's primary significance is strategic and economic, and pressure from below did not affect such considerations.
+
+#+begin_quote
+  /In France neither the opposition from the right, mainly supporters of the army and the Church, nor the socialist opposition from the left posed a real threat to the survival of the French regime. It is not surprising, then, that war aims never became a central issue in the domestic political struggle. Demands for rewards for the sacrifices imposed by the war could be met by relatively minor domestic political concessions./
+#+end_quote
+
+- Another proof that the French government did not face threat of domestic revolution is that none of the Prime Ministers throughout the war sought to stay in power. In fact, there have been five such Prime Ministers during the conflict, from varying parties, and in any case any attempt to perpetuate in power would have been checked by the Senate and the Chamber of Deputies.
+- British Empire is tagged as Democracy. While suffrage is far from universal - it's only for men who own property - the populace is generally well represented in Parliament. And unlike in Germany, British Parliament has actual policy-making powers.
+
+#+begin_quote
+  /In essence, and especially with regard to foreign policy, the King could take no position that had not been previously agreed upon or that was not in harmony with the policy of his government. Indeed, sovereignty lay not with the King but with Parliament, a tradition that can be traced back as far as 1641./
+#+end_quote
+
+#+begin_quote
+  /British war aims were formulated to contain not just the Central Powers but also Britain's wartime allies. This dynamic was a crucial factor in the government's reluctance to discuss its war aims in the first place and helped keep those aims vague./
+#+end_quote
+
+- Britain wanted to maximize American participation to their advantage by pursuing amalgamation: keep the American forces plenty enough to cover manpower shortages, but small enough that the US cannot have greater influence in possible postwar bargaining. The author then notes that at one point in late 1917, Britain has little problem bringing in 500k American troops to Europe when necessity came up.
+- The British government proved willing to make domestic concessions to aid the conduct of war. In particular, mass conscription was supplemented with universal suffrage and large scale social welfare programs that extended beyond the war.
+- Britain was very concerned about international consequences of the war, and their status as a great power. The British are afraid of Germany being vindicated for violating Belgian neutrality, and its precedence for further German imperial designs in Europe. But also, the British were fearful that Russia's victory over the Ottoman Empire would be a major threat to the British Raj, while also throwing off the balance of power in the Mediterranean.
+
+#+begin_quote
+  /Ludendorff preferred to fight on in an almost hopeless cause, even to lose the war, rather than to reform the Prussian franchise. In sharp contrast, Britain's leaders were willing to more than double the franchise because they never feared such concessions would mean the irrevocable overthrow of the old system. Although the reform could result in a redistribution of the political power among the major parties, no party or leader would have to fear a/ permanent /loss of power./
+#+end_quote
+
+#+begin_quote
+  /It is striking to note how the British were willing to offer the very thing the German leaders wanted to avoid at all costs: a far-reaching reform of the franchise. This willingness to offer concessions, seen in combination with Britain's prewar political difficulties, clearly shows that it is indeed regime type and not the presence or absence of prewar crises that caused the different reactions to unfavorable new information of Germany and Britian. While Germany increased its war aims to cover the costs of war, Britain lowered its war aims./
+#+end_quote
