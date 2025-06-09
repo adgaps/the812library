@@ -82,7 +82,7 @@
 ** /David Stevenson/
 
 #+begin_quote
-  /the First World War took on characteristics that made it emblematic of other modern wars, extending through the twentieth century and beyond. It visited horrific new experiences on the combatants and forced unprecedented mobilization on their home fronts. As well as being a disaster in its own right it became the precondition for further disasters, including the Second World War, whose casualties numbered millions more. It compelled the creation of new social coping mechanisms in the face of mass death, mutilation, and bereavement, and yet in many regions of the world its legacies fuel bloodshed to this day. Finally, it was a cataclysm of a special kind, a man-made catastrophe produced by political acts, and as such can still a century later both raise powerful emotions and prompt disturbing questions as a portent. Its victims died neither from an unseen virus nor from mechanical failure and individual fallibility. They owed their fate to deliberate state policy, decided on by governments that repeatedly rejected alternatives to violence and commanded not merely acquiescence but also active support from millions of their peoples. Contemporaries on both sides at once hated the slaughter and yet felt unable to disengage from it, embroiled in a tragedy in the classical sense of a conflict between right and right./
+  /The First World War took on characteristics that made it emblematic of other modern wars, extending through the twentieth century and beyond. It visited horrific new experiences on the combatants and forced unprecedented mobilization on their home fronts. As well as being a disaster in its own right it became the precondition for further disasters, including the Second World War, whose casualties numbered millions more. It compelled the creation of new social coping mechanisms in the face of mass death, mutilation, and bereavement, and yet in many regions of the world its legacies fuel bloodshed to this day. Finally, it was a cataclysm of a special kind, a man-made catastrophe produced by political acts, and as such can still a century later both raise powerful emotions and prompt disturbing questions as a portent. Its victims died neither from an unseen virus nor from mechanical failure and individual fallibility. They owed their fate to deliberate state policy, decided on by governments that repeatedly rejected alternatives to violence and commanded not merely acquiescence but also active support from millions of their peoples. Contemporaries on both sides at once hated the slaughter and yet felt unable to disengage from it, embroiled in a tragedy in the classical sense of a conflict between right and right./
 #+end_quote
 
 
@@ -462,7 +462,7 @@
 ** /Robert Bartlett/
 
 #+begin_quote
-  /Europe if both a region and an idea./
+  /Europe is both a region and an idea./
 #+end_quote
 
 #+begin_quote
@@ -649,7 +649,7 @@ fundamental change must cease to function. And when that occurs, the community w
 ** /H E Goemans/
 
 #+begin_quote
-  /Wars can end only when the minmum terms of settlement of both sides become compatible, when both are asking no more than the other side is willing to give up. Therefore, the fundamental cause of war termination is a change in the minimal demands, that is, the minimum terms of settlement of the combatants./
+  /Wars can end only when the minimum terms of settlement of both sides become compatible, when both are asking no more than the other side is willing to give up. Therefore, the fundamental cause of war termination is a change in the minimal demands, that is, the minimum terms of settlement of the combatants./
 #+end_quote
 
 #+begin_quote

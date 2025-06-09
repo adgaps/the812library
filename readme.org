@@ -3,7 +3,7 @@
 
 * LIBRARY
 
-This is the public repository for my various reading notes. Despite being publicly available, this document serves solely my own needs. These notes are rough, messy, maybe even inaccurate.
+This is the public repository for my various reading notes. Despite being publicly available, this document serves solely my own needs. These notes are rough, messy, maybe a bit less accurate than desired.
 
 I do not have any pretensions as to the value anyone else may find for this, and I do not intend to build this with other people's audience in mind. I do not even fully understood some of these stuff I read, and I admit to that.
 
@@ -12,18 +12,22 @@ In any case, if you are curious and wish to make sense of this ever growing org 
 
 * GUIDE
 
-Books are organized alphabetically. These are a mix of stuff I've read since 2017, when I started keeping track of my books. Books and notes are constantly added, as I consolidate both past and recent notes I've made across various media and note taking apps.
+I mainly read history books, so that's what most of these books will be about. Some of my most read topics include: the First World War; the Middle Ages; and history of Christianity, among others.
 
-I mainly read history books, so that's what most of these books will be about.
+Books are organized alphabetically. These are a mix of stuff I've read since 2017, when I started keeping track of my books. Books and notes are constantly added, as I consolidate both past and recent notes I've made across various media and note taking apps.
 
 These notes were taken as I read through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
 
-Some books are heavily noted, some aren't. I'm not very consistent about these, and there are also personal circumstances that could've affected my note taking routine; if I'm on a moving train, obviously I wouldn't have pulled out my pen and notebook to jot down a bunch of words.
+Some books are heavily noted, some aren't. I'm not very consistent about these, and there are also personal circumstances that could've affected my note taking routine.
+
+Many minor errors and typos may take time to be corrected, or for such corrections to be pushed to commit.
 
 
 * FUTURE
 
-As I build this library, I will think of other "features" I can add to make this easier for me to peruse.
+As I build this library, I will think of other "features" I can add to make this easier for me to peruse. A persistent Table of Contents would be nice. Splitting library.org into multiple files is not ruled out, but I don't seriously consider it at the moment.
+
+I am not in a hurry to implement anything, however.
 
 
 **CREATION DATE: 26 MAY 2025**
