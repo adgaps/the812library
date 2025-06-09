@@ -16,6 +16,7 @@
 - Formatting:
   - three empty lines above each heading
   - one empty line each above and below a quote block
+  - em dash: —
 - Future improvements:
   - table of contents
 
@@ -73,6 +74,15 @@
 
 #+begin_quote
   /The Avignon popes were certainly no more venal nor less worthy to claim the papal office than their predecessors and successors. As southwestern Frenchmen, their mental apparatus and reflexes were not that different from their contemporaries; venality and nepotism were rampant among all members of the high society. The popes simply acted like men of their times./
+#+end_quote
+
+
+
+* CATACLYSM
+** /David Stevenson/
+
+#+begin_quote
+  /the First World War took on characteristics that made it emblematic of other modern wars, extending through the twentieth century and beyond. It visited horrific new experiences on the combatants and forced unprecedented mobilization on their home fronts. As well as being a disaster in its own right it became the precondition for further disasters, including the Second World War, whose casualties numbered millions more. It compelled the creation of new social coping mechanisms in the face of mass death, mutilation, and bereavement, and yet in many regions of the world its legacies fuel bloodshed to this day. Finally, it was a cataclysm of a special kind, a man-made catastrophe produced by political acts, and as such can still a century later both raise powerful emotions and prompt disturbing questions as a portent. Its victims died neither from an unseen virus nor from mechanical failure and individual fallibility. They owed their fate to deliberate state policy, decided on by governments that repeatedly rejected alternatives to violence and commanded not merely acquiescence but also active support from millions of their peoples. Contemporaries on both sides at once hated the slaughter and yet felt unable to disengage from it, embroiled in a tragedy in the classical sense of a conflict between right and right./
 #+end_quote
 
 
@@ -306,6 +316,70 @@
 
 
 
+* THE FIRST WORLD WAR
+** /John Keegan/
+
+#+begin_quote
+  /The First World War inaugurated the manufacture of mass death that the Second brought to a pitiless consummation./
+#+end_quote
+
+#+begin_quote
+  /The First, unlike the Second World War, saw no systematic displacement of populations, no deliberate starvation, no expropriation, little massacre or atrocity. It was, despite the efforts by state propaganda machines to prove otherwise, and the cruelties of the battlefield apart, a curiously civilised war./
+
+  /Yet it damaged civilisation, the rational and liberal civilisation of the European enlightenment, permanently for the worse and, through the damage done, world civilisation also. Pre-war Europe, imperial though it was in its relations with most of the world beyond the continent, offered respect to the principles of constitutionalism, the rule of law and representative government. Post-war Europe rapidly relinquished nconfidence in such principles./
+#+end_quote
+
+- Author considers the Armenian genocide to have been more closely related to the Ottoman Imperial system than to the greater context of the First World War.
+- Totalitarianism, in its modern concept tied to the word, is a product of the Great War.
+- Despite the greater interdependence between nations on the eve of the Great War, there's actually no strong international body or alliance that could actually enforce it or even mediate in times of crisis.
+
+#+begin_quote
+  /There was, admittedly, a fear of war in the abstract, but it was as vague as the perception of what form modern war itself might take. Stronger by far, particularly among the political classes in every major country, was the fear of the consequences of failure to face the challenge of war itself. Each – Britain, France, Germany, Russia, Austria-Hungary – felt its position threatened in some way or other./
+#+end_quote
+
+#+begin_quote
+  /When issues of potential conflict arose, as they did over the first (1905) and second (1911) Moroccan crises in Franco-German relations, turning on German resentment of the extension of French influence in North Africa, and over the First (1912) and Second (1913) Balkan Wars, the results of which disfavoured Austria, Germany’s ally, the great powers involved made no effort to invoke the Hague provision for international arbitration but settled affairs, as was traditional, by ad hoc international treaty. Peace, temporarily at least, was in each case the outcome; the ideal of supranational peacemaking, towards which the Hague Conference had pointed the way, was in no case invoked./
+#+end_quote
+
+#+begin_quote
+  /Staff colleges, like industrial and commercial schools, were a creation of the nineteenth century. Napoleon’s subordinates had learnt their business from their elders and as they went along. Their practical mastery persuaded their competitors that expertise must be systematised./
+#+end_quote
+
+- The meteorological term 'belt' that refers to atmospheric pressure is derived from military strategy planning during the First World War.
+
+#+begin_quote
+  /All European armies in 1904 had long-laid military plans, notable in most cases for their inflexibility. None was integrated with what today would be called a ‘national security policy’, made in conclave between politicians, diplomats, intelligence directors and service chiefs, and designed to serve a country’s vital interests, for such a concept of national leadership did not then exist. Military plans were held to be military secrets in the strictest sense, secret to the planners alone, scarcely communicable in peacetime to civilian heads of government, often not from one service to another./
+#+end_quote
+
+#+begin_quote
+  /The ‘Schlieffen Plan’, so-called after its architect, was the most important government document written in any country in the first decade of the twentieth century; it might be argued that it was to prove the most important official document of the last hundred years, for what it caused to ensue on the field of battle, the hopes it inspired, the hopes it dashed, were to have consequences that persist to this day./
+#+end_quote
+
+- The Schlieffen Plan, ambitious and well-crafted as it was, ultimately remained deeply flawed until its implementation. Until the end of his life, Schlieffen agonized with how to transport all the troops needed for a lightning victory, in a short period of time, within the cramped space between northern France and Germany.
+- Author notes that full details of Serbian govenrment's involvement in the assassination of Archduke Franz Ferdinand II is not established. I think The Sleepwalkers does show how closely connected it is. Nevertheless, Austria-Hungary let its inherent suspicion (or hatred) of Serbia to frame its judgment on how to respond.
+- The author is of the opinion that had Austria-Hungary retaliated immediately, the rest of Europe would have tolerated it at the minimum. The argument hinges on an immediate attack not being reliant on Germany's tacit support, which would've triggered certain alliances and treaties.
+
+#+begin_quote
+  /Information arrived fitfully, sometimes much, sometimes little, but was always incomplete. There was no way of correlating and displaying it, as there is in modern crisis management centres. Even had there been, it is not certain that the crisis of 1914 would have been managed any better than it was. Modern communication systems may overload those who seek to be informed through them, so consuming time necessary for thought; underload, in 1914, consumed time as men puzzled to fill in the gaps between the facts they had. Time, in all crises, is usually the ingredient missing to make a solution. It is best supplied by an agreement on a pause./
+#+end_quote
+
+#+begin_quote
+  /Today there are mechanisms to hand designed to negotiate pause: regional security councils, the United Nations. In 1914 there were none. Any pause would have to be arranged by men of goodwill./
+#+end_quote
+
+#+begin_quote
+  /Statesmen were filled with foreboding by the coming of war but its declaration was greeted with enormous popular enthusiasm in the capitals of all combatant countries. Crowds thronged the streets, shouting, cheering and singing patriotic songs./
+#+end_quote
+
+#+begin_quote
+  /Any intervention by the British or French, though necessitating resistance, would be benevolent. It would not threaten Belgian independence in either the long or even short term. A German intervention, by contrast, would have as its object not only the pre-emption of Belgian territory for a wider aggression but quite possibly the requisition of Belgian resources for the German war effort, and the subjection of Belgium to German military government for the duration of hostilities./
+#+end_quote
+
+- In the wake of German Army's destruction of Louvain, and its subsequent condemnation by academics and intellectuals worldwide, 93 German intellectual figures penned a manifesto defending the German conduct and affirming support for the war. Some signatories include Planck, Roentgen, von Harnack (the Biblical scholar), and the original composer named Engelbert Humperdinck.
+- Joffre is described here as "imperturbable", a description that I would often encounter referring specifically to Joffre in a few other WW1 books.
+
+
+
 * THE GREATEST SHOW ON EARTH
 ** /Richard Dawkins/
 
@@ -381,6 +455,23 @@
 #+begin_quote
   /Norman author’s vision of the king as a persona geminata is ontological and, as an effluence of a sacramental and liturgical action performed at the altar, it is liturgical as well. His vision is, on the whole, more closely related to the liturgy, to the holy action which itself is image and reality at the same time, than to the distinction of functional capacities and constitutional competencies, or to the concepts of office and dignity as opposed to man./
 #+end_quote
+
+
+
+* THE MAKING OF EUROPE
+** /Robert Bartlett/
+
+#+begin_quote
+  /Europe if both a region and an idea./
+#+end_quote
+
+#+begin_quote
+  /This book approaches the history of Europe in the High Middle Ages from one particular perspective, by concentrating on conquest, colonization and associated cultural change in Europe and the Mediterranean in the period 950–1350./
+
+  /The theme is not only colonial conquest and immigration, the moving edge, but also the foundation of an expansive and increasingly homogeneous society – ‘the Making of Europe’./
+#+end_quote
+
+- A good way of measuring growth of Latin Europe is through the bishoprics.
 
 
 
@@ -588,17 +679,16 @@ fundamental change must cease to function. And when that occurs, the community w
 - In the data analysis, Marcos regime was tagged as mixed power that transitioned into dictatorship after moderate defeat in the Vietnam War. Uhm... okay. That's a weird way of looking at it, but okay.
 - The significance of this is that it would make him an exception in the author's thesis about mixed regimes suffering the most in a moderate defeat. In fact, the author tagged Marcos and South Korea's Park Chung-hee as the outliers for the group.
 - So the author started with this thesis, /then/ chose WW1 as primary case study - not the other way around. This is important context that I admittedly didn't realize early on - this isn't quite a WW1 book, as much as it's a general war studies book.
-- I was just thinking of how relevant this study would be on the ongoing Ukraine conflict. Sure enough, the author does have an article - sadly paywalled - about the war. And he seems to take view that - at least as of 2023 - it ight be still too early to try a peace deal, which at this point might be a bad route to take for Ukraine.
+- I was just thinking of how relevant this study would be on the ongoing Ukraine conflict. Sure enough, the author does have an article - sadly paywalled - about the war. And he seems to take view that - at least as of 2023 - it might be still too early to try a peace deal, which at this point might be a bad route to take for Ukraine.
 
 #+begin_quote
-  /The need to reward the poeple for their sacrifices led Germany's leaders to formulate war aims to cover the costs of the war. The German regime knew that to stay in power they would have to buy off the domestic opposition after the war. The enormous costs of the war gave the regime only two options. They could buy off the people with real political concessions, specifically a reform of the Prussian franchise and the introduction of parliamentary government. Alternatively, they could buy off the people with the spoils of a victorious war. The German regime could not grant political concessions to the opposition without endangerng their own political survival. That left them only one possibility to buy off the opposition: gains at the expense of their external enemies, in other words, high war aims./
+  /The need to reward the people for their sacrifices led Germany's leaders to formulate war aims to cover the costs of the war. The German regime knew that to stay in power they would have to buy off the domestic opposition after the war. The enormous costs of the war gave the regime only two options. They could buy off the people with real political concessions, specifically a reform of the Prussian franchise and the introduction of parliamentary government. Alternatively, they could buy off the people with the spoils of a victorious war. The German regime could not grant political concessions to the opposition without endangerng their own political survival. That left them only one possibility to buy off the opposition: gains at the expense of their external enemies, in other words, high war aims./
 #+end_quote
 
 #+begin_quote
   /Precisely because the army was such an important institution in German politics, the elite made sure the army remained a bulwark of the old order and as such helped to exclude the domestic opposition from access to power./
 #+end_quote
 
-- page 93
 - By early 1917, the German leaders have grown ever more pessimistic of the outcome of the war. It's this pessimism that pushed them to go for the high risk strategy of unrestricted submarine warfare.
 - The infamous Zimmerman telegram was also a manifestation of such pessimism. They wouldn't have considered pulling in Mexico to their side if the German leadership was confident of their capability to win the war swiftly.
 
@@ -638,7 +728,7 @@ fundamental change must cease to function. And when that occurs, the community w
   /In the period between May-June and November 1917, a deep feeling of depression spread over France. With the repeated promises that victory was near and that the next offensive would be the last now totally discredited, the French populace became unwilling to bear quietly any longer the privations imposed by the war./
 #+end_quote
 
-- By early 1918, the French public actually has more information about an impending German offensive than the Geman populace themselves.
+- By early 1918, the French public actually has more information about an vimpending German offensive than the Geman populace themselves.
 - Overall, throughout the war the French government was more worried about international consequences rather than domestic ones. France was more concerned with the balance of powers in Europe and beyond, and less on how the people themselves would react to either victory or defeat.
 - Initial French war aims included the return of Alsace-Lorraine's 1790 borders. As war went on, and as pessimism crept in, the demand was revised down to 1870 Alsace-Lorraine, which had substantially smaller portion of the Saar coalfields.
 - Author countered the argument that Alsace-Lorraine was used to buy off the populace and prevent popular unrest. The author argued that there was no major popular pressure from any sector to recover the region. Or rather, the French government did not feel significant threat of overthrow due to an inability to take Alsace-Lorraine. The region's primary significance is strategic and economic, and pressure from below did not affect such considerations.
@@ -667,5 +757,40 @@ fundamental change must cease to function. And when that occurs, the community w
 #+end_quote
 
 #+begin_quote
-  /It is striking to note how the British were willing to offer the very thing the German leaders wanted to avoid at all costs: a far-reaching reform of the franchise. This willingness to offer concessions, seen in combination with Britain's prewar political difficulties, clearly shows that it is indeed regime type and not the presence or absence of prewar crises that caused the different reactions to unfavorable new information of Germany and Britian. While Germany increased its war aims to cover the costs of war, Britain lowered its war aims./
+  /It is striking to note how the British were willing to offer the very thing the German leaders wanted to avoid at all costs: a far-reaching reform of the franchise. This willingness to offer concessions, seen in combination with Britain's prewar political difficulties, clearly shows that it is indeed regime type and not the presence or absence of prewar crises that caused the different reactions to unfavorable new information of Germany and Britain. While Germany increased its war aims to cover the costs of war, Britain lowered its war aims./
+#+end_quote
+
+- Lenin knew that Russian Army has become too weak to fight, and continuing the war will inevitably result in massive Russian defeat and collpase of the newly-established Soviet state. He instead banked on a future reversal of fortunes.
+- For their part, Germany could've extracted more favorable terms from Brest-Litovsk. They chose not to, and tried to settle the treaty sooner. This is because they desperately need to transfer a vast amount of troops to the Western Front, and pressing for more demands will just further delay the mobilization plans.
+- On the other hand, Germany did not try to offer peace with the Western Allies because they need the higher war aims to cover the costs of war and buy off domestic opposition. Ludendorff has also already been planning new offensives on the West at the time of Brest-Litovsk, and he wanted to make the gamble that the offensive could give Germany a victory and better position to bargain.
+
+#+begin_quote
+  /The pressures from the individual states and the industrialists to maintain the domestic political balance of power were largely responsible for the leadership's continued insistence on high war aims in the west and, therefore, for the decision to launch an offensive in the spring of 1918./
+#+end_quote
+
+#+begin_quote
+  /The unfavorable new information on the last days of September forced the German leadership to draw two unpleasant conclusions. First, defeat in the war was now inevitable. Second, with Bulgaria's armistice and Austria-Hungary's appeal for peace, the people would realize that defeat was now inevitable and that a continuation of the war served only the ends of the old regime./
+#+end_quote
+
+#+begin_quote
+  /A bargaining space was finally created in October and November because the German regime realized the war was inevitbaly lost. No more high-variance strategies could conceivably save them. The only way now to avoid severe domestic punishment was to make peace as soon a spossible and institute domestic political reforms through a revolution from above in order to "save what could be saved." France, Britain, and the United States meanwhile increased their demands but stopped (just barely) short of asking for unconditional surrender—even though the Germans would have accepted—because of intra-alliance pressures and fears the others would gain most from continued was while they would have to pay most of the costs./
+#+end_quote
+
+#+begin_quote
+  /The armistice agreement was finally signed at 5:10 in the morning. Because the agreement specified that the fighting would come to a halt six hours after it was signed, someone moved the big hand of the clock back ten minutes to 5:00. The First World War finally ended at eleven in the morning, on the eleventh day of the eleventh month of the year./
+#+end_quote
+
+#+begin_quote
+  /In the armistice negotiations the Germans asked only to keep five thousand more machine guns than Foch had demanded—to use on their own people and fight off the revolution./
+#+end_quote
+
+- In the conclusion, the author explicitly states that he puts the war blame on Germany, and that the regime's mixed form is what caused them to continue fighting despite the prevailing conditions.
+
+
+
+* WORLDMAKING IN THE LONG GREAT WAR
+** /Jonathan Wyrtzen/
+
+#+begin_quote
+  /The conventional 1914–1918 World War I bracket is limited by two entwined biases that distort our overall understanding of the conflict and warp it in specific ways with respect to the Middle East. The first is a bias toward a judicial definition of wartime that is bookended by the dates of formal declarations, armistices, and treaties carried out by recognized state actors. Using this shorthand occludes complicated realities of continuing violence and political fluidity that extend beyond those dates. The second bias is a myopic privileging of the beginning and ending of hostilities in a single theater of the war to periodize the whole of the conflict. In this case, fixating on the Western Front diverts attention from what was happening in the conflict’s other interconnected maritime and overland theaters, minimizing the true interregional scope of World War I./
 #+end_quote
