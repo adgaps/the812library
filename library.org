@@ -8,17 +8,20 @@
   - Created 26 May 2025
 - Github Repository
   - Created 29 May 2025
-- Useful Commands:
+- Useful Commands
+  - all headings: C-c C-j
   - nearest heading: C-c C-u
   - previous heading: C-c C-b
   - next heading: C-c C-f
   - quote block: < q TAB
-- Formatting:
-  - three empty lines above each heading
+  - uppercase: M-u
+  - lowercase: M-l
+  - capitalize: M-c
+  - select entire buffer: M-x h
+- Formatting
+  - three empty lines above each section heading
   - one empty line each above and below a quote block
   - em dash: —
-- Future improvements:
-  - table of contents
 
 
 
@@ -84,6 +87,18 @@
 #+begin_quote
   /The First World War took on characteristics that made it emblematic of other modern wars, extending through the twentieth century and beyond. It visited horrific new experiences on the combatants and forced unprecedented mobilization on their home fronts. As well as being a disaster in its own right it became the precondition for further disasters, including the Second World War, whose casualties numbered millions more. It compelled the creation of new social coping mechanisms in the face of mass death, mutilation, and bereavement, and yet in many regions of the world its legacies fuel bloodshed to this day. Finally, it was a cataclysm of a special kind, a man-made catastrophe produced by political acts, and as such can still a century later both raise powerful emotions and prompt disturbing questions as a portent. Its victims died neither from an unseen virus nor from mechanical failure and individual fallibility. They owed their fate to deliberate state policy, decided on by governments that repeatedly rejected alternatives to violence and commanded not merely acquiescence but also active support from millions of their peoples. Contemporaries on both sides at once hated the slaughter and yet felt unable to disengage from it, embroiled in a tragedy in the classical sense of a conflict between right and right./
 #+end_quote
+
+#+begin_quote
+  /The conventions and rituals of warfare were familiar parts of Europe’s life, and the memory of previous conflicts integral to its culture. Until the eighteenth century it had known few years in which none of its great powers were engaged in fighting. Only since then had the modern pattern emerged of  decades of peace punctuated by successively more total wars. Peace – even in the simple sense of the absence of killing – was a modern phenomenon, and Europe had never known anything comparable to the great peace that ended in 1914./
+#+end_quote
+
+#+begin_quote
+  /Although in summer 1914 international tension was acute, a general war was not inevitable and if one had not broken out then it might not have done so at all. It was the Habsburg monarchy’s response to Sarajevo that caused a crisis./
+#+end_quote
+
+- The author thinks that while Austria-Hungary's response to the ultimatum was what caused the war, their grievances towards Serbia were not wholly unjustified, and has some strong reasons to be suspicious of the kingdom.
+- On the eve of the War, both Germans and Magyars combined accounted for less than half of Austria-Hungary's population.
+- While there was a general sense that Austria-Hungary needs internal reform, prior to the War the empire is fairly stable and united, and that it has certainly weathered more desperate times than 1914.
 
 
 
@@ -378,6 +393,10 @@
 - In the wake of German Army's destruction of Louvain, and its subsequent condemnation by academics and intellectuals worldwide, 93 German intellectual figures penned a manifesto defending the German conduct and affirming support for the war. Some signatories include Planck, Roentgen, von Harnack (the Biblical scholar), and the original composer named Engelbert Humperdinck.
 - Joffre is described here as "imperturbable", a description that I would often encounter referring specifically to Joffre in a few other WW1 books.
 
+#+begin_quote
+  /At the outset, the advantage lay with the attackers, as long as they could preserve a measure of secrecy, a diminishing possibility as the war prolonged and defenders learnt how greatly survival depended upon surveillance and alertness. Almost as soon as the attackers entered the enemy’s positions, however, the advantage tended to move towards the defenders, who knew the ground, which the attackers did not, had prepared fall-back positions, and were retreating towards their own artillery along, if lucky, intact telephone lines. The attackers found themselves in exactly the opposite situation, moving into unknown and confusing surroundings, and away from their supporting artillery the further they advanced, thus progressively losing contact with it as telephone lines were broken or left behind. Then, when the defenders counter-attacked, the advantage reversed. The attackers had familiarised themselves with the ground taken, organised its defences, to their advantage but the enemy’s confusion, and re-established telephonic communication with their artillery. In this see-saw, functional and structural weaknesses disfavoured first one side, then the other, to the eventual frustration of all effort to break through to open country or break back to the original line of defence. The physical product of offence and counter-offence was an ever thicker and more confused trench line, resembling a layer of scar tissue, picked at and irritated, over the site of an unsuccessful surgical operation./
+#+end_quote
+
 
 
 * THE GREATEST SHOW ON EARTH
@@ -472,6 +491,71 @@
 #+end_quote
 
 - A good way of measuring growth of Latin Europe is through the bishoprics.
+
+#+begin_quote
+  /Latin Christendom consisted of those churches worshipping in Latin and according to a rite approved by the papacy, usually the Roman rite. One of the striking features of the western Church is, in fact, its insistence on the dominance of one liturgical language and one cultic form. There are a few dubious or borderline cases, where special circumstances allowed other languages or rites within the Roman obedience, but these were few in number and diminished over time./
+#+end_quote
+
+- The Christians in Europe increasingly referred to themselves as the Latin Christians, adn their world is the Latin Christendom.
+
+#+begin_quote
+  /'Latin’ was a name which adherents of the Latin rite and Roman obedience applied to themselves, but it is hard to credit the Latin liturgy itself with expansionary power. Indeed, one aspect of the expansion we are discussing seems to be the imposition of that liturgy on Christian regions of divergent tradition by the papacy and other interested groups; and if the spread of the liturgy is conceived of as a consequence of the expansionary movement, it is hard also to have it as a cause./
+#+end_quote
+
+#+begin_quote
+  /The mere existence of the institution is not enough to account for the rise of the papal monarchy. The papacy is best seen as an enterprising and initiatory institution, but one that made its greatest mark by taking advantage of changes in the world around it. The great popes of the eleventh, twelfth and thirteenth centuries did indeed have a consciously pursued goal of ‘extending the bounds of the Church’, but they did so in a world where dynamic growth of a material kind was already afoot./
+#+end_quote
+
+#+begin_quote
+  /Mere adherence to the Latin liturgy and obedience to Rome were not enough to qualify for full inclusion in the ecclesia, that is, in society. As the men of Frankish Europe intruded upon societies around and unlike their own, they found both non-Christians (in eastern Europe and the Mediterranean lands) and local variants of Christianity (notably in the Celtic countries). Their response was to equate the two, if the Christian societies did not have the social and legal characteristics with which they were familiar. The expansion of the High Middle Ages was a matter not simply of Latin Christendom growing, but of the territorial growth of a certain kind of society. It tended to describe itself as Roman and Christian, but also recognized the Celtic lands as alien to it. By the eleventh century ‘Latin Christendom’ can be used to designate not merely a rite or an obedience but a society./
+#+end_quote
+
+- The High Middle Ages was a period of aristocratic diaspora. Many gained and settled in new territories through the crusades. But some also expanded through marriage and alliances.
+
+#+begin_quote
+  /One measure of the importance of the expansion of Frankish aristocrats in the High Middle Ages is their role in providing ruling dynasties for Europe. Just as the minor princes of Germany would later provide a useful fund of kings for the new nationalist monarchies of the nineteenth century, so the great families of medieval France sent out offspring to sit on distant thrones./
+#+end_quote
+
+- Military vassals are easy to get. But land is much scarcer. This scracity can be seen as a factor for aristocratic diaspora, as the nobility searched for lands to possess.
+
+#+begin_quote
+  /The more land one had, the more knights one could enfeoff, and the more knights one had, the easier it was to conquer new lands./
+#+end_quote
+
+- Feudalism grew out of this aristocratic expansionism. Newcomers build their fiefdom, provide privileges to their knightly retinues, and recruit locals to tend the lands.
+- The language of feudalism is mainly loan words, since the system was imposed by immigrant nobilities and knights unto the native population.
+
+#+begin_quote
+  /Levels of hostility between incomer and native obviously varied
+according to the circumstances of the intrusion and the pre-existing
+cultural differences between the two groups. The barrier between
+Christian and non-Christian was normally unbridgeable, but the survival
+of Muslim aristocracies in some places shows that extermination was
+not the only path. The intrusive aristocracies of the High Middle Ages
+had differing relationships with and attitudes to indigenous peoples and
+cultures and could turn out to be an alien and conquering élite, an élite
+monopolizing power but receptive to native culture or a group mingling
+with native aristocrats./
+#+end_quote
+
+#+begin_quote
+  /The heavy horsemen of the Middle Ages lived in the wheat age but looked like men of the steel age./
+#+end_quote
+
+- Above quote may be lfited form other sources, have to check later.
+- Heavy cavalry is basically the military elite of the High Middle Ages. The horses and equipment are expensive.
+
+#+begin_quote
+  /There had been fortifications in Europe for millennia and they had taken many different forms. No one set of criteria will differentiate absolutely sharply the fortresses of the early Middle Ages from the castles of the High Middle Ages. There will always be areas of ambiguity and overlap. Nevertheless, if we are content with a characterization of the difference that covers most cases, we can say that the castles which covered Europe in the tenth to twelfth centuries were distinguished by two features – they were small and they were high./
+#+end_quote
+
+#+begin_quote
+  /The most distinctive physical feature of castles, their height, was in part a consequence of their size. They were not intended to oppose truly massive earth ramparts to the attacker. They were not places of refuge for whole communities and hence did not have large reserves of manpower for defence. Castles were intended to be defensible by a few and the way to ensure this was to make them small but high. The height gave them both inaccessibility and dominance of their surroundings. Inside a castle, a garrison was hard to get at but could also command everything within sight./
+#+end_quote
+
+- Improved fortifications through castles was matched by improvements in siege warfare, namely the development of siege machinery like catapults and trebuchets.
+- Military techniques spread through 3 ways: conquest; imitation; and planned development.
+
 
 
 
