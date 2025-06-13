@@ -99,13 +99,39 @@
 - The author thinks that while Austria-Hungary's response to the ultimatum was what caused the war, their grievances towards Serbia were not wholly unjustified, and has some strong reasons to be suspicious of the kingdom.
 - On the eve of the War, both Germans and Magyars combined accounted for less than half of Austria-Hungary's population.
 - While there was a general sense that Austria-Hungary needs internal reform, prior to the War the empire is fairly stable and united, and that it has certainly weathered more desperate times than 1914.
+- Germany may be to blame for starting the war, but it wasn't a premeditated policy either. Germany in 1914 may be ruled by the unstable Wilhelm II, but in general the empire isn't a political outlier or pariah, and isn't aggressively hostile to other European powers.
+
+#+begin_quote
+  /In the decade from 1897 to 1908 Wilhelm intervened frequently in policy-making and he always exerted considerable influence over diplomacy and in military and naval matters. Yet this influence was erratic. Wilhelm was intelligent and open-minded but was also a restless and neurotic poseur who spent much of his reign sailing and hunting, and his officials found ways to work round him. All the same, he was Germany’s public face. Although at times of crisis he mostly showed caution, he created the impression that his government was aggressive and militaristic (which normally it was not) and capricious and unpredictable (which it certainly was). His presence for more than a quarter of a century on the throne of such a powerful country grievously undermined European stability./
+#+end_quote
+
+#+begin_quote
+  /By 1914 the crises, the arms race, and Berlin’s encirclement phobia had taken on a mutually reinforcing momentum. Both blocs were consolidating and were more likely to hold firm in the next test: Russia and France had rearmed sufficiently to proceed more boldly while Germany and Austria-Hungary foresaw the balance tipping further against them. The recurrent confrontations impelled statesmen to consider fighting as an alternative to endless scares and threats./
+#+end_quote
+
+- Russia did not actively support Serbia in its conflicts in the years prior to 1914, e.g. in the Balkan Wars. However, Russia deemed it necessary to intervene in 1914 because their influence in the Balkans could deteriorate if Austria-Hungary gets their way. Russia also deemed that it's ready for such a war, despite their ongoing rearmament plans not having met its goal yet.
+- Instead of waiting for Serbia's response to the ultimatum, Russia immediately went on pre-mobilization process. This arguably forced other country's hands, as Austria-Hungary also immediately mobilized on the day the ultimatum was rejected, on 28 July.
+
+#+begin_quote
+  /Across the continent the feeling in the countryside and in small towns – where most units would come from and where most Europeans still lived – was more apprehensive and depressed than in the capital cities. Among intellectuals, although many were exhilarated by manifestations of national unity and welcomed the war as an opportunity for cleansing and regeneration, others viewed it with horror and disgust as a scarcely credible reversion to the primitive. These reactions failed to translate themselves, however, into effective resistance./
+
+  /Whatever the foreboding with which Europeans went to war, little force was needed to make them go. The mass conscription and reservist training systems developed over a generation had taught those mobilized what to do, and the spread of literacy, a national press, and festivals such as Bastille Day in France and Sedan Day in Germany had strengthened the sense of national community./
+#+end_quote
+
+#+begin_quote
+  /For war to happen governments on both sides had to declare it and to set their military machines in motion. The European peace might have been a house of cards, but someone still had to topple it. It used to be argued that 1914 was a classic instance of a war begun through accident and error: that no statesmen wanted it but all were overborne by events. This view is now untenable./
+#+end_quote
+
+#+begin_quote
+  /Once two heavily armed and highly industrialized coalitions comparable strength engaged each other with modern military technology the outcome, almost at once, would be a prodigiously costly stalemate that propelled the European governments and their hapless peoples into a bleak and cruel new world./
+#+end_quote
 
 
 
 * LOST IN MATH
 ** /Sabine Hossenfelder/
 
-- Author argues that scientists - physicists specifically - should not let the concepts of beauty and aesthetics to dictate their theories
+- Author argues that scientists - physicists specifically - should not let the concepts of beauty and aesthetics to dictate their theories.
 - It's impossible to test all hypotheses, and some criteria have to be used to determine viability of each. Author contends that aesthetics as such a criteria isn't the way to go.
 - Math is most useful as representation of reality. Math is used to formulate theories, and when tested and proved true, it suffices even if the result isn't directly observable.
 - The problem with Schrodinger's cat is that the question looks at the state of the cat upon opening the box. The actual mystery that should be solved is what the cat's state /before/ opening the box. This illustrates the underlying problem of quantum mechanics.
@@ -397,6 +423,23 @@
   /At the outset, the advantage lay with the attackers, as long as they could preserve a measure of secrecy, a diminishing possibility as the war prolonged and defenders learnt how greatly survival depended upon surveillance and alertness. Almost as soon as the attackers entered the enemy’s positions, however, the advantage tended to move towards the defenders, who knew the ground, which the attackers did not, had prepared fall-back positions, and were retreating towards their own artillery along, if lucky, intact telephone lines. The attackers found themselves in exactly the opposite situation, moving into unknown and confusing surroundings, and away from their supporting artillery the further they advanced, thus progressively losing contact with it as telephone lines were broken or left behind. Then, when the defenders counter-attacked, the advantage reversed. The attackers had familiarised themselves with the ground taken, organised its defences, to their advantage but the enemy’s confusion, and re-established telephonic communication with their artillery. In this see-saw, functional and structural weaknesses disfavoured first one side, then the other, to the eventual frustration of all effort to break through to open country or break back to the original line of defence. The physical product of offence and counter-offence was an ever thicker and more confused trench line, resembling a layer of scar tissue, picked at and irritated, over the site of an unsuccessful surgical operation./
 #+end_quote
 
+#+begin_quote
+  /The generalship of the First World War is one of the most contested issues of its historiography. Good generals and bad generals abound in the war’s telling and so do critics and champions of this man or that among the ranks of its historians./
+#+end_quote
+
+#+begin_quote
+  /It is difficult today not to sympathise with the condemnations, worse or better informed as they have been, of the generals of the First World War. In no way – appearances, attitude, spoken pronouncement, written legacy – do they commend themselves to modern opinion or emotion. The impassive expressions that stare back at us from contemporary photographs do not speak of consciences or feelings troubled by the slaughter over which those men presided, nor do the circumstances in which they chose to live: the distant chateau, the well-polished entourage, the glittering motor cars, the cavalry escorts, the regular routine, the heavy dinners, the uninterrupted hours of sleep. Joffre’s two-hour lunch, Hindenburg’s ten-hour night, Haig’s therapeutic daily equitation along roads sanded lest his horse slip, the Stavka’s diet of champagne and court gossip, seem and were a world away from the cold rations, wet boots, sodden uniforms, flooded trenches, ruined billets and plague of lice on, in and among which, in winter at least, their subordinates lived./
+#+end_quote
+
+- Three counterarguments to criticism of First World War generals:
+  - Contrary to popular belief, the generals were themselves exposed to danger from time to time. In fact, dozens of generals were killed during the War.
+  - A headquarters far from the battlefield is much better as vantage point for commanding the vast armies of the War.
+  - Communications systems in the First World War were slow and inefficient, and dependent on infrastructure directly on the line of fire, hence dangerous to set up and maintain.
+
+#+begin_quote
+  /Most of the accusations laid against the generals of the Great War – incompetence and incomprehension foremost among them – may therefore be seen to be misplaced. The generals, once those truly incompetent, uncomprehending and physically or emotionally unfit had been discarded, which they were at the outset, came in the main to understand the war’s nature and to apply solutions as rational as was possible within the means to hand. Robbed of the ability to communicate once action was joined, they sought to overcome the obstacles and accidents that would inevitably arise in the unfolding of battle by ever more elaborate anticipation and predisposition. Plans were drawn which laid down minute-by-minute manoeuvre by the infantry and almost yard-by-yard concentration of artillery fire, in an attempt not so much to determine as to predestine the outcome. The attempt was, of course, vain. Nothing in human affairs is predestinable, least of all in an exchange of energy as fluid and dynamic as a battle. While battle-altering resources – reliable armoured, cross-country vehicles, portable two-way radio – lay beyond their grasp (and they did so, tantalisingly, only in a development time to be measured in a few years), the generals were trapped within the iron fetters of a technology all too adequate for mass destruction of life but quite inadequate to restore to them the flexibilities of control that would have kept destruction of life within bearable limits./
+#+end_quote
+
 
 
 * THE GREATEST SHOW ON EARTH
@@ -417,6 +460,23 @@
 * THE INVENTION OF SCIENCE
 ** /David Wootton/
 
+#+begin_quote
+  /Modern science was invented between 1572, when Tycho Brahe saw a nova, or new star, and 1704, when Newton published his Opticks, which demonstrated that white light is made up of light of all the colours of the rainbow, that you can split it into its component colours with a prism, and that colour inheres in light, not in objects. There were systems of knowledge we call ‘sciences’ before 1572, but the only one which functioned remotely like a modern science, in that it had sophisticated theories based on a substantial body of evidence and could make reliable predictions, was astronomy, and it was astronomy that was transformed in the years after 1572 into the first true science. What made astronomy in the years after 1572 a science? It had a research programme, a community of experts, and it was prepared to question every long-established certainty (that there can be no change in the heavens, that all movement in the heavens is circular, that the heavens consist of crystalline spheres) in the light of new evidence. Where astronomy led, other new sciences followed./
+#+end_quote
+
+#+begin_quote
+  /Those who accept Darwin’s theory of evolution can have no patience with a Biblical chronology which places the creation of the world 6,000 years ago, but what we may term historical humankind (humans who have left written records behind them), as opposed to archaeological humankind (humans who have left only artefacts behind them), has existed only for about that length of time, some 300 generations./
+#+end_quote
+
+#+begin_quote
+  /The nova of 1572 was not the cause of the Scientific Revolution, any more than the bullet which killed Archduke Franz Ferdinand on 28 June 1914 was the cause of the First World War. Nevertheless, the nova marks, quite precisely, the beginning of the Revolution, as the death of the archduke marks the beginning of the war. For the Aristotelian philosophy of nature could not be adapted to incorporate this peculiar anomaly; if there could be such a thing as a new star, then the whole system was founded on false premises./
+#+end_quote
+
+#+begin_quote
+  /But since 1572 the world has been caught up in a vast Scientific Revolution that has transformed the nature of knowledge and the capacities of humankind. Without it there would have been no Industrial Revolution and none of the modern technologies on which we depend; human life would be drastically poorer and shorter and most of us would live lives of unremitting toil. How long it will last, and what its consequences will be, it is far too soon to say; it may end with nuclear war, or ecological catastrophe, or (though this seems much less likely) with happiness, peace and prosperity. Yet although we can now see that it is the greatest event in human history since the Neolithic Revolution, there is no general agreement on what the Scientific Revolution is, why it happened – or even whether there was such a thing. In this respect the Scientific Revolution is quite unlike, for example, the First World War, where there is general agreement on what it was and a fair amount of agreement on why it happened. An ongoing revolution is a nuisance for historians: they prefer to write about revolutions that happened in the past – when, in reality, this one is still continuing all around us./
+#+end_quote
+
+- The notion of the 17th century Scientific Revolution as /the/ Scientific Revolution is very recent, dating back to the 1950s. Prior to that, there were two Scientific Revolutions: one with Newton's classical physics, and one with Rutherford's nuclear physics.
 - The main thesis is that Scientific Revolution is defined by the similar revolution in language.
 - Scientific Revolution was less about ideas, and more about the experience.
 - The author seems to emphasize the relationship of language and science in the history of modern science.
@@ -496,7 +556,7 @@
   /Latin Christendom consisted of those churches worshipping in Latin and according to a rite approved by the papacy, usually the Roman rite. One of the striking features of the western Church is, in fact, its insistence on the dominance of one liturgical language and one cultic form. There are a few dubious or borderline cases, where special circumstances allowed other languages or rites within the Roman obedience, but these were few in number and diminished over time./
 #+end_quote
 
-- The Christians in Europe increasingly referred to themselves as the Latin Christians, adn their world is the Latin Christendom.
+- The Christians in Europe increasingly referred to themselves as the Latin Christians, and their world is the Latin Christendom.
 
 #+begin_quote
   /'Latin’ was a name which adherents of the Latin rite and Roman obedience applied to themselves, but it is hard to credit the Latin liturgy itself with expansionary power. Indeed, one aspect of the expansion we are discussing seems to be the imposition of that liturgy on Christian regions of divergent tradition by the papacy and other interested groups; and if the spread of the liturgy is conceived of as a consequence of the expansionary movement, it is hard also to have it as a cause./
@@ -526,23 +586,13 @@
 - The language of feudalism is mainly loan words, since the system was imposed by immigrant nobilities and knights unto the native population.
 
 #+begin_quote
-  /Levels of hostility between incomer and native obviously varied
-according to the circumstances of the intrusion and the pre-existing
-cultural differences between the two groups. The barrier between
-Christian and non-Christian was normally unbridgeable, but the survival
-of Muslim aristocracies in some places shows that extermination was
-not the only path. The intrusive aristocracies of the High Middle Ages
-had differing relationships with and attitudes to indigenous peoples and
-cultures and could turn out to be an alien and conquering élite, an élite
-monopolizing power but receptive to native culture or a group mingling
-with native aristocrats./
+  /Levels of hostility between incomer and native obviously varied according to the circumstances of the intrusion and the pre-existing cultural differences between the two groups. The barrier between Christian and non-Christian was normally unbridgeable, but the survival of Muslim aristocracies in some places shows that extermination was not the only path. The intrusive aristocracies of the High Middle Ages had differing relationships with and attitudes to indigenous peoples and cultures and could turn out to be an alien and conquering élite, an élite monopolizing power but receptive to native culture or a group mingling with native aristocrats./
 #+end_quote
 
 #+begin_quote
   /The heavy horsemen of the Middle Ages lived in the wheat age but looked like men of the steel age./
 #+end_quote
 
-- Above quote may be lfited form other sources, have to check later.
 - Heavy cavalry is basically the military elite of the High Middle Ages. The horses and equipment are expensive.
 
 #+begin_quote
@@ -555,6 +605,147 @@ with native aristocrats./
 
 - Improved fortifications through castles was matched by improvements in siege warfare, namely the development of siege machinery like catapults and trebuchets.
 - Military techniques spread through 3 ways: conquest; imitation; and planned development.
+
+#+begin_quote
+  /As the military aristocracy of western Europe extended its lordship outwards in the eleventh, twelfth and thirteenth centuries, its members created not only conquest states and colonial societies, but also representations of themselves and their enterprises. These images of conqueror and conquest are enshrined in the histories and charters that their clerical brothers and cousins drew up and in the songs and stories that the aristocracy composed and enjoyed. Written memorials of this kind record the words and gestures of famous conquerors. They elaborate a terminology and rhetoric of expansionary violence. Mythic motifs recur: the first coming of the conquerors; the figure of the heroic military pioneer, perhaps a poor knight or noble, who took the gamble of foreign conquest; the superhuman exploits of the new men. What emerges from such records is the self-image of the conqueror./
+#+end_quote
+
+- Medieval conquerors cultivated an image of ferocity in their battles. It can be seen as like glorifying the violence, but that is part of the point. Such image is meant to convey their martial prowess and impose sense of authority.
+
+#+begin_quote
+  /The experience of successful conquest and colonization imprinted itself upon the minds of princes, lords and clerics, so that they came to expect or anticipate that the future would see more new lordships created by force, more planned clearance and settlement, ever more income from tribute, taxes, rent and tithes./
+#+end_quote
+
+#+begin_quote
+  /Conquest and colonization could thus be represented as a dramatic and formative process and often appeared to participants (or victims) as a distinct, fateful and perhaps heroic story. The very first generation of settlers told tales of their arrival in the new land, portrayed the villains and heroes of the early years and picked out certain moments for mythic treatment. Hence a body of tale, legend and memory was generated, part of which is recoverable because it was transmitted in writing. The conquerors and immigrants produced a literature of conquest./
+#+end_quote
+
+- The designation of the term 'Franks' for the crusaders in 1099 isn't a novelty of the First Crusade. Long before that, because of strong associattions with the Carolingian Empire, western European conquerors have been referred to collectively as Franks.
+
+#+begin_quote
+  /The term ‘Frank’ thus referred to westerners as settlers or on aggressive expeditions far from home. It is hence entirely appropriate that when the Portuguese and Spaniards arrived off the Chinese coasts in the sixteenth century, the local population called them Fo-lang-ki, a name adapted from the Arabic traders’ Faranǧa. Even in eighteenth-century Canton the western barbarian carried the name of his marauding ancestors./
+#+end_quote
+
+#+begin_quote
+  /Population growth is neither a necessary nor a sufficient condition for the expansion of a culture area; for technical and organizational advantages, along with such intangibles as cultural prestige and aggressive drives, can result in the dissemination of a culture without much in the way of demographic change – the partial westernization of Japan, for example, has taken place with absolutely negligible western settlement./
+#+end_quote
+
+- Migration also occurred throughout Europe during the High Middle Ages, though distribution is unequal. One particularly large example of migration is with the /Reconquista/ in the Iberian peninsula. The place known then as Al-Andalus was relatively empty. The Latin conquest of the region brought with it the Christian populations that migrated and settled to the new lands, as shown also by the growth of bishoprics after the /Reconquista/.
+- Migration was to an extent fairly organized. Kings and lords gifted lands to their loyal vassals. These gifts came with specific terms, like how large the land is, how many can be settled in it, what crops are to be grown, etc.
+
+#+begin_quote
+ /The vast movement of new settlement, migration and colonization that took place in the High Middle Ages was based on this model of labour recruitment, not on enserfment or capture. The free village, consciously designed to draw new settlers, could be found everywhere, most notably in the parts of Europe, such as the Iberian peninsula and the lands east of the Elbe, which were opened up to large-scale immigration in this period./
+#+end_quote
+
+#+begin_quote
+  /The settlers who came to newly established villages had to be given special conditions and privileges, both to encourage them to come and to enable them to establish themselves. There had to be compensations for the long journey, the severance of family and local ties and, perhaps, the disposal of other property. The new conditions and status that were offered to them on the frontiers of settlement must be a magnet strong enough to break the bonds that held people in place. Then, when the migrants reached their new destination, the early years might be hard and precarious, especially if the settlements were indeed entirely new and the arable had to be created by clearing woodland or draining marsh. Lords had to be ready to surrender some rights and income in the early years in order to ensure that the settlement would become viable and profitable./
+#+end_quote
+
+#+begin_quote
+  /The only significant limitation on alienability arose from the lords’ desire to ensure that the purpose of the new plantation, namely the creation of an active and flourishing, but subordinate and rent-paying peasantry, would not be subverted. There was no advantage to them in land speculation, absenteeism or the encroachment of outside grandees. Provisos were thus sometimes made explicit that the new colonists could only alienate their property to someone who would be an acceptable replacement./
+#+end_quote
+
+#+begin_quote
+  /The new lands of settlement were, like all of medieval Europe, lands of lords, but they were also, and not necessarily paradoxically, lands of freedom./
+#+end_quote
+
+#+begin_quote
+  /It is clear that many colonists were not landless men, but already peasant farmers in their homelands. Even those who were driven to emigrate by desperate circumstances sometimes had land to sell./
+
+  /Emigration requires resources as well as will, and it has been noticed in some modern migratory movements that the typical migrant is in the middle of the socio-economic range, neither rich nor destitute, and hence with both the incentive and the ability to move and make a new start. Experienced farmers will also have been more attractive than the landless or destitute to lords and others recruiting labour./
+#+end_quote
+
+- Migrants are usually people who already have some land and capital, and think that settling into another place can be a profitable endeavor for them. The process of migration itself is relatively costly, and poor peasants do not have the financial capability to move away from their current situation.
+- The primary machine of the feudal system is the water mill, used for grinding grains. It is both physically big and expensive, and feudal lords are the most common owners of such, as ordinary settlers do not have the finances for building a mill. The lord can then require the settlers to use the mill for grinding their crops, like corn, and the settlers have to pay for it.
+
+#+begin_quote
+  /The new settlers, new ploughs and new mills meant ‘improvement’/ (melioratio terrae), /and ‘improvement’ meant the expansion of cereal cultivation. What was involved was thus not simply a shift from wild to tamed, but a move to a highly particular form of land use. In many parts of Europe the changes of the High Middle Ages involved a step away from a human ecology that could support only a sparse population but exploited a large variety of natural resources, such as fish, honey and game, as well as livestock and cultivated crops, towards a more densely populated monoculture./
+#+end_quote
+
+#+begin_quote
+  /From the point of view of prince, prelate or enterprising locator, of course, the health of the settled population was not central. What was important about planned colonization was that it turned non-revenue-producing resources into a fountain of corn and silver. Richer lords and more peasants – that seems an undeniable outcome of the new settlements of the High Middle Ages./
+#+end_quote
+
+- Written sources for feudal life in the High Middle Ages will naturally be skewed towards political, military, and eccesiastical topics. Such sources came from the literate class, and such sources serve the needs of the class that wrote them.
+- Peasant life is underrepresented in such written evidence, as the peasants were illiterate, but also because day-to-day life depends on knowledge and skills that the lords do not consider relevant to their personal needs.
+- Three main non-written sources: archaeology; village and field morphology; place names.
+
+#+begin_quote
+  /The history of rural settlement is a topic which demands the slow accumulation of laboriously recovered data – pottery fragments, charter references, field maps, etc. It is also an area in which new scientific methods, such as the chemical analysis of ceramics or the investigation of plant and animal remains, promise ever richer information of a quite novel kind. If collaborative and multidisciplinary scholarship is allowed to thrive, one eventual result will be a deeper, sharper and livelier picture of the new landscapes of the High Middle Ages./ 
+#+end_quote
+
+#+begin_quote
+  /The twelfth and thirteenth centuries were a period of dramatic urbanization in virtually every part of Europe. The older cities grew population and expanded beyond their Roman or early medieval limits, while hundreds of new towns were established, often as part of a highly self-conscious policy of development./
+#+end_quote
+
+- Township in the Middle Ages can be defined in two way: economic and legal. They don't always overlap, which means that medieval urbanization can be viewed in two different ways.
+- Urban settlements legally defined as such usually have charters that grant them special privileges, like freedom from feudal control and lower taxes.
+
+#+begin_quote
+  /Town freedom – the particular constellation of privileges and liberties associated with urban status – was thus an incentive for settlement even apart from any considerations of commercialization. Immigrants would settle in towns because they sought liberty, not simply because they wished to trade./
+#+end_quote
+
+#+begin_quote
+  /The surviving urban charters and laws offer insights into the interests and constraints which shaped the new towns of Europe in the High Middle Ages. To analyse them is to explore the ambitions, fears and intentions of the men who created and expanded these towns. It is possible to see, in their wording and provisions, the end product of negotiations, clashes and concessions between all the parties involved in the formation of new towns – the lord, the urban entrepreneurs, the church and the new colonists. The town charter was a document of great symbolic value representing a new start./
+#+end_quote
+
+#+begin_quote
+  /The western European urban model, which was devised in the twelfth and thirteenth centuries, involved the privileging of a space and its inhabitants. Such a privileging required, by definition, an author, a lord. But the actual content of the privileges was not usually worked out afresh between each lord and his burgesses. Standardized sets of legal provisions were available by the twelfth century. At the most general level there were some basic principles of urban liberty, such as free status, exemption from tolls and the grant of limited monopolies, which were intrinsic to the very concept of a chartered town. On a more specific level, whole bodies of positive law regarding town administration, civil and criminal procedure and the regulation of economic activity could be borrowed by one town from another. The result was the creation of families of town law, groups of urban settlements whose legal arrangements were, at least initially, modelled on a ‘mother town’./
+#+end_quote
+
+- Languages are very diverse in the frontier regions of Latin Europe. Bilingualism is not uncommon, arguably even necessary in many instances.
+
+#+begin_quote
+  /It would be naive to describe the cultural situation on the frontiers simply in terms of pluralism, diversity or mingling. Languages were not all equal. Some had higher prestige because of the political or economic power of those who spoke them. It is clear, for instance, that it was speakers of Romance and Germanic languages who were spreading through expansionary migration and conquest, while Celtic, Slavic, Baltic and Arabic were losing ground. These developments of the medieval period had a permanent effect on the linguistic map of Europe. There was a strong colonial flavour to this linguistic expansion: German in Livonia and French in Syria were languages of conquest, which might offer privileges to those who mastered them. But the patterns were not simple. Native vernaculars were resistant and could revive. Linguistic change was not all one-way and linguistic conflict could have more than one outcome./
+#+end_quote
+
+#+begin_quote
+  /Cultural legislation, even in the modern state, always faces an uphill struggle. In medieval circumstances it cannot have been enforceable. Language change there certainly was, but it was the result of migration and cultural adaptation, not of administrative prescription./
+#+end_quote
+
+#+begin_quote
+  /The long-term trend between the twelfth and the sixteenth centuries was away from personality to territoriality of the law, away from pluralism to uniformity. The road to/ un roi, une loi, une foi /is a long one, but this is certainly a paved section of it./
+#+end_quote
+
+#+begin_quote
+  /In any ethnically diverse society political competitors seek to manipulate or harness racial feelings of hostility and solidarity and their success in doing so is shaped not only by the relative numbers and wealth of the different ethnic groups but also by the overall shape of social and political life in the society. Arenas of conflict vary with time and place. In the high medieval peripheries arenas of especial importance were the Church, the princely court and the burgess community./
+#+end_quote
+
+#+begin_quote
+  /The mingling of peoples that resulted from high medieval colonial migration did not always juxtapose Christian and non-Christian; it often gave rise to societies in which different Christian ethnic groups lived in contact./
+#+end_quote
+
+#+begin_quote
+  /In these regions where Christian peoples of different law and language intermingled, the Church itself became an arena of ethnic competition. It was indeed one of the most highly charged fields of conflict and there are clear reasons for this. Ecclesiastical offices were profitable and brought power and so were obvious and visible targets for ambition, but more: since the clergy were the carriers of ritual authority, morality and learning, they defined and spoke for a community or group. To see one’s prelates and pastors become strangers in speech and nationality was a loss of voice and a destabilization of identity./
+#+end_quote
+
+#+begin_quote
+  /The Church was not simply an institution, but an institution with an avowed mission. Hence no struggle over ecclesiastical office took place without reference, if only tactical, to the duties of clerics, especially those entrusted with the cure of souls. Since pastoral care involved preaching, hearing confession, comforting, advising and condemning, it could only be effectively undertaken by a priest who could communicate with his flock in their vernacular./
+#+end_quote
+
+#+begin_quote
+  /Princely courts were, in the best of circumstances, culturally distinct from the surrounding society, centres of patronage, conspicuous consumption, cosmopolitanism and fashion, and their style might easily inflame clerical, puritanical or backwoods critics. If, in addition, a dominant faction at court, or even the ruler himself, were of alien birth or culture, these potential antagonisms would be given a sharper, ethnically phrased tone. By their very nature, princely courts tended to harbour foreign elements. They were the epicentre of political dynasticism, and dynasticism meant that political power was transmitted according to family not national priorities. Hence the recurrent unpredictable trauma of the wooing of foreign brides and the arrival of alien heirs./
+#+end_quote
+
+- In the later Middle Ages, some of the great royal families in Eastern Europe died down due to lack of heirs. As a result, their territories passed on to foreign aristocrats, notably the Habsburgs.
+
+#+begin_quote
+  /In the later Middle Ages the Muslims of Spain were robbed of their law and gradually lost their language. The culmination of this assault came when they lost their ‘law’ in the deepest sense, their religion, in the forcible conversions of the years around 1500. In the sixteenth century it was their customs that proved unacceptable to the Christian majority. By the opening years of the seventeenth century it had been decided that their very stock, their genus, could no longer be tolerated. In early modern Spain a crucial criterion for promotion and power was ‘purity of blood’, a descent untainted by Jewish or Moorish ancestry. A blood racism of the modern kind had been born./
+#+end_quote
+
+- Latin Christianity (aka Roman Catholicism) stands out among other Christian denominations — in the Middle Ages, and beyond — for the primacy of uniformity, both in rite (conduct of Mass in Latin), and in obedience (loyalty to the Bishop of Rome, the Pope).
+
+#+begin_quote
+  /While the papacy had enjoyed a position of prestige and centrality in western Europe since the very birth of official Christianity under Constantine, the means and mechanics supporting that position underwent a transformation during and after the eleventh century. Starting with the reform movement of the middle and later years of that century, papal power became greater, papal decisions more enforceable, ritual uniformity more real. One consequence was that Latin Christians identified themselves more often and more deeply as such. Reverence to St Peter, obedience to the pope and commitment to certain forms of worship and church government mingled and intensified./
+#+end_quote
+
+- The concept of 'Christendom' has always been about unity of faith. But increasingly during the Middle Ages it has gained a sense of territoriality(lands where Latin Christianity is practiced, by the ruler and by the ruled), and of quasi-ethnicity (racial discrimination of Christians towards non-Christians).
+
+#+begin_quote
+  /Crusading military orders, such as the Templars, Hospitallers and Teutonic Knights, were, in part, successful because they were improbable. Their animating idea involved a fusion of opposites. The eleventh-century knight was violent, acquisitive, unruly and lascivious. The eleventh-century monk was dedicated to peace, poverty, obedience and chastity. From these contradictory sources sprang the crusading orders of the twelfth century: knights who were poor, chaste and obedient, monks who were fighters. This combination of aggression and self-abnegation had enormous appeal, and soon these orders became among the wealthiest and most prestigious corporations in Christendom. They were the most powerful and enduring institutional results of the militarization of Christianity that characterized the eleventh and twelfth centuries./
+#+end_quote
+
+- Another factor for the success and longevity of crusading orders is their institutional structure. The leaders being non-dynastic means that killing off a leader doesn't have much benefit for the opponents, as they can be replaced quickly. This also ensures somewhat stable continuity, unlike with kingdoms where the death of the monarch can throw the establishment into chaos and infighting.
 
 
 
