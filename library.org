@@ -126,6 +126,33 @@
   /Once two heavily armed and highly industrialized coalitions comparable strength engaged each other with modern military technology the outcome, almost at once, would be a prodigiously costly stalemate that propelled the European governments and their hapless peoples into a bleak and cruel new world./
 #+end_quote
 
+#+begin_quote
+  /In this middle period of the war, between late 1914 and the next major turning point in spring 1917, the powers created a style of combat that in retrospect seemed to encapsulate the conflict as a whole. Its key features were escalation and stalemate, both sides applying rising levels of violence yet failing to terminate the impasse. The war became more nearly total and more global, and from these characteristics much of its enduring impact followed. Yet the  equilibrium was not static but dynamic, the initiative passing back and forth as each side strove to pre-empt or thwart the other’s gambits and attempted new expedients to catch its adversary off balance./
+#+end_quote
+
+#+begin_quote
+  /The ‘short-war illusion’ that had helped to cause the conflict did not end in 1914. On the contrary, both soldiers and civilians, deprived of the luxury of hindsight, were sustained in part by faith that one more determined heave would bring triumph./
+#+end_quote
+
+- Though the battlefield itself was in a state of attrition from end-1914 to early-1918, in reality the war kept escalating to dangerous new levels.
+- The parity of strength between the two sides caused the attrition, and also caused them to further escalate, developing new lethal war tools and methods such as tanks and chemical weapons, and opening up new fronts all over the world in hopes of breaking the deadlock.
+
+#+begin_quote
+  /In Britain at the time, if not simply called ‘the war’, the conflict was referred to as ‘the great war’, evoking the earlier struggle against Napoleon; in France ‘la guerre’ or ‘la grande guerre’ was the usual description. ‘World war’ and ‘guerre mondiale’ became prevalent only from the 1930s. In Germany, in contrast, ‘Weltkrieg’ was the preferred description from the start, the Berlin leaders understanding that they were fighting for world-power status and that their enemies were concentrating the resources of their empires against them. Americans too referred to the conflict generally as ‘the world war’ (rather than ‘ European war’) after being drawn in, and by 1917 almost all the biggest and strongest countries across the globe had indeed become belligerents./
+#+end_quote
+
+#+begin_quote
+  /As in the July crisis pre-existing alliances influenced decisions for war much less than did considerations of national interest. But unlike in 1914 the later entrants had time to define their requirements and to negotiate with the two sides. Although this more leisured timetable should have permitted ngreater public debate, in fact most of the interventions were driven through by authoritarian governments not only to advance their external interests but also to outmanoeuvre rivals at home./
+#+end_quote
+
+- Japan's entry to the war is fueled by both desire to dominate China and to gain international recognition as equals with the Western Powers. They had little to lose for joining, and more to gain especially if their side wins. Finally, Japan is uniquely distant from the main theaters of war, so they are relatively insulated from its worse effects while enjoying the advantage of expanding their sphere of influence with minimal European intervention.
+- Armenians were conscripted by both Russian and Ottoman Armies to their side. The Ottoman government did not like that Armenians in Russian territory refused to rebel against Russia. The policy of retribution and eventually genocide spread throughout 1915, and Ottomans justified it as reponse against rebellion and disloyalty.
+- Incompatibility and scale of each side's war aims is not enough to explain the failure of diplomacy in ending the War. The war aims of the First World War were much more modest than those of the Second World War.
+
+#+begin_quote
+  /If war aims determined what the fighting was for, strategy decided where and when it happened. Yet governments oversaw the commanders’ key decisions, and the basic strategic choices made in the war were as much political as technical. Moreover (and this is often overlooked), the two sides’ strategies interacted, each reflecting an appraisal of the other’s intentions. Both the Allies and the Central Powers committed themselves to mounting levels of violence, culminating in the massive Western and Eastern Front battles of 1916. And when these battles failed to bring decisive results, both approached strategic bankruptcy. Once again the underlying themes here are therefore stalemate and escalation./
+#+end_quote
+
 
 
 * LOST IN MATH
@@ -746,7 +773,43 @@
 #+end_quote
 
 - Another factor for the success and longevity of crusading orders is their institutional structure. The leaders being non-dynastic means that killing off a leader doesn't have much benefit for the opponents, as they can be replaced quickly. This also ensures somewhat stable continuity, unlike with kingdoms where the death of the monarch can throw the establishment into chaos and infighting.
+  - Author uses the phrase "Europeanization of Europe" to describe the political, military, cultural, even religious, changes that Europe underwent in the High Middle Ages. This Europeanization is actually the homogenizing of the continent, rooted in influence coming from France, Germany, and Italy — that is, the old Frankish Empire of Charlemagne.
+- Naming children after saints used to be localized. Names of specific saints are popular within the region nearest to that saint's cultic center. Starting in the High Middle Ages, saint names became more widespread outside the usual centers of their cult.
+- This naming scheme also shows a conflict between conquering immigrants and conquered natives, as the latter feel pressured to adopt names of saints from the former's home regions.
 
+#+begin_quote
+  /The transformation of cult and nomenclature between the tenth and thirteenth centuries was thus not simply a matter of the spread of certain names and saints in the wake of conquest and colonization. This certainly did happen, but it was paralleled and encompassed by the other trend, a shift towards a universalist nomenclature and cult which was more than just a successful localism writ large. Just as the English peasants of the twelfth and thirteenth centuries adopted the names of their lords, so the European populace, when choosing their children’s names, came to favour Mary and the apostles, those aristocrats among the saints./
+#+end_quote
+
+#+begin_quote
+  /The university was one of the most powerful instruments of cultural homogeneity to arise in the High Middle Ages. Growing gradually from the schools of logic, law and theology of the eleventh and twelfth centuries, these international centres of learning and education had, by the thirteenth century, acquired something like their modern form: corporate, degree-granting institutions run by teachers who lectured to, disciplined and examined students./
+#+end_quote
+
+#+begin_quote
+  /Most of these itinerant students eventually returned home, and the more successful of them attained high ecclesiastical and political positions in their native societies. Thus, by 1300, the non-military élite of the Latin West was being shaped by a standard educational experience. There was a uniformity to their technical language, intellectual habits, pedagogic expectations and teenage memories. By the thirteenth century the great prelates who helped run Europe had a common collegiate background in the lecture rooms of Paris and Bologna./
+#+end_quote
+
+#+begin_quote
+  /By 1300 Europe existed as an identifiable cultural entity. It could be described in more than one way, but some common features of its cultural face are the saints, names, coins, charters and educational practices touched upon in this chapter. By the late medieval period Europe’s names and cults were more uniform than they had ever been; Europe’s rulers everywhere minted coins and depended upon chanceries; Europe’s bureaucrats shared a common experience of higher education. This is the Europeanization of Europe./
+#+end_quote
+
+- There was a clear distinction in how Latin Christians treated the pagans of Eastern and Northern Europe, and the Muslims in the Mediterranean region.
+
+#+begin_quote
+  /The local pattern of race relations was shaped by the extent and nature of foreign immigration. It made a great deal of difference whether the immigrants were conquerors or peaceful colonists, an overwhelming majority or a thin trickle, landowners or labourers, capitalists or ecclesiastics./
+#+end_quote
+
+#+begin_quote
+  /The implantation of new aristocracies, encastellation, urbanization, new peasant settlement, the development of documentary literacy, all effected a fundamental transformation in those lands along the periphery of Latin Europe where they were experienced./
+
+  /A dominant, newly arrived population, led by knights and clerics, stiffened by burgesses and some farmers, but still, overall, a minority, confronted a large native majority, alien in language, culture, social structure and, often, religion. The minority had to take care of its own security, ensure its profits and control, suppress or transform the native population. Beyond the sometimes precariously held colonial towns and fiefs lay native polities that were not subjected: Gaelic or Lithuanian kings, Greek or Islamic states, that nurtured long-term plans of revanchism and revival. In polities like these warfare and competition between newcomer and native, settler and indigenous population, were taken for granted as a permanent feature of life./
+#+end_quote
+
+- Expansion in the High Middle Ages mostly meant creation of new aristocracies and kingdoms. While some existing monarchies did see their territories increase, by and large the newly conquered lands fell into the hands of new dynasties and created new fiefdoms.
+
+#+begin_quote
+  /Conquest, colonization, Christianization: the techniques of settling in new land, the ability to maintain cultural identity through legal forms and nurtured attitudes, the institutions and outlook required to confront the strange or abhorrent, to repress it and live with it, the law and religion as well as the guns and ships. The European Christians who sailed to the coasts of the Americas, Asia and Africa in the fifteenth and sixteenth centuries came from a society that was already a colonizing society. Europe, the initiator of one of the world’s major processes of conquest, colonization and cultural transformation, was also the product of one./
+#+end_quote
 
 
 
@@ -1069,3 +1132,20 @@ fundamental change must cease to function. And when that occurs, the community w
 #+begin_quote
   /The conventional 1914–1918 World War I bracket is limited by two entwined biases that distort our overall understanding of the conflict and warp it in specific ways with respect to the Middle East. The first is a bias toward a judicial definition of wartime that is bookended by the dates of formal declarations, armistices, and treaties carried out by recognized state actors. Using this shorthand occludes complicated realities of continuing violence and political fluidity that extend beyond those dates. The second bias is a myopic privileging of the beginning and ending of hostilities in a single theater of the war to periodize the whole of the conflict. In this case, fixating on the Western Front diverts attention from what was happening in the conflict’s other interconnected maritime and overland theaters, minimizing the true interregional scope of World War I./
 #+end_quote
+
+#+begin_quote
+  /De-Europeanizing the Great War by Ottomanizing it underscores how the greater Middle East was central to the causes, course of, and outcomes of World War I as a whole. For Middle East history, thinking in terms of a Long Great War offers an essential framework for identifying, analyzing, and interpreting the complicated processes through which the region’s political order was unmade, reimagined, and remade in a period that extends beyond that conventional dating./
+#+end_quote
+
+- Author places greater focus on the Middle East and North Africa for periodizing the First World War. Interestingly, Morocco is used for anchoring both the start (1911) and end (1934) of the Long Great War.
+- The author scrutinizes and rejects the standard Sykes-Picot narrative. Notes that it exemplifies the usual problem with periodizing the War to 1914-1918: the narrative assumes that treaties are ironclad and reflect realities on the ground (they don't).
+
+#+begin_quote
+  /At its core, it leans heavily on the judicial fallacy already discussed: wartime agreements and postwar treaties are presumed to actually do work, converting more or less directly into realities on the ground. Narrating a progression of discrete events in this way, however, glosses over major gaps between aspirations and reality, concealing the complex and contingent processes actually happening over time./
+#+end_quote
+
+- Sykes-Picot narrative emphasizes three overlapping British promises: to the Arabs; to the French; and to the Zionist movement. In this narrative, the central problem is with the British reneging on their promise to the Arabs.
+
+  #+begin_quote
+  /Political space, including territorial space, is always produced by political actors—in this case by both local and colonial actors struggling over the region’s future. None of the modern polities or borders in the greater Middle East were unilaterally imposed; all were negotiated over time; and virtually all were actually defined and demarcated, not with the stroke of a pen, but extended periods of warfare./
+  #+end_quote
