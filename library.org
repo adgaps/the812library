@@ -18,6 +18,8 @@
   - lowercase: M-l
   - capitalize: M-c
   - select entire buffer: M-x h
+  - nov mode toc: t
+  - mode-specific help: C-h m
 - Formatting
   - three empty lines above each section heading
   - one empty line each above and below a quote block
@@ -152,6 +154,195 @@
 #+begin_quote
   /If war aims determined what the fighting was for, strategy decided where and when it happened. Yet governments oversaw the commanders’ key decisions, and the basic strategic choices made in the war were as much political as technical. Moreover (and this is often overlooked), the two sides’ strategies interacted, each reflecting an appraisal of the other’s intentions. Both the Allies and the Central Powers committed themselves to mounting levels of violence, culminating in the massive Western and Eastern Front battles of 1916. And when these battles failed to bring decisive results, both approached strategic bankruptcy. Once again the underlying themes here are therefore stalemate and escalation./
 #+end_quote
+
+- Romania's entry into the War on Allies' side ultimately forced the Kaiser to accept the Hindenburg-Ludendorff command of German military.
+
+#+begin_quote
+  /The Allied military chiefs concluded from their 1916 experiences that they should try more of the same./
+#+end_quote
+
+#+begin_quote
+  /An impasse at the level of tactics drove the two sides towards more ruthless strategies: the Allies towards escalating doses of attrition and the Germans towards Verdun and unrestricted submarine warfare. But this was not a static equilibrium, and both attackers and defenders were increasing their tactical sophistication and the number and power of the weapons at their disposal. Developments were in progress that after 1917 would break the stalemate./
+#+end_quote
+
+- Although it can be argued that the Allies would've used lethal gases anyway, it was Germany that initiated its use, and therefore were the unfortunate ones to be leveld with war crime charges for it.
+- Aerial warfare was still in its infancy in the First World War, and hardly helped either side. The British enjoyed massive air superiority in Somme, but it proved barely useful for them.
+- Aircrafts, however, proved more useful for mapping and surveillance. Aerial mapping was instrumental in producing more accurate battlefield maps, which translated to more accurate artillery firing.
+
+#+begin_quote
+  /Despite the vastly different operational circumstances outside Europe, Western Front tactical conditions still tended to develop wherever modern weapons and high force-to-space ratios coexisted./
+#+end_quote
+
+#+begin_quote
+  /Although no continental power had expected so long and punishing an ordeal, their conscription systems meant that they had mostly registered their able-bodied men in peacetime and possessed the machinery to call them up, and also that many men had had military training. Even so, after the first year it proved harder to find trained officers and soldiers than to produce weapons./
+#+end_quote
+n
+#+begin_quote
+  /Given the extraordinary casualty rates that the war inflicted from its opening weeks, it may seem strange that the manpower crisis that all the belligerents suffered by 1917 did not set in much earlier. Enough men were found not only to keep the fighting going but also to intensify it in the battles of 1916. One reason, paradoxical as it may seem, was trench warfare./
+
+  /Admittedly, the argument is double-edged: without trenches the two sides could not have remained in such constant close proximity, especially as they were armed, as the war went on, with an increasingly powerful array of weapons. Trenches, and innovations such as railway supply lines and tinned food, enabled the killing to continue throughout the year instead of the armies retiring in the traditional manner to winter quarters./
+
+  /Digging in reduced casualties between battles and slowed down the rate of attrition. Whether it saved lives over the war as a whole is debatable./
+#+end_quote
+
+- It was only in the recent decades that individual solider experiences, told through diaries and memoirs, received more spotlight in the study of First World War history.
+
+#+begin_quote
+  /Post-traumatic stress disorder, to give its modern name to the condition labelled ‘shell shock’ in the English-speaking countries, had doubtless existed in earlier conflicts, but had not been diagnosed as such. It was exacerbated by the special conditions of static warfare in which soldiers endured repeated bombardments in confined spaces with little control over their fate, and lived day after day in close proximity to their comrades’ decomposing remains./
+#+end_quote
+
+#+begin_quote
+  /In the vast decentralized confusion of a major offensive, in which tens of thousands of men might be engaged along fronts of many miles, the personal control still possible in Napoleon’s day was no longer attainable. Such ‘battles’ had little in common with Waterloo except the term itself./
+
+  /Governments and high commands created the circumstances in which thousands of troops with merciless weaponry were obliged to kill and maim, but they could not determine the speed and scale of carnage./
+#+end_quote
+
+#+begin_quote
+ /War was expensive. Every one of the millions of bullets and shells fired off had a price tag. Every soldier had to be paid (however miserably), clothed and fed, transported to and from the front and cared for if wounded or ill. His equipment had to be manufactured and tested, and then transported by trains that needed fuel and maintenance and by animals requiring fodder and stabling. The soldiers’ families were allocated separation allowances, and the disabled, widows, and orphans needed sustenance, as did thousands of refugees./
+#+end_quote
+
+#+begin_quote
+  /Legislatures and finance ministries relaxed their oversight on military spending, initially expecting a short war, and failed to regain control when it proved to be long. In the colossal Western Front bombardments the fruits of years of patient capital accumulation went literally up in smoke./
+#+end_quote
+
+#+begin_quote
+  /European treasuries were caught between untrammelled military outgoings and the political imperative of not reviving peacetime controversies through tax increases. They tried – and here again the ‘short-war illusion’ was evident – to cover their deficits by borrowing at home and abroad, and beyond that in effect by ‘printing money’ if they received central bank credits without collateral. No central bank preserved much independence in wartime conditions: even the Bank of England, supposedly a private corporation, yielded to the Treasury its influence over interest rates and sterling’s exchange value./
+#+end_quote
+
+- Belligerent countries abandoned the gold standard during the War so they can print virtually unlimited paper money to fund their War effort.
+
+#+begin_quote
+  /The investing public in Germany and Britain wagered on victory in a desperate and evenly matched conflict. To be sure, there were few alternative financial outlets and governments offered attractive incentives, at the cost of mounting debt service and an albatross round the necks of post-war taxpayers. But the willingness to lend also testified to an innocence derived from pre-war monetary stability as well as to a residuum of patriotism. War finance depended on traditional values and assumptions that  the conflict itself was subverting./
+#+end_quote
+
+- Beyond 1915, the First World War at sea was also in stalemate, but mainly due to inactivity. Both sides were hesitant to engage the enemy at full power and in the open seas. Much of naval conflict in this period are related to enforcement and breaking of blockades.
+- Despite the attrition, the Allies — especially Britain — have clear advantage and dominance in much of the world's seas and oceans.
+
+#+begin_quote
+  /The First World War cannot be understood without acknowledging the widespread and continuing acceptance that it was a just, even noble cause. Every belligerent relied on a combination of state compulsion with patriotic support from society, even if the former was relatively more important in the eastern European countries and the latter in the western European ones. Between them these forces not only created an initial political truce in 1914 but also maintained domestic cohesion when the conflict intensified, with a corresponding increase in its demands./
+#+end_quote
+
+- Officially, the Catholic Church under Pope Benedict XV maintained a neutral stance on the War. Realistically, many Catholics, including clergy, in all belligerent states supported their country's cause.
+- Censorship was widely employed by belligerent governments, both to suppress criticism and to dampen the extent of losses.
+
+#+begin_quote
+  /For the Irish, for women’s leaders, and for trade unionists the political truce of 1914 was a temporary measure, accepted without prejudice to their ultimate objectives. Once the war settled down to a stalemate, their loyalty might be expected to falter./
+#+end_quote
+
+- The defection of Petrograd garrison in the February Revolution was a response to what the soldiers think was an unreasonable order. They have been dealing with the protesters peaccefully for days, until Tsar Nicholas II ordered them to use force to break up the protests. The soldiers, who have already developed sympathies with the striking workers, refused to follow the orders, so they defected instead.
+
+#+begin_quote
+  /The removal of the dynasty, intended to help contain the revolution, probably did more than anything else to convince the peasantry that they could challenge the social order with impunity. By dismantling the structure of repression the new authorities hoped to neutralize the risk of counter-revolution, but they left themselves exposed to greater radicalization./
+#+end_quote
+
+- The author thinks that, without the unrestricted submarine warfare and the Zimmerman incident, the US wouldn't have joined the War, and it could've ended with more favorable terms — even if they lost — for the Central Powers.
+
+#+begin_quote
+  /While both Bethmann and Wilson might have preferred to keep America neutral, their priorities were fundamentally in conflict. Bethmann intended to confine Washington’s role to bringing the two sides to the conference table, after which America should withdraw while Germany imposed its demands and return only to help set up international institutions that would guarantee the new status quo. Wilson, however, was willing to join a League of Nations only if the peace settlement respected liberal principles. The German leaders were right to suspect he would be biased against them. The escape route of an American-mediated compromise occupied a great deal of attention in Berlin and Washington but was never likely to get anywhere./
+#+end_quote
+
+- The primary effect of the Zimmerman incident was in uniting the American public in support of intervention. Wilson himself didn't want it, but ultimately gave in to counsel from his advisers and cabinet, who were unanimously in favor of joining the War.
+- Still, Wilson wasn't entirely pressured by the public, and he could've at least opposed intervention and face a divided Congress. And the author thinks such a divided Congress likely wouldn't have approved of intervention had Wilson come out to oppose it too.
+
+
+
+* IMAGINED COMMUNITIES
+** /Benedict Anderson/
+
+#+begin_quote
+  /Nationality, or, as one might prefer to put it in view of that word’s multiple significations, nation-ness, as well as nationalism, are cultural artefacts of a particular
+kind. To understand them properly we need to consider carefully how they have come into historical being, in what ways their meanings have changed over time, and why, today, they command such profound emotional legitimacy. I will be trying to argue that the creation of these artefacts towards the end of the eighteenth century was the spontaneous distillation of a complex ‘crossing’ of discrete historical forces; but that, once created, they became ‘modular,’ capable of being transplanted, with varying degrees of self-consciousness, to a great variety of social terrains, to merge and be merged with a correspondingly wide variety of political and ideological constellations. I will also attempt to show why these particular cultural artefacts have aroused such deep attachments./
+#+end_quote
+
+- Nation is
+  - imagined
+  - community
+  - limited
+  - sovereign
+
+#+begin_quote
+  /No more arresting emblems of the modern culture of nationalism exist than cenotaphs and tombs of Unknown Soldiers. The public ceremonial reverence accorded these monuments precisely because they are either deliberately empty or no one knows who lies inside them, has no true precedents in earlier times./
+#+end_quote
+
+#+begin_quote
+  /If the manner of a man’s dying usually seems arbitrary, his mortality is inescapable. Human lives are full of such combinations of necessity and chance. We are all aware of the contingency and ineluctability of our particular genetic heritage, our gender, our life-era, our physical capabilities, our mother-tongue, and so forth. The great merit of traditional religious world-views (which naturally must be distinguished from their role in the legitimation of specific systems of domination and exploitation) has been their concern with man-in-the-cosmos, man as species being, and the contingency of life. The extraordinary survival over thousands of years of Buddhism, Christianity or Islam in dozens of different social formations attests to their imaginative response to the overwhelming burden of human suffering – disease, mutilation, grief, age, and death./
+
+  /The great weakness of all evolutionary/progressive styles of thought, not excluding Marxism, is that such questions are answered with impatient silence. At the same time, in different ways, religious thought also responds to obscure intimations of immortality, generally by transforming fatality into continuity (karma, original sin, etc.). In this way, it concerns itself with the links between the dead and the yet unborn, the mystery of regeneration./
+#+end_quote
+
+- Not even 10% into chapter 2, the author already namedropped Filipino stuff like Sulu Archipelago, Maguindanao, and Ilongo Christian. I got super intrigued and search up his wiki bio. Well, he's a Southeast Asia scholar, and does know Tagalog. He apparently even has a work about Rizal's novels.
+
+#+begin_quote
+  /The astonishing power of the papacy in its noonday is only comprehensible in terms of a trans-European Latin-writing clerisy, and a conception of the world, shared by virtually everyone, that the bilingual intelligentsia, by mediating between vernacular and Latin, mediated between earth and heaven./
+#+end_quote
+
+#+begin_quote
+  /Kingship organizes everything around a high centre. Its legitimacy derives from divinity, not from populations, who, after all, are subjects, not citizens. In the modern conception, state sovereignty is fully, flatly, and evenly operative over each square centimetre of a legally demarcated territory. But in the older imagining, where states were defined by centres, borders were porous and indistinct, and sovereignties faded imperceptibly into one another. Hence, paradoxically enough, the ease with which pre-modern empires and kingdoms were able to sustain their rule over immensely heterogeneous, and often not even contiguous, populations for long periods of time./
+#+end_quote
+
+- Halfway through chapter 2, the author is now analyzing Rizal's and Balagtas' works haha.
+- One early example of how capitalism spreads is with print publishing. Once the market for Latin-reading elite has been saturated, publishers moved on to vernacular audiences. The spread of ideas from printed publications was, in a way, a product of capitalistic pursuits.
+  
+#+begin_quote
+  /The coalition between Protestantism and print-capitalism, exploiting cheap popular editions, quickly created large new reading publics – not least among merchants and women, who typically knew little or no Latin – and simultaneously mobilized them for politico-religious purposes. Inevitably, it was not merely the Church that was shaken to its core. The same earthquake produced Europe’s first important non-dynastic, non-city states in the Dutch Republic and the Commonwealth of the Puritans./
+#+end_quote
+
+#+begin_quote
+  /The universality of Latin in mediaeval Western Europe never corresponded to a universal political system. The contrast with Imperial China, where the reach of the mandarinal bureaucracy and of painted characters largely coincided, is instructive. In effect, the political fragmentation of Western Europe after the collapse of the Western Empire meant that no sovereign could monopolize Latin and make it his-and-only-his language-of-state, and thus Latin’s religious  never had a true political analogue./
+#+end_quote
+
+#+begin_quote
+  /It is likely that the esotericization of Latin, the Reformation, and the haphazard development of administrative vernaculars are significant, in the present context, primarily in a negative sense – in their contributions to the dethronement of Latin. It is quite possible to conceive of the emergence of the new imagined national communities without any one, perhaps all, of them being present. What, in a positive sense, made the new communities imaginable was a half-fortuitous, but explosive, interaction between a system of production and productive relations (capitalism), a technology of communications (print), and the fatality of human linguistic diversity./
+#+end_quote
+
+#+begin_quote
+  /In a pre-print age, the reality of the imagined religious community depended profoundly on countless, ceaseless travels. Nothing more impresses one about Western Christendom in its heyday than the uncoerced flow of faithful seekers from all over Europe, through the celebrated ‘regional centres’ of monastic learning, to Rome. These great Latin-speaking institutions drew together what today we would perhaps regard as Irishmen, Danes, Portuguese, Germans, and so forth, in communities whose sacred meaning was every day deciphered from their members’ otherwise inexplicable juxtaposition in the refectory./
+#+end_quote
+
+- The author is hammering the connection of highly literate sectors of society with 'print capitalism', which together helped spread the use of vernaculars, which in turn facilitated the conceptualization of a unified identity among speakers of similar languages. Hence, nationalism.
+
+#+begin_quote
+  /An illiterate bourgeoisie is scarcely imaginable. Thus in world-historical terms bourgeoisies were the first classes to achieve solidarities on an essentially imagined basis. But in a nineteenth-century Europe in which Latin had been defeated by vernacular print-capitalism for something like two centuries, these solidarities had an outermost stretch limited by vernacular legibilities. To put it another way, one can sleep with anyone, but one can only read some people’s words./
+#+end_quote
+
+#+begin_quote
+  /The general growth in literacy, commerce, industry, communications and state machineries that marked the nineteenth century created powerful new impulses for vernacular linguistic unification within each dynastic realm. Latin hung on as a language-of-state in Austro-Hungary as late as the early 1840s, but it disappeared almost immediately thereafter. Language-of-state it might be, but it could not, in the nineteenth century, be the language of business, of the sciences, of the press, or of literature, especially in a world in which these languages continuously interpenetrated one another./
+#+end_quote
+
+#+begin_quote
+  /If Kaiser Wilhelm II cast himself as ‘No. 1 German,’ he implicitly conceded that he was one among many of the same kind as himself, that he had a representative function, and therefore could, in principle, be a traitor to his fellow-Germans (something inconceivable in the dynasty’s heyday. Traitor to whom or to what?). In the wake of the disaster that overtook Germany in 1918, he was taken at his implied word. Acting in the name of the German nation, civilian politicians (publicly) and the General Staff (with its usual courage, secretly) sent him packing from the Fatherland to an obscure Dutch suburb./
+#+end_quote
+
+#+begin_quote
+  /The First World War brought the age of high dynasticism to an end. By 1922, Habsburgs, Hohenzollerns, Romanovs and Ottomans were gone. In place of the Congress of Berlin came the League of Nations, from which non-Europeans were not excluded. From this time on, the legitimate international norm was the nation-state, so that in the League even the surviving imperial powers came dressed in national costume rather than imperial uniform. After the cataclysm of World War II the nation-state tide reached full flood. By the mid-1970s even the Portuguese Empire had become a thing of the past./
+#+end_quote
+
+- The colonials who were educated in Europe and recruited back into the colonial governments became the last wave of linguistic nationalists. Their intermingling with the metropolitans in Europe fueled the idea that nationalism ought not be defined merely by common language.
+- Monolingual European metropolitans -> Bilingual colonials -> Monolingual colonials
+
+#+begin_quote
+  /The intelligentsias were central to the rise of nationalism in the colonial territories, not least because colonialism ensured that native agrarian magnates, big merchants, industrial entrepreneurs, and even a large professional class were relative rarities. Almost everywhere economic power was either monopolized by the colonialists themselves, or unevenly shared with a politically impotent class of pariah (non-native) businessmen – Lebanese, Indian and Arab in colonial Africa, Chinese, Indian, and Arab in colonial Asia. It is no less generally recognized that the intelligentsias’ vanguard role derived from their bilingual literacy, or rather literacy and bilingualism. Print-literacy already made possible the imagined community floating in homogeneous, empty time of which we have spoken earlier. Bilingualism meant access, through the European language-of-state, to modern Western culture in the broadest sense, and, in particular, to the models of nationalism, nationness, and nation-state produced elsewhere in the course of the nineteenth century./
+#+end_quote
+
+- In the colonies, nationalist movements were lead by the young people, mainly because they were the first generations to grow up in Western-style colonial education.
+- Switzerland was a largely rural and economically small country prior to WW2.
+
+#+begin_quote
+  /In an age when it is so common for progressive, cosmopolitan intellectuals (particularly in Europe?) to insist on the near-pathological character of nationalism, its roots in fear and hatred of the Other, and its affinities with racism, it is useful to remind ourselves that nations inspire love, and often profoundly self-sacrificing love. The cultural products of nationalism – poetry, prose fiction, music, plastic arts – show this love very clearly in thousands of different forms and styles. On the other hand, how truly rare it is to find analogous nationalist products expressing fear and loathing. Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling./
+#+end_quote
+
+- After this passage, author then cites Rizal's /Mi Ultimo Adios/. Chef's kiss.
+
+#+begin_quote
+  /While it is true that in the past two decades the idea of the family-as-articulated-power-structure has been much written about, such a conception is certainly foreign to the overwhelming bulk of mankind. Rather, the family has traditionally been conceived as the domain of disinterested love and solidarity. So too, if historians, diplomats, politicians, and social scientists are quite at ease with the idea of ‘national interest,’ for most ordinary people of whatever class the whole point of the nation is that it is interestless. Just for that reason, it can ask for sacrifices./
+#+end_quote
+
+#+begin_quote
+  /There is a special kind of contemporaneous community which language alone suggests – above all in the form of poetry and songs. Take national anthems, for example, sung on national holidays. No matter how banal the words and mediocre the tunes, there is in this singing an experience of simultaneity. At precisely such moments, people wholly unknown to each other utter the same verses to the same melody./
+#+end_quote
+
+- It is precisely in the idea of nationalism being "imagined" that it is an expression of unity and selfless love. Nation invites belongingness and inclusivity. In contrast, racism seeks to exclude and discriminate, to highlight the unchosen qualities, especially race and color, and use it to impose fear and division.
+- Author also highlights Makario Sakay's Constitution for the Tagalog Republic, to emphasize that reverse racism is hardly ever a thing, and that the sense of nationalism among colonials actually harbored a sense of equality among all races.
 
 
 
@@ -1137,7 +1328,7 @@ fundamental change must cease to function. And when that occurs, the community w
   /De-Europeanizing the Great War by Ottomanizing it underscores how the greater Middle East was central to the causes, course of, and outcomes of World War I as a whole. For Middle East history, thinking in terms of a Long Great War offers an essential framework for identifying, analyzing, and interpreting the complicated processes through which the region’s political order was unmade, reimagined, and remade in a period that extends beyond that conventional dating./
 #+end_quote
 
-- Author places greater focus on the Middle East and North Africa for periodizing the First World War. Interestingly, Morocco is used for anchoring both the start (1911) and end (1934) of the Long Great War.
+- The book is focused on the Middle East and North Africa for periodizing the First World War. Interestingly, Morocco is used for anchoring both the start (1911) and end (1934) of the Long Great War.
 - The author scrutinizes and rejects the standard Sykes-Picot narrative. Notes that it exemplifies the usual problem with periodizing the War to 1914-1918: the narrative assumes that treaties are ironclad and reflect realities on the ground (they don't).
 
 #+begin_quote
@@ -1149,3 +1340,11 @@ fundamental change must cease to function. And when that occurs, the community w
   #+begin_quote
   /Political space, including territorial space, is always produced by political actors—in this case by both local and colonial actors struggling over the region’s future. None of the modern polities or borders in the greater Middle East were unilaterally imposed; all were negotiated over time; and virtually all were actually defined and demarcated, not with the stroke of a pen, but extended periods of warfare./
   #+end_quote
+
+  #+begin_quote
+  /At its core, this book’s counternarrative focuses on how war unmakes political orders and how it provides the conditions in which new political worlds can be made. It traces how three integral processes of this worldmaking—state formation, political identity formation, and territorial boundary formation—shaped the modern Middle East. In this account, interactions involving and entangling international and local actors drove these entwined, but distinct, processes. European colonial powers are neither all powerful nor absent but, rather, provincialized as one set among many contributing actors, including a cast of local leaders and movements, whose power also had potentials and limits./
+  #+end_quote
+
+#+begin_quote
+  /The political boundaries of the modern Middle East, too, were remade through war, not secret agreements or the peace settlement. Borders drawn on maps did not directly create reality; borders were produced over time in tandem with state formation processes, primarily through clashes between rival contenders seeking to establish state-like authority in the post-Ottoman greater Middle East./
+#+end_quote
