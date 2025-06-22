@@ -1,6 +1,6 @@
 #+TITLE: LIBRARY
 #+AUTHOR: adrian
-#+DESCRIPTION: Library of Book Notes
+#+DESCRIPTION: This Library system is a collection of my personal thoughts and collected direct quotes from various books I've read.
 
 * [GENERAL]
 - Alphabetical
@@ -24,6 +24,24 @@
   - three empty lines above each section heading
   - one empty line each above and below a quote block
   - em dash: —
+
+
+
+* AMERICAN REVOLUTIONS
+** /Alan Taylor/
+
+- Contrary to how it's often depicted, the American Revolutionary War wasn't a clear-cut conflict of patriotic Americans against the British. Such a view is meant to prop up nationalistic feelings and emphasize the unity of the Union.
+- In reality, as the author argues, the Revolutionary War was a bloody conflict of an almost civil war-like character.
+
+#+begin_quote
+  /By writing of the American Revolution as pitting “Americans” against the British, historians prematurely find a cohesive, national identity. If we equate Patriots with Americans, we recycle the canard that anyone who opposed the revolution was an alien at heart. We also read American nationalism backwards, obscuring the divisions and uncertainties of the revolutionary era./
+#+end_quote
+
+- The book also takes a more "Atlantic" and "Continental" approach, instead of the conventional narrative that focuses on the East.
+
+#+begin_quote
+  /The founders of the American union understood that they were enmeshed in global networks of trade, culture, diplomacy, and war. As they expected, their actions affected, and were affected by, the rest of the world./
+#+end_quote
 
 
 
@@ -243,6 +261,14 @@ n
 
 - The primary effect of the Zimmerman incident was in uniting the American public in support of intervention. Wilson himself didn't want it, but ultimately gave in to counsel from his advisers and cabinet, who were unanimously in favor of joining the War.
 - Still, Wilson wasn't entirely pressured by the public, and he could've at least opposed intervention and face a divided Congress. And the author thinks such a divided Congress likely wouldn't have approved of intervention had Wilson come out to oppose it too.
+
+#+begin_quote
+  /The year 1917 saw the end of the short-war illusion. Even after military deadlock had set in, the hope that one more heave might yet bring victory had lured both sides on. But unrestricted submarine warfare failed to break the British, and the February Revolution wrecked Allied plans for a new round of synchronized offensives. American power would need at least a year to take full effect, and in the meantime Allied co-operation withered. Weapons output peaked, armies diminished, home-front consensus and troop morale faltered, both sides explored less costly strategies, and both moderated their war aims./
+#+end_quote
+
+- Though the convoy system adopted in 1917 was crucial in reducing shipping losses, it was not the sole factor that helped the Allies. While designed to deter U-boat attacks on merchant ships, the U-boats themselves were dealt with by sea mines, coupled with slower rate of production.
+- Petain's solution to the 1917 mutinies was a combination of accomodation to some of the soldiers' grievances, while also punishing some mutiny leaders as form of deterrence. Overall his strategy was successful, and the issue gradually died down within the year.
+- I'm only lightly touching this section for the year 1917, because the author also has a book specifically for that year of the War. I've read it before, I'll just reread it some other time.
 
 
 
@@ -1337,13 +1363,13 @@ fundamental change must cease to function. And when that occurs, the community w
 
 - Sykes-Picot narrative emphasizes three overlapping British promises: to the Arabs; to the French; and to the Zionist movement. In this narrative, the central problem is with the British reneging on their promise to the Arabs.
 
-  #+begin_quote
+#+begin_quote
   /Political space, including territorial space, is always produced by political actors—in this case by both local and colonial actors struggling over the region’s future. None of the modern polities or borders in the greater Middle East were unilaterally imposed; all were negotiated over time; and virtually all were actually defined and demarcated, not with the stroke of a pen, but extended periods of warfare./
-  #+end_quote
+#+end_quote
 
-  #+begin_quote
+#+begin_quote
   /At its core, this book’s counternarrative focuses on how war unmakes political orders and how it provides the conditions in which new political worlds can be made. It traces how three integral processes of this worldmaking—state formation, political identity formation, and territorial boundary formation—shaped the modern Middle East. In this account, interactions involving and entangling international and local actors drove these entwined, but distinct, processes. European colonial powers are neither all powerful nor absent but, rather, provincialized as one set among many contributing actors, including a cast of local leaders and movements, whose power also had potentials and limits./
-  #+end_quote
+#+end_quote
 
 #+begin_quote
   /The political boundaries of the modern Middle East, too, were remade through war, not secret agreements or the peace settlement. Borders drawn on maps did not directly create reality; borders were produced over time in tandem with state formation processes, primarily through clashes between rival contenders seeking to establish state-like authority in the post-Ottoman greater Middle East./
