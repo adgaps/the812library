@@ -43,6 +43,63 @@
   /The founders of the American union understood that they were enmeshed in global networks of trade, culture, diplomacy, and war. As they expected, their actions affected, and were affected by, the rest of the world./
 #+end_quote
 
+#+begin_quote
+  /During the early eighteenth century, the colonies and Britain became more closely intertwined in a shared empire in which political, economic, cultural, and military initiatives came from the great metropolis of London. Imperial success in war and restraint in  led colonial leaders to glory in the identity of transplanted Englishmen endowed with the same liberties enjoyed by their peers in the mother country. Rather than thinking of themselves as a distinct new people in America, colonists claimed the status of Britons who lived west of the Atlantic./
+#+end_quote
+
+- Slave trade and slavery became highly profitable, and millions of Africans were brought to the American colonies in the process. The colonists had little regard for the slaves' welfare, as they could be easily replaced upon death. Their living conditions were intentionally kept abysmal to lower costs.
+- In Spanish America, slaves had relatively better standing, and racial hierarchy was less sharp and more fluid. This is due to combination of Roman law, the Catholic Church's influence, and the long history of racial mixing.
+- The upper class in British America were known as the "genteel", form which the term "gentleman" (genteel man) derives from.
+  
+#+begin_quote
+  /In the established churches, ministers preached the sacredness of social
+stability and deference to a hierarchy of authority./
+
+  /Colonial churches assigned pews on the basis of family status, with the most prestigious people sitting closest to the minister. That insistence on ranking and order derived from a pervasive anxiety over status competition and social mobility in British America./
+#+end_quote
+
+#+begin_quote
+  /By emphasizing the overwhelming, miraculous, and fundamental power of God acting directly and indiscriminately upon souls, evangelicals weakened the social conventions of their hierarchical society. By insisting that everyone had the right to choose his or her own minister, evangelicals championed individualism, a concept then considered divisive and anarchic. Free choice had radical implications for an unequal society in which husbands commanded wives, fathers dictated to sons, masters owned servants and slaves, and gentlemen claimed deference from common people. Evangelicals argued that no worldly authority should obstruct religious choice, and they charged that great wealth and power rendered men too proud to humble themselves before God: the prerequisite for salvation by a new birth./
+#+end_quote
+
+#+begin_quote
+  /Rejecting the traditional conviction that society should unite under one church, evangelicals promoted a more pluralistic, egalitarian, and voluntary social order. Their itinerant preachers and converts sought freely to cross community and denominational lines. The evangelical style influenced the younger ministers in established churches, for they had to compete to retain parishioners, who liked to sample a range of preachers. Evangelical values prepared many colonists to seek a new society premised on individualism and voluntary association./
+#+end_quote
+
+- The colonies were supposed to be mirrored from the mainland British political system, where a monarch rules over a parliament divided into two chambers: for the aristocrats (House of Lords) and for the general populace (House of Commons). The colonies, for this purpose, have an appointed governor, a council, and a representative assembly.
+- In reality, this system barely functioned the way intended. Governors rule for only a few years and scarcely familiar with their constituencies. The councilors did not hold as much wealth and influence as titled aristocrats in Britain. The assemblies held disproportionately greater power, as a larger percentage of people have properties compared with mainland Britain.
+
+#+begin_quote
+  /Britons and British Americans shared an identity defined against the Catholic French and Spanish, cast as economically backward, religiously superstitious, culturally decadent, and submissive to despotic rule. By contrast, Britons felt especially blessed and enlightened by commerce, civil liberties, the common law, and their Protestant faith./
+#+end_quote
+
+- Though the British won the Seven Years War, it came at the cost of getting saddled by higher colonial expenses and increased debt.
+
+#+begin_quote
+  /After the triumphant war, colonists expected a privileged position as Britons in America. Instead, to their horror, imperial reformers sought a more centralized empire./
+#+end_quote
+
+- The Pontiac Rebellion further hardened colonist sentiment against the natives. The colonists retaliated and on several instances massacred native Indians.
+
+#+begin_quote
+  /British officers concluded that settlers, rather than Indians, posed the greatest threat to imperial peace and order on the frontier. Determined to avoid another expensive war, British officials sought to protect natives from settlers. While colonists drew a harder racial line against Indians, Britons felt a new sympathy for them./
+
+  /But colonists longed to crush and dispossess
+native peoples, if only the British would get out of the way./
+#+end_quote
+
+#+begin_quote
+  /Natives reserved most of their domains for hunting game and gathering roots, herbs, and berries. Men hunted, fished, and built cabins, while women tended crops of corn, beans, and squash planted near their  villages. Lacking courts, jails, bureaucracies, and professional armies, the Indian nations were communities of extended kin. Native nations subdivided into many scattered villages, each with several, competing chiefs who led rival clans. Natives preferred dispersed, weak, and competitive leadership as the best guarantor of their cherished freedom./
+#+end_quote
+
+#+begin_quote
+  /Imperial officials blamed unregulated expansion and land speculation for provoking expensive Indian wars and clashes between landlords and settlers. Imperialists also distrusted colonial leaders who benefited from speculation and expansion. Lacking aristocratic origins, leading colonists were relative upstarts and strivers apparently driven by greed and ambition to defy any restraints sought by the empire./
+#+end_quote
+
+#+begin_quote
+  /Patriots struggled against the double challenge of British taxes and popular discontent. They dreaded losing power over the common colonists to an empire that seized control over revenue and access to frontier land. Worse still, a triumphant empire might deploy Indian allies as frontier enforcers. Although the empire was, in fact, losing that control, its robust pretensions sufficed to scare Patriots into uniting to complete the collapse of imperial authority in the West, where farms, fortunes, and futures were made./
+#+end_quote
+
 
 
 * AVIGNON AND ITS PAPACY
@@ -270,6 +327,13 @@ n
 - Petain's solution to the 1917 mutinies was a combination of accomodation to some of the soldiers' grievances, while also punishing some mutiny leaders as form of deterrence. Overall his strategy was successful, and the issue gradually died down within the year.
 - I'm only lightly touching this section for the year 1917, because the author also has a book specifically for that year of the War. I've read it before, I'll just reread it some other time.
 
+#+begin_quote
+  /A Russian civil war was always likely after the Bolshevik Revolution, given Lenin’s incomplete control of the country and his contempt for his opponents. The Czech revolt both made it possible for the Allies to intervene and gave them a motive, as well as escalating the civil war to a bigger and more savage stage./
+#+end_quote
+
+- As the War entered its last year, the conflict increasingly became more ideological.
+- Support for Wilson's Fourteen Points meant that the Allies encouraged the many nationalities within Habsburg Empire to push for sovereignty. Though not directly intended, the breakup of the Habsburg monarchy became the final consequence of the Allies' policies.
+
 
 
 * IMAGINED COMMUNITIES
@@ -418,7 +482,7 @@ kind. To understand them properly we need to consider carefully how they have co
 ** /Kevin Madigan/
 
 - Two crucial differences between Gnosticism and (early) Christianity:
-  - Gnosticism's end goal is freedom from ignorance; For Christiainity, it's freedom from sin.
+  - Gnosticism's end goal is freedom from ignorance; For Christianity, it's freedom from sin.
   - In Gnosticism, such salvation from ignorance is attainable only by a few. In Christianity, the promise of salvation is extended to everyone, and ideally everyone will be capable of attaining it too.
 - Boethius deliberately did not quote the Scriptures in his work consolation of Philosophy, as he meant it as a meditation on topics like the problem of evil, and free will, in a more philosophical manner.
 - Celtic Christianity was a specific kind of Christianity practiced in the Britain and Ireland. It placed greater emphasis on monasticism than the rest of Europe. Even in hierarchy, monasteries and abbots became substitute to dioceses and bishops, respectively. It is not, however, heretical or schismatic. Celts were never on a brink of breaking with Rome.
@@ -506,6 +570,15 @@ kind. To understand them properly we need to consider carefully how they have co
 
 #+begin_quote
   /No matter how much one confessed, it was impossible to say if one was in a state of grace and justified in the eyes of God. Far from offering relief, the salvific instrumentalities of the late-medieval church could have encouraged hypersensitivity and doubt. In the end, what one group of Christians could feel as consolation, another could feel as anxiety-causing torment and, finally, un-Christian. When Christians split over this issue—on how they might be saved—when the same set of Christian practices and pastoral pieties could generate diametrically opposite emotional and religious responses; when one Christian, emerging from the confessional, could feel serene relief and another near-immediate doubt, the Christian Middle Ages can be said to have come to an end. It was profound disagreement over the issue of the media and mechanism of salvation, then, that did much to sunder the religious unity of the medieval Western church./
+#+end_quote
+
+
+
+* MEDIEVAL EUROPE
+** /Chris Wickham/
+
+#+begin_quote
+  /Many writers about the middle ages have been preoccupied with the origins of those ‘nation’-states, or with other aspects of what they see as ‘modernity’, and for them it is these outcomes which give meaning to the period. This for me is seriously mistaken. History is not teleological: that is to say, historical development does not go to; it goes from. Furthermore, as far as I am concerned, the medieval period, full of energy as it was, is interesting in and for itself; it does not need to be validated by any subsequent developments./
 #+end_quote
 
 
@@ -1374,3 +1447,9 @@ fundamental change must cease to function. And when that occurs, the community w
 #+begin_quote
   /The political boundaries of the modern Middle East, too, were remade through war, not secret agreements or the peace settlement. Borders drawn on maps did not directly create reality; borders were produced over time in tandem with state formation processes, primarily through clashes between rival contenders seeking to establish state-like authority in the post-Ottoman greater Middle East./
 #+end_quote
+
+- The people within Greater Syria region are well aware of foreign plans for partitioning the Middle East.
+- By 1919, the most popular plan among the peoples of Greater Syria is a unified Arab monarchy under King Faisal. A second option is still unified Syria, but under American supervision.
+- Kemal's vision for Turkey began with multiethnic Islamic country, but later evolved to become Turkish nationalist secular republic.
+- European powers honed their aerial warfare capabilities in the Middle East, where planes were greatly used against the various rebel forces in the region.
+- Ibn Saud has incurred large debt from the wars he fought in the creation of Kingdom of Saudi Arabia. To pay for these, he forged an oil agreement with Standard Oil, marking the start of the Kingdom's petroleum industry, that continues to shape the Middle East to this day.
