@@ -30,11 +30,20 @@
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
 
-- Contrary to how it's often depicted, the American Revolutionary War wasn't a clear-cut conflict of patriotic Americans against the British. Such a view is meant to prop up nationalistic feelings and emphasize the unity of the Union.
+- Contrary to how it's often depicted, the American Revolutionary War wasn't a clear-cut conflict of patriotic Americans against the British. Such a view is meant to prop up nationalistic feelings and emphasize the unity of the thirteen colonies.
 - In reality, as the author argues, the Revolutionary War was a bloody conflict of an almost civil war-like character.
 
 #+begin_quote
+  /Only by the especially destructive standards of other revolutions was the American more restrained. During the Revolutionary War, Americans killed one another over politics and massacred Indians, who returned the bloody favors. Patriots also kept one-fifth of Americans enslaved, and thousands of those slaves escaped to help the British oppose the revolution. After the war, 60,000 dispossessed Loyalists became refugees. The dislocated proportion of the American population exceeded that of the French in their revolution. The American revolutionary turmoil also inflicted an economic decline that lasted for fifteen years in a crisis unmatched until the Great Depression of the 1930s. During the revolution, Americans suffered more upheaval than any other American generation, save that which experienced the Civil War of 1861 to 1865./
+#+end_quote
+
+#+begin_quote
   /By writing of the American Revolution as pitting “Americans” against the British, historians prematurely find a cohesive, national identity. If we equate Patriots with Americans, we recycle the canard that anyone who opposed the revolution was an alien at heart. We also read American nationalism backwards, obscuring the divisions and uncertainties of the revolutionary era./
+#+end_quote
+
+#+begin_quote
+  /But that upheaval also generated political and cultural creativity. Indeed, the accomplishments of independence, union, and republican government seem all the more remarkable given the grim civil war at the heart of the revolution. The founders had formidable enemies, internal divisions, and their own doubts, fears, and contentions to overcome. If they fell short in producing equality and liberty for all, they established ideals worth striving for./
+
 #+end_quote
 
 - The book also takes a more "Atlantic" and "Continental" approach, instead of the conventional narrative that focuses on the East.
@@ -44,7 +53,7 @@
 #+end_quote
 
 #+begin_quote
-  /During the early eighteenth century, the colonies and Britain became more closely intertwined in a shared empire in which political, economic, cultural, and military initiatives came from the great metropolis of London. Imperial success in war and restraint in  led colonial leaders to glory in the identity of transplanted Englishmen endowed with the same liberties enjoyed by their peers in the mother country. Rather than thinking of themselves as a distinct new people in America, colonists claimed the status of Britons who lived west of the Atlantic./
+  /During the early eighteenth century, the colonies and Britain became more closely intertwined in a shared empire in which political, economic, cultural, and military initiatives came from the great metropolis of London. Imperial success in war and restraint in politics led colonial leaders to glory in the identity of transplanted Englishmen endowed with the same liberties enjoyed by their peers in the mother country. Rather than thinking of themselves as a distinct new people in America, colonists claimed the status of Britons who lived west of the Atlantic./
 #+end_quote
 
 - Slave trade and slavery became highly profitable, and millions of Africans were brought to the American colonies in the process. The colonists had little regard for the slaves' welfare, as they could be easily replaced upon death. Their living conditions were intentionally kept abysmal to lower costs.
@@ -52,8 +61,7 @@
 - The upper class in British America were known as the "genteel", form which the term "gentleman" (genteel man) derives from.
   
 #+begin_quote
-  /In the established churches, ministers preached the sacredness of social
-stability and deference to a hierarchy of authority./
+  /In the established churches, ministers preached the sacredness of social stability and deference to a hierarchy of authority./
 
   /Colonial churches assigned pews on the basis of family status, with the most prestigious people sitting closest to the minister. That insistence on ranking and order derived from a pervasive anxiety over status competition and social mobility in British America./
 #+end_quote
@@ -97,7 +105,224 @@ native peoples, if only the British would get out of the way./
 #+end_quote
 
 #+begin_quote
+  /Imperial measures seemed to threaten the landed interests and ambitions of leading colonists, but the Crown lacked the means to enforce its reforms. By withdrawing troops from the backcountry while escalating its pretensions to control settlers and speculators, the British created a credibility gap. Imperial measures combined potential threat with real impotence. That combination rendered the empire irritating yet contemptible to colonists who wanted to profit from westward expansion./
+#+end_quote
+
+#+begin_quote
   /Patriots struggled against the double challenge of British taxes and popular discontent. They dreaded losing power over the common colonists to an empire that seized control over revenue and access to frontier land. Worse still, a triumphant empire might deploy Indian allies as frontier enforcers. Although the empire was, in fact, losing that control, its robust pretensions sufficed to scare Patriots into uniting to complete the collapse of imperial authority in the West, where farms, fortunes, and futures were made./
+#+end_quote
+
+- Even in the early 18th century there have already been rumblings about the British Parliament imposing its authority over colonists' assemblies, which the latter hold to be co-equal with the former.
+- Taxes on sugar have been enforced by Parliament on the colonies in the 18th century, but the general response has been muted resentment from the colonists. There was an assumption that another tax could be passed and the opposition will still remain minimal. So in 1765, Parliament passed a stamp tax for the colonies.
+- The stamp tax instead garnered widespread anger and protests. The colonies are still reeling from postwar depression, and many people are already saddled with economic hardships.
+
+#+begin_quote
+  /British leaders had expected little resistance from the diverse mainland colonies with their deep suspicions of one another. But the Stamp Act touched a raw nerve, their aversion to taxes imposed by Parliament, so the crisis generated unprecedented intercolonial communication and cooperation./
+#+end_quote
+
+- Colonists appealed to King George III for help to rein in Parliament. The King sacked PM Grenville, and in 1766 Parliament repealed the stamp tax.
+- On the other hand, as they repealed the tax, Parliament also issued a Declaratory Act, which asserts their sovereign authority over the colonies. The repeal of the tax was widely celebrated in the colonies; the Declaratory Act was received with minimal fanfare.
+- Subsequent tax on some imported goods also garnered widespread protest. This time, boycotts were enforced by a riotous group known as Songs of Liberty, which resorted to violence and intimidation to prevent the trading of boycotted goods.
+- The import duties were subsequently repealed, except for tea. For the most part, this was received with minimal protesting. Consumers largely circumvented this by going for smuggled tea from the Dutch East Indies instead.
+- Parliament tried to undercut the smuggling by imposing smaller taxes for tea from the British East India Company. This angered the merchants who make money from the smuggled tea. A mob boarded a Company ship docked in Boston port and dumped all its tea on the waters.
+- In 1774, Patriot leaders gathered in Philadelphia to convene a First Continental Congress, which coordinated response against the British. The Congress formed a mass boycott system called Continental Association. Towns were called to form their committees of inspection that identified people who refuse to follow the boycott.
+- The Continental Association resulted in violators being shamed and intimidated, and townsfolk were encouraged to police their neighbors to make sure they comply with the boycott.
+
+#+begin_quote
+  /Patriots defended freedom for white men while asserting their domination over enslaved blacks. Patriots understood that dominion in defensive terms, as meant to secure their liberty and property from slaves allegedly manipulated by the British. In the South, the enslaved sought a greater revolution, for they meant to “Alter the World” and regarded Britons, rather than Patriots, as the better champions of true liberty. Although the British performance as liberators lagged far behind the wishful hopes of the enslaved, they could find no better ally./
+#+end_quote
+
+- Despite the open armed conflict between the Patriots and the Loyalists, well into 1776 the Continental Congress still rejected independence. Thomas Paine's pamphlet, Common Sense, was instrumental in swaying the Patriots to the side of independence.
+
+#+begin_quote
+  /Unlike previous political pamphleteers who wrote in a learned and legalistic style, Paine addressed common people in direct and forceful prose./
+
+  /Avoiding the arcane works of political philosophers, Paine quoted only the Bible: the primary text known and revered by his intended readers. For Paine, style was also substance, for he sought to constitute a new readership: a broad and engaged public for a republican revolution. He insisted that common people should no longer defer to gentlemen in politics. Aptly titled, Common Sense spoke to and for common people./
+#+end_quote
+
+#+begin_quote
+  /Paine pushed for immediate independence, a union of thirteen states, and republican governments for those states. All three goals broke dramatically with past experience and received wisdom. No colonies in the Americas had yet revolted from their mother empire; past bickering by the colonies augured poorly for a union; and almost all former republics in Europe had been small, contentious, and short-lived. In a daring stroke, Paine argued that Americans could triumph by combining all three gambles: on independence, union, and republic. Seeking one alone would certainly fail, but the combination would prove invincible. If united in a righteous cause, he insisted, Americans could crush the corrupt mercenaries of a royal tyrant./
+#+end_quote
+
+- Of the thirteen colonies, twelve voted for independence on July 2 1776. New York initially abstained, but voted in favor a week later.
+- The Declaration of Independence was formally adopted and published on July 4 1776. It was ordered disseminated, and the document itself being short enough to fit a newpaper page helped publishing it much easier.
+
+#+begin_quote
+  /A popular myth casts the revolution as waged by a united American people against British rule. That myth derives from Patriot claims to speak for all true Americans, dismissing Loyalists as a deluded few corrupted by the British./
+
+  /After the revolution triumphed, nationalist historians endorsed the Patriot view, marginalizing or ignoring Loyalists to concoct a unifying American identity. In fact, the revolution divided families and neighborhoods./
+#+end_quote
+
+#+begin_quote
+  /Revolutions breed civil wars: triangular struggles in which two sides
+compete for civilian support./
+#+end_quote
+
+#+begin_quote
+  /By sorting Americans into Loyalists and Patriots, we suggest that individuals made quick and definitive decisions based on political principles. Some did, but many more committed slowly, reluctantly, and provisionally./
+
+  /Choosing sides in a civil war was painful and confusing for rural folk, who rarely read a pamphlet or saw a newspaper. People balked at the risks of clear allegiance: exposing their farms to looters, suffering the hardships of a military camp or political prison, or killing others and risking death in combat./
+#+end_quote
+
+#+begin_quote
+  /Political choices were often unstable and temporary. The ebb and flow of victory and defeat in a long war flipped many people from one side to another and sometimes back again with sojourns along the way in the broad ranks of the wavering. Many profited by selling their produce or services to the likely victors: a probability which changed as one force surged at the expense of the other. More often, people acted defensively, switching sides to save farms and lives from the power of the ascendant party./
+#+end_quote
+
+- People were intimidated, pressured, threatened, even killed, for simply being neutral, or just being disaffected and not wanting to get into the conflict.
+- The author is really trying to drive home the point that the Patriots demanded unity under their banner and rooted out opposition, by hook and by crook.
+
+#+begin_quote
+  /Popular history books dwell on the big battles between formal armies and treat the conflict as relatively restrained. That approach neglects the broader and more vicious war conducted by many small raiding parties, composed of a mix of regulars and irregulars, militia and bandits. They ravaged farms and towns to take forage, livestock, clothing, and silver, and they kidnapped or killed the partisans of the other side./
+#+end_quote
+
+- Even prior to the Revolutionary Wars, the colonists already have a tense relationship with the native Indian settlers especially in the west of the 13 colonies. The colonists sought to push westwards little by little, laying claim on native lands for speculation.
+- The war further deteriorated the situation, as many Indian tribes sided with the Europeans. This also amde the colonists more determined to stamp out the Indian settlements once and for all.
+
+#+begin_quote
+  /Spain’s empire remained overstretched and internally volatile. Like the British, the Spanish had imposed reforms meant to rationalize and centralize control, undermining the local power long enjoyed by elite colonists. Unlike the British, the Spanish succeeded in imposing their taxes, more than doubling Crown revenues. Emboldened by success, imperial rulers issued grandiose dictates, which commanded colonial officials to impose tighter control over natives and colonists./
+#+end_quote
+
+#+begin_quote
+  /While waging war in the east against British rule, Patriots fought west of the Appalachians to suppress the independence of native peoples. Patriots meant to create an “empire of liberty” premised on the ability of common whites to obtain private property by taking land from Indians./
+
+  /Jefferson understood the paradoxical lesson that had eluded the British: an empire in America could only hope to appear strong by facilitating the wishes of its citizens, who wanted cheap and fertile land taken as quickly as possible from natives. American leaders needed to ride, rather than resist, the settler wave heading west. While the revolution had western roots, it would also bear western consequences but only after a generous peace treaty rescued the United States./
+#+end_quote
+
+#+begin_quote
+  /The French and Spanish could sustain larger forces in the Caribbean in part because they more readily enlisted and armed free blacks. These empires also had more free blacks to recruit because the Catholic church and their laws encouraged manumissions. A quarter of the blacks in Spanish America were free, compared to less than a twentieth in the British West Indies. More pragmatic in tincturing their racism, the Spanish and French recognized that an armed and intermediary caste of free blacks tended to secure, rather than imperil, the slave system. Struggling to defend their islands, Britons paid a premium to cling to especially rigid racial prejudices./
+#+end_quote
+
+- The war left the French with negligible benefits, and saddled them with large debts. The crisis caused by the national debt would lead to the convening of the Estates General in 1789, and will set in motion two decades of war and revolution in Europe.
+- When the Revolutionary Wars ended, there was suspicion spread by the British that Washington would rule as a military dictator, like Julius Caesar and Cromwell. Instead, in 1783 Washington voluntarily resigned his commission before the Congress in Annapolis, Maryland.
+- After the Wars, Loyalist refugees were violently prevented from resettling into the 13 colonies. They dispersed throughout the other remaining colonies especially in British Canada.
+- In 1781, the thirteen colonies agreed to establish a confederation, the United States of America. The centralizing Congress, however, had little authority over the individual states, which retained their powers.
+
+#+begin_quote
+  /Fertile but roiled by violence, the West fed both short-term pessimism and long-term optimism for the American union. In the vast, western lands drained by navigable rivers, Americans detected a great source of wealth and power. But Indians defended those lands, and federal leaders struggled to control their own settlers. In sum, the West promised either to enrich or to unravel the fragile union./
+#+end_quote
+
+#+begin_quote
+  /Thomas Jefferson drafted the first “Northwest Ordinance,” which Congress provisionally adopted in April 1784. It subdivided the federal domain into ten territories and stipulated that, once any one had 20,000 free citizens, they could convene a convention to draft a republican constitution and send a delegate to Congress. When the settler population reached the threshold of the smallest original state, Rhode Island, the territory could join the union as an equal partner in its powers and share in the national debt. While holding out future statehood, the ordinance bought time for the federal government to sell land within the territories./
+#+end_quote
+
+- The fledgling United States' desire to push westwards pitted the newly-settled Americans in the Federal domain against the native Indians. The Congress was too weak and powerless to diffuse the tensions between the warring settlers and natives. In addition, British and Spanish colonies also checked the United States' expansionist policies.
+  
+#+begin_quote
+  /Republicanism inflated the aspirations of common men, who grumbled when wealthy gentlemen continued to grab the largest land grants, top commands, highest offices, and best contracts. Common folk also bore the greatest sacrifices and hardships of the war. As the conflict dragged on, they resented their increasing burdens from taxes and militia service. They blamed leaders for waging a rich mans war by making it a poor man's fight. The republican promise of equal opportunity invited the dissatisfied to seek more sweeping reforms meant to reduce the power and privileges of genteel leaders./
+#+end_quote
+
+- Part of the need for state constitutions is to avoid the political corruption that the Patriots deem to have stemmed from British Empire having an /unwritten/ constitution.
+
+#+begin_quote
+  /By modern standards, the new state governments were not all that democratic. Although two-thirds of white men could vote for the assembly, they comprised less than a third of all adults because women, black people, and the poorest whites lacked civil rights. Most states also mandated an even stricter property qualification that precluded 90 percent of men from serving as a state senator or governor./
+#+end_quote
+
+#+begin_quote
+  /Unlike democrats, conservatives regarded society as diverse and complex. To suit that vision of society, conservatives desired a more complicated government with a separation of powers, so that two co-equal houses of the legislature, an independent judiciary, and a powerful governor could jealously watch, check, and balance each other. Where democrats concentrated electoral power to fulfill the public will, conservatives sought to limit and complicate the majority’s clout. Distrusting human nature, they regarded inaction (or “gridlock” as we would put it today), as preferable to the hyperactive legislation of popular government./
+#+end_quote
+
+#+begin_quote
+  /Charged with being aristocrats, conservatives had to learn how to mask their elitism in the language of republicanism. Posing as the people’s true champions, conservatives encouraged voters to distrust their legislators as corrupt demagogues. In a stroke of political genius, conservatives packaged a separation of powers as the essence of true republicanism./
+#+end_quote
+
+- Economic crisis in the 1780s pitted Radicals against Conservatives, especially on issues regarding property and price controls. Public order started to deteriorate as riots became widespread.
+- The matter has become severe enough that establishment of a constitutional monarchy was seriously considered. Washington himself at one point thought it might be necessary. Noah Webster, the lexicographer, also penned an essay expressing partiality towards the monarchy option.
+
+#+begin_quote
+  /Contrary to modern belief, the founders did not intend to create a national democracy. Instead, they designed a national republic to restrain state democracies, which they blamed for the union’s woes./
+#+end_quote
+
+#+begin_quote
+  /By restraining democracy in the states, nationalists hoped to save republican government from a descent into anarchy or a switch to monarchy. They wanted also to preserve the union from splitting into several smaller confederacies, or many individual states, which would contest boundaries and  differences with bloody wars./
+#+end_quote
+
+#+begin_quote
+  /Federalists asserted an American people as an act of faith, hoping thereby to generate a self-fulfilling prophecy for the future. An American national identity emerged later, slowly, painfully, and partially. It would follow from that constitution rather than lie behind its creation./
+#+end_quote
+
+#+begin_quote
+  /While claiming to seek the popular will, Federalists tried to limit the ratifying conventions to either approving or rejecting the constitution as a whole, rather than endorse only parts or make ratification contingent upon amendments. By restricting the choice in this way, Federalists maximized their greatest advantage: that they offered an alternative to the ineffectual and unpopular Articles of Confederation. Rather than defend the Articles, most Anti-Federalists proposed sweeping amendments meant to weaken the Federal Constitution./
+#+end_quote
+
+#+begin_quote
+  /Many Americans today celebrate the Federal Constitution as perfectly designed to promote democracy, prosperity, and power: as setting the United States on the road to greatness. In 1789, few Americans were so sure, for they worried that sectional and partisan divisions would tear apart a union that seemed too vast and diverse to last./
+#+end_quote
+
+- George Washington took his oath as first Preseident of the United States of America on 30 April 1789, in the temporary capital city of New York.
+- The new presidency was wrapped in almost monarchical trappings, bolstered by Washington's popularity. He conducted himself, and was presented by the government, in king-like manners. For a moment he was referred to as "His Majesty" and "His Highness".
+
+#+begin_quote
+  /During the spring and summer of 1789, Congress
+created executive departments to assist the president:
+state, war, treasury, and justice. Washington appointed
+their heads, with the approval of the Senate, and
+assembled them as a cabinet to consider major issues.
+In a pivotal development, Washington secured the
+power to dismiss executive officials without the
+Senate’s approval. Thereby the president obtained
+control over his administration, averting dependence
+on majority support in the Senate./
+#+end_quote
+
+- Alexander Hamilton, as secretary of treasury, proposed major financial reforms, including creation of a central bank, and transfer of state debts to the federal government who will henceforth assume responsibility for them.
+- To pass the reforms in Congress, the government agreed on a compromise with Southern lawmakers: the capital will be moved to a spot closer to the south, in Philadelphia.
+- The move to Philadelphia is also meant to be temporary; by that point, there were already plans of building a new and grand capital city along Potomac River. The government finally moved in 1800, to the city named after their president.
+
+#+begin_quote
+  /During the mid-1790s, Federalist policies produced peace, prosperity, and popularity. In the West, the Federalists secured favorable treaties with Spain, the western Indians, and the British Empire. Recovering impressively from the depression of the 1780s, the nation’s economy boomed after 1792. Hamilton’s financial program stabilized the currency and restored investor confidence. The federal assumption of state debts enabled the states to cut their taxes in half. Neutrality in the European war rewarded American shippers with enhanced trade. Merchants paid higher wages, had more ships built, and erected grander homes./
+#+end_quote
+
+#+begin_quote
+  /Federalists and Republicans clashed over the degree of democracy needed to sustain republican government. Federalists insisted that stability required government by an elite secure in the public esteem. Common people should deferentially elect men of superior education, wealth, and status, and those elected officials should enjoy immunity from “licentious” criticism./
+#+end_quote
+
+#+begin_quote
+  /Federalists insisted that the revolution was over and had been a limited struggle for independence, but Republicans countered that the revolution remained incomplete and required the democratic transformation of American society. Attacking the genteel vestiges of colonial hierarchy, Republicans promised to create a liberal society in which an impartial government would secure equal opportunities for common men by refusing any superior privileges for elites. Republicans claimed that equal rights would reward the industrious poor rather than perpetuate the idle rich. Without the allegedly artificial distortions of an elitist government, society would naturally and properly promote equality./
+#+end_quote
+
+#+begin_quote
+  /As the French invaded and conquered their Dutch, Swiss, and Italian neighbors, Federalists soured on the new revolution. Already wary of democracy, Federalists came to see in France the anarchic consequences of unchecked popular power. Rejecting the earlier linkage between the two revolutions, Federalists recast the American Revolution as supposedly decorous, orderly, dignified, and solemn—and, therefore, as a complete contrast to the chaotic French version. Federalists began celebrating Britain as the champion of rational liberty, a reassuring bastion of stable government, and the source of profitable commerce./
+#+end_quote
+
+- As president, Thomas Jefferson worked to further decentralize the government, and ended the use of quasi-regal trappings for the president.
+
+#+begin_quote
+  /Jefferson promoted an “Empire of Liberty,” which favored white men at the expense of Indians and blacks. Rather than restrain westward expansion, as the British Empire and Federalists had tried (and  to do, Jeffersonians helped settlers dispossess Indians. A democratic but racially defined society would expand relentlessly westward, creating thousands of new farms to sustain relative equality among white men. Jeffersonians recognized that the strength of a diffuse nation lay in helping, rather than hindering, ambitious settlers./
+#+end_quote
+
+- Despite the Federalist party never having returned to power after 1800, their legacy and philosophy stayed on with Chief Justice John Marshall, who held the position for over three decades.
+
+#+begin_quote
+  /Any political victory is temporary. Like a kaleidoscope, we continue in every generation to make new combinations of clashing principles derived from the enduring importance and incompleteness of our revolution. The revolution remains embedded as selective memory in every contemporary debate./
+#+end_quote
+
+#+begin_quote
+  /By promising equal rights in an unequal society, the revolution opened social hierarchies to criticism and potential reform./
+#+end_quote
+
+- With no titled nobility and aristocracy, the rich property owners and merchants of the United States became the ruling class.
+- For the first few decades of the United States' existence, it was much cheaper to pirate British books than pay royalties to American writers and publishers.
+
+#+begin_quote
+  /The First Amendment to the Federal Constitution barred the federal government from creating a church establishment, but that ban did not apply to the states—which became political battlegrounds between religious conservatives and their evangelical critics. Conservatives argued that a republic could not survive without the virtuous and moral citizens promoted by state-mandated financial support for religion./
+#+end_quote
+
+#+begin_quote
+  /Religious politics made for strange bedfellows as evangelicals allied with secularists to seek disestablishment. Most leading Patriots felt drawn to the anticlerical ideas of the European Enlightenment, but they valued the public morality promoted by churches./
+
+  /The republic’s leaders sought to sustain a broad practice of religion without favoring any one denomination with an establishment. Indeed, they insisted that religion would prosper if all denominations could freely compete for believers./
+#+end_quote
+
+#+begin_quote
+  /Patriots drew a sharp line between public manhood and female domesticity. Republicanism emphasized the masculinity of the citizen, imagined as willing and able to bear arms in defense of his liberty and the common good. “Effeminate” was the worst insult that a Patriot could hurl at a rival or enemy. This republican formula treated women’s active participation in the revolution as valuable but ephemeral—and unnatural in peacetime./
+#+end_quote
+
+- Many Patriot leaders appealed to equality and liberty, while also brushing aside the issue of slavery. Many who spoke of opposition to slavery were themselves slave owners.
+- Free Blacks were treated lowly, and were forced to settle together in poorly developed areas.
+- Individualism became the hallmark of American society, and the country's continued economic growth and stability beyon 1790 was celebrated as proof of the power of individual freedom.
+
+#+begin_quote
+  /Historians debate how revolutionary the revolution was in its consequences. Some find little substantive change and focus on continuities from the colonial era. Other scholars emphasize expanding economic opportunities and increased political participation by common white men as radical consequences of the revolution. Both views convey only part of the story. The revolution intensified trends already underway, including political assertion by common men, territorial expansion at native expense, and the westward spread of slavery. Acceleration and intensification combined continuity with change./
 #+end_quote
 
 
@@ -334,6 +559,80 @@ n
 - As the War entered its last year, the conflict increasingly became more ideological.
 - Support for Wilson's Fourteen Points meant that the Allies encouraged the many nationalities within Habsburg Empire to push for sovereignty. Though not directly intended, the breakup of the Habsburg monarchy became the final consequence of the Allies' policies.
 
+#+begin_quote
+  /Like the decisions to start the war, those to stop it should be analysed as being in the first instance due to rational appraisal, despite there being evidence that both sides miscalculated./
+#+end_quote
+
+- When Ludendorff and Hindenburg initiated armistice talks, they wrongly assumed that the cessation of hostilities would give them time to prepare for a future resumption of the conflict. They also thought that Wilson's Fourteen Points are vague enough to be skirted around. Finally, they miscalculated the effect an armistice would have on their remaining allies, especially Austria-Hungary.
+- The US wanted to end the War soon as a prolonged conflict could severely damage their economy and the people's morale. Britain and France wanted also an earlier end of hostilities, but mainly because a prolonged War would allow the US to further dominate the Entente alliance, to the European Powers' detriment.
+
+#+begin_quote
+  /The Dual Monarchy was destroyed, as its leaders had long dreaded, by a combination of nationalist uprisings with pressure from outside. By the time it disintegrated neither its bureaucracy nor its army had the will or capacity to control the disaffected nationalities, and Karl preferred to lose his throne peacefully than to embark on a civil war./
+#+end_quote
+
+- By late 1918, the Austro-Hungarian army was so battered that it had practically no capability of suppressing internal revolts even if Vienna wanted to.
+
+#+begin_quote
+  /Whereas the Austro-Hungarian revolutions had been led by pre-formed national committees, the German uprising surprised even the left-wing parties, resembling Russia’s February Revolution rather than that of October. It originated from a mutiny in the fleet, provoked by secret plans for a naval offensive, or Flottenvorstoss, against Britain. Once more a misjudged military initiative made Germany’s situation worse than if no action had been taken, and this time the damage was fatal./
+#+end_quote
+
+
+#+begin_quote
+  /The pandemic was overshadowed by the war at the time as it has been since, perhaps because it was a natural calamity rather than a man-made one, perhaps because most of the dead were not in the west, and perhaps because the world had grown callous. November 1918 was a strange, sad time, another moment of mass hysteria but quite different from that of July 1914./
+#+end_quote
+
+#+begin_quote
+  /Lasting peace (or at least the absence of hostilities) was made possible for the North Atlantic area by the sacrifices of 1914–18, and to this extent there was genuine reason to celebrate in that grey November. The western world was not foredoomed to follow the disastrous trajectory that it pursued in the succeeding decades. Yet the very cost of victory, by undermining political and social stability, had stacked the odds against a peaceful future. No account of the impact and significance of the conflict can be complete without an assessment of its aftermath and its poisoned legacy./
+#+end_quote
+
+#+begin_quote
+  /The First World War was the greatest event of its time, not only for what happened during it but also for its subsequent impact. Its global repercussions extended down to 1945, and arguably to the collapse of Soviet Communism and the end of the Cold War, not to say beyond. It has become customary to see it as the opening of an age of catastrophe, or as the beginning of a ‘short twentieth century’ that lasted until 1989, after which (and especially after 11 September 2001) the world entered a different era./
+#+end_quote
+
+#+begin_quote
+  /As the years have passed – and particularly since a second and even greater world war – that of 1914–18 has become a less dominating imaginative and political landmark. As the ripples from its impact have widened, their strength has diminished. The story of its legacy is one not only of the havoc its repercussions wreaked on western societies in the years that followed it, but also of the processes by which the wounds were healed and the pain assuaged./
+#+end_quote
+
+- The terms of the Treaty of Versailles were written to be simply drafts meant for later renegotiations. Instead, the parties opted to adopt them as the definitive conditions.
+
+#+begin_quote
+  /It became clear almost at once that the Germans would not voluntarily comply with the settlement, and that the Allies faced the prospect of continuing vigilance and confrontation at a time when most of their demobilized soldiers desperately wanted to return to normality and to their private lives. All the same, during the 1920s, although the post-war world was a turbulent place, at least there was little risk of another major armed conflict. By the 1930s even this was no longer true, and hopes that the sacrifices of 1914–18 could ‘end war’ – that they could eliminate the international insecurity that had caused the calamity – were cruelly disappointed. It was probably for this reason more than any other that many not only in the defeated countries but even in the victorious ones came to see the entire enterprise as having been futile, and this perception both modified the way in which the war was remembered and influenced Western politicians in favour of appeasement./
+#+end_quote
+
+- Author argues that the main reason the postwar settlement collapsed is because of disunity.
+- Japan wanted to be recognized as equals with the Western Powers in the Treaty, even if just by general principle. The recommendation was actually approved by majority, but Wilson ultimately ruled that it cannot be accepted.
+- The more central concern for Japan was the issue of Shandong in China. The Japanese wanted to keep it, and convinced the Allies that they will negotiate its return to China in the future. Wilson dissented, but wanting to keep Tokyo in the conference, he ultimately acquiesced.
+
+#+begin_quote
+  /Although the Allies agreed to hold their Arab territories as League of Nations ‘A’ manpdates, which were supposed to be allocated in accordance with the population’s wishes, the report of the King–Crane Commission (composed of two Americans who sounded out local opinion) was disregarded. King and Crane advised  Syria should become a constitutional monarchy under Sharif Hussein’s son Faisal, with the United States or Britain as the mandatory power; and that Arab opinion opposed Jewish immigration into Palestine. Yet  ended up under French rule, and over the next two decades the  of Jews in Palestine multiplied by a factor of nine./
+#+end_quote
+
+#+begin_quote
+  /The Germans struck a chord with many in Britain and America when they charged that the Versailles treaty was a hypocritical Diktat: a dictated peace, imposed by threat of force, violating the armistice agreement, and applying Wilson’s principles one-sidedly. Germany was disarmed, but the Allies were not (although they promised to consider disarmament). Germany lost its colonies, but the Allies kept theirs, and added former German and Ottoman possessions. Self-determination was applied where it would damage Germany, but ignored where it might not. Versailles considerably exceeded a strict reading of the Fourteen Points (for example in the Saar and Rhineland and over war pensions), and the Allies gave Germany little if any credit for the removal of Wilhelm II’s autocracy./
+#+end_quote
+
+#+begin_quote
+  /The treaty could have stopped another bloodbath if it had been upheld. More difficult is the question of whether it sealed the fate of German democracy and ensured the return of a militarist regime. On the one hand, the democratization of the country was incomplete even before the treaty was signed and the elites inherited from before the German revolution had not abandoned their struggle against the Allies. On the other, however, although the treaty certainly inflamed German nationalism, it contained deliberately inserted provisions to allow for relaxation and reconciliation if Germany’s behaviour changed./
+
+  /Although the Germans were entitled to protest against a breach of faith, the terms protected legitimate Allied economic and security needs, they did not predetermine a second round of conflict, and they left a variety of futures open./
+#+end_quote
+
+- The author argues that WW2 isn't inevitable, and wouldn't have happened if only the Treaty was properly implemented.
+
+#+begin_quote
+  /Germany had accepted the peace treaty under nprotest and only when threatened with military action. This did not mean that the Allies had been wrong to halt the war in 1918, but it did mean that they needed to show continuing solidarity and firmness. In fact they only intermittently displayed either, and because they depended for treaty implementation on the German government’s voluntary co-operation their enforcement efforts almost immediately ran into trouble./
+#+end_quote
+
+- Germany's inability to pay war reparations after 1921 led to France occupying the Ruhr mines in 1923. This in turn caused greater financial strain for the Weimar Republic, which ran into hyperinflation.
+- In the US, hundreds of thousands of Black population resettled from the south to the north. Race-related violence spread throughout the country, with the KKK being re-restablished on a national scale. Wilson did not do enough to help out the Blacks.
+
+#+begin_quote
+  /The establishment of a pervasive cult of war commemoration had the potential to act as a conservative, patriotic, integrative force, and governments deliberately encouraged it with this intention. The phenomenon of ‘remembrance’ was one of the most striking novelties of the decade, and it carried a special emotional charge because of the conflict’s human balance sheet./
+#+end_quote
+
+- The large amount of casualties left by the War necessitated a new form of welfare, one aimed at caring for the War veterans.
+- Radical left-wing movements arose immediately following the War, but beaten back by right-wing counteroffensives by early 1920s. In general, moderates partial to the status quo dominated the 1920s. However, right-wing politics also gradually became more intensified.
+
 
 
 * IMAGINED COMMUNITIES
@@ -561,7 +860,7 @@ kind. To understand them properly we need to consider carefully how they have co
 - What gave the Great Western Schism its particular gravity is the fact that the same College of Cardinals that elected Urban VI also elected the other schismatic "antipope".
 
 #+begin_quote
-  /Indeed, the expression of this highly theoretical view of Roman authority coincided with the loss of actual power in the provincial churches, as kings and secular lords asserted their jurisdiction within their realms and created national churches from the ruins of a Christendom that had crumbled. In this, they reversed trends initiated and supported by the papacy since the eleventh century, when the popes had struggled to free the local churches from secular control. The royal powers were helped enormously by the schism, which accelerated the process of the disintegration of Christendom into territorial and national churches. With these powerful and irreversible trends, the theoretical claims of Laetentur Coeli were in preposterous conflict. What seemed to matter to the popes was that claims be made as magnificent as possible, however impossible their chances of achieving actual expression./
+  /Indeed, the expression of this highly theoretical view of Roman authority coincided with the loss of actual power in the provincial churches, as kings and secular lords asserted their jurisdiction within their realms and created national churches from the ruins of a Christendom that had crumbled. In this, they reversed trends initiated and supported by the papacy since the eleventh century, when the popes had struggled to free the local churches from secular control. The royal powers were helped enormously by the schism, which accelerated the process of the disintegration of Christendom into territorial and national churches. With these powerful and irreversible trends, the theoretical claims of/ Laetentur Coeli /were in preposterous conflict. What seemed to matter to the popes was that claims be made as magnificent as possible, however impossible their chances of achieving actual expression./
 #+end_quote
 
 #+begin_quote
@@ -1446,6 +1745,17 @@ fundamental change must cease to function. And when that occurs, the community w
 
 #+begin_quote
   /The political boundaries of the modern Middle East, too, were remade through war, not secret agreements or the peace settlement. Borders drawn on maps did not directly create reality; borders were produced over time in tandem with state formation processes, primarily through clashes between rival contenders seeking to establish state-like authority in the post-Ottoman greater Middle East./
+#+end_quote
+
+#+begin_quote
+  /Over the course the nineteenth century, the Eastern
+  Question referred to the variable resilience of the Ottoman Empire, the physical, economic, strategic, and diplomatic linchpin at the nexus of powerful competing European interests and desires./
+
+  /The Eastern Question became a question when it began to show signs of vulnerability—including the losses of the Crimean Khanate, southern Ukraine, and Bessarabia in defeats to the Russian Empire between 1768–1812—and expansionist European empires began to vie to exploit its weaknesses./
+#+end_quote
+
+#+begin_quote
+  /The two Moroccan crises demonstrated an increasing and dangerous willingness by the European powers to pair colonial competition in the greater Ottoman sphere with military saber-rattling on the continent. These interactions also clarified and solidified the emerging lines of alliance that would shape the Great War./
 #+end_quote
 
 - The people within Greater Syria region are well aware of foreign plans for partitioning the Middle East.
