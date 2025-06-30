@@ -2,7 +2,7 @@
 #+AUTHOR: adrian
 #+DESCRIPTION: This Library system is a collection of my personal thoughts and collected direct quotes from various books I've read.
 
-* [GENERAL]
+* GENERAL
 - Alphabetical
 - Org File
   - Created 26 May 2025
@@ -476,7 +476,7 @@ on majority support in the Senate./
 #+begin_quote
   /Although no continental power had expected so long and punishing an ordeal, their conscription systems meant that they had mostly registered their able-bodied men in peacetime and possessed the machinery to call them up, and also that many men had had military training. Even so, after the first year it proved harder to find trained officers and soldiers than to produce weapons./
 #+end_quote
-n
+
 #+begin_quote
   /Given the extraordinary casualty rates that the war inflicted from its opening weeks, it may seem strange that the manpower crisis that all the belligerents suffered by 1917 did not set in much earlier. Enough men were found not only to keep the fighting going but also to intensify it in the battles of 1916. One reason, paradoxical as it may seem, was trench warfare./
 
@@ -632,6 +632,49 @@ n
 
 - The large amount of casualties left by the War necessitated a new form of welfare, one aimed at caring for the War veterans.
 - Radical left-wing movements arose immediately following the War, but beaten back by right-wing counteroffensives by early 1920s. In general, moderates partial to the status quo dominated the 1920s. However, right-wing politics also gradually became more intensified.
+- European economic growth was much slower in the interwar period than either before WW1 or after WW2. Part of this is because of surplus productions and financial volatility.
+- Despite the signs of economic recovery in the late 1920s, in general the economic issues caused by the war weren't resolved and merely alleviated.
+- When the Great Depression arrived in Europe, it hit the continent very hard. This was further compounded by the countries' refusal to cooperate with each other due to lingering postwar animosity.
+
+#+begin_quote
+  /The war was essential to the Nazi takeover not only through its contribution to the economic crisis but also through its role in reawakening German nationalism as the memory of 1914–18 was re-evaluated./
+
+  /In Germany as elsewhere there had been many war experiences, and many views existed about the significance of the conflict. But ten years after its end changes in the country’s internal and external circumstances created a new receptivity for the message from the radical right./
+#+end_quote
+
+- Pacifism became more widepread in Britain and its territories, fueled by disillusionment from the War. Economic hardships also contributed to unwillingness to assert the terms of Versailles, and made appeasement an attractive policy until 1938.
+- The US also became more isolationist in the interwar period.
+- The retreat of Britain and the United States also affected France's disposition, which tried to forestall conflict by being lenient on the enforcement of Versailles treaty. All these combined precisely at the time when Hitler was rising, thus they were unable to stop him before Hitler achieved full control of Germany.
+- The prevalence of the "stab in the back" mindset also deterred opposition against Hitler, further strengthening his base.
+- After the Second World War, its memory and lessons supplanted those of the First. The 1914-1918 conflict became less significant, and when drawing lessons to past conflicts, future leaders and policymakers went as far back as the interwar period but rarely delved in the First World War.
+
+#+begin_quote
+  /During the Second World War and – more surprisingly – for a decade afterwards, little of note was published about its predecessor. Even among academic historians, the First World War seemed overshadowed and neglected. Only from around 1960 did a second wave of work begin, which arguably has maintained its momentum ever since./
+#+end_quote
+
+#+begin_quote
+  /After 1945 most West German historians still denied Berlin’s primary responsibility in 1914, blaming systemic factors and asserting that none of the powers had wanted war./
+#+end_quote
+
+- Fritz Fischer's work on the origins and war aims of Germany fully blamed the country for initiating the First World War. It continues to spark debates to this day.
+
+#+begin_quote
+  /Even though his first book has better withstood criticism, it overstated the unanimity within the Berlin elite and understated the resemblances between Germany’s war aims and those of the Allies. None the less, most German historians came round to its more nuanced assessment of Germany’s role in the July crisis, and (despite some important qualifications by subsequent writers) much of its analysis of the scope of German wartime ambitions has survived unchallenged./
+#+end_quote
+
+#+begin_quote
+  /Whereas most previous studies of the origins of the war had concentrated on the diplomatic interplay between all the powers, Fischer exploited the new archival sources to highlight the connections between foreign and domestic policy in one country. He inspired a succession of comparable studies of pre-1914 foreign policy and of war aims in the other powers. Hence during the 1970s and 1980s the diplomatic history of the war’s origins, course, and aftermath was substantially rewritten, while the intensification of the superpower arms race in the era of Euromissiles and the Strategic Defense Initiative stimulated interest among political scientists in 1914 analogies. The new research uncovered more  of pre-war contingency planning for a European conflict, but little for any premeditated decision to launch one, and it suggested that war aims in the Allied countries were more tentative, defensive, and detached from domestic conflicts than they were in  None the less, all the belligerent governments paid close attention to their political objectives, and examination of the other powers reinforced Fischer’s essential insight that the killing was begun and prolonged through deliberate political will./
+#+end_quote
+
+- Author notes that while most facets of the First World War hav ebeen receiving steady attention in the recent decades, there's still much unexplored regarding its economic history.
+
+#+begin_quote
+  /To an extent, as the inter-war revisionists argued, the war was indeed the child of fear and insecurity, born of an international system based on armed and sovereign states, in which the developing nineteenth-century forces of democratization and economic integration failed to eclipse the balance of power system. All the European powers contributed to the growth of tension in the pre-1914 decade. None the less, the fundamental contention of the Versailles ‘war-guilt’ article was justified, and the work of writers such as Albertini and Fischer has confirmed it. The rulers of Austria–Hungary and Germany did not predetermine before 1914 their decision to resort to force, but in the July–August crisis they made a decision to start a Balkan war and to accept the risk that it would escalate into a European one. Certainly both governments felt threatened, but for neither was this much of a mitigating circumstance./
+#+end_quote
+
+#+begin_quote
+  /It might seem easiest to adopt the absolute pacifist position – that in no circumstances can force ever be justified – were it not for the evidence that inaction may lead to even greater evils. Yet any decision for war must confront the historical evidence that it is a fearfully blunt instrument, the repercussions of whose use cannot reliably be predicted and which may make matters even worse. Intrinsic to all military undertakings, however legitimate their motives, is the risk that they will violate the principle of proportionality between ends and means, and that they too will lead to a bad war and a bad peace. The 1914–18 conflict and the settlement that followed it remain archetypes of both, and the insights to be gained from studying them have a universal applicability, if only as a distant but a forceful warning./
+#+end_quote
 
 
 
@@ -878,6 +921,24 @@ kind. To understand them properly we need to consider carefully how they have co
 
 #+begin_quote
   /Many writers about the middle ages have been preoccupied with the origins of those ‘nation’-states, or with other aspects of what they see as ‘modernity’, and for them it is these outcomes which give meaning to the period. This for me is seriously mistaken. History is not teleological: that is to say, historical development does not go to; it goes from. Furthermore, as far as I am concerned, the medieval period, full of energy as it was, is interesting in and for itself; it does not need to be validated by any subsequent developments./
+#+end_quote
+
+#+begin_quote
+  /When we are faced with really big events – the end of European peace in 1914, the collapse of the Soviet Union in 1990 – historians tend to divide between those who see the catastrophe as inevitable, with structural causes, often long-term ones, which just happen to come together in a sudden shift, and those who see it as chance, the product of short-term, almost casual, political decisions; or else, when they are more nuanced, between those who, in the mélange of structural and political causes, put more weight on the former or else the latter./
+#+end_quote
+
+- Author argues that structural factors cannot have caused the "fall" of the Roman Empire, as half of the Empire survived.
+
+#+begin_quote
+  /What happened in the fifth century in the western Roman empire, put succinctly, is that ‘barbarian’ incursions from the north, although they had been a feature of most of imperial history, this time led to political breakdown: armies which did not call themselves Roman took over the different western provinces and carved out kingdoms for themselves./
+#+end_quote
+
+- Author argues that the fall of Carthage in 439 was the beginning of the "fall" of the Roman Empire. Without Africa, Rome lost revenue, then lost troops, then became dependent on "barbarian" armies, who finally took control for themselves.
+- As individual Germanic tribes carved out their own provincial kingdoms for themselves, the centralized taxation system that leads back to Rome broke down. From here on, the main source of wealth for the many new kingdoms will be landowning.
+- This point now ties in with another book by this author, *Framing the Early Middle Ages*.
+
+#+begin_quote
+  /The culture of the public, assembly politics, Christianity and the network of bishops, a disappearing tax system and the beginning of the politics of land, a less wealthy aristocracy and a more independent peasantry, a simpler economic system: all these features marked out the post-Roman kingdoms. So did a landed army run by no-longer-civilian aristocrats, which meant that aristocratic values became highly militarised from them on, and remained so for the rest of the middle ages and beyond./
 #+end_quote
 
 
@@ -1756,6 +1817,26 @@ fundamental change must cease to function. And when that occurs, the community w
 
 #+begin_quote
   /The two Moroccan crises demonstrated an increasing and dangerous willingness by the European powers to pair colonial competition in the greater Ottoman sphere with military saber-rattling on the continent. These interactions also clarified and solidified the emerging lines of alliance that would shape the Great War./
+#+end_quote
+
+- Author notes that Germany's first attack against French forces wasn't in mainland Europe, but in Algeria. RMS Breslau and Goeben attacked embarkation ports on 3 August 1914 to prevent transfer of French troops from Africa to Europe.
+- Crucially, these two ships would later also cause the official entry of Ottoman Empire to the conflict, when they entered the Dardanelles and transferred command to the Ottoman Navy.
+- By start of 1915, the Ottomans would suffer a major defeat in the Caucasus, in a battle lead by Enver Pasha against the Russians. This defeat would be blamed on Armenians, and would be a catalyst to the genocide presided over by the Ottoman government.
+- Long before the discovery of oil in Mesopotamia, the British Empire already has protected interests in the region. Mainly, control of Mesopotamia ensured dominance in shipping, as well as keeping other powers such as Russia far from the British Raj.
+
+#+begin_quote
+  /The Ottoman Empire faced a multifronted struggle, on their own territory, to a degree unique among the belligerents in World War I, most of whom only had one or two active military theaters. On almost all of these fronts, the Ottomans were able, remarkably, to hold their own./
+#+end_quote
+
+- The Ottoman fronts were:
+  - Caucasus
+  - Dardanelles
+  - Mesopotamia
+  - Northern Africa
+  - Greater Syria via Sinai
+
+#+begin_quote
+  /In the Middle East, the war had required total mobilization of the general population, which had suffered tremendously because of food shortages exacerbated by the Allied blockade and the horrific purges of suspect populations, forced resettlement, and genocide of Armenian and Assyrian populations  the empire. On each of the fighting fronts discussed—in the Caucasus and eastern Anatolia, Mesopotamia, Northern Africa, and in Arabia and Syria—the way the war played out transformed political horizons. Rather than being fixed, these boundaries of collective political solidarity were in tremendous flux within the fluid post-armistice environment./
 #+end_quote
 
 - The people within Greater Syria region are well aware of foreign plans for partitioning the Middle East.
