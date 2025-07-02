@@ -43,7 +43,6 @@
 
 #+begin_quote
   /But that upheaval also generated political and cultural creativity. Indeed, the accomplishments of independence, union, and republican government seem all the more remarkable given the grim civil war at the heart of the revolution. The founders had formidable enemies, internal divisions, and their own doubts, fears, and contentions to overcome. If they fell short in producing equality and liberty for all, they established ideals worth striving for./
-
 #+end_quote
 
 - The book also takes a more "Atlantic" and "Continental" approach, instead of the conventional narrative that focuses on the East.
@@ -92,8 +91,7 @@
 #+begin_quote
   /British officers concluded that settlers, rather than Indians, posed the greatest threat to imperial peace and order on the frontier. Determined to avoid another expensive war, British officials sought to protect natives from settlers. While colonists drew a harder racial line against Indians, Britons felt a new sympathy for them./
 
-  /But colonists longed to crush and dispossess
-native peoples, if only the British would get out of the way./
+  /But colonists longed to crush and dispossess native peoples, if only the British would get out of the way./
 #+end_quote
 
 #+begin_quote
@@ -144,8 +142,8 @@ native peoples, if only the British would get out of the way./
   /Paine pushed for immediate independence, a union of thirteen states, and republican governments for those states. All three goals broke dramatically with past experience and received wisdom. No colonies in the Americas had yet revolted from their mother empire; past bickering by the colonies augured poorly for a union; and almost all former republics in Europe had been small, contentious, and short-lived. In a daring stroke, Paine argued that Americans could triumph by combining all three gambles: on independence, union, and republic. Seeking one alone would certainly fail, but the combination would prove invincible. If united in a righteous cause, he insisted, Americans could crush the corrupt mercenaries of a royal tyrant./
 #+end_quote
 
-- Of the thirteen colonies, twelve voted for independence on July 2 1776. New York initially abstained, but voted in favor a week later.
-- The Declaration of Independence was formally adopted and published on July 4 1776. It was ordered disseminated, and the document itself being short enough to fit a newpaper page helped publishing it much easier.
+- Of the thirteen colonies, twelve voted for independence on 2 July 1776. New York initially abstained, but voted in favor a week later.
+- The Declaration of Independence was formally adopted and published on 4 July 1776. It was ordered disseminated, and the document itself being short enough to fit a newpaper page helped publishing it much easier.
 
 #+begin_quote
   /A popular myth casts the revolution as waged by a united American people against British rule. That myth derives from Patriot claims to speak for all true Americans, dismissing Loyalists as a deluded few corrupted by the British./
@@ -154,8 +152,7 @@ native peoples, if only the British would get out of the way./
 #+end_quote
 
 #+begin_quote
-  /Revolutions breed civil wars: triangular struggles in which two sides
-compete for civilian support./
+  /Revolutions breed civil wars: triangular struggles in which two sides compete for civilian support./
 #+end_quote
 
 #+begin_quote
@@ -252,16 +249,7 @@ compete for civilian support./
 - The new presidency was wrapped in almost monarchical trappings, bolstered by Washington's popularity. He conducted himself, and was presented by the government, in king-like manners. For a moment he was referred to as "His Majesty" and "His Highness".
 
 #+begin_quote
-  /During the spring and summer of 1789, Congress
-created executive departments to assist the president:
-state, war, treasury, and justice. Washington appointed
-their heads, with the approval of the Senate, and
-assembled them as a cabinet to consider major issues.
-In a pivotal development, Washington secured the
-power to dismiss executive officials without the
-Senate’s approval. Thereby the president obtained
-control over his administration, averting dependence
-on majority support in the Senate./
+  /During the spring and summer of 1789, Congress created executive departments to assist the president: state, war, treasury, and justice. Washington appointed their heads, with the approval of the Senate, and assembled them as a cabinet to consider major issues. In a pivotal development, Washington secured the power to dismiss executive officials without the Senate’s approval. Thereby the president obtained control over his administration, averting dependence on majority support in the Senate./
 #+end_quote
 
 - Alexander Hamilton, as secretary of treasury, proposed major financial reforms, including creation of a central bank, and transfer of state debts to the federal government who will henceforth assume responsibility for them.
@@ -287,7 +275,7 @@ on majority support in the Senate./
 - As president, Thomas Jefferson worked to further decentralize the government, and ended the use of quasi-regal trappings for the president.
 
 #+begin_quote
-  /Jefferson promoted an “Empire of Liberty,” which favored white men at the expense of Indians and blacks. Rather than restrain westward expansion, as the British Empire and Federalists had tried (and  to do, Jeffersonians helped settlers dispossess Indians. A democratic but racially defined society would expand relentlessly westward, creating thousands of new farms to sustain relative equality among white men. Jeffersonians recognized that the strength of a diffuse nation lay in helping, rather than hindering, ambitious settlers./
+  /Jefferson promoted an “Empire of Liberty,” which favored white men at the expense of Indians and blacks. Rather than restrain westward expansion, as the British Empire and Federalists had tried (and failed) xto do, Jeffersonians helped settlers dispossess Indians. A democratic but racially defined society would expand relentlessly westward, creating thousands of new farms to sustain relative equality among white men. Jeffersonians recognized that the strength of a diffuse nation lay in helping, rather than hindering, ambitious settlers./
 #+end_quote
 
 - Despite the Federalist party never having returned to power after 1800, their legacy and philosophy stayed on with Chief Justice John Marshall, who held the position for over three decades.
@@ -941,6 +929,24 @@ kind. To understand them properly we need to consider carefully how they have co
   /The culture of the public, assembly politics, Christianity and the network of bishops, a disappearing tax system and the beginning of the politics of land, a less wealthy aristocracy and a more independent peasantry, a simpler economic system: all these features marked out the post-Roman kingdoms. So did a landed army run by no-longer-civilian aristocrats, which meant that aristocratic values became highly militarised from them on, and remained so for the rest of the middle ages and beyond./
 #+end_quote
 
+#+begin_quote
+  /Justinian is, and was then, a controversial figure; his uncompromising toughness and his huge ambition, often expressed in original ways – both Hagia Sophia and his legal reforms were unprecedented in their scale – produced critics and vocal enemies./
+#+end_quote
+
+#+begin_quote
+  /From as early as the 640s, the caliphs seem to have decided that the Arab armies would not settle on the land, as Germanic groups had done earlier, but instead were to be settled in cities and paid directly from taxation – the taxation, that is to say, which already existed in both the Roman empire and Persia, and which would still be for a long time collected and administered by traditional Roman and Persian élites. The practice of supporting the army, the ruling class and the state by a sophisticated system of taxation never failed in the Arab world./
+#+end_quote
+
+#+begin_quote
+  /As with the end of the western Roman empire, the Arab conquests have been viewed by much western scholarship through a veil of moralisation, about the failure of civilisation and the imperial project, and the triumph of barbarism./
+
+  /They have also been seen though the lens of Orientalism: this was the moment when the eastern and southern Mediterranean ceased to be part of a common civilisation with the northern coasts, and became an Other, full of incomprehensible intrigue and harsh and repetitive – indeed, essentially meaningless – changes of régime, under a harsh sun./
+
+  /It was also only too easy for Christian polities to see Muslim ones as existential threats, and sometimes they acted on that imagery, as, most dramatically, at the time of the crusades; and it was certainly much harder for the Christian polities to learn from the Muslim ones, even when there was much to learn. We have to recognise this difference, while not being taken in by it./
+#+end_quote
+
+- Author notes that the period when iconoclasm became a major religious crisis in the Byzantine Empire, was also roughly the time when caliphates banned human imagery in religious representations. However the author was also quick to note that this does not necessarily mean causation.
+
 
 
 * NO ENCHANTED PALACE
@@ -1030,6 +1036,23 @@ kind. To understand them properly we need to consider carefully how they have co
 
 #+begin_quote
   /Imperialist thinking shaped ideas about how sovereign statehood should be constituted and when independent nations should be recognized. Its traces were evident in everything from the constitutional plans of late colonial reformists and the calamities of partition to the developmental projects and human rights discourses promoted by supranational agencies and NGOs in the 1960s and beyond. The decolonizing world was assigned junior status within this global political geography, its elevation to full integration dependent on foreign-led modernization, capital investment, and technology transfer./
+#+end_quote
+
+
+
+* THE FATE OF AFRICA
+** /Martin Meredith/
+
+#+begin_quote
+  /Although Africa is a continent of great diversity, African states have much in common, not only their origins as colonial territories, but the similar hazards and difficulties they have faced. Indeed, what is so striking about the fifty-year period since independence is the extent to which African states have suffered so many of the same misfortunes./
+#+end_quote
+
+- Well into the 20th century, until postwar period, much of African colonies were governed by just a few hundred colonial administrators.
+- 6 March 1957, Ghana formally became an independent republic. Its first prime minister, Kwame Nkrumah, was a self-proclaimed Marxist Socialist who overwhelmingly won the election while imprisoned for sedition.
+- Gamal Abdel Nasser's 1952 coup successfully ended the 140-year rule of the Alawiyya dynasty. King Farouk was forced to abdicate and exiled to Europe. Naseer's Free Officers took the helm, marking the first time in 2500 years that Egypt is ruled by a native Egyptian.
+
+#+begin_quote
+  /Far from precipitating Nassers downfall, the Suez invasion propelled him to a pinnacle of prestige and influence. He was acclaimed and idolised as a latter-day Saladin, the architect of Western defeat and humiliation, the Rayyes or leader who had withstood the triple aggression, as the Suez war was called in the Arab world, and broken the spirit of imperialism, a miracle-worker possessed of extraordinary vision and wisdom./
 #+end_quote
 
 
@@ -1839,8 +1862,88 @@ fundamental change must cease to function. And when that occurs, the community w
   /In the Middle East, the war had required total mobilization of the general population, which had suffered tremendously because of food shortages exacerbated by the Allied blockade and the horrific purges of suspect populations, forced resettlement, and genocide of Armenian and Assyrian populations  the empire. On each of the fighting fronts discussed—in the Caucasus and eastern Anatolia, Mesopotamia, Northern Africa, and in Arabia and Syria—the way the war played out transformed political horizons. Rather than being fixed, these boundaries of collective political solidarity were in tremendous flux within the fluid post-armistice environment./
 #+end_quote
 
-- The people within Greater Syria region are well aware of foreign plans for partitioning the Middle East.
+- The people within Greater Syria region are well aware of foreign plans for partitioning the Middle East. In particular, details about the Balfour Declaration and the Sykes-Picot agreement spread across the region after the Bolshevik government declassified war-related treaties and accords.
+- The 1919 King-Crane Commission showed that: majority of the population in Greater Syrian region favored independence; that they were wary, even opposed, to the Zionist program put forward by the European powers; and that the British and the French are asserting their mandate over these peoples.
 - By 1919, the most popular plan among the peoples of Greater Syria is a unified Arab monarchy under King Faisal. A second option is still unified Syria, but under American supervision.
+- Armenian and Kurdish delegations received sympathetic audience in Paris. However, very little was done on the ground to address their concerns.
+- The Allies partitioned Anatolia among themselves, and Greek forces also moved on their own to occupy Izmir. Resistance to continued Allied occupation was organized and lead by Mustafa Kemal.
+- The Syrian Congress declared independence on 8 May 1920, with King Faisal as head of state. The French forces moved to quell the independece movement, and in a few months ousted Faisal and gained control over Greater Syria, placing it under French mandate.
+
+#+begin_quote
+  /The cost of imposing the mandate in Iraq had been high, with six thousand Iraqi lives lost and five hundred British and Indian soldiers. Monetarily it cost the British one hundred million pounds in direct and indirect costs, five times the budgeted annual allotment for the whole mandate administration. On the Iraqi side, the experience of mobilization, military confrontation, and brutal suppression up and down the Tigris and Euphrates, though still largely local, also strengthened a nascent larger collective solidarity./
+#+end_quote
+
+- Unlike with the rest of the Middle East, only one European power staked claims on the Arabian peninsula: the British Empire. The conflict in the region will be between proxies of two British political groups.
+- The Cairo Office supported Sharif Husayn of Hejaz. The India Office supported Ibn Saud of the Najd. The Paris Conference ultimately recognized Sharif Husayn's Kingdom of Hejaz.
+
+#+begin_quote
+  /Much more than the infamous Sykes-Picot Agreement, it was in the League of Nations–ratified Sèvres treaty that the European powers actually drew lines on the map, negotiated which colonial power got what, and determined which local claims were recognized over others. As a “final” settlement, however, the article-by-article peace terms set out on paper and signed that August glossed over the complex, continuing wartime interactions in the region that were, even at the moment the treaty was being signed, rapidly making the treaty terms a dead letter./
+#+end_quote
+
+- Egypt became the British launch point for Ottoman campaigns. The country and its people felt that their heavy involvement and sacrifices in the War should be reciprocated with independence.
+- The arrest of Egyptian delegation sparked massive protests and anti-British attacks. The British carefully considered their predicament, and ultimately relented, giving Egypt nominal independence on 22 February 1922.
+
+#+begin_quote
+  /Though settled in international law, Morocco was far from a settled polity on the ground. The French, Spanish, and Alawites (the Moroccan dynasty) were all far from exercising much actual state control, and Morocco itself was far from even being a clearly defined territorial entity. The “Morocco” cursorily referred to in the Sèvres treaty had been split up in 1912 in complicated ways among French, Spanish, and international (around Tangier) zones, but these zones’ actual boundaries remained fuzzy./
+#+end_quote
+
+- France and Spain maintained their respective areas of control in Morocco. The French side has a more centralized lowlands region including Rabat, and a mountainous region where they are content with loose control over the tribes.
+- Spanish troops, after the War, pushed to establish control over the mountainous regions in their zone. This ignited uprising among the tribes, which united under the leadership of Mohamed bin Abd el-Krim.
+- The Spanish were repeatedly pushed back, suffering massive defeats, and even French cooperation was not enough. In early 1920s Abd el-Krim lead the creation of al-Jumhuriyya al-Riffia, the Rif Republic.
+
+#+begin_quote
+  /The Arabian Peninsula was one of the few places in the greater Middle East in which there was no European colonial state in formation attempting to directly reshape the postwar map. A British zone of influence in the peninsula was internationally accepted (though Italy made a play for influence in Yemen), yet within this zone, outside of the Aden Protectorate (established in 1839), the British acted more as a referee than an active player in struggles amongst multiple local emerging polities./
+#+end_quote
+
+#+begin_quote
+  /The onset of the war, the defeat of the Ottoman Empire, and the increase of revenue and support streams from external sources had made new political visions thinkable for multiple local actors in the Arabian Peninsula. These included the Hashemites in the Hejaz, the Rashidis in Ha’il, the Saudis in the Najd, the Sabbagh family in Kuwait, the various emirates between Kuwait and Oman, the Idrissid amir in Asir, and the Imam in Yemen. In stark contrast to other regions where local emerging polities (like the Rif or Sanusi proto-states) had to compete against European colonial states, in Arabia they had to compete with each other./
+#+end_quote
+
+- Turkey and Soviet Russia sorted their claims in the Caucasian region through the Treaty of Moscow in 1921. Later that year, Turkey reaffirmed the boundaries together with Georgia, Armenia, and Azerbaijan, in the Treaty of Kars.
+- To bolster his revolution against the European powers, Mustafa Kemal initially emphasized Turkish pluralism, where Turks, Kurds, and other ethnic groups are united against their conquerors.
+- Once the Republic of Turkey has established itself, however, Kemal and his government pivoted to Turkish homogenization and suppression of ethnic pluralism, asserting the use of Turkish language throughout the country inlcuding in Kurdistan.
 - Kemal's vision for Turkey began with multiethnic Islamic country, but later evolved to become Turkish nationalist secular republic.
+- Both Turkey and Britain laid claim on Kurdistan, and mobilized their own Kurdish factions to vie control for the region. Turkey's suppression of Kurdish sympathies in its border ultimately worked against them, as the League of Nations deemed it better to give Mosul to British-controlled Iraq instead.
+- By 1925, the Rif Repulic was able to establish infrastructure to assert its territorial integrity, stationing border and customs guards and building some usable road networks.
+- Abd el-Krim also recognized the significance of international recognition, and employed diplomatic means to assert and gain support for independence. This diplomatic campaign indeed garnered support from all over the world.
+- Combined French and Spanish forces gradually broke through the Rif Republic, and Abd el-Krim surrendered in 1926, though he also encouraged individual tribes to continue resistance. The Rif Republic was finally suppressed in 1927.
 - European powers honed their aerial warfare capabilities in the Middle East, where planes were greatly used against the various rebel forces in the region.
-- Ibn Saud has incurred large debt from the wars he fought in the creation of Kingdom of Saudi Arabia. To pay for these, he forged an oil agreement with Standard Oil, marking the start of the Kingdom's petroleum industry, that continues to shape the Middle East to this day.
+
+#+begin_quote
+  /The war drove transformational state, collective identity, and boundary-making processes for all the parties involved. The extended wartime experience has for generations since shaped notions of collective identity. The Rif resistance also fired the imagination of urban and rural communities elsewhere in Morocco for anticolonial struggle that would take various forms over subsequent decades. For the Spanish and French, the threat of the Rif Republic forced massive mobilization and massive expenditures to extend the reach of the colonial states in their respective zones. It was also in and through the exigencies of total colonial war that spatializing technologies like cartography, surveying, aerial photography, physical occupation, and scientific surveying had to be deployed to delineate and monopolize state space in the rugged interior terrain of northern Morocco./
+#+end_quote
+
+#+begin_quote
+  /These nearly synchronic Kurdish, Riffi, and Syrian jihads—the term most of their participants used to refer to these struggles—launched in the spring and summer of 1925 gave lie to any presumption that the 1923 Treaty of Lausanne had finally crystallized the post-Ottoman political order of the modern Middle East. The Lausanne treaty officially recognized the dramatic transformations the Turkish Republic had achieved, but, as with Sèvres, there still remained a huge gap between the treaty terms and still unsettled political realities in eastern Anatolia, Greater Syria, and Northwest Africa. At friction points across the region, viable colonial and local polities that emerged in the wake of the fall of the Ottoman Empire continued to clash in crescendoing waves of large-scale military conflict in the mid and late 1920s./
+#+end_quote 
+
+- Ibn Saud and his Ikhwan allies disagreed on the nature of their territorial borders. The former wanted well-defined borders, the latter want continuous expansions. Ibn Saud used this conflict to consolidate power and fully expand his territory to encompass the Arabian peninsula. In 1932, Ibn Saud established his consolidated state's identity as the Kingdom of Saudi Arabia.
+- Ibn Saud has incurred large debt from the wars he fought in the creation of Kingdom of Saudi Arabia. To pay for these, he forged an oil agreement with Standard Oil, marking the start of the Kingdom’s petroleum industry, that continues to shape the Middle East to this day.
+
+#+begin_quote
+  /By the mid-1930s, the region-wide period of sustained wartime catalyzed in 1911 by French and Italian expansion into Northern Africa, which had unmade the previous political order from Morocco to Iran and through which the greater Middle East was remade into an interstate system of local and colonial polities, drew to a close. Though the region would again soon be swept up into another world war and tumultuous struggles for decolonization, none of these conflicts would fundamentally transform the political topography reimagined and forged through the Long Great War./
+#+end_quote
+
+#+begin_quote
+  /By tracing out how the Long Great War unmade political worlds and served as the crucible in which new political worlds were imagined and put in motion, this book’s alternate narrative has shown that the new map of the modern Middle East was not imposed but reshaped over time as rival colonial and local clashed violently into the 1920s and 1930s. States, identities, and spatial boundaries were transformed through war, not a peace settlement./
+#+end_quote
+
+#+begin_quote
+  /The Sykes-Picot myth primes us presuppositionally with an intuitive Edenic counterfactual in which “natural” borders could have been drawn but were transgressed. The implicit assumption is that some sort of primordial post-Ottoman ethnonational communities in fact existed and were spatially bounded, and, by extension, that the colonial and local actors had fixed ideas and preferences that were diametrically opposed. This ignores the historical record, traced throughout this book, of colonial and local actors repeatedly recalculating and reimagining new political futures, with adjusted social and physical boundaries, based on opportunity contexts that shifted as competing projects came into conflict and new facts on the ground were established./
+#+end_quote
+
+#+begin_quote
+  /What the European colonial powers did wrong was to repeatedly, persistently, and violently intervene, shaping the region’s political institutions by buttressing authoritarian colonial state structures whose legacies continue to impact the modern Middle East. In sum, if you are going to assign blame, don’t blame the borders—blame the politics and political systems colonial powers crushed or reinforced within the borders./
+#+end_quote
+
+#+begin_quote
+  /What the British did wrong was to pursue an ambivalent, at times schizophrenic, ethnoreligious divide-and-rule policy in which they never midwifed representative political structures through which a Palestinian Jewish and Arab unified polity could emerge. Instead, they helped birth a zero-sum game of competitive Zionist and Palestinian nation-building that continues, with brutal human costs, to the present./
+#+end_quote
+
+#+begin_quote
+  /It is important to not veer too far toward naively idealizing the self-determining political futures that “might have been” across the region. History rarely offers up black and white stories with clear good and bad guys; the Long Great War framework, which itself contains multiple counterfactuals to the Sykes-Picot narrative, shows us how much the making of the modern Middle East is a study in greys./
+#+end_quote
+
+#+begin_quote
+  /But, in finally forgoing the myth that the region’s "Fall" is because of the original sin of imposed, artificial borders, we can  that the Middle East is neither perpetually cursed by the Great War legacy nor think that its salvation lies in either external powers or local actors simply redrawing these boundaries. The deeper issue is political. Being able to see how new worlds were created in the Middle East in the Long Great War helps us see that they can be reimagined and remade now and in the future—and therein lies hope./
+#+end_quote
