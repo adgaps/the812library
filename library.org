@@ -946,6 +946,15 @@ kind. To understand them properly we need to consider carefully how they have co
 #+end_quote
 
 - Author notes that the period when iconoclasm became a major religious crisis in the Byzantine Empire, was also roughly the time when caliphates banned human imagery in religious representations. However the author was also quick to note that this does not necessarily mean causation.
+- The political structure of the Carolingian Empire, starting with Charlemagne, is considered an innovation over the traditional Roman structure. Local units were still ruled by various local aristocrats, but their roles are more well-defined, and even bishops were granted judicial roles. Charlemagne also sent out bureaucrats to occasionally check on these local rulers and stamp out irregularities.
+
+#+begin_quote
+  /Frankish élites had long assumed that they were by definition more virtuous than everybody else; but Charlemagne’s and Louis’s court, and schools, certainly gave them new reasons for believing it./
+#+end_quote
+
+#+begin_quote
+  /Everything in Carolingian high politics was by now so tied up with the validation of divine approval that resolutions of political problems by means of penitential and other ecclesiastical ritual were seen by every player as entirely appropriate procedures. This religious understanding was not exactly practical (indeed, the panic of 828–29 could easily be seen as a huge waste of everyone’s time), but that was not the point. Even in crisis, the Carolingian political world was ambitious beyond ordinary levels, for they assumed that everything they did, including when they did it badly, was crucial to God./
+#+end_quote
 
 
 
@@ -1053,6 +1062,30 @@ kind. To understand them properly we need to consider carefully how they have co
 
 #+begin_quote
   /Far from precipitating Nassers downfall, the Suez invasion propelled him to a pinnacle of prestige and influence. He was acclaimed and idolised as a latter-day Saladin, the architect of Western defeat and humiliation, the Rayyes or leader who had withstood the triple aggression, as the Suez war was called in the Arab world, and broken the spirit of imperialism, a miracle-worker possessed of extraordinary vision and wisdom./
+#+end_quote
+
+#+begin_quote
+  /After 124 years of/ la présence française /in Algeria, French colons – or /pieds noirs, /as they were called – had achieved a total grip on political power, commerce, agriculture and employment, effectively relegating the majority Muslim population – Arab and Kabyle – to a subservient status and stubbornly resisting all attempts at change./
+
+  /In the turbulent postwar era, as a succession of French governments struggled to survive amid strikes, inflation, austerity and a debilitating war in Indo-China, none was willing to risk antagonising the pied noir population and their supporters for the sake of reform in Algeria. Moderate Algerian nationalists seeking reform were consequently given short shrift./
+#+end_quote
+
+- Anti-French guerilla operations began in 1947, and gradually intensified over the years. A failed operation against French police and military infrastructure in 1954 lead to increasingly violent and indiscriminate reprisals against the Muslim population.
+- By 1955, the insurgency became a full-blown conflict, as the FLN began mass attacks against the white civilians. It reached even higher escalation in 1956 when the French government authorized conscription and called up reservists to quell the Algerian nationalist movement.
+- As the conflict dragged on, metropolitan France was plagued by economic hardships, which lead to successive governments collapsing and long periods without one. The military became increasingly agitated, and boiled over in May 1958 with the murder of French conscripts in Algeria.
+- With massive clamor from both military and the /pied noirs/ in Algeria, the wartime leader General Charles de Gaulle was swept into power and granted unprecedented powers to rule by decree.
+
+#+begin_quote
+  /In the postcolonial era,/ l’Afrique Noire /was regarded as part of France’s/ chasse gardée /– a private estate, jealously guarded against encroachment by other world powers. Indeed, the changes that occurred were largely ceremonial. In place of a French-controlled administration, the new states were now run by elite groups long accustomed to collaborating with the French and well attuned to French systems of management and culture. Though popularly elected, they were separated by a wide social and cultural gulf from the mass of the population. Their ambitions lay more in accumulating positions of power, wealth and status, more in developing a high bourgeoisie, than in transforming society./
+#+end_quote
+
+- Throughout the British colonies in Africa there was a sense that independence is much preferable than all the troubles of trying to mainin fragile colonial links, including nationalist groups aligning to Soviet communism.
+- Throughout the 1960s, British colonies gained independence, through rushed processes that left the new countries with inexperienced bureaucrats and underdeveloped economic autonomy.
+
+#+begin_quote
+  /So rapid was the pace of change that in some cases British officials dealing with arrangements for the transfer of power – new constitutions, elections  parliamentary legislation – were hard pressed  complete them in time./
+
+  /For all the unseemly haste, the transfer of power was accomplished efficiently and with a  amount of goodwill. One by one, the new states emerged amid much jubilation and to the world’s applause./
 #+end_quote
 
 
@@ -1653,6 +1686,10 @@ fundamental change must cease to function. And when that occurs, the community w
 
 - However science settles its paradigmatic conflicts, ultimately it rests on specialized communities rather than appeals to political and social authorities. Science is inherently self-selecting and way more insulated from external interference than other professional fields.
 - Towards the end of the book, Kuhn briefly notes that science as we know it is a product of Western Civilization, and that no other civilization has achieved the level of scientific pursuits that the West has done. West-centric, but not necessarily wrong given the time period the author lived in.
+
+#+begin_quote
+  /A scientific community consists, on this view, of the practitioners of a scientific specialty. To an extent unparalleled in most other fields, they have undergone similar educations and professional initiations; in the process they have absorbed the same technical literature and drawn many of the same lessons from it. Usually the boundaries of that standard literature mark the limits of a scientific subject matter, and each community ordinarily has a subject matter of its own./
+#+end_quote 
 
 
 
