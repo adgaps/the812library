@@ -16,7 +16,7 @@ I mainly read history books, so that's what most of these books will be about. S
 
 Books are organized alphabetically. These are a mix of stuff I've read since 2017, when I started keeping track of my books. Books and notes are constantly added, as I consolidate both past and recent notes I've made across various media and note taking apps.
 
-These notes were taken as I read through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
+These notes are taken as I go through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
 
 Some books are heavily noted, some aren't. I'm not very consistent about these, and there are also personal circumstances that could've affected my note taking routine.
 
@@ -30,7 +30,7 @@ As I build this library, I will think of other "features" I can add to make this
 I am not in a hurry to implement anything, however.
 
 
-**CREATION DATE: 26 MAY 2025**
-**SOFTWARE USED: GNU EMACS 30.1**
+*CREATION DATE: 26 MAY 2025*
+*SOFTWARE USED: GNU EMACS 30.1*
 
 

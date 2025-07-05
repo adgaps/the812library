@@ -1,6 +1,6 @@
 #+TITLE: LIBRARY
 #+AUTHOR: adrian
-#+DESCRIPTION: This Library system is a collection of my personal thoughts and collected direct quotes from various books I've read.
+#+DESCRIPTION: This Library system is a curation of quotes from the books I've read, as well as my personal commentaries and thoughts.
 
 * GENERAL
 - Alphabetical
@@ -955,6 +955,17 @@ kind. To understand them properly we need to consider carefully how they have co
 #+begin_quote
   /Everything in Carolingian high politics was by now so tied up with the validation of divine approval that resolutions of political problems by means of penitential and other ecclesiastical ritual were seen by every player as entirely appropriate procedures. This religious understanding was not exactly practical (indeed, the panic of 828–29 could easily be seen as a huge waste of everyone’s time), but that was not the point. Even in crisis, the Carolingian political world was ambitious beyond ordinary levels, for they assumed that everything they did, including when they did it badly, was crucial to God./
 #+end_quote
+
+#+begin_quote
+  /Christianity did not do that by itself, of course. When different polities in the north went Christian, mostly what this meant was the conversion of kings and their entourages – the rest of the population followed after, often long after – and that conversion, however genuine, usually only slowly affected the range of values and practices which each society regarded as normal, meritorious and moral, for these values were now defined as Christian as well, whether or not they resembled those of the New Testament./
+#+end_quote
+
+#+begin_quote
+  /Christianity did not in itself produce a more homogeneous Europe; just a Europe in which there was a rather more widespread interest in more ambitious, but still-distinct, forms of political power./
+#+end_quote
+
+- The arrival of Christianity in Ireland didn't fully displace the old political and religious system. Instead it was appropriated, and the druids of old became the priests of the new.
+- The fragmented nature of Irish Christianity owes more to the old system adapting to the new one, and coincided with the "fall" of the western Roman Empire.
 
 
 
