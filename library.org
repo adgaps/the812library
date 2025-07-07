@@ -912,6 +912,14 @@ kind. To understand them properly we need to consider carefully how they have co
 #+end_quote
 
 #+begin_quote
+  /The Christian laity, whether or not they were well informed about the details of doctrine, and whether or not they were prepared actually to follow clerical exhortations, particularly over such deeply held attitudes as those concerning honourable violence or sex, did indeed accept that religion was important, and indeed all-pervasive./
+#+end_quote
+
+#+begin_quote
+  /The self-servingness of much medieval religious rhetoric, particularly when it was the work of the powerful, can often be only too obvious to us; but it was not hypocritical. It might, sometimes, be more palatable (to us) if it had been; but such people, in almost every case, really did believe what they were saying. We have to factor that real belief into every assessment of medieval political action, however carefully and cunningly targeted./
+#+end_quote
+
+#+begin_quote
   /When we are faced with really big events – the end of European peace in 1914, the collapse of the Soviet Union in 1990 – historians tend to divide between those who see the catastrophe as inevitable, with structural causes, often long-term ones, which just happen to come together in a sudden shift, and those who see it as chance, the product of short-term, almost casual, political decisions; or else, when they are more nuanced, between those who, in the mélange of structural and political causes, put more weight on the former or else the latter./
 #+end_quote
 
@@ -966,6 +974,40 @@ kind. To understand them properly we need to consider carefully how they have co
 
 - The arrival of Christianity in Ireland didn't fully displace the old political and religious system. Instead it was appropriated, and the druids of old became the priests of the new.
 - The fragmented nature of Irish Christianity owes more to the old system adapting to the new one, and coincided with the "fall" of the western Roman Empire.
+
+#+begin_quote
+  /Up to the eleventh century, kings – and also regional rulers, dukes, counts and bishops – could rule from the top down, using the old Roman imagery of public power and the early medieval collective legitimation which was assembly politics, without considering in a very organised way what was going on locally, unless it involved disloyalty, or an injustice which was so clamorous that it actually reached their ears. The small-scale lordships of the late eleventh and twelfth centuries in France could not afford to be so detached; exactly whom they controlled, and how, mattered much more./
+#+end_quote
+
+- Part of the recurring impetus for /reformatio/ (note the author does not explicitly use the term in the book; I am employing it myself for the purpose) is that political systems tend to clash with what Christianity and the Bible preaches.
+
+#+begin_quote
+  /Cluny’s real novelty was that it came to be the mother house for monasteries across half of western Europe, whose main loyalties were to Cluny, and not to any local figure, whether bishop or count; it created an international network of identity and elaborate liturgical ritual which cut across all traditional political boundaries, and which would be the model for plenty of monastic orders later as well./
+#+end_quote
+
+#+begin_quote
+  /Even today, a surprising number of historians turn their accounts of the church ‘reform’ period of the later eleventh century into a triumphal narrative, with goodies and baddies – even, remarkably, historians writing in the Protestant tradition, a tradition which regards clerical marriage and lay participation in the choice of ecclesiastics as actively virtuous./
+#+end_quote
+
+#+begin_quote
+  /In the eleventh century, political power became more localised, and more carefully bounded. Its holders were often smaller figures than any Carolingian aristocrat would have recognised as an equal. Lords could be creative in its construction, as indeed could cities, grabbing rights in a way that was initially illegal, but, once accepted, defined a new legality. This power structure was new; it maintained plenty of continuities with the past (particularly in a network of aristocratic values which hardly changed), but from now on this sort of practical power depended on a knowledge of, and a concern for, detailed rights and relationships on the ground./
+#+end_quote
+
+- While it is known that the economy and demographics of Europe expanded from 10th to 14th centuries, the finer details of how and why it happened are still unknown, and might not be known in the near future.
+
+#+begin_quote
+  /Peasants are highly averse to risk, and going off to seek one’s fortune in unknown countries has seldom appealed to them, before the great nineteenth-century colonisations. But the extension of the European political network eastwards, through the conquest and/or Christianisation of the Slav and Hungarian lands, themselves often underpopulated, made it possible to see that a future in what is now Poland, for example, was less like stepping off the edge of the map./
+#+end_quote
+
+- While it is true that lords can and did extract large demands from the peasants, in general it wasn't as lopsided as usually portrayed. Peasant communities banded together to demand franchises, which helped them gain reasonable terms from their lords.
+
+#+begin_quote
+  /It is often still thought that an active exchange economy needs coins. This is not true; credit is enormously important in most exchange systems, then as now, and debt-credit agreements can be complicated without any physical money changing hands at all. The medieval economy worked on credit to a very large extent, indeed./
+#+end_quote
+
+- Author notes that despite the usual impression, medieval international exchange system wasn't particularly advanced enough that it could've caused Industrial Revolution much earlier if not for the Black Death.
+- Europe is simply a periphery in the international mercantile system, of which Central and East Asia is the center. Even in the Mediterranean, until the 14th century, the primary trading hub is Egypt.
+- In addition, the international exchange of goods is mostly a luxury trade. Most people bought and sold goods at the local level.
 
 
 
@@ -1098,6 +1140,64 @@ kind. To understand them properly we need to consider carefully how they have co
 
   /For all the unseemly haste, the transfer of power was accomplished efficiently and with a  amount of goodwill. One by one, the new states emerged amid much jubilation and to the world’s applause./
 #+end_quote
+
+- From the moment it gained independence, arguably even before, Congo has been mired in political bickering and public chaos.
+- A mutiny caused split in the leadership. Patrice Lumumba became convinced that Belgium wanted to take back control of Congo. He appointed his personal aide, Joseph Mobutu, to help stamp the mutiny.
+- Getting increasingly agitated, Lumuba first turned against the Belgians, then the UN, and ultimately asked for assistance from the Soviet Union.
+- Lumumba may have genuinely feared the possibilities of further chaos and even invasion at the time. Still, he managed to appear vindictive, irrational, and even dangerous, to so many parties involved. They all privately agreed on one conclusion: Lumumba has to be eliminated.
+- The CIA was indeed involved in the planning of the assasination, with the blessing of Eisenhower himself.
+- Lumumba was arrested and thrown into the hands of the secessionist government in Katanga, assisted by Belgian armed personnel. He and his companions were beaten and tortured, then brought to a secluded outside Katanga.
+- On the night of 17 January 1961, Patrice Lumumba and two others were shot by a firing squad led by a Belgian officer. They were buried in a prepared grave, but later their remains were dug up and disposed of elsewhere.
+- The chaos further worsened, now coupled with international condemnation of Lumumba's death. In 1965, Joseph Mobutu staged a coup and declared himself president.
+
+#+begin_quote
+  /In 1948 Afrikaner Nationalists came to power  their own version of racial rule they called apartheid, determined to ensure white supremacy for all time and to destroy the swart gevaar, the black peril they said white society faced. Stage by stage, the black population was subjected to a vast array of government controls and segregated from whites wherever possible. Every facet of their life – residence, employment, education, public amenities and politics – was regulated to keep them in a strictly subordinate role. In the name of apartheid, more than three million people were uprooted from their homes to satisfy government planners; millions more were imprisoned for infringing apartheid regulations. There was no pretence about the objective./
+#+end_quote
+
+#+begin_quote
+  /The Sharpeville massacre became a permanent symbol of the brutality of the apartheid regime. It provoked a storm of African protest – marches, demonstrations, strikes and violence. Many whites feared that South Africa might be on the verge of revolution. An outburst of international condemnation added to the atmosphere of crisis. Western attitudes towards South Africa, hitherto ambivalent, became markedly more hostile. A United Nations Security Council resolution blamed South Africa’s racial policies for causing ‘international friction’. Foreign investors, fearing imminent upheaval, deserted in droves./
+#+end_quote
+
+- From the 1940s, the African National Congress under Nelson Mandela has championed anti-apartheid cause and equal rights for all, blacks and whites. He wished to achieve the ANC's goals through non-violent means like workers' strikes and boycotts.
+- In 1961, the failure of a national strike led Mandela to consider using violence against the apartheid regime. He formed a splinter group that engaged in sabotage activities, though their works were too small-scale and amateurish to cause significant disturbance.
+- Mandela and his colleagues were arrested and tried in 1963. He led his and his group's defense counsel, delivering impassioned speeches that gained him international fame. They were sentenced to life imprisonment in 1964.
+
+#+begin_quote
+  /The honeymoon of African independence was brief but memorable. African leaders, riding the crest of popularity, stepped forward with energy and enthusiasm to tackle the tasks of development and nation-building; ambitious plans were launched; bright young men went quickly to the top. Expectations were high; the sense of euphoria had been raised to ever greater heights by the lavish promises of nationalist politicians campaigning for power, pledging to provide education, medical care, employment and land for all./
+
+  /The march of African nationalism seemed invincible. Africa, so it was thought, once freed from colonial rule, was destined for an era of unprecedented progress. African leaders even spoke of building new societies that might offer the world at large an inspiration./
+#+end_quote
+
+- African independence sentiments were aided by the fortunate circumstances prevailing at the time. African economies were in upward movement, harvests were bountiful throughout the 1950s, and interest in African studies all over the world was very high, following the discovery of the oldest hominids in Olduvai Gorge in Tanganyika in 1959.
+- Nationalist leaders like Kwame Nkrumah opted for an African brand of socialism, positing it as antidote to Western colonialism. They were also influenced by the success of left-leaning European governments in establishing welfare states after WW2.
+- Both the Soviet Union and China showed active interest in supporting revolutionary movements in Africa. The Soviet Union supplied arms and money to rebel groups, while Cuba recruited the Argentinian guerilla leader Che Guevara to train African rebels.
+
+#+begin_quote
+  /Political systems too were recent transplants. Africans had little experience of representative democracy – representative institutions were introduced by the British and the French too late to alter the established character of the colonial state. The more durable imprint they left behind was of authoritarian regimes in which governors and their officials wielded enormous personal power. The sediment of colonial rule lay deep in African society. Traditions of autocratic governance, paternalism and dirigism were embedded in the institutions the new leaders inherited./
+#+end_quote
+
+#+begin_quote
+  /The most difficult task facing Africa’s new leaders was to weld into nations a variety of different peoples, speaking different languages and at different stages of political and social development. The new states of Africa were not ‘nations’. They possessed no ethnic, class or ideological cement to hold them together, no strong historical and social identities upon which to build. For a relatively brief period, the anti-colonial cause had provided a unity of purpose. Nationalist leaders had successfully exploited a variety of grievances among the urban and rural populations to galvanise support for the cause. But once the momentum that they had achieved in their drive for independence began to subside, so other loyalties and ambitions came thrusting to the fore./
+#+end_quote
+
+- Africans tended to stick with communities of their own ethnic groups, especially when migrating to towns and cities. Specific jobs became dominated by specific ethnicities, who recruited people of their own group. Even political parties were formed along ethnic lines, each ethnic groups having their own parties to advance their welfare.
+
+#+begin_quote
+  /Stage by stage, African leaders accumulated ever greater personal power, spreading the tentacles of their control into the further reaches of society. They preferred to rule not through constitutions or through state institutions like parliament but by exercising vast systems of patronage. Parliaments, where they survived, were packed with supporters, chosen for their known obedience. Government bureaucracies were staffed by party loyalists. Trade unions and farmers’ organisations were subordinated to the interests of government. The press existed merely as an outlet for government propaganda. Political debate became a matter of platitudes and praise-songs, no longer taken seriously./
+#+end_quote
+
+- The huge supply of manpower, coupled with massive demand for public and private employment, was exploited by newly-independent African leaders for patronage politics, favoring party loyalty and ethnic identity in handing out jobs and aid.
+
+#+begin_quote
+  /It was often said that, because of the internal tensions and rivalries afflicting most African states, only strong government could provide the stability they needed to develop and prosper. Yet in practice, strong governments of the kind employed in Africa – whether personal dictatorships or one-party systems – rarely ensured either political stability or effective administration. Once in power, African leaders became preoccupied with staying in power, employing whatever means were necessary./
+#+end_quote
+
+#+begin_quote
+  /Despite the promising start made at independence in 1960, Nigeria was soon engulfed by an intense struggle between the country’s three main political parties for supremacy over the federal government. Control of the federal government determined the allocation of development resources. Because each region produced its own political party dominated by the major ethnic group based there, the struggle turned into ethnic combat. Politicians on all sides whipped up ethnic fear, suspicion and jealousy for their own advantage and to entrench themselves in power. Tribalism became the ideology of politics./
+#+end_quote
+
+- Nigerian novelist Chinua Achebe, in 1966, released A Man of the People, which tells of an African leader's reign that ends in an army coup. Coincidentally, that same week a coup overthrew the Northern-led government of Nigeria.
+- The chaos of 1966 fueled the secession of Biafra the following year. It garnered worldwide attention and received large scale relief aid. The international support, however, was not enough to save Biafra, and in 1970 the embattled republic surrendered.
 
 
 
