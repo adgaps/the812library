@@ -1008,6 +1008,59 @@ kind. To understand them properly we need to consider carefully how they have co
 - Author notes that despite the usual impression, medieval international exchange system wasn't particularly advanced enough that it could've caused Industrial Revolution much earlier if not for the Black Death.
 - Europe is simply a periphery in the international mercantile system, of which Central and East Asia is the center. Even in the Mediterranean, until the 14th century, the primary trading hub is Egypt.
 - In addition, the international exchange of goods is mostly a luxury trade. Most people bought and sold goods at the local level.
+- The 12th and 13th centuries saw European polities become larger and the rulers became more powerful, though not necessarily more centralized.
+
+#+begin_quote
+  /Early medieval legal systems were complex, but it was rare for appeals, whether lay or clerical, to go beyond the judicial tribunals of single kingdoms. In the twelfth century, however, it became more and more normal for clerics throughout Europe to petition the pope to resolve their disputes – and the laity too, in areas, such as marriage disputes, which the church was by now making part of canon law./
+#+end_quote
+
+#+begin_quote
+  /As war became more expensive in the thirteenth century – for it was based increasingly on a stratum of professional soldiers who needed to be paid, more than on the levies and personal followings of the past – taxation steadily increased in importance, in order to fund it./
+#+end_quote
+
+#+begin_quote
+  /It was the twelfth century which saw the development of a new phenomenon, towns which attracted large numbers of students, sometimes from many countries, to learn from masters whose success was based on their teaching and debating ability, independent of external ratification. Such students hoped for positions in secular government and the church as a result, even if not all succeeded – the myth of the impoverished scholar begins here, in twelfth-century Latin letters and poetry./
+#+end_quote
+
+#+begin_quote
+  /It never was possible fully to control what went on in universities; every master had his own view on all issues. This was ever more visible once public disputations began to be recorded in the thirteenth century, with questions to the master on all manner of subjects and his replies; these were called ‘quodlibets’, and they were often distributed widely. But this carried its own risks, not least the danger of disseminating heresy, and for this reason popes and other powers, both external and internal to universities, found themselves trying to micromanage: both the content of what was taught (as with, for example, how much Aristotle and Averroes could be taught, given that these authors were not Christian) and who could teach it (as with the perennial debate from the 1250s onwards about the role of friars in the university of Paris)./
+#+end_quote
+
+#+begin_quote
+  /Essentially, the political practices which the Ottomans inherited from the Arab-Turkish past – in particular the near-universal assumption that a paid standing army, with its own career structure, was a standard part of any political system – made it necessary for them to adopt and adapt whatever fiscal structures they found when they conquered, which meant, above all, those of the Byzantines. They soon turned this into a centralised system, adding new elements as well. They built on it by rapidly incorporating regional élites into their system, and stabilising the latter’s local authority by doing so./
+
+  /The Ottoman state by the sixteenth century became the best-organised, not only in the whole of contemporary Europe, but in the whole of Islamic history up to the nineteenth. That this solid structure first developed in lands which had once been Byzantine was by no means chance, and Mehmet recognised his Byzantine inheritance, which of course he saw himself as transcending, when he repopulated Constantinople Istanbul, re-established as his new capital, with so much care./
+#+end_quote
+
+#+begin_quote
+  /Lay religious devotion was normally a matter of regular weekly and yearly rituals, in churches or processing between them, and its outward forms were essentially run by priests, who were also expected to preach to the laity and to confess them annually. The idea that the Christian religion should be mediated by the clergy was fundamental, and much of the anti-heresy activity of the thirteenth century had been naimed at people who did not accept that./
+#+end_quote
+
+#+begin_quote
+  /It is not surprising that when historians want to study female protagonism, they very often find themselves studying queens and senior aristocratic women, who could exercise considerable power, either by inheritance (in the absence of brothers) or, most commonly, as regents for children after their husband’s deaths; women had these roles in non-élite families as well, but aristocracies are far better-documented./
+#+end_quote
+
+#+begin_quote
+  /It is in societies where complexity and ambiguity give space for pragmatic solutions that women have in general found it most possible to negotiate space for their own protagonism. Societies with sharper lines, by contrast, like those of the Reformation, and, later, the French Revolution, have often made that negotiation harder, between an initial period of innovation and a later period in which the complexities which are also there are allowed fuller play again./
+#+end_quote
+
+#+begin_quote
+  /There are terrors in every period, but for the most part people get on with their lives, for better nor worse./
+#+end_quote
+
+#+begin_quote
+  /Parliaments were powerful (when they were) because of the steady development of royal fiscal needs, particularly in the strongest states; in much of Europe, only parliaments were authoritative enough collective bodies to be able tosign off large-scale taxation./
+
+  /Once collective bodies were recognised as necessary to agree taxation, it  unsurprising that they would come to think that they needed to discuss what that taxation was for, as well; and this meant that, in most parliamentary environments, debate about national policy could (re-)emerge./
+#+end_quote
+
+#+begin_quote
+  /Basel’s failure did not stop the men trained in nearly twenty years of discussion in the council from going their separate ways across Europe with these ideas in mind; much like the League of Nations in the 1920s and 1930s, a similarly interesting failure, it had bred a new generation of transnational experts in the principles and practice of collective government – and also of strong but self-proclaimed constitutionalist monarchies./
+#+end_quote
+
+#+begin_quote
+  /Then strength of local, cellular, politics, plus the extension of literate practices to ever-wider social groups, plus a continuing high-equilibrium economic system, plus a newly intrusive state, made possible by taxation, communications and, once again, literacy, helped to create political systems across Europe which allowed engagement, nearly everywhere. This marks the last century of the middle ages, not the supposedly late medieval features which mark so many textbooks: crisis, or anxiety, or the Renaissance, or a sense that the continent was, somehow, waiting for the Reformation and European global conquest. And it is one of the main elements that the medieval period handed on to future generations./
+#+end_quote
 
 
 
@@ -1198,6 +1251,98 @@ kind. To understand them properly we need to consider carefully how they have co
 
 - Nigerian novelist Chinua Achebe, in 1966, released A Man of the People, which tells of an African leader's reign that ends in an army coup. Coincidentally, that same week a coup overthrew the Northern-led government of Nigeria.
 - The chaos of 1966 fueled the secession of Biafra the following year. It garnered worldwide attention and received large scale relief aid. The international support, however, was not enough to save Biafra, and in 1970 the embattled republic surrendered.
+- When Eritrea was relinquished by Britain in the 1950s, UN placed the country in a federation with the Kingdom of Ethiopia. Gradually Ethiopia stripped Eritrea of its autonomous rights, and subsumed the Eritreans into the Kingdom.
+- The emperor, Haile Selassie, ruled with an iron fist, suppressing dissent and demanding submission from his subjects.
+
+#+begin_quote
+  /Whatever their real reasons for seizing power, coup leaders invariably stressed the strictly temporary nature of military rule. All they required, they said, was sufficient time to clear up the morass of corruption, mismanagement, tribalism, nepotism and other assorted malpractices they claimed had prompted them to intervene and restore honest and efficient government and national integrity./
+#+end_quote
+
+#+begin_quote
+  /Given the array of adversities that Africa faced at the time of independence, the advances made in the two decades after 1960 were remarkable./
+
+  /Despite the eruption of military coups, civil strife and political instability, a sense of optimism about Africa’s future prevailed throughout the 1960s. It was still spoken of as a continent with vast potential. The economic record, though not fulfilling earlier hopes, showed modest progress./
+#+end_quote
+
+- Despite most Africans being engaged in and highly dependent on agriculture, their leaders treated the sector with less importance. The governments were more focused on urban industries that yielded better finances.
+
+#+begin_quote
+  /By the 1980s a mood of despair about Africa had taken hold. No other area of the world aroused such a sense of foreboding. The sum of its misfortunes was truly daunting. In relentless succession, African states had succumbed to military coups and brutal dictatorships, to periods of great violence and to economic decline and decay. One by one, African leaders had failed to deliver effective programmes to alleviate the plight of their populations. The vast majority of Africans enjoyed neither political rights nor freedoms. More than two-thirds were estimated to live in conditions of extreme poverty. The future was spoken of only in pessimistic terms./
+#+end_quote
+
+#+begin_quote
+  /The South Africans were quick to recognise, in the aftermath of the Lisbon coup, that an entirely new strategy was needed. Hitherto, they had looked on Angola, Mozambique and Rhodesia as a valuable buffer separating them from contact with black Africa, a/ cordon sanitaire /which it was in their own interests to strengthen. But with the withdrawal of the Portuguese from Angola and Mozambique, Rhodesia was no longer important as a front-line defence, for the winds of change had finally reached South Africa’s own frontier./
+
+    /An unstable white government in Rhodesia was less preferable than a stable black government, heavily dependent on South African goodwill./
+#+end_quote
+
+- Ethiopia's dictator, Colonel Mengistu, deliberately ignored and covered up the worsening conditions in the northern part of the country. In 1984, the situation has devolved into a famine, which became so widespread that the dictatorship was no longer able to hide it from the world.
+- The 1984-1985 Ethiopian famine led to the largest peacetime humanitarian mission in the 20th century. At least one million died in the famine, with likely even more undocumented.
+- Throughout Africa, AIDS continued to spread and killed tens of thousands. Two countries, Uganda and Senegal, initiated public programs to counter the epidemic. But elsewhere, the dictators of Africa willingly covered up the extent of the AIDS epidemic, even blaming it on the West.
+
+#+begin_quote
+  /So steep was Africa’s economic decline during the 1980s that it became known as ‘the lost decade’. In one country after another, living standards plummeted. By the mid-1980s most Africans were as poor or poorer than they had been at the time of independence. Crippled by debt, mismanagement and a collapse in tax revenues, African governments could no longer afford to maintain proper public services. Roads, railways, water, power and telephone systems deteriorated; schools, universities and hospitals were starved of funds; scientific facilities and statistical offices became early casualties. At every level the capacity of governments to function was fast diminishing. A drastic erosion of civil service salaries wrecked what was left of the morale, honesty and efficiency of civil servants./
+#+end_quote
+
+#+begin_quote
+  /Whereas in the 1960s Western development economists had advocated that the state should act as the motor of development and dismissed the role of markets, in the 1980s they regarded the state as a principal cause of development failure and called for market-oriented development strategies in place of government intervention. Where once they had encouraged state ownership, now they sought to enhance the scope of the private sector, contending that private enterprise was more effective./
+#+end_quote
+
+- One major problem with the donor programs for Africa was that the reforms weren't closely watched and monitored by international organizations. The dictators quickly realized they were receiving aid with practically no consequence, so they just kept on with their old corrupt ways.
+- Except for a handful of countries, like Ghana and Tanzania, the IMF and World Bank aid programs did not achieve their goals. In most of Africa by the 1990s, economic and social conditions remained worse than in the 1960s.
+
+#+begin_quote
+  /Africa, by the end of the 1980s, was renowned for its Big Men, dictators who strutted the stage, tolerating neither opposition nor dissent, rigging elections, emasculating the courts, cowing the press, stifling the universities, demanding abject servility and making themselves exceedingly rich. Their faces appeared on currency notes; their photographs graced offices and shops. They named highways, football stadiums and hospitals after themselves. Their speeches and daily activities dominated radio and television news and government newspapers. They packed the civil service with their own supporters and employed secret police to hunt down opponents, licensing them to detain, torture and murder at will, if necessary./
+#+end_quote
+
+#+begin_quote
+  /From the mid-1980s, as a result of Mikhail Gorbachev’s ‘new thinking’, the Soviet Union began to retreat from Africa, no longer willing or able to sustain client states that had relied upon Soviet largesse for survival. With the demise of Marxism-Leninism in Europe came its demise in Africa./
+#+end_quote
+
+#+begin_quote
+  /The end of the Cold War, moreover, changed the West’s attitudes towards Africa. Western governments no longer had strategic interests in propping up repressive regimes merely because they were friendly to the West. Along with the World Bank, they concluded that one-party regimes lacking popular participation constituted a serious hindrance to economic development and placed new emphasis on the need for democratic reform./
+#+end_quote
+
+#+begin_quote
+  /While many dictatorships fell in Africa in the early 1990s, as many dictators survived, albeit under different circumstances./
+
+  /A new breed of dictators emerged, adept at maintaining a façade of democracy sufficient for them to be able to obtain foreign aid. Even when regime changes occurred, new governments soon reverted to the same systems of patronage and patrimonialism run by their predecessors; some quickly lapsed into the same autocratic means of rule. In place of Big Man rule came Big Man democracy, with little difference between the two./
+#+end_quote
+
+- South Africa's political and economic stability in the 1960s made the apartheid regime more convinced of its own success and righteousness.
+- Massive student protests throughout the 1970s, which were suppressed violently, garnered increasing international attention. Other countries became more critical of the apartheid system, while foreign investors were now more wary of doing business in South Africa.
+
+#+begin_quote
+  /While the outside world had expected Mandela to dwell on the suffering he and his colleagues had endured in prison, he himself was more interested in explaining what they had learned there, the understanding they had gained, the reasons for their lack of bitterness, the strength of their commitment to democracy that had sustained them. No matter what personal hardship he had undergone, he was determined never to lose sight of the goal of non-racial democracy, believing that white fear of it could eventually be overcome. The example he set was of profound importance. For if after twenty-seven years in prison, Mandela could emerge insisting on reconciliation, it undermined the demands of those seeking revenge and retribution. His generosity of spirit also had a profound impact on his white adversaries, earning him measures of trust and confidence that laid the foundations for a political settlement./
+#+end_quote
+
+- Since the 1960s there has been growing radical movements within the Islamic world. In Egypt figures like Sayyid Qutb and Sheikh Omar Adbel Rahman promoted the use of jihad against un-Islamic ideologies and practices, including those of Muslim leaders.
+- Both Nasser and his successor, Anwar al-Sadat, tried to suppress these radical Islamic ideas. Sadat himself would be assassinated for his repressive tactics, and though implicated for it, Sheikh Rahman was acquitted and later joined anti-Soviet forces in Afghanistan.
+
+#+begin_quote
+  /For as long as the goal of a ‘Greater Somalia’ seemed attainable, clan rivalries were held in check. But when the government’s irredentist campaign ended in a humiliating military defeat, it set in motion an implosion of the Somali state. Both the United Nations and the United States were caught up in the fallout, with disastrous consequences./
+#+end_quote  
+
+- Somali society is based on clan-families, and Somali people owe their allegiance mainly to their immediate blood kin.
+- Somalia initially aligned with the Soviet Union, then with their support sought to expand to territories the Somali believe to be theirs. But Soviet Union later switched sides, supporting Ethiopia.
+- Defeat in the war with Ethiopia intensified the clan rivalries. Dictator Siyad Barre used the usual strongman tactics to keep control, but the situation gradually devolved into factional conflicts, egged on by Ethiopia's Mengistu.
+- By the 1990s, the government in Mogadishu has lost practical control of the whole country. The situation has gotten so bad that even international organizations like UN could no longer perform their functions and had to evacuate.
+- UN returned in 1992, but had very little resources to make significant help for Somalia.
+- The US became more involved in the UN operations. Initially, they sought to restore order without resorting to violence. To an extent they managed to do so, but had to broker deals with local factions, and forego opportunities to disarm militias.
+- When the UN sought to further extend control over Somalia, the US involvement became more active, and unwittingly lopsided against a specific faction.
+- A failed operation in 1993 to capture militia leader Aideed saw the US elite troops trapped and surrounded by hundreds of milita, with some of their Black Hawk choppers being shot down. The debacle tarnished US operations in Somalia, which President Clinton terminated.
+- Once US pulled out, other countries also felt they have no need to cooperate with UN peacekeeping operations in Somalia. The whole UN involvement in the country has fallen apart.
+- Clinton modified US policy on UN peacekeeping missions, providing for clear and strict preconditions such as well-defined scope, effective ceasefire plans, and proper exit strategies. Most of all, the operations must serve vital national interests.
+
+#+begin_quote
+  /Ever since the idea of Hutu hegemony had taken hold during the 1950s, Hutu politicians had portrayed the Tutsi minority as an ‘enemy’ seeking to reimpose their rule over Rwanda. A key part of the ideology they constructed was the myth that the Tutsi were invaders who had overrun Rwanda in the pre-colonial era and enslaved the Hutu – an alien group, therefore, that had no legitimate status in the country./
+#+end_quote
+
+#+begin_quote
+  /In the early 1990s, when the ruling Hutu clique faced growing political opposition, they sought to maintain their hold on power by rousing Hutu against the Tutsi threat, fomenting a climate of fear and hatred, relying on the Hutu’s culture of obedience to ensure their orders were obeyed and preparing for the onslaught well in advance by arming militias and organising death squads. The genocide that followed was caused not by ancient ethnic antagonism but by a fanatical elite engaged in a modern struggle for power and wealth using ethnic antagonism as their principal weapon. Though Western governments knew that massive killing was underway, they failed to take the steps needed to prevent it. The result was slaughter on a scale not witnessed since the Nazi extermination programme against the Jews./
+#+end_quote
+
+- The genocide that would unfold in Rwanda in 1994 was planned by President Habyarimana himself. In a bitter irony, it was his assassination that ultimately triggered the genocide.
 
 
 
