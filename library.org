@@ -1344,6 +1344,21 @@ kind. To understand them properly we need to consider carefully how they have co
 
 - The genocide that would unfold in Rwanda in 1994 was planned by President Habyarimana himself. In a bitter irony, it was his assassination that ultimately triggered the genocide.
 
+#+begin_quote
+  /Just like white settlers in Africa, the Americo-Liberians constructed a colonial system subjugating the indigenous population to rigid control and concentrating wealth and privilege in their own hands. Despite their origins as descendants of slaves from the Deep South, they regarded black Liberians as an inferior race, fit only for exploitation./
+#+end_quote
+
+- Rebel leader and warlord Charles Taylor led and supported conflicts in both Liberia and Sierra Leone. He and his rivals all extensively recruited child soldiers.
+- For a few years, Taylor would be Liberia's dictator. In his time, Liberia would have a lucrative diamond trading industry, which Taylor uses for amassing personal wealth. The feat is all the more jarring because Liberia itself is not a diamond producer - it's all from nearby Sierra Leone, which Taylor also wants to rule for himself.
+
+#+begin_quote
+  /Forty years after independence, Nigeria presented a sorry spectacle./
+
+  /Despite an oil bonanza of $280 billion, the economy was derelict; public services were chronically inefficient; schools and hospitals were decaying; higher education had virtually collapsed; roads were pitted with potholes; the telephone system hardly functioned. There were frequent power cuts; even shortages of domestic petroleum supplies. On average, Nigerians were poorer in 2000 than they had been at the start of the oil boom in the early 1970s./
+#+end_quote
+
+- In the 1990s, Omar al-Bashir's Islamist dictatorship became an incubator for extremist activities. One of the figures involved is Osama bin Laden.
+
 
 
 * THE FIRST WORLD WAR
@@ -1772,6 +1787,66 @@ kind. To understand them properly we need to consider carefully how they have co
 #+begin_quote
   /Conquest, colonization, Christianization: the techniques of settling in new land, the ability to maintain cultural identity through legal forms and nurtured attitudes, the institutions and outlook required to confront the strange or abhorrent, to repress it and live with it, the law and religion as well as the guns and ships. The European Christians who sailed to the coasts of the Americas, Asia and Africa in the fifteenth and sixteenth centuries came from a society that was already a colonizing society. Europe, the initiator of one of the world’s major processes of conquest, colonization and cultural transformation, was also the product of one./
 #+end_quote
+
+
+
+* THE SPECTRE OF WAR
+** /Jonathan Haslam/
+
+#+begin_quote
+  /Our understanding of international relations in the twentieth century cannot be reduced to the simplicity of traditional balance-of-power politics without doing serious damage to the truth. The indifferent application of our understanding of inter-state relations in one epoch to an entirely different time is not a sound recipe for success,/
+#+end_quote
+
+#+begin_quote
+  /Rivalry between the great powers after 1917 was acutely affected by a battle of ideas that reached above and beyond the normal preoccupations of diplomatic practitioners accustomed to the European states system from 1815 to 1914. In this sense, the twentieth century more closely resembled the era of the wars of religion of early modern Europe or of the French Revolution than that of the nineteenth-century Concert of Europe upon which eminent diplomatic historians traditionally cut their teeth./
+#+end_quote
+
+- Europe's fear of Bolshevism is such that they would rather negotiate with Hitler than provide a window for Soviet Union to project power onto the continent.
+
+#+begin_quote
+  /Beyond the spectre of war loomed the more menacing spectre of revolution; a spectre that in the end hastened the advent of a war that from being a distant possibility grew into an immediate certainty./
+
+  /Rearmament was consistently rejected by the left. Pacifism predominated. Yet liberals and socialists sincerely believed in collective security, even though it could not be ensured without force of arms. This fundamental paradox was never resolved, ultimately rendering the reformist left utterly impotent and therefore to be discarded as irrelevant./
+#+end_quote
+
+- Author primarily argues that Communism revolution has always been an objective of the Soviet Union, from Lenin to Gorbachev. It was however a matter of how it's achieved and how propitious it is to pursue it.
+- The issue, the author argues, is that both the contemporaries and the future historians neglected this underlying sentiment because the Soviet Union wasn't able to effectively perform their revolutionary duties. Ineffectiveness of conduct does not mean the conduct wasn't intentional.
+
+#+begin_quote
+  /The centrality of the role of Communism in the interwar years has taken a long time to be accepted by historians of international relations. The Grand Alliance between Britain, the Soviet Union and the United States in World War II and their falling out in the Cold War that followed had a deadening effect, suppressing within the minds of an entire generation any awareness of the profound conflict over Communism that predated the Second World War and played its own part in generating that war./
+#+end_quote
+
+#+begin_quote
+  /The purpose of this work is thus to reach beyond diplomacy and to return international Communism to where it actually was at the time: never far from centre stage, as an enduring if at times unspoken threat to those in charge of government on both sides of the Rhine; to return it, indeed, to the spotlight in accounting for the drama that unfolded between 1919 and 1941./
+
+  /History has hitherto been excessively compartmentalised, if not chopped into pieces, not least separating the realm of ideas from the world of events. And with respect to periods, the interconnective tissue between the interwar era and the Cold War needs patching back together, to allow us at last to view them as an integral whole./
+#+end_quote
+
+- From the beginning Lenin envisioned future revolutions to be more planned and organized, compared with historical ones like 1789, 1792, and 1848.
+- As soon as Lenin and the Bolsheviks seized power in the October Revolution, Britain immediately saw the dangers of their communist rhetoric, and the need to prevent similar revolutions from breaking out elsewhere.
+
+#+begin_quote
+  /In the interwar years the threat of revolution lay at the core, not along the periphery, of conflict and conflict resolution in Europe. It is vital to understand that the continent was divided vertically—between classes—as well as horizontally between states. The conduct of international relations could not ignore this awkward and discomforting reality, much as Europe’s well-groomed diplomats clearly wished it would go away./
+#+end_quote
+
+#+begin_quote
+  /Germany in defeat represented the sum of everyone’s hopes and fears. Its future was therefore a matter of universal attention and studied concern from the rest of Europe./
+
+  /As a country, it was left stretched on the rack, torn by political extremes. The victorious allies made matters worse by failing to apply to the peace settlement sufficient forbearance to neutralise an acute sense of injustice—however misplaced—that was widespread throughout the country./
+#+end_quote
+
+#+begin_quote
+  /The tendency to assume like-mindedness has invariably proved overwhelming, and wrong. Society is, and always was, a complex organism. Ideology and cultural tradition always belonged more to the realm of organisms than that of machines. This matters, because ideologies in the international system, once activated, can completely undercut predictability, as they do not operate within the parameters of more settled states. The assumption that the system is run by rational actors thus falls apart because the calculation of what is rational is contingent on culture and historical evolution. The difference is fundamental between, at its most extreme, a country taken over by fanatics bent on revolutionary change and a country governed by complacent, well-entrenched élites with much to lose. The former still believe they can deliver a shot that the opponent cannot return; the latter just hope that their own delivery lands the ball in the opponent’s service box./
+#+end_quote
+
+#+begin_quote
+  /Ideas at the extreme ends of the spectrum do not just disappear. They can vanish momentarily from our field of vision through evaporation from the surface. But suddenly without warning they may condense and descend upon us as an unexpectedly destructive storm. Such ideologies do not find a mass following while economies are in equilibrium. But history tells us that this state of balance cannot be expected to continue indefinitely./
+#+end_quote
+
+#+begin_quote
+  /The bare bones of the archival record—the skeletal past—alone, vital as they are, give us the framework, but little of the essence. The meat of history comes to us only through the restoration of the prevailing ideas and dominant assumptions of an era, and the way in which these interacted with material life to push us to the edge of disaster. Writing the origins of the Second World War in ignorance of them cheats subsequent generations. History does offer warnings, if we care to recognise them for what they are./
+#+end_quote
+
 
 
 
