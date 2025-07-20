@@ -1349,7 +1349,7 @@ kind. To understand them properly we need to consider carefully how they have co
 #+end_quote
 
 - Rebel leader and warlord Charles Taylor led and supported conflicts in both Liberia and Sierra Leone. He and his rivals all extensively recruited child soldiers.
-- For a few years, Taylor would be Liberia's dictator. In his time, Liberia would have a lucrative diamond trading industry, which Taylor uses for amassing personal wealth. The feat is all the more jarring because Liberia itself is not a diamond producer - it's all from nearby Sierra Leone, which Taylor also wants to rule for himself.
+- For a few years, Taylor would be Liberia's dictator. He amassed wealth through illegal diamond trading, among others.
 
 #+begin_quote
   /Forty years after independence, Nigeria presented a sorry spectacle./
@@ -1358,6 +1358,37 @@ kind. To understand them properly we need to consider carefully how they have co
 #+end_quote
 
 - In the 1990s, Omar al-Bashir's Islamist dictatorship became an incubator for extremist activities. One of the figures involved is Osama bin Laden.
+- Robert Mugabe, upon becoming prime minister of Zimbabwe, initially treated the white population well, even heaping praises and support from both within the country and internationally.
+- However, Mugabe's relentless and violent drive for a one-party state eroded the trust and harmony with the whites. He also later began publicly deriding them as racists, and vowed to crush the white population's dominance on Zimbabwean economy.
+
+#+begin_quote
+  /Though truth might not always lead to reconciliation,
+there could be no genuine reconciliation without truth./
+#+end_quote
+
+- Mandela's presidency was marked by careful compromises and cautious approach to South Africa's various problems.
+- His Truth and Reconciliation Committee, created to provide accountability for apartheid-era human rights violations, itself ended with compromise: both apartheid government and the ANC were found to be guilty of various crimes, but also extended amnesty rather than criminal prosecution to those who admitted guilt.
+- Mandela's successor, Thabo Mbeki, despite winning with an even larger margin, proved to be more controversial as a leader. He promoted AIDS misinformation which further worsened the epidemic in South Africa. He was also soft in dealing with Mugabe, and did not publicly criticize him.
+
+#+begin_quote
+  /Mbeki’s determination to back a brutal African dictator, rather than stand up for human rights, followed a long tradition by leaders in Africa of turning a blind eye to the nefarious activities of their peers for the sake of group solidarity. It won him support in Africanist circles in South Africa who celebrated Zimbabwe’s example of giving the whites a good kicking and hoped for something similar in South Africa. But it caused apprehension among foreign investors, nervousness among the white population and aroused further misgivings about Mbeki’s commitment to democratic values. Moreover, it sullied the reputation of the ANC, which had received so much help in its own struggle for human rights and now remained indifferent to the struggle that others in the neighbourhood faced./
+#+end_quote
+
+#+begin_quote
+  /Within a few brief years of the advent of democracy, therefore, South Africa’s image as a beacon of hope for the continent had been severely tarnished. The heady optimism of Mandela’s rainbow nation had been replaced by despair at Mbeki’s increasingly delinquent leadership. The ANC itself was shown to have become just another political party on the make, dominated by a corrupt elite bent on self-enrichment./
+#+end_quote
+
+#+begin_quote
+  /However much foreign aid is pumped into Africa – whether from China or from the West – it provides no lasting solution. For the sum of Africa’s misfortunes over the past half-century – its wars, its despotisms, its corruption, its droughts, its everyday violence – presents a crisis of far greater magnitude. At the core of the crisis is the failure of African leaders to provide effective government. Few countries have experienced wise or competent leadership./
+#+end_quote
+
+- Author squarely pins blame on African failure to its dictators.
+
+#+begin_quote
+  /After decades of mismanagement and corruption, most African states have become hollowed out. They are no longer instruments capable of serving the public good. Indeed, far from being able to provide aid and protection to their citizens, African governments and the vampire-like politicians who run them are regarded by the populations they rule as yet another burden they have to bear in the struggle for survival./
+#+end_quote
+
+- Damn, the book didn't even end in at least a note of hope or optimism. Africa is screwed, period.
 
 
 
@@ -1790,6 +1821,55 @@ kind. To understand them properly we need to consider carefully how they have co
 
 
 
+* THE SECULAR ENLIGHTENMENT
+** /Margaret Jacob/
+
+#+begin_quote
+  /The Enlightenment was an eighteenth-century movement of ideas and practices that made the secular world its point of departure. It did not necessarily deny the meaning or emotional hold of religion, but it gradually shifted attention away from religious questions toward secular ones. By seeking answers in secular terms—even to many religious questions—it vastly expanded the sphere of the secular, making it, for increasing numbers of educated people, a primary frame of reference./
+#+end_quote
+
+- Secular Enlightenment did not mean wholesale abandonment of religion. Indeed, many intellectuals of the period were also religious, or at least nominally belonged to major religious groups. But instead, secularism meant that the world is viewed from non-religious perspectives.
+
+#+begin_quote
+  /Between 1500 and 1700, Westerners discovered two new worlds: one in the heavens, the other on earth. These discoveries coincided with and helped further a vast expansion of commerce that brought yet more peoples and places into the Western orbit. Celestial and terrestrial space were reconfigured. Making sense of these monumental discoveries required new thought and language./
+#+end_quote
+
+- The last sentence in that quote is basically the thesis of *Invention of Science*.
+
+#+begin_quote
+  /Therein lay the roots of the Enlightenment: the unintended consequence of commercial and state-sponsored expansion. Paradoxically, as the power of absolute monarchies and the clergy that supported them grew in Europe—augmented as they were by global conquest—inventive responses to new spatial realities multiplied. Their combined weight secularized space and removed not only its boundaries but also its supernatural powers. They undermined belief in heaven and hell and the authority of absolutist regimes./
+#+end_quote
+
+- Enlightenment was influenced by the growing world as known by Europeans. The expansion of space meant that knowledge of such space has to adapt.
+- This also comes full circle as Enlightenment then birthed the creation of public space, like cafes and pubs, where ideas freely flowed.
+
+#+begin_quote
+  /The intellectual and cultural shift described as the Enlightenment happened in only one century, and as such may be described as rapid for its time. The “for its time” part is the hardest for twenty-first-century people to understand./
+#+end_quote
+
+- lol.
+- One early manifestation of secularism is on the concept of time. Specifically, the identification of the date of creation. In the late 18th century, almanacs became less concerned about defining the date of creation. By 1800, the idea of a 6000-year old Earth has disappeared among intellectuals.
+
+#+begin_quote
+  /The enlightened expansion of time could, however, be divorced from its materialist underpinning. The pious might believe that biblical stories of creation serve not as literal truth but as metaphors for a process that had actually taken many millennia. Yet materialism had enormous implications with staying power, and every believer in the Judeo-Christian tradition would—at some time—have to confront it. Materialist assumptions became the philosophical moorings upon which an entirely secular understanding of life and time rested.
+#+end_quote
+
+#+begin_quote
+  /Lacking any of the sacramental supports open to Catholics such as confession, Protestants had a particular temporal burden: the necessity to self-monitor their use of time, to classify their behavior as useful, or worthy in God’s eyes, or impious and in need of correction./
+#+end_quote
+
+#+begin_quote
+  /One way of imagining the complex issue of temporal secularization would be to imagine a lessening of anxiety, of watchfulness about time in relation to salvation. For moderate Protestants in early modern England, time presented a paradox and therefore a source of anxiety. Regardless of how defined, by calendars or seasons, by feasts or fairs, time needed to be watched; its waste was to be scorned, its fruitful use, valued. The actions or motions that the pious take in the world had to be monitored for their virtuousness and made purposeful, and all actions had temporal consequences./
+#+end_quote
+
+- The book also explored the less known and more ordinary enlightened people through their written works. Some common threads in their beliefs include republicanism, disdain of organized religion, admiration for anything ancient Greek and Roman, etc.
+
+#+begin_quote
+  /Many of these small voices from the eighteenth century remain relatively unknown to our day. In some cases, we rely on unpublished manuscripts to form an acquaintance with them. They speak without assuming that they are in the vanguard of a movement of ideas that will transform Western thinking on a wide variety of topics. They are therefore all the more valuable because they allow us to see the “seepage” of ideas in an age that was coming to terms with the discovery of the world’s peoples, with religious conflict, and with vast differences in the wealth of regions close to home or far away. These ordinary voices also display a willingness to inspect and embrace the new and the foreign, even to endorse revolutionary reform./
+#+end_quote
+
+
+
 * THE SPECTRE OF WAR
 ** /Jonathan Haslam/
 
@@ -1835,6 +1915,81 @@ kind. To understand them properly we need to consider carefully how they have co
   /As a country, it was left stretched on the rack, torn by political extremes. The victorious allies made matters worse by failing to apply to the peace settlement sufficient forbearance to neutralise an acute sense of injustice—however misplaced—that was widespread throughout the country./
 #+end_quote
 
+- As early as the 1920s both Soviet Union and Weimar Germany has been exploring common grounds for working together.
+- A Comintern-led uprising in Germany in 1921 was initiated by local German leaders. Though partly financed by colleagues from Soviet Union, it did not have Lenin's backing. The perpatrators were reprimanded by Moscow. Lenin preferred to try to work with the Germans instead of antagonizing them.
+- Massive Communist strikes and subsequent breakdown of public order in Italy in 1920-1922 is what caused many people to turn to fascism.
+
+#+begin_quote
+  /Although Coolidge’s administration was isolationist, for the Republicans money mattered most. Markets had to be stabilised abroad just as at home. Business confidence was critical. Otherwise no one would invest. World War I had for the first time created trade dependence on markets in Europe which, though still slight, was large by historical standards, particularly along the grain belt. Moreover, the massive quantity of debt still owing from the European powers was an issue for financial markets./
+#+end_quote
+
+- Crucial to understanding Hitler's anti-Semitism and anti-Bolshevism was his belief on the state as an organism. Jews and Communism were, in his mind, cancers that erode the purity of the state, and therefore had to be purged.
+
+#+begin_quote
+  /The view of the nation state as an organism carried with it the requirement of living space/ (Lebensraum) /and easily linked to the idea of racial purity, with the Soviet Union as both the main source of contamination and the land for colonisation./
+
+  /This obsession with living space was thus not a by-product of the  need to offset the lack of colonies possessed by Britain and France but a direct extension of Hitler’s organicist image of the state. What counted was not territory as such—Hitler was utterly uninterested in recovering Germany’s former colonies in Africa, even when the British later tried to thrust them on him—but contiguous territory. Indeed; but the plain truth remains that hardly anyone took him sufficiently seriously./
+#+end_quote
+
+- Soviet communism reached China as early as 1919, through Siberian route to Manchuria. The CCP was established in 23 August 1921.
+- Britain's concerns on Bolshevism coincided with Soviet Union's activities to undermine British overseas territories, especially in India and the Middle East.
+- British-Soviet antagonism came to blows in the 1925 uprising in China.
+
+#+begin_quote
+  /The postwar system of collective security centred on the League of Nations could work only if the great powers on its council behaved responsibly in pursuit of their  national interests and in indifferently sanctioning those states that misbehaved. Thus the entire structure in Geneva hinged upon the decisions of a few who would act without bias and in everyone’s long-term interest, regardless of conditions prevailing at home and abroad. In the conduct of international relations, this was too much to ask. And what the impact of the Great Depression clearly demonstrated from 1929 was that if the world economy and the international trading system broke down, so did the open-ended commitment to maintaining the international political order./
+#+end_quote
+
+#+begin_quote
+  /Although nominally a democracy, Japan was on the cusp of becoming a militarised state, which meant that at the League of Nations plausible, polite civilians fronted for the warrior caste—a turn of affairs for which the rest of the world was utterly unprepared, and which for a long time it found impossible to recognise and then used every excuse for doing nothing to counter./
+#+end_quote
+
+#+begin_quote
+  /The Soviet Union was no different from any of the great powers in taking the line of least resistance to Japan, and for good reason. The aggression against the Chinese on Russia’s eastern flank could not have come at a more unfortunate time. The forced collectivisation of agriculture was still in progress and industrialisation had been hastened at such a pace that it led to acute bottlenecks in the economy. Any immediate new military requirements would place unexpected and heavy burdens on a system already strained to the limits. Stalin did not have much understanding of economics, but this was obvious even to him./
+#+end_quote
+
+- Japan decided to strike Manchuria in 1932, as both the US and Soviet Union are too preoccupied with other problems to offer significant resistance.
+
+#+begin_quote
+  /In the meantime, Soviet interests dictated that Europe had to remain a house divided. The one eventuality that Stalin desperately needed to forestall was the healing of postwar wounds that could make possible an entente between governments hostile to world revolution: the long-standing bogey of a common front against the Soviet Union. Averting such an outcome put a premium on Stalin’s ability to foster division and exacerbate Germany’s uneasy relations with its neighbours./
+#+end_quote
+
+#+begin_quote
+  /Having demonstrably failed to revolutionise Europe and China, the Soviet Union had turned inwards. Committed to ruthless Realpolitik, Stalin had lost hope that Soviet isolation could simply be relieved by an indigenous German revolution—a revolution that Trotsky in exile still believed feasible. Stalin’s order of priorities broke with those of Lenin and Trotsky, neither of whom believed that building socialism in one country was possible, whereas Stalin saw it as the overriding priority for Russia. Having outflanked both the left and the right, and having isolated all forms of opposition within the party, in 1929 Stalin proceeded to impose the collectivisation of agriculture and five-year plans of industrialisation, including the building of vast new cities beyond the Urals in the rural backwaters of Siberia./
+#+end_quote
+
+#+begin_quote
+  /Stalin did not really want the Nazis in power, but he had need of them to neutralise the socialists and the Centre Party, which the Communists were insufficiently powerful to do./
+#+end_quote
+
+#+begin_quote
+  /Dismissed by most foreign politicians and diplomats as a ranting fool and an unstable demagogue, inside eighteen months Hitler crushed the organised labour movement, extinguished the opposition of every other political party, wiped out his immediate rivals and embarked upon wholesale rearmament accompanied by the abrupt removal of Germany from the League of Nations./
+#+end_quote
+
+#+begin_quote
+  /The Weimar Republic that Hitler so brusquely supplanted had few well-wishers. Dismissed as “a travesty” even by foreign onlookers one would have expected to have been sympathetic, it was blotted out in an instant. No one bothered to attend the funeral or even to send flowers./
+#+end_quote
+
+- Even in the wake of his swift rise to power, most observers inside and outside Germany were convinved that Hitler's government won't last for long.
+
+#+begin_quote
+  /Hitler had been ushered into office by President Hindenburg, who was emblematic of the Prussian military establishment—men like Schleicher, who arrogantly deluded themselves that they could simultaneously use, contain and control a populist agitator like Hitler to their own ends. Hitler then surprised them all, however, when he crushed the KPD overnight, rapidly cemented his nposition through a hurried election and then outlawed all political parties other than his own./
+#+end_quote
+
+#+begin_quote
+  /All too often anxious observers looking at Nazism consoled themselves that at least it was not Bolshevism./
+#+end_quote
+
+#+begin_quote
+  /Hitler did not exactly impose himself on the people of Germany so much as pander to deep-seated needs and awaken the nation’s darkest desires. His was a disturbed mind, misshapen and disfigured by unsettled times. He soon set about meeting widespread demands for full employment, a living wage and national dignity, initially with funds raised by Schleicher. Ultimately the humiliation of a vengeful peace in 1919 and the widespread material deprivation of the Great Depression a decade later had delivered the country into Hitler’s outstretched hands./
+#+end_quote
+
+- Pope Pius XI was more concerned of Bolshevism than of Hitler.
+- Even Poland was more wary of the Soviet Union than with Germany. Indeed Warsaw cultivated closer relationship with Berlin after Hitler's rise.
+- Italy's descent into fascism is rooted in longstanding discontent post-Unification.
+- Mussolini's fascism, once in power, was sustained in part by the prevailing anti-Bolshevism in Europe.
+
+
+
 #+begin_quote
   /The tendency to assume like-mindedness has invariably proved overwhelming, and wrong. Society is, and always was, a complex organism. Ideology and cultural tradition always belonged more to the realm of organisms than that of machines. This matters, because ideologies in the international system, once activated, can completely undercut predictability, as they do not operate within the parameters of more settled states. The assumption that the system is run by rational actors thus falls apart because the calculation of what is rational is contingent on culture and historical evolution. The difference is fundamental between, at its most extreme, a country taken over by fanatics bent on revolutionary change and a country governed by complacent, well-entrenched élites with much to lose. The former still believe they can deliver a shot that the opponent cannot return; the latter just hope that their own delivery lands the ball in the opponent’s service box./
 #+end_quote
@@ -1846,7 +2001,6 @@ kind. To understand them properly we need to consider carefully how they have co
 #+begin_quote
   /The bare bones of the archival record—the skeletal past—alone, vital as they are, give us the framework, but little of the essence. The meat of history comes to us only through the restoration of the prevailing ideas and dominant assumptions of an era, and the way in which these interacted with material life to push us to the edge of disaster. Writing the origins of the Second World War in ignorance of them cheats subsequent generations. History does offer warnings, if we care to recognise them for what they are./
 #+end_quote
-
 
 
 
