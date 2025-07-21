@@ -845,7 +845,7 @@ kind. To understand them properly we need to consider carefully how they have co
   /Part of medieval culture was a dynamic interaction between elements of the Christian faith sponsored by priests and those given life or popularity by the people. In attempting to understand medieval Christianity, we stray far from the truth if we imagine priests and people as inhabiting two different worlds of thought and practice or if we believe that the experience of ordinary medieval folk can be captured in the vocabulary of folklore and with the social scientific tools used to describe it today./
 #+end_quote
 
-- Though Jews were indeed, at times, persecuted in Medieval Europe, by and large they didn't lived in desolation all those times. Many anti-Jewish policies and laws were "implemented", but in the sense that they were put into legal writing, but were ignored in practice anyway.
+- Though Jews were indeed, at times, persecuted in Medieval Europe, by and large they didn't live in desolation all those times. Many anti-Jewish policies and laws were "implemented", but in the sense that they were put into legal writing, but were ignored in practice anyway.
 - In the early Middle Ages, the Church has sought help from secular rulers for protection. This culminated in a papal anointed monarch, like Charlemagne, and later on the Holy Roman Emperors. But this dependence also meant that the secular rulers felt more entitled to ecclesiastical authority, even dressing themselves up like the bishops of the church. This arrangement, necessary at first but centuries later became less so, would be a factor in the ensuing Investiture Crisis.
 
 #+begin_quote
@@ -1658,7 +1658,7 @@ there could be no genuine reconciliation without truth./
 - The designation of the term 'Franks' for the crusaders in 1099 isn't a novelty of the First Crusade. Long before that, because of strong associattions with the Carolingian Empire, western European conquerors have been referred to collectively as Franks.
 
 #+begin_quote
-  /The term ‘Frank’ thus referred to westerners as settlers or on aggressive expeditions far from home. It is hence entirely appropriate that when the Portuguese and Spaniards arrived off the Chinese coasts in the sixteenth century, the local population called them Fo-lang-ki, a name adapted from the Arabic traders’ Faranǧa. Even in eighteenth-century Canton the western barbarian carried the name of his marauding ancestors./
+  /The term ‘Frank’ thus referred to westerners as settlers or on aggressive expeditions far from home. It is hence entirely appropriate that when the Portuguese and Spaniards arrived off the Chinese coasts in the sixteenth century, the local population called them/ Fo-lang-ki, /a name adapted from the Arabic traders’/ Faranǧa. /Even in eighteenth-century Canton the western barbarian carried the name of his marauding ancestors./
 #+end_quote
 
 #+begin_quote
@@ -1851,7 +1851,7 @@ there could be no genuine reconciliation without truth./
 - One early manifestation of secularism is on the concept of time. Specifically, the identification of the date of creation. In the late 18th century, almanacs became less concerned about defining the date of creation. By 1800, the idea of a 6000-year old Earth has disappeared among intellectuals.
 
 #+begin_quote
-  /The enlightened expansion of time could, however, be divorced from its materialist underpinning. The pious might believe that biblical stories of creation serve not as literal truth but as metaphors for a process that had actually taken many millennia. Yet materialism had enormous implications with staying power, and every believer in the Judeo-Christian tradition would—at some time—have to confront it. Materialist assumptions became the philosophical moorings upon which an entirely secular understanding of life and time rested.
+  /The enlightened expansion of time could, however, be divorced from its materialist underpinning. The pious might believe that biblical stories of creation serve not as literal truth but as metaphors for a process that had actually taken many millennia. Yet materialism had enormous implications with staying power, and every believer in the Judeo-Christian tradition would—at some time—have to confront it. Materialist assumptions became the philosophical moorings upon which an entirely secular understanding of life and time rested./
 #+end_quote
 
 #+begin_quote
@@ -1866,6 +1866,26 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Many of these small voices from the eighteenth century remain relatively unknown to our day. In some cases, we rely on unpublished manuscripts to form an acquaintance with them. They speak without assuming that they are in the vanguard of a movement of ideas that will transform Western thinking on a wide variety of topics. They are therefore all the more valuable because they allow us to see the “seepage” of ideas in an age that was coming to terms with the discovery of the world’s peoples, with religious conflict, and with vast differences in the wealth of regions close to home or far away. These ordinary voices also display a willingness to inspect and embrace the new and the foreign, even to endorse revolutionary reform./
+#+end_quote
+
+- The Dutch Republic became a focal point of secular Enlightenment. And especially for the French, it was a safe refuge from the systematic censorship and surveillance of King Louis XIV's regime.
+
+#+begin_quote
+  /In no other part of Western Europe did clandestine literature play as big a role as it did in the French Enlightenment. To be sure, such literature could be found throughout Europe, in various languages. But French was the foreign language known by Continental and British elites more than any other. Through that linguistic avenue Newtonianism also entered, albeit frequently dressed in heretical garments./
+#+end_quote
+
+#+begin_quote
+  /Hostile critics spotted in Rousseau’s articulation of the 'general will' a license for tyranny. That is both a perverse reading of his theory and an incorrect one. This is not to say that Rousseau’s account of the general will can be easily grasped. It is not one size fits all. Rather, the general will differs from country to country, and the republican theorist must be clear about the local institutions that need to be accommodated./
+#+end_quote
+
+#+begin_quote
+  /The lodges were liminal spaces where men and some women—although their membership was always controversial—could learn to deliver orations, vote, contribute to charitable causes, and meet relative strangers in an atmosphere that was solemn and at least before dinner, dignified. The lodges could instill reformist values; they could also reward aristocratic patronage and sponsorship. They could be schools of government, even places of worship for those disaffected from traditional religion. Perhaps just as important, on either side of the Channel and in the American colonies, men of different religions could live, if only a few hours a week, in harmony and toleration. While reading the philosophes, they could also live the new, enlightened culture, or at least a version of it./
+#+end_quote
+
+- Masonic lodges became safe spaces for progressive thought and disputations. This led to Freemasonry being accused of fueling the secularism that created the French Revolution. It became subject of much conspiracy theories, which continue to this day.
+
+#+begin_quote
+  /The Enlightenment in France depended partially on foreign influences, generally coming from England and the Dutch Republic. That does not detract from the brilliance of its leading lights nor the courage of the denizens of its clandestine markets. All were eager to make a profit, to be sure, but they also wanted a different social and political order, a secular order with fewer churchmen, less censorship, more tolerance, and justice for the poor and oppressed./
 #+end_quote
 
 
@@ -1987,6 +2007,10 @@ there could be no genuine reconciliation without truth./
 - Even Poland was more wary of the Soviet Union than with Germany. Indeed Warsaw cultivated closer relationship with Berlin after Hitler's rise.
 - Italy's descent into fascism is rooted in longstanding discontent post-Unification.
 - Mussolini's fascism, once in power, was sustained in part by the prevailing anti-Bolshevism in Europe.
+- By 1934, as fascism gains strength with Mussolini and Hitler's partnership, Comintern abandoned their battle against Social Democracy and pressed for a united front against the fascists. This was to be known as the Popular Front.
+- In 1934, mass protests in Asturias against the fascist prime minister ended with violent suppression, led by General Francisco Franco. Thousands more were jailed.
+- In 1936, the Popular Front garnered majority votes to win the elections. Prime Minister Gil Robles tried to press the president against allowing the left-wing to take power, but was rejected. Mass protests calling for release of those arrested in Asturias 1934 have swollen, while those aligned with the right began exodus to fascist Portugal.
+
 
 
 
