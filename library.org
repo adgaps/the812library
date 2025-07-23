@@ -1492,6 +1492,46 @@ there could be no genuine reconciliation without truth./
 
 
 
+* THE HISTORY OF PHILOSOPHY
+** /AC Grayling/
+
+#+begin_quote
+  /Philosophy’s history, as today’s students and teachers of philosophy see it, is a retrospective construct. It is chosen from the wider stream of the history of ideas in order to provide today’s philosophical concerns with their antecedents./
+#+end_quote
+
+#+begin_quote
+  /When it is the character of an agent that matters, we are discussing ethics in the sense of ethos just described; when it is the consequence of actions or conformity with duty that matters, it is the narrower focus of morality which is in view./
+#+end_quote
+
+#+begin_quote
+  /The history of philosophy as it is viewed backwards through the lens of the above enquiries is an essential part of philosophy itself, because all these enquiries have evolved over time as – so to speak – a great conversation among thinkers living in different centuries in different circumstances but nevertheless absorbed in the same fundamental questions; and therefore knowing the ‘case law’ of these debates is crucial to understanding them. This prevents us from unnecessarily reinventing the wheel over and over again, helps us to avoid mistakes and to recognize pitfalls, allows us to profit from our predecessors’ endeavours and insights, and gives us materials to use in trying to understand the subject matter at issue, and to frame the right questions to ask about them./
+#+end_quote
+
+#+begin_quote
+  /As regards history: if there is no evidence one way or the other for a claim about something that happened in the past, is the claim nevertheless definitely either true or false, or is it neither? History is written in the present on the basis of evidence – diaries, letters, archaeological remains – that has survived into the present (or so we judge): it is partial and fragmentary, and many of the past’s traces are lost; is there therefore such a thing as knowledge of the past at all, or is there only interpretative reconstruction at best – and perhaps, too often, just surmise?/
+#+end_quote
+
+#+begin_quote
+  /Until the sixteenth and seventeenth centuries, philosophers did not often enough ask the right questions in the right way about nature; when they did, the natural sciences were thereby born, developing into magnificent and powerful fields of enquiry which brought the modern world into existence. Philosophy thus gave birth to science in those centuries; in the eighteenth century it gave birth to psychology, in the nineteenth century to sociology and empirical linguistics, in the twentieth century it played important roles in the development of artificial intelligence and cognitive science./
+#+end_quote
+
+#+begin_quote
+  /An oddity of histories of philosophy which include theologians among the philosophers is that there is no better reason to include Christian theologians while excluding Jewish or Islamic ones./
+
+  /A fundamental difference between philosophy and theology is that philosophy is the enterprise of trying to make sense of ourselves and our world in a way which asks what we should think and why, whereas theology is the enterprise of exploring and expounding ideas about a certain kind of thing or things taken to exist actually or possibly, namely, a god or gods – a being or beings supposed to be different in significant and consequential ways from ourselves./
+#+end_quote
+
+- Oh boy, time to argue with a philosophy book lol.
+- I disagree on excluding theology - or in this context, theologians and their works - from the greater history of philosophy. To an extent, I agree with the author that Islamic and Jewish theologies should've been discussed to. But only within the context of how they influenced Western Philosophy.
+- See, Christian theology is almost inseparable from Western history, especially in a context that broadly sweeps through that history. Regardless of actual validity of their theological claims, fact is these were what the later philosophers contextualized and argued on.
+- Maybe the author will deal with this aspect later in the book. But ultimately, excluding theology is like excluding the ideologies of fascism and communism in a discussion of the Second World War's origins. It excludes the rationale for what follows.
+
+#+begin_quote
+  /Philosophy is to theology what agriculture is to gardening: it is a very much bigger, broader and more varied enterprise than the particular, localized and focused one of ‘talking or theorizing about a god’ (which is what theo-logos means)./
+#+end_quote
+
+
+
 * THE INVENTION OF SCIENCE
 ** /David Wootton/
 
@@ -1888,6 +1928,28 @@ there could be no genuine reconciliation without truth./
   /The Enlightenment in France depended partially on foreign influences, generally coming from England and the Dutch Republic. That does not detract from the brilliance of its leading lights nor the courage of the denizens of its clandestine markets. All were eager to make a profit, to be sure, but they also wanted a different social and political order, a secular order with fewer churchmen, less censorship, more tolerance, and justice for the poor and oppressed./
 #+end_quote
 
+#+begin_quote
+  /In the 1790s, Paris became not only the center for dramatic political changes but also an emotional cauldron of frenzied expectations and debilitating fears. From one day to the next, the aspirations of reformers and revolutionaries rose and fell. Political events were experienced as emotional highs and lows; the creation of the democratic citizen required personal transformation, a subjective and unique experience, often transgressive of customs and mores./
+#+end_quote
+
+#+begin_quote
+  /The conversation about freedom and despotism predated the American and French Revolutions by several decades; it was an inherent part of the Enlightenment./
+#+end_quote
+
+- This quote in particular relates to the thesis of /RR Palmer's/ *Age of Democratic Revolutions*, in that the twin Revolutions were grown from the same seed. It is in contrast with the common perception, even among contemporaries, that the American inspired the French Revolution.
+
+#+begin_quote
+  /The meaning of the Enlightenment resides in political structures and personal transformations that emerged in the course of the eighteenth century. These are most visible in the lives and ideas found in its last quarter./
+#+end_quote
+
+#+begin_quote
+  /Then as now, the political has often been personal. Seekers after alternatives to absolute monarchies and their churches filled civil society, dwelt in its cafés, coffee houses, salons, eating clubs, and lodges. There they could find the like-minded, or the pugnacious, even the outrageous and the subversive. Not least, their shelves offered free newspapers and journals. The century ended with revolutions—Brussels, Amsterdam, Paris, Belfast, Dublin, Naples—that focused minds on making new institutions, new laws, new hopes and dreams. All of them in this world, in time to be lived./
+#+end_quote
+
+#+begin_quote
+  /This historical account seeks not to return to the past but to bring the best of the secular Enlightenment with us into the future./
+#+end_quote
+
 
 
 * THE SPECTRE OF WAR
@@ -2010,7 +2072,33 @@ there could be no genuine reconciliation without truth./
 - By 1934, as fascism gains strength with Mussolini and Hitler's partnership, Comintern abandoned their battle against Social Democracy and pressed for a united front against the fascists. This was to be known as the Popular Front.
 - In 1934, mass protests in Asturias against the fascist prime minister ended with violent suppression, led by General Francisco Franco. Thousands more were jailed.
 - In 1936, the Popular Front garnered majority votes to win the elections. Prime Minister Gil Robles tried to press the president against allowing the left-wing to take power, but was rejected. Mass protests calling for release of those arrested in Asturias 1934 have swollen, while those aligned with the right began exodus to fascist Portugal.
+- Stalin's policies in 1930s China were seen as less concerning by Western powers. For one, the CCP has been pushed back by Chiang Kai-shek's Nationalist troops. On the other hand, resistance against Bolshevism kept Japan busy and prevented any hostile maneuver against French Indochina and British Malaya.
 
+#+begin_quote
+  /In a desperate situation, faced with renewed and more heavily armed offensives, the CCP inevitably saw the Japanese as a secondary enemy until Chiang Kai-shek could be turned around. And that was not a stance that Stalin could accept./
+#+end_quote
+
+- Japan was able to prosecute its 1937 war in China in part because both Soviet Union and the Western powers were all tied up in their own crises.
+
+#+begin_quote
+  /How was it that so many distinguished and apparently intelligent people managed to get matters so badly wrong? A large part of the story was an overriding and debilitating preoccupation with Bolshevism. But there were others who were quite simply naïve, and had a deep-seated reluctance to see evil for what it was./
+#+end_quote
+
+- Chamberlain's isolationism and anti-Bolshevism both influenced his appeasement policy on Hitler regarding Czechoslovakia.
+
+#+begin_quote
+  /It was not merely that Chamberlain held to the line of appeasing Germany and Italy while at all costs avoiding any contact with the Soviet Union. He also sought to bully his colleagues and force other states into adopting the same policy./
+#+end_quote
+
+#+begin_quote
+  /Although it is now accepted that in the face of Hitler’s determination to go to war over Czechoslovakia his own military command were completely at sixes and sevens over whether to oppose him and even launch a coup d’état, no one outside Germany, let alone inside, had any confidence that such a revolt could succeed.114 The most that can be said is that, were Germany to go to war and face not only Czechoslovakia but also the British, the French and possibly also the Russians, its economy and its military readiness in the west as well as the east were not such as to inspire much confidence in a speedy victory, if victory at all./
+#+end_quote
+
+- The author explicitly rebukes the common argument that Chamberlain was buying time to rearm when he agreed to give up Czechoslovakia to Hitler. But Chamberlain fought against rearmament in the Parliament, and preferred to hand over Czechoslovakia to the Nazis as bulwark against Soviet Union.
+
+#+begin_quote
+  /The pact naturally exacerbated the anti-Bolshevism of the appeasement camp and totally undermined pro-Soviet sentiment on the left. Having endured the news of the terror, this came as a final blow for some. Those who had swallowed their doubts in the name of the Popular Front against fascism now had to confront the reality of Soviet state interests./
+#+end_quote
 
 
 
