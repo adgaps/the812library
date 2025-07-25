@@ -670,8 +670,7 @@
 ** /Benedict Anderson/
 
 #+begin_quote
-  /Nationality, or, as one might prefer to put it in view of that word’s multiple significations, nation-ness, as well as nationalism, are cultural artefacts of a particular
-kind. To understand them properly we need to consider carefully how they have come into historical being, in what ways their meanings have changed over time, and why, today, they command such profound emotional legitimacy. I will be trying to argue that the creation of these artefacts towards the end of the eighteenth century was the spontaneous distillation of a complex ‘crossing’ of discrete historical forces; but that, once created, they became ‘modular,’ capable of being transplanted, with varying degrees of self-consciousness, to a great variety of social terrains, to merge and be merged with a correspondingly wide variety of political and ideological constellations. I will also attempt to show why these particular cultural artefacts have aroused such deep attachments./
+  /Nationality, or, as one might prefer to put it in view of that word’s multiple significations, nation-ness, as well as nationalism, are cultural artefacts of a particular kind. To understand them properly we need to consider carefully how they have come into historical being, in what ways their meanings have changed over time, and why, today, they command such profound emotional legitimacy. I will be trying to argue that the creation of these artefacts towards the end of the eighteenth century was the spontaneous distillation of a complex ‘crossing’ of discrete historical forces; but that, once created, they became ‘modular,’ capable of being transplanted, with varying degrees of self-consciousness, to a great variety of social terrains, to merge and be merged with a correspondingly wide variety of political and ideological constellations. I will also attempt to show why these particular cultural artefacts have aroused such deep attachments./
 #+end_quote
 
 - Nation is
@@ -690,7 +689,7 @@ kind. To understand them properly we need to consider carefully how they have co
   /The great weakness of all evolutionary/progressive styles of thought, not excluding Marxism, is that such questions are answered with impatient silence. At the same time, in different ways, religious thought also responds to obscure intimations of immortality, generally by transforming fatality into continuity (karma, original sin, etc.). In this way, it concerns itself with the links between the dead and the yet unborn, the mystery of regeneration./
 #+end_quote
 
-- Not even 10% into chapter 2, the author already namedropped Filipino stuff like Sulu Archipelago, Maguindanao, and Ilongo Christian. I got super intrigued and search up his wiki bio. Well, he's a Southeast Asia scholar, and does know Tagalog. He apparently even has a work about Rizal's novels.
+- Not even 10% into chapter 2, the author already namedropped Filipino stuff like Sulu Archipelago, Maguindanao, and Ilongo Christian. I got super intrigued and searched up his wiki bio. Well, he's a Southeast Asia scholar, and does know Tagalog. He apparently even has a work about Rizal's novels.
 
 #+begin_quote
   /The astonishing power of the papacy in its noonday is only comprehensible in terms of a trans-European Latin-writing clerisy, and a conception of the world, shared by virtually everyone, that the bilingual intelligentsia, by mediating between vernacular and Latin, mediated between earth and heaven./
@@ -708,7 +707,7 @@ kind. To understand them properly we need to consider carefully how they have co
 #+end_quote
 
 #+begin_quote
-  /The universality of Latin in mediaeval Western Europe never corresponded to a universal political system. The contrast with Imperial China, where the reach of the mandarinal bureaucracy and of painted characters largely coincided, is instructive. In effect, the political fragmentation of Western Europe after the collapse of the Western Empire meant that no sovereign could monopolize Latin and make it his-and-only-his language-of-state, and thus Latin’s religious  never had a true political analogue./
+  /The universality of Latin in mediaeval Western Europe never corresponded to a universal political system. The contrast with Imperial China, where the reach of the mandarinal bureaucracy and of painted characters largely coincided, is instructive. In effect, the political fragmentation of Western Europe after the collapse of the Western Empire meant that no sovereign could monopolize Latin and make it his-and-only-his language-of-state, and thus Latin’s religious authority never had a true political analogue./
 #+end_quote
 
 #+begin_quote
@@ -1530,6 +1529,102 @@ there could be no genuine reconciliation without truth./
   /Philosophy is to theology what agriculture is to gardening: it is a very much bigger, broader and more varied enterprise than the particular, localized and focused one of ‘talking or theorizing about a god’ (which is what theo-logos means)./
 #+end_quote
 
+- Doxography is the scholarly field of retrieving, collating, and preserving ancient texts. In this book, it was used in the context of pre-Socratic philosophy works, much of which are already lost.
+- Thales is the first to attempt to theorize a fundamental form of life, which for him is water. That is, life comes from water and ends up back into water.
+- Anaximander takes it up a notch, and posits that the fundamental for of life is a principle of infinite, not tethered into a material form.
+
+#+begin_quote
+  /It is something of a reflex among doxographers to credit several of the early Greek thinkers with acquisition of wisdom ‘from the East’. The belief that the East is a source of especially deep wisdom persists into our own day./
+#+end_quote
+
+- Much of the knowledge we have on Pythagoras are passed on through doxography, and greatly colored by legends and myths.
+- Pythagoras' most famous contribution, the eponymous theorem, has been known to earlier Greeks and Egyptians for centuries. He or his followers may have been the most successful in providing a mathematical proof and disseminating it.
+
+#+begin_quote
+  /A major achievement of the Pythagorean school was its discovery that the pitch of a musical note depends on the length of a string whose vibrations produce the note, and that simple numerical ratios explain the consonant intervals of the scale: 2:1 octave, 3:2 perfect fifth, 4:3 perfect fourth, and so on. To understand this, think of two guitar strings of equal length, tension and thickness. If they are both plucked together they sound the same. If different lengths of each are plucked, they sometimes sound dissonant and sometimes consonant. This latter observation underlies measurement of consonant intervals – an interval being the distance between two notes, and a consonant interval being one in which the two notes sound good together. Experiment will show that if you have two lengths of string of equal length, tension and thickness, plucking one while simultaneously plucking exactly half the length of the other will yield a consonance – this is the octave. If the second string is plucked at two-fifths the length of the first, the resulting consonant is a perfect fifth./
+#+end_quote
+
+- The success of the Pythagorean school lies in establishing the value of quantifications and mathematical proofs. "All is number."
+
+#+begin_quote
+  /It was the musical discovery that the consonant intervals can be expressed as simple numerical ratios that is the great legacy of Pythagoreanism. The idea of harmonia, harmony, opened a set of conceptual possibilities which proved to be very influential. It suggested that opposites can be brought into harmony, or can produce harmonies in their interactions, not least by blending – as when wet and dry, hot and cold balance each other or temper each other’s excesses./
+#+end_quote
+
+#+begin_quote
+  /One sure way to live in philosophical memory is to issue striking remarks that are obscure or ambiguous – or better still a mixture of both./
+#+end_quote
+
+- Heraclitus posited the unity of opposites, that something can possess two opposite aspects at the same time. For example, a staircase is both ascending and descending.
+
+#+begin_quote
+  /The key point for Parmenides is that one cannot think about what is not, whereas anything that can be thought must be./
+
+  /Another way of putting this is to say: if you think, you must be thinking of something; therefore there cannot be nothing./
+#+end_quote
+
+#+begin_quote
+  /Parmenides’ greatest influence, from the point of view of impact on the entire subsequent history of philosophy, was on Plato and the Platonists. Plato admired Parmenides greatly; he has him worsting Socrates in a late dialogue, and he derives from him the view that the senses and what they tell us about the world of appearances – the familiar world around us, which seems plural and subject to time and change – deceive us as to the true nature of reality. That is a theme which has underwritten an enormous amount of what philosophy and, later, science has achieved./
+#+end_quote
+
+- Empedocles posited the composition of nature as being a random combination of four elements: earth, air, fire, water.
+- Anaxagoras puts forward the composition of nature as being combination of seeds, or /panspermia/. Composition is determined not by presence or absence, but by preponderance, of such seeds.
+- He also theorizes the existence of a /nous/ or reason that controls these seeds and how they interact to produce something.
+
+#+begin_quote
+  /Anaxagoras is an interesting case-study in the Presocratic moment of philosophy, because in his theory the combination of a priori reasoning and inductions from observation, typical enough not just of philosophy’s beginnings but of its entire history, manifests itself in clear outline. What he says about the source of river water, eclipses of the moon and some of the phenomena of sensory perception interestingly anticipates not just later views but the possibility of empirical verification of them./
+#+end_quote
+
+- Democritus presented a theory for fundamental composition of natures, whereby each matter is made up of tiny indivisible elements. It was named after the term for indivisible — /atomos/ — hence, atomism.
+- Sophists are people who make a living from teaching rhetoric and oratory.
+
+#+begin_quote
+  /Socrates and Plato disliked the sophists on the grounds that they offered to teach, in exchange for money, the ability to persuade others to any point of view, which meant that they taught people how to win arguments, not how to discover truth./
+#+end_quote
+
+#+begin_quote
+  /In addition to teaching rhetoric and oratory the sophists also taught what was required to accompany an ability to be a good public speaker, for there is no use in being eloquent if you have nothing to be eloquent about – if you know no history or literature, if you know nothing about ideas, if you have never reflected on right and wrong, the state of society and how to live a successful life./
+#+end_quote
+
+#+begin_quote
+  /From the viewpoint of subsequent history, the antipathy felt by Plato for the sophists is highly consequential. The key point for Socrates and Plato is that philosophy is the pursuit of truth, and it cannot be constrained by the necessity of winning a case or earning a fee. In our own day we are rightly sceptical of expressions of opinion that have been paid for – ‘sponsored editorials’ in newspapers, pharmaceutical companies paying doctors to prescribe certain drugs, politicians acting on behalf of donors, and the like. The point that Socrates and Plato insisted on holds: that truth should not be for sale.From the viewpoint of subsequent history, the antipathy felt by Plato for the sophists is highly consequential. The key point for Socrates and Plato is that philosophy is the pursuit of truth, and it cannot be constrained by the necessity of winning a case or earning a fee. In our own day we are rightly sceptical of expressions of opinion that have been paid for – ‘sponsored editorials’ in newspapers, pharmaceutical companies paying doctors to prescribe certain drugs, politicians acting on behalf of donors, and the like. The point that Socrates and Plato insisted on holds: that truth should not be for sale./
+#+end_quote
+
+#+begin_quote
+  /It was the Socrates of poverty and indifference to worldly things who was imitated by the Cynics later; it was the Socrates of dedication to thought and fidelity to principle who inspired the Stoics later; it was Socrates’ preaching of the ‘considered life’ which inspired Aristotle to see reason as the distinguishing characteristic of humanity, and practical wisdom/ (phronesis) /as the basis of ethics./
+#+end_quote
+
+- In the Socratic method, Socrates asks the interlocutor for a definition of a concept. Then he refutes that definition by citing exceptions. The Socratic method usually ends with no satisfactory definitions, and only exclusions.
+- A primary takeaway from Socratic philosophy is that knowledge of what is right is necessary, and one has not lived well unless he knows the good from the bad.
+- While there are many ways to refute Socrates' teachings. the best lesson from him is the attitude of wanting to pursue knowledge of truth and the virtues.
+
+#+begin_quote
+  /Socrates’ trial and execution were most probably the result of political turmoil in the years after Athens’ defeat in 404 BCE. Socrates was executed in 399, and Plato’s belief that political chaos must inevitably result in tyranny – because a tyrant would step in to restore order, only making matters worse thereby – underlay his view that the state should be run by ‘philosopher-kings’ living in monk-like freedom from the corrupting influences of wealth-seeking and family ties that could warp their judgment./
+#+end_quote
+
+- While Socrates embraced the inconclusiveness of his inquiries, Plato sought a system where the essential philosophical questions have a more definite answer.
+- Plato's philosophy rests in the search for Forms, eternal and unchanging Truths that cannot be perceived merely by senses. We can be acquainted to these Forms, in the sense that "I know X as explained by someone to me" but it is insufficient. The goal of human knowledge is to fully know the Forms.
+- Aristotle took his teacher Plato's desire for systematic philosophy even further, and produced a body of works that delve in a more diverse range of subjects, sometimes refuting Plato's works.
+- The works of Aristotle we have now are actually from his lectures, and so can be rather rough to read and understand. He had actual published and polished works, which unfortunately did not survive.
+- Despite the coincidence that two towering figures of antiquity - Aristotle and his student, Alexander the Great - have such close relations, considering his later life it's unlikely that Aristotle had discernible positive influence on Alexander.
+- Theoretical: metaphysics, mathematics, physics
+- Practical: politics, ethics
+
+#+begin_quote
+  /Aristotle’s investigation of how such classes relate to each other as representable in these ways gave him the concept of a classification into genus, species, difference, property and accident. These are the ‘five words’ (quinque voces) as later logicians called them, and they list the ways in which a predicate can relate to a subject – or, alternatively put, the ways in which we can speak about something. You can speak about something specifically, or generally; that is species and genus. You can talk about the differences between species of things that separate them from each other; that is difference. You can talk about the characteristics of something that are found in all instances of the class of things it belongs to – these are properties. Or you can speak of a characteristic that something happens to have but which it could just as likely not have – which it has accidentally, so to speak; these are accidents, like the shape of a shoe or the colour of a shirt./
+#+end_quote
+
+#+begin_quote
+  /Aristotle identified four ‘causes’: material, efficient, formal and final. Suppose you wish to explain what a table is. You cite the material cause (the wood from which it is made), the efficient cause (the carpenter’s work that brought it into being), the formal cause (the form of the thing; the pattern or design that the carpenter followed in making the table) and the final cause (the end, aim or purpose for which the table was made). When you have given all four causes you have given an explanation. Of these the most important is the final cause, the purpose or aim – the telos. Explanations given in terms of final causes are called teleological explanations./
+#+end_quote
+
+#+begin_quote
+  /Substances have a potentiality either to be changed by something acting on them, which is ‘passive potential’, or to cause change in other substances, which is what animate things can do because they possess ‘active potential’. Change requires the realization of potentiality – the making of the potential actual – which he calls energeia./
+#+end_quote
+
+#+begin_quote
+  /Given that everything is a concretion of matter and form which have been united by a cause, and given that the causal chain cannot regress to earlier and earlier causes for ever, there must be a first cause, which to break the regress must be self-caused. This self-causing ‘first mover’ of the universe must, said Aristotle, be a mind, the nature of which is pure thought. It thinks about the highest thing there is, which is thought; hence it is pure thought thinking about itself. To this he gives the name God./
+#+end_quote
+
 
 
 * THE INVENTION OF SCIENCE
@@ -2099,6 +2194,10 @@ there could be no genuine reconciliation without truth./
 #+begin_quote
   /The pact naturally exacerbated the anti-Bolshevism of the appeasement camp and totally undermined pro-Soviet sentiment on the left. Having endured the news of the terror, this came as a final blow for some. Those who had swallowed their doubts in the name of the Popular Front against fascism now had to confront the reality of Soviet state interests./
 #+end_quote
+
+- Part of the failure of Chamberlain's appeasement policy is the prevailing assumption that for ideological reasons, Nazi Germany and Soviet Union cannot be allies.
+
+
 
 
 
