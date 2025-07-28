@@ -1625,6 +1625,72 @@ there could be no genuine reconciliation without truth./
   /Given that everything is a concretion of matter and form which have been united by a cause, and given that the causal chain cannot regress to earlier and earlier causes for ever, there must be a first cause, which to break the regress must be self-caused. This self-causing ‘first mover’ of the universe must, said Aristotle, be a mind, the nature of which is pure thought. It thinks about the highest thing there is, which is thought; hence it is pure thought thinking about itself. To this he gives the name God./
 #+end_quote
 
+- Cynicism emphasized a life of virtue, and acting according to nature. This meant rejecting conventional lifestyle and living simple, even becoming hermit. Diogenes practiced Cynicism in its most extreme form.
+- Epicurus' atomism goes beyond that of Democritus'. He posits that while atoms are indivisible, they are not the /minima/, and atoms have components that cannot be separated from the whole.
+- He then notes that everything that exists is due to various configurations of such atoms. For Epicurus, everything is material, even the soul, and they are all made up of atoms.
+- The view of Epicureanism as being about extravagance and worldly pleasure is a massive misunderstanding of his theories. On the contrary, Epicurus notes that true pleasure derives from simplicity, as it rejects unnecessary complexities that also entail more hardships.
+- Stoicism, as defined by its founder Zeno, is a moderate version of Cynicism.
+- Stoicism subscribes to the concept of bivalence: something is either true or false, but not both, and no other options.
+
+#+begin_quote
+  /The Stoics did not think that merely having an impression amounted to knowledge, just by itself, nor did they think that having an impression and assenting to it or believing it is enough. The impression has to be supported by something further, something that ‘nails it down’ as Plato had said./
+#+end_quote
+
+#+begin_quote
+  /Zeno of Citium had himself given the following illustration: hold out your hand: that is perceiving. Fold the fingers back: that is believing. Clench your fist: that is comprehending. Grasp your fist very tightly and securely in your other fist, so that it is supported: that is knowing./
+#+end_quote
+
+#+begin_quote
+  /The fundamental Stoic idea in ethics is that happiness – which they agreed is the end or goal,/ telos, /of life – consists in ‘living in accordance with nature’. What is in accordance with nature is what is good. The good is what benefits us in all circumstances, unlike things which are only good in some circumstances and not in others, for example, wealth. Things that are sometimes good and sometimes bad the Stoics called ‘indifferents’. The things that are always good are the virtues of prudence, courage, moderation and justice./
+#+end_quote
+
+#+begin_quote
+  /Living well consists in rationally choosing those things that are good, and those things that are appropriate when consistent with things that are good, and the choices will be governed by seeking to conform to nature. It may well be that we do not succeed in achieving certain of the ‘indifferents’ which we rationally and appropriately pursue, such as wealth; but if we have what is good – courage, prudence, moderation – we will still be happy./
+#+end_quote
+
+- Stoic ethics emphasizes mastering the aspects of life that we can master, like our desires and fears.
+
+#+begin_quote
+  /The difference is between action and passion: action is what we do, passion is what we undergo or suffer as recipients without a choice. To bear the passions,/ pathe, /courageously means not letting them master us; we must be apathetic with regard to them. That is the original meaning of this term./
+#+end_quote
+
+- I'm sold. Now I want to know more about Stoicism.
+- It seems that was what happened to later Stoics too. The whole ethics aspect appealed to a lot of people, especially the leading military figures of the time. Stoic way of life seemed fit for people stationed in faraway regions during military campaigns.
+- On practicality: Plato and Aristotle's philosophies were too intellectual and high-brow. Cynicism and Epicureanism felt too extreme to the more modest individuals. Stoicism was just the right balance.
+
+#+begin_quote
+  /There is nothing theoretical about the adjurations of the Stoics, for whom philosophy was a practical matter, aimed at making a real difference to the felt quality of life. Understanding oneself and how things are in the world is liberating, they argued, precisely because it puts the key to happiness into our own hands: we can choose to be indifferent to what we cannot influence, while at the same time rationally governing our own feelings./
+#+end_quote
+
+#+begin_quote
+  /The two principal doctrines of Neoplatonism are, first, that mind is more fundamental than matter – as the philosophical jargon has it: is ‘ontologically prior’ to matter, which means that it comes first in the order of existence – and second, that the ultimate cause of all things must be a single unitary principle. They held that the cause of anything must contain at least as much and typically more ‘reality’ than its effect, in order to have sufficient causal potency to bring the effect about; and therefore the cause of the universe must be as real or more real than the universe itself./
+#+end_quote
+
+#+begin_quote
+  /As so often happens with important developments in intellectual history, the founder of a tradition of ideas had gifted successors who added to, adapted or extended it in several directions./
+#+end_quote
+
+- The main reason that philosophy was subordinated to theology in the Middle Ages is because education became a monopoly of the Church. Hence, orthodoxy became a priority in teaching and learning philosophy, and anything that remotely resembles rebuttal of religious doctrine is suppressed. The offending person may even end up in dire straits for it.
+
+#+begin_quote
+  /Augustine lived seven hundred years after Aristotle; Anselm lived six hundred years after Augustine; Aquinas lived two hundred years after Anselm. So 1,500 years separated Aquinas from Aristotle whose work, a substantial part of it newly rediscovered shortly before Aquinas’ time, was of such great importance to him. In those great gaps of time hundreds of other thinkers and writers, and thousands of teachers and  discussed and interpreted the ideas of the major philosophers./
+#+end_quote
+
+- Author makes this rather curious note that the only Renaissance philosopher with lasting legacy is Machiavelli. The reasoning is that, other Renaissance thinkers are not known for their philosophical works, but on works that are categorized as something else.
+- It's nice to read an author who's clearly not fond of Christian thinking haha. His treatment of Augustine's philosophy is dismissive, maybe less in good faith.
+- Man if this is how this specific author treats Christian philosophy, now I'm curious how Russell did it in his book on the similar subject.
+
+#+begin_quote
+  /Arguments for the existence of a deity are never what lead people to theistic beliefs: at best they are post facto justifications or rationales for what almost always is a commitment that arises from other sources./
+#+end_quote
+
+- Aquinas' /Summa Contra Gentiles/ was meant to be a guidebook for disputating and converitng pagans. As such, almsot 3/4 of the book relies of natural theology, with no references to the Scriptures. Only in the last part of the book does Aquinas introduce Catholicism.
+- His treatment of Aquinas is much more fair than others.
+- Apart from his scientific achievements, Roger Bacon also dabbled in philocophy. A noteworthy legacy of his is treatment of language as signs external to the reality they represent.
+- Duns Scotus' philosophy contradicts that of Aquinas in a lot of ways, though likely he didn't specifically target Thomism. Scotus thinks religious truth is only achievable by faith (vs. Aquinas' exalted treatment of reason); he also considers good ness to be the same regardless of whether exhibited by God or by anything else (vs. Aquinas treating God's goodness as divine and above that of others).
+- Anselm: ontological
+- Aquinas: cosmological, teleological
+
 
 
 * THE INVENTION OF SCIENCE
@@ -2196,10 +2262,6 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - Part of the failure of Chamberlain's appeasement policy is the prevailing assumption that for ideological reasons, Nazi Germany and Soviet Union cannot be allies.
-
-
-
-
 
 #+begin_quote
   /The tendency to assume like-mindedness has invariably proved overwhelming, and wrong. Society is, and always was, a complex organism. Ideology and cultural tradition always belonged more to the realm of organisms than that of machines. This matters, because ideologies in the international system, once activated, can completely undercut predictability, as they do not operate within the parameters of more settled states. The assumption that the system is run by rational actors thus falls apart because the calculation of what is rational is contingent on culture and historical evolution. The difference is fundamental between, at its most extreme, a country taken over by fanatics bent on revolutionary change and a country governed by complacent, well-entrenched élites with much to lose. The former still believe they can deliver a shot that the opponent cannot return; the latter just hope that their own delivery lands the ball in the opponent’s service box./
