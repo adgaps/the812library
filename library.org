@@ -1690,6 +1690,156 @@ there could be no genuine reconciliation without truth./
 - Duns Scotus' philosophy contradicts that of Aquinas in a lot of ways, though likely he didn't specifically target Thomism. Scotus thinks religious truth is only achievable by faith (vs. Aquinas' exalted treatment of reason); he also considers good ness to be the same regardless of whether exhibited by God or by anything else (vs. Aquinas treating God's goodness as divine and above that of others).
 - Anselm: ontological
 - Aquinas: cosmological, teleological
+- Renaissance philosophy, like with its contemporary arts, was move away from the sophisticated and technical, and towards the more practical forms. 
+
+#+begin_quote
+  /To those sceptical about whether the Renaissance did more than opportunistically help itself to rhetorically useful smatterings of philosophy from one or another source, they could point to the paradoxes, inconsistencies and relativism that resulted. The response is to say that thinking about the complexities of real life, the hard choices people are often forced to make, the changes and variabilities of experience and circumstance, of course results in the appearance of inconsistency. The Renaissance rhetoricians could claim that philosophy, which seeks absolutes, has the luxury of ignoring realities, while rhetoric respects and addresses them./
+#+end_quote
+
+#+begin_quote
+  /Platonism did not usurp Aristotelianism, not by a long way; but interest in it had the effect of weakening the latter’s authority, giving later philosophers and scientists, especially those in the seventeenth century, a less difficult task in rejecting it./
+#+end_quote
+
+#+begin_quote
+  /Today the word ‘humanist’ denotes a person who has a non-religious ethical outlook. In the Renaissance context it denotes scholars and intellectuals who believed that the/ studia humanitatis /of grammar, rhetoric, history, poetry and ethics would help to develop rounded and effective citizens dedicated to an intelligent vita activa. The source and inspiration for the material of these studies was explicitly classical antiquity, and explicitly not medieval Scholasticism. The rediscovery and valorization of the intellectual culture of classical times was expressly seen as a rebirth – renaissance – by the leaders of the new movement, and its central defining feature is humanism./
+#+end_quote
+
+- Petrarch's reputation as "Father of Humanism" was less about his own works — which were themselves popular at the time — but from his enthusiastic collation of ancient manuscripts. He enthusiastically encouraged other scholars to discover other such ancient works, which a few did.
+- Humanism was primarily an educational movement, aimed at promoting an intellectual upbringing hinged on classical antiquity. It was not meant to run contrary to Church-run education, and in fact went hand-in-hand with it.
+- Students of humanism, who were also mainly aristocratic, went on to occupy various government positions, thereby spreading humanist thinking through the political bureaucracy.
+
+#+begin_quote
+  /Perhaps the logical ultimate of these increasingly self-congratulatory ideas about the dignity of man as a near-divine creature was Pico’s view that man can create himself, can be whatever he chooses to be and can occupy any position in the scheme of things from lowest to highest. This implies that there is no predestined place for man, but instead an almost supernatural standpoint from outside, above and beside all other things, a heroic standpoint as observer and mirror of the world./
+#+end_quote
+
+#+begin_quote
+  /Renaissance humanists were Christians, at very least in profession and practice, whatever they privately thought, since there was no life outside the religion. But doubtless the great majority of them believed enough of the Christian teaching to think that the greatest good for humanity was attainment of heaven after death, or at least a not too onerous spell in purgatory to be cleansed of the sins they had acquired through the exigencies of human nature and the pressures of an unjust world. Aristotle had taught that the highest good, the/ summum bonum, /was happiness,/ eudaimonia, /and the Renaissance identified this with eternal life in the presence of God, as promised to the faithful and virtuous as their reward. But it was of a piece with humanistic optimism to think that although true felicity could only be the posthumous one just described, nevertheless a form of happiness is attainable in this world, a reflection or imitation, of course flawed and imperfect, of the supreme posthumous happiness./
+#+end_quote
+
+#+begin_quote
+  /For Platonists among the humanists, it was easier to reconcile their admiration for Plato with commitment to scripture, for his notion of the supreme good was easily identifiable with the Christian view. After all, Plato had taught repeatedly – in the Phaedo, Republic, Symposium – that it is only in its disembodied state that the soul can perfectly contemplate the supreme Good, and this was scarcely distinguishable from what Christian doctrine taught regarding the ultimate posthumous felicity of eternal life with God./
+#+end_quote
+
+- It was the humanistic philosophy of the Renaissance intellectuals that aided the flowering of culture and arts that the period is most known for.
+- Humanism itself is not anti-religion. Indeed some of its leading figures like Erasmus were religious. However, humanism also privileged Platonism over Aristotelianism. And this caused some rift with the Church, which privileges Aristotelianism as utilized by Aquinas.
+- Machiavelli's political philoosphy relates to the preservation of the state, of which a prince will naturally be most predisposed of.
+- In his view, princes do ought to be good leaders and protect their citizens. However, there will be situations when force is necessary, when princes have to wage war both outside and within their city-states. And a good prince, above all, should be prepared to use such force to preserve order and stability.
+
+#+begin_quote
+  /The ruthlessness recommended to the prince is thus recommended to the people, if necessity demands it; Machiavelli’s espousal of a frank form of realism survives to the last./
+#+end_quote
+
+- Philosophy flourished like never before in the 16th century onwards because Protestantism, owing to its nature, did not attempt to combat intellectual disputations with imposition of authoritative orthodoxy.
+
+#+begin_quote
+  /Empiricism is the view that all genuine knowledge must either originate in or be testable by experience of the world – and this means sensory experience: seeing, hearing, touching, tasting and smelling, aided by the instruments (telescopes, microscopes, oscilloscopes: scientific instruments, in short) that extend the range and power of observation./
+#+end_quote
+
+#+begin_quote
+  /Rationalism, in the epistemological sense, is the view that genuine knowledge can be attained only by reason, by rational inference from first principles, logical foundations or self-evident truths./
+#+end_quote
+
+#+begin_quote
+  /Natural science is the paradigm of knowledge for empiricists; it involves observation and experiment. Mathematics and logic provide the paradigm for rationalists; the conclusions of mathematical and logical thinking are eternal, unchanging and certain, which is what the rationalists argued truth should be./
+#+end_quote
+
+- Francis Bacon criticized the secrecy of alchemy and occult arts. He wanted knowledge to be open and cooperative, which is what the scientific community of later times became.
+- Bacon, an empiricist, also created what is now known as the scientific method. He outlined a method by which empirical data is gathered, a prior hypothesis is testec and checked against the data, and the results are published.
+
+#+begin_quote
+  /There are two parts to Descartes’ view about how we can acquire knowledge. One is that enquiry should consist in small, cautious steps from one clear idea to the next, each step carefully reviewed until the chain of reasoning is complete. The other consists in ensuring that the starting point of the chain is unquestionably certain./
+#+end_quote
+
+- Descartes' method of initially doubting anything outside one's self is the gist of his famous argument, /cogito, ergo sum/.
+- Descartes also dealt with the mind-body problem, and proposed that mind and matter are distinct. While he had much to say regarding the subject, ultimately it's all methods, and he himself admits there's no satisfactory answer to many of his questions.
+- Hobbes was a royalist, but his political philosophy still works in republican settings. The point for Hobbes is that whatever form the government takes it has to be absolute.
+
+#+begin_quote
+  /In the absence of an authority capable of keeping everyone safe, there can be no security; not even self-defence pacts formed by groups of individuals would be sufficient. The only sure source of safety is a ‘common power’, a central authority which Hobbes named ‘Leviathan’, a biblical term denoting a huge monster. The Leviathan’s authority derives from the consent of each member of society to accept its unlimited power over them. The Leviathan could be an individual person, such as a monarch, or a group, or indeed any other entity, so long as it possesses plenary powers./
+#+end_quote
+
+- A crucial question in the idea of an absolute Leviathan is obedience: when is it moral to go against or overthrow a sovereign? For Hobbes, most instances of abuse of power do not justify overthrow, and it's self-contradictory as the society would be admitting the failure of its own collective moral conscience.
+- On the other hand, the Leviathan has one essential goal, the very reason for its existence: welfare and security of its people. Failure to deliver on this would constitute the only appropriate reason for overthrowing the sovereign.
+
+#+begin_quote
+  /A compelling criticism of Hobbes is offered by Quentin Skinner, who says that Hobbes’ account of liberty undermines a better notion he calls ‘republican liberty’, which is ‘liberty as the absence of dependence’. Free people are those who do not live under any form of arbitrary power, whether or not it is exercised. The view that liberty is merely lack of interference or restraint – or, as Hobbes eventually put it, mere absence of impediment to motion – is insufficient for people to be genuinely free; however benign the existence of power, says Skinner, its mere existence changes free people into slaves. And free people can exist only in a free state./
+#+end_quote
+
+- One crucial debate stemming from Hobbes' philosophy is what freedom and liberty mean. Is it the absence of restrictions, or absence of dependence? 
+
+#+begin_quote
+  /A key to understanding Spinoza lies in his use of the phrase/ ‘deus sive natura’, /‘god or nature’, to denote the totality of what exists. For him the universe is God or God is the universe, nature is God or God is nature; they are one and the same thing. All there is, is the world; call it God if you wish, on the grounds that it is everything that exists. This view is a far cry from the idea that there is a separate transcendent providential deity with intentions and plans for what it has created, which judges and rewards or punishes, and is and does what traditional religious conceptions of deity describe./
+#+end_quote
+
+#+begin_quote
+  /The Tractatus is a plea for toleration and the freedom to think and enquire. Spinoza argued that the Bible comes down to one simple message, if one leaves aside all the rest of its talk of laws and miracles and all its superstitious elements: ‘love your neighbour.’/
+#+end_quote
+
+#+begin_quote
+  /England’s ‘Glorious Revolution’ of 1688 established two linked points: the sovereignty of Parliament and the rejection of the doctrine of the ‘divine right of kings’. By putting a crown on the head of William of Orange on its own terms, Parliament had achieved a new and permanent constitutional settlement. Control of national finances and the armed forces lay with Parliament, and with those two things lay everything. Only Parliament could vote money to the government. The settlement also and crucially secured the independence of the judiciary and a right of petition, two bulwarks of a free society./
+#+end_quote
+
+- John Locke's defense of the Glorious Revolution is also a repudiation of Hobbes' Leviathan.
+
+#+begin_quote
+  /The controversy over who was first to invent calculus, whether Newton or Leibniz, started immediately and has continued since. The truth appears to be that they each devised a version of it independently, though Newton invented his version earlier than Leibniz did, and both delayed publication, though Newton delayed longer than Leibniz. The dispute grew bitter, and cast its shadow over the later part of Leibniz’s life because the powerful and influential Royal Society, in somewhat biased fashion it has to be said, decided in favour of Newton and as good as accused Leibniz of plagiarism./
+#+end_quote
+
+- Non-Contradiction
+- Sufficient Reason
+  - causality
+- Identity of Indiscernibles
+  - Leibniz' Law: x and y are identical if all properties of x are all properties of y
+- Analyticity
+  - validity of proposition is intuitive to the proposition; almost a tautology
+- Continuum
+  - cause-and-effect in nature is gradual and step-by-step, no leaps
+- Best World
+  - Leibniz proposed that, if everything God does is for the ultimate good, then all the sufferings of the world are also for this ultimate good. With this logic, Leibniz, proposes, we are already in the best and most good world that there could be.
+
+#+begin_quote
+  /So copious was Leibniz’s output, so general his genius and so unfinished and still in development were his philosophical views that it is hard to give a neat summary of them. He is like twentieth-century Analytic philosophers in the detail and technicality of his work; unlike them he sought to build a system out of the technical details; he would have needed more time to  if they could be worked out consistently./
+#+end_quote
+
+#+begin_quote
+  /Locke had aimed to give a general theory of knowledge: knowledge is about relations of ideas, and contingent or empirical knowledge is effectively probabilistic. Berkeley had offered a metaphysical answer to the epistemological problem: the nature of reality explains how we know, for the substance of reality is mind, and experience consists in having ideas./
+#+end_quote
+
+#+begin_quote
+  /For the entire period between late antiquity and early modern times – which began in the period between the sixteenth and eighteenth centuries, the latter being the century of the Enlightenment’s major flowering – there had been little discussion of ethics outside Christian moral theology, and scarcely any discussion of the underlying principles of ethics. Moral discussion was restricted to interpretation of scripture and Church teaching, and any divergence from orthodox doctrine on these matters was for a long time heavily punished. But the beginning of modern times saw a return to the kind of debate about ethical principles that had flourished in antiquity. The chief reason was the loss of religious authority over what it was permissible to think and discuss, which meant that the moral sceptic’s question, ‘Why should I act in this rather than that way?’ could again be addressed./
+#+end_quote
+
+- Hume's moral philosophy rejects the rationalist approach, and argues that concept of good (and bad) is based on human nature and not on reason. We can know what is good, but it doesn't make us /want/ to be good.
+
+#+begin_quote
+  /What Rousseau meant by ‘the general will’ is unclear, and is open to being understood in very different ways. The two most common interpretations are, first, that the general will is ‘the will of the people’ as this is understood in the democratic sense of a consensus of everyone agreeing together. The second is a more abstract notion, something like a transcendently conceived common purpose or interest that exists apart from the actual preferences of any given individual. Both interpretations can be backed by what Rousseau writes, though his text seems to favour the second./
+#+end_quote
+
+#+begin_quote
+  /An idea that anticipates Kant’s views is Rousseau’s claim that in civil society people have ‘moral freedom’ because they subject themselves to moral laws that they have imposed on themselves./
+
+  /The idea of civil freedom as obedience to the general will is close to the idea of moral autonomy in the sense that one’s participation in willing the general will in effect makes one a legislator of the laws – including moral laws – under which one lives./
+#+end_quote
+
+#+begin_quote
+  /Here is a claim that few who are knowledgeable about philosophy would dispute: that the three greatest figures in the history of Western philosophy are Plato, Aristotle and Kant. Other figures have high importance in the story, not least because of the influence they exerted on those who came after them; but there can be little disagreement with the claim that these three names stand above the rest. What marks them out is their intellectual power, their penetration into the deepest parts of difficult questions, and the scope of their contributions. Each created new concepts and vocabularies for exploring the fundamental questions of metaphysics, epistemology and ethics, to say nothing of psychology and social and political theory. Each of them thereby changed and enriched the way nhumankind thinks./
+#+end_quote
+
+- Kant was a polymath (ok seriously who in this book wasn't lol), and actually had notable contributions in other fields, like the Kant-Laplace mathematical theory.
+- empiricism: knowledge comes from perception = a posteriori; observation and experiment.
+- rationalism: knowledge comes from reason = a priori; excogitation and inference.
+
+#+begin_quote
+  /The ethical outlook advocated by Kant is a ‘deontology’, a rule-based or duty-based ethics. This kind of view is sharply contrasted to any form of ‘consequentialist’ ethics, which evaluates the moral worth of an action by its consequences or outcomes. In deontology an action is moral only insofar as it obeys the rule governing the case, irrespective of outcomes./
+#+end_quote
+
+#+begin_quote
+  /Similarly, said Kant, it is necessary to postulate the existence of God to make sense of the idea that virtue will be rewarded. Man is not the cause of nature and he is therefore not able to will that nature should reward those who deserve reward. But the idea of moral law requires that such reward should be possible. Therefore we have to postulate that there is a being capable of ensuring that we nget the rewards we deserve./
+#+end_quote
+
+#+begin_quote
+  /The content of Kant’s moral theory is humanistic, in arguing, first, that morality’s most fundamental presupposition is the autonomy of the will, meaning that the will obeys laws it imposes on itself and not those prescribed by an  source such as a deity or sovereign; and secondly that the law such a will thus obeys must be shown to be valid on purely logical grounds. In this respect Kant’s theory is a paradigm of Enlightenment thinking./
+#+end_quote
 
 
 

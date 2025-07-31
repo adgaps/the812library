@@ -3,9 +3,9 @@
 
 * LIBRARY
 
-This is the public repository for my various reading notes. Despite being publicly available, this document serves solely my own needs. These notes are rough, messy, maybe a bit less accurate than desired.
+This is the public repository for my various reading notes, a lifelong work-in-progress. The entire system is meant to serve my predilections and preferences. These notes are rough, messy, maybe a bit less accurate than desired, and as such are always subject to all sorts of modifications. 
 
-I do not have any pretensions as to the value anyone else may find for this, and I do not intend to build this with other people's audience in mind. I do not even fully understood some of these stuff I read, and I admit to that.
+I do not have any pretensions as to the value anyone else may find for this, and I do not intend to build this with other people's audience in mind. I may not even fully understood some of these stuff I read, and I admit to that.
 
 In any case, if you are curious and wish to make sense of this ever growing org file, here's a guide on the content and structure of the repository.
 
@@ -25,12 +25,13 @@ Many minor errors and typos may take time to be corrected, or for such correctio
 
 * FUTURE
 
-As I build this library, I will think of other "features" I can add to make this easier for me to peruse. A persistent Table of Contents would be nice. Splitting library.org into multiple files is not ruled out, but I don't seriously consider it at the moment.
+As I build this library, I will think of other "features" I can add to make this easier for me to peruse. 
 
-I am not in a hurry to implement anything, however.
+Some ideas I'm considering for the immediate and near future:
+- Reorganize the "General" heading in Library file.
+- Highlighting the quotes I like most.
 
-
-*CREATION DATE: 26 MAY 2025*
-*SOFTWARE USED: GNU EMACS 30.1*
+**** CREATION DATE: 26 MAY 2025*
+**** *SOFTWARE USED: GNU EMACS 30.1*
 
 
