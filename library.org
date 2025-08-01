@@ -298,6 +298,15 @@
 
 
 
+* AN ESSAY ON THE DEVELOPMENT OF CHRISTIAN DOCTRINE
+** /St. John Henry Newman/
+
+#+begin_quote
+  /History is not a creed or a catechism; it gives lessons rather than rules; it does not bring out clearly upon the canvass the details which were familiar to the ten thousand minds of whose combined movements and fortunes it treats./
+#+end_quote
+
+
+
 * AVIGNON AND ITS PAPACY
 ** /Joelle Rollo - Koster/
 
