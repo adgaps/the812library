@@ -31,7 +31,7 @@ Some ideas I'm considering for the immediate and near future:
 - Reorganize the "General" heading in Library file.
 - Highlighting the quotes I like most.
 
-**** CREATION DATE: 26 MAY 2025*
-**** *SOFTWARE USED: GNU EMACS 30.1*
+**** *CREATED: 26 MAY 2025
+**** *EDITOR: GNU EMACS 30.1*
 
 

@@ -3,27 +3,10 @@
 #+DESCRIPTION: This Library system is a curation of quotes from the books I've read, as well as my personal commentaries and thoughts.
 
 * GENERAL
-- Alphabetical
 - Org File
   - Created 26 May 2025
 - Github Repository
   - Created 29 May 2025
-- Useful Commands
-  - all headings: C-c C-j
-  - nearest heading: C-c C-u
-  - previous heading: C-c C-b
-  - next heading: C-c C-f
-  - quote block: < q TAB
-  - uppercase: M-u
-  - lowercase: M-l
-  - capitalize: M-c
-  - select entire buffer: M-x h
-  - nov mode toc: t
-  - mode-specific help: C-h m
-- Formatting
-  - three empty lines above each section heading
-  - one empty line each above and below a quote block
-  - em dash: —
 
 
 
@@ -1798,7 +1781,7 @@ there could be no genuine reconciliation without truth./
   - Leibniz proposed that, if everything God does is for the ultimate good, then all the sufferings of the world are also for this ultimate good. With this logic, Leibniz, proposes, we are already in the best and most good world that there could be.
 
 #+begin_quote
-  /So copious was Leibniz’s output, so general his genius and so unfinished and still in development were his philosophical views that it is hard to give a neat summary of them. He is like twentieth-century Analytic philosophers in the detail and technicality of his work; unlike them he sought to build a system out of the technical details; he would have needed more time to  if they could be worked out consistently./
+  /So copious was Leibniz’s output, so general his genius and so unfinished and still in development were his philosophical views that it is hard to give a neat summary of them. He is like twentieth-century Analytic philosophers in the detail and technicality of his work; unlike them he sought to build a system out of the technical details; he would have needed more time to see if they could be worked out consistently./
 #+end_quote
 
 #+begin_quote
@@ -1840,6 +1823,63 @@ there could be no genuine reconciliation without truth./
 #+begin_quote
   /The content of Kant’s moral theory is humanistic, in arguing, first, that morality’s most fundamental presupposition is the autonomy of the will, meaning that the will obeys laws it imposes on itself and not those prescribed by an  source such as a deity or sovereign; and secondly that the law such a will thus obeys must be shown to be valid on purely logical grounds. In this respect Kant’s theory is a paradigm of Enlightenment thinking./
 #+end_quote
+
+#+begin_quote
+  /Neither Kant nor his contemporaries thought that they lived in an enlightened age. By ‘enlightenment’ they meant the lessening of darkness, the beginning of the spread of light. The human mind was starting to shrug off the rule of arbitrary authority in the spheres of thought and belief. Intellectual immaturity is characterized by a need for direction from others; intellectual maturity is characterized by independence./
+#+end_quote
+
+- Diderot's /Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers/ was a project to collate Enlightenment thinking and present key concepts and ideas through rigorously written entries.
+
+#+begin_quote
+  /The key to the scientific advances of the seventeenth century was the use of observation and reason, experiment and quantification. The key to the eighteenth-century Enlightenment is that it set about applying this same empirical approach to wider regions of thought: to politics, society, education, law and the idea of human rights. When it became clear that empirical enquiry can uncover the secrets of nature, other doctrines – for two prime examples, that of the divine right of kings and the doctrines of theology – began to lose intellectual respectability./
+#+end_quote
+
+- The primary significance of the /Encyclopédie/ is that it enabled its reader to learn everything there is to the ideas of the Enlightenment, in a way that isn't hampered by political or religious authorities.
+- Enlightenment's opponents are categorized into two: the authorities and masters of status quo, chiefly the conservative political figures and the religious leaders; and the Romantics, who repudiated the Enlightenment's overly quantified and mechanistic view of the world.
+
+#+begin_quote
+  /A history of philosophy in the nineteenth century, and that more general enterprise, a history of ideas in the nineteenth century, differ in this significant respect: that the latter would include accounts of economics and political economy, jurisprudence, Charles Darwin, controversies over evolution and religion, developments in natural science, the beginnings of systematic sociology, philology, anthropology and archaeology, historiography, biblical criticism, and more. It was a century in which the liberating effect of the eighteenth-century Enlightenment on intellectual activity was felt in full./
+#+end_quote
+
+#+begin_quote
+  /Utilitarianism, whether of Bentham’s or later more elaborate kinds, is a consequentialist theory of morality, understanding moral value in terms only of the outcome of actions, leaving aside any questions about the intentions of agents or the quality of their personal characters. Other theories of morality focus on these two latter, but the distinctive feature of utilitarian theories is that they measure moral value wholly by outcomes./
+#+end_quote
+
+- Jeremy Bentham was the first to coin the term 'international', which he used to propose the concept of international arbitration.
+
+#+begin_quote
+  /Among philosophers the consensus is that Bentham erred in seeking to reduce all human motivation to the desire for pleasure and avoidance of pain just as such, for even if it is right to hold that happiness is the/ summum bonum, /the roads to it are many and varied, and without an account of these – and the conflicts between them – as they arise in human nature a theory premised on the idea is in danger of being too crude./
+#+end_quote
+
+- Conflicts of ideas have existed throughout history. Early on in his career, GWF Hegel considered philosophy as a means of resolving and harmonizing those conflicts. He looked to classical Greek philosophy as a prime example.
+- Later in his life, Hegel would shift his understanding of philosophy to what he became more known for. Conflicts of ideas is what shaped human society; the conflict results in a resolution, which later also receives opposition and causes a new conflict to arise. These conflicts as known as dialectics.
+- Hegel believes the Prussia of his time has achieved the culmination of this historical pattern, as the 'Geist' has reached the fulfillment of its dialectical journey.
+- The exact meaning of 'Geist' isn't fully known. For the most part, a good approximation seems to be a 'cosmic consciousness'.
+- Absolute freedom means absolute knowledge. The culmination of the Geist's journey is the attainment of such absoluteness.
+- Hegel's philosophy of history is a teological narrative of the culmination of Geist.
+
+#+begin_quote
+  /In Hegel the entire history of the world – as the history of the development of Geist’s increasing self-awareness – is to be understood in terms of the constant evolution of new syntheses out of clashes of opposites./
+#+end_quote
+
+- A note from the author regarding Hegel:
+
+#+begin_quote
+  /I need hardly point out that this account of dialectic, and indeed of Hegel’s views in general as here reported, is abstracted from the obscurity of one of the most impenetrable collections of philosophical texts in the entire canon; they make the fragments of Heraclitus look like Janet and John books./
+#+end_quote
+
+#+begin_quote
+  /Schopenhauer viewed will as a blind force, and its relentless expression of itself, manifesting in human experience as desire, craving, yearning and inevitable dissatisfaction, causes suffering. To be released from suffering one must be released from the power of will – in other words, from thraldom to desire./
+#+end_quote
+
+- Legal Positivism is the view that a law is valid if it's created by an authority that represents the will of its people, like a Parliament. The law as such is valid regardless of whether its content is moral or not, just or otherwise.
+
+#+begin_quote
+  /Mill held that individuals are not accountable to society for things that concern only themselves, and correlatively that society cannot interfere with individuals except when their actions are likely to harm others. Together these commitments entail that individuals should be free unless a good reason exists why they should not be./
+#+end_quote
+
+- John Stuart Mill was a classical liberal, in the sense that he championed freedom of expression, women's rights, abolition of slavery, and even nonconformity.
+- Mill's father was an associate of Bentham the utilitarian. Bentham's philosophy eventually trickled down to the younger Mill, who advocated consequentialism: morality is judged by its consequences.
 
 
 
@@ -2892,3 +2932,23 @@ fundamental change must cease to function. And when that occurs, the community w
 #+begin_quote
   /But, in finally forgoing the myth that the region’s "Fall" is because of the original sin of imposed, artificial borders, we can  that the Middle East is neither perpetually cursed by the Great War legacy nor think that its salvation lies in either external powers or local actors simply redrawing these boundaries. The deeper issue is political. Being able to see how new worlds were created in the Middle East in the Long Great War helps us see that they can be reimagined and remade now and in the future—and therein lies hope./
 #+end_quote
+
+
+
+* MISCELLANEOUS 
+- USEFUL COMMANDS
+  - all headings: C-c C-j
+  - nearest heading: C-c C-u
+  - previous heading: C-c C-b
+  - next heading: C-c C-f
+  - quote block: < q TAB
+  - uppercase: M-u
+  - lowercase: M-l
+  - capitalize: M-c
+  - select entire buffer: M-x h
+  - nov mode toc: t
+  - mode-specific help: C-h m
+- FORMATTING
+  - three empty lines above each section heading
+  - one empty line each above and below a quote block
+  - em dash: —
