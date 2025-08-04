@@ -103,7 +103,7 @@
 
 - Colonists appealed to King George III for help to rein in Parliament. The King sacked PM Grenville, and in 1766 Parliament repealed the stamp tax.
 - On the other hand, as they repealed the tax, Parliament also issued a Declaratory Act, which asserts their sovereign authority over the colonies. The repeal of the tax was widely celebrated in the colonies; the Declaratory Act was received with minimal fanfare.
-- Subsequent tax on some imported goods also garnered widespread protest. This time, boycotts were enforced by a riotous group known as Songs of Liberty, which resorted to violence and intimidation to prevent the trading of boycotted goods.
+- Subsequent tax on some imported goods also garnered widespread protest. This time, boycotts were enforced by a riotous group known as Sons of Liberty, which resorted to violence and intimidation to prevent the trading of boycotted goods.
 - The import duties were subsequently repealed, except for tea. For the most part, this was received with minimal protesting. Consumers largely circumvented this by going for smuggled tea from the Dutch East Indies instead.
 - Parliament tried to undercut the smuggling by imposing smaller taxes for tea from the British East India Company. This angered the merchants who make money from the smuggled tea. A mob boarded a Company ship docked in Boston port and dumped all its tea on the waters.
 - In 1774, Patriot leaders gathered in Philadelphia to convene a First Continental Congress, which coordinated response against the British. The Congress formed a mass boycott system called Continental Association. Towns were called to form their committees of inspection that identified people who refuse to follow the boycott.
@@ -228,7 +228,7 @@
   /Many Americans today celebrate the Federal Constitution as perfectly designed to promote democracy, prosperity, and power: as setting the United States on the road to greatness. In 1789, few Americans were so sure, for they worried that sectional and partisan divisions would tear apart a union that seemed too vast and diverse to last./
 #+end_quote
 
-- George Washington took his oath as first Preseident of the United States of America on 30 April 1789, in the temporary capital city of New York.
+- George Washington took his oath as first President of the United States of America on 30 April 1789, in the temporary capital city of New York.
 - The new presidency was wrapped in almost monarchical trappings, bolstered by Washington's popularity. He conducted himself, and was presented by the government, in king-like manners. For a moment he was referred to as "His Majesty" and "His Highness".
 
 #+begin_quote
@@ -258,7 +258,7 @@
 - As president, Thomas Jefferson worked to further decentralize the government, and ended the use of quasi-regal trappings for the president.
 
 #+begin_quote
-  /Jefferson promoted an “Empire of Liberty,” which favored white men at the expense of Indians and blacks. Rather than restrain westward expansion, as the British Empire and Federalists had tried (and failed) xto do, Jeffersonians helped settlers dispossess Indians. A democratic but racially defined society would expand relentlessly westward, creating thousands of new farms to sustain relative equality among white men. Jeffersonians recognized that the strength of a diffuse nation lay in helping, rather than hindering, ambitious settlers./
+  /Jefferson promoted an “Empire of Liberty,” which favored white men at the expense of Indians and blacks. Rather than restrain westward expansion, as the British Empire and Federalists had tried (and failed) to do, Jeffersonians helped settlers dispossess Indians. A democratic but racially defined society would expand relentlessly westward, creating thousands of new farms to sustain relative equality among white men. Jeffersonians recognized that the strength of a diffuse nation lay in helping, rather than hindering, ambitious settlers./
 #+end_quote
 
 - Despite the Federalist party never having returned to power after 1800, their legacy and philosophy stayed on with Chief Justice John Marshall, who held the position for over three decades.
@@ -290,7 +290,7 @@
 
 - Many Patriot leaders appealed to equality and liberty, while also brushing aside the issue of slavery. Many who spoke of opposition to slavery were themselves slave owners.
 - Free Blacks were treated lowly, and were forced to settle together in poorly developed areas.
-- Individualism became the hallmark of American society, and the country's continued economic growth and stability beyon 1790 was celebrated as proof of the power of individual freedom.
+- Individualism became the hallmark of American society, and the country's continued economic growth and stability beyond 1790 was celebrated as proof of the power of individual freedom.
 
 #+begin_quote
   /Historians debate how revolutionary the revolution was in its consequences. Some find little substantive change and focus on continuities from the colonial era. Other scholars emphasize expanding economic opportunities and increased political participation by common white men as radical consequences of the revolution. Both views convey only part of the story. The revolution intensified trends already underway, including political assertion by common men, territorial expansion at native expense, and the westward spread of slavery. Acceleration and intensification combined continuity with change./
@@ -301,6 +301,17 @@
 * AN ESSAY ON THE DEVELOPMENT OF CHRISTIAN DOCTRINE
 ** /St. John Henry Newman/
 
+- An important note for this book: I read this years ago, with a copy I got from Kindle store. Now in 2025, I am revisiting it with an ebook copy from a different source.
+- Newman's work has received modifications throughout its multiple editions. This is relevant here because the first copy I read is the second edition, and my current copy is the sixth edition.
+- To this note, there will be a mix here of quotes from my older edition, and from the newer one I'm currently perusing.
+- The often-quoted passage from this book, especially among the Catholic audience is:
+
+#+begin_quote
+  /To be deep in history is to cease to be a Protestant./
+#+end_quote
+
+- This quote is from the sixth edition I'm currently reading. My first copy /did not/ have this passage.
+  
 #+begin_quote
   /History is not a creed or a catechism; it gives lessons rather than rules; it does not bring out clearly upon the canvass the details which were familiar to the ten thousand minds of whose combined movements and fortunes it treats./
 #+end_quote
@@ -1473,13 +1484,40 @@ there could be no genuine reconciliation without truth./
 
 - Theory has two clashing definitions: system of statements considered as facts; and hypothesis yet to be conclusively proven. Evolution is a theory in the first sense of the word. However, the second sense is what theory is commonly defined as. This is used as ammo by anti-evolution crowd in discrediting the concept.
 - Facts are proven differently in science and in math. The process of proving in mathematics is much more rigorous and demonstrable.
+
+#+begin_quote
+  /Proof is a notion that scientists have been intimidated into mistrusting. Influential philosophers tell us we can’t prove anything in science. Mathematicians can prove things – according to one strict view, they are the only people who can – but the best that scientists can do is fail to disprove things while pointing to how hard they tried. Even the undisputed theory that the moon is smaller than the sun cannot, to the satisfaction of a certain kind of philosopher, be proved in the way that, for example, the Pythagorean Theorem can be proved. But massive accretions of evidence support it so strongly that to deny it the status of ‘fact’ seems ridiculous to all but pedants./
+#+end_quote
+
+#+begin_quote
+  /The fact that some widely held past beliefs have been conclusively proved erroneous doesn’t mean we have to fear that future evidence will always show our present beliefs to be wrong. How vulnerable our present beliefs are depends, among other things, on how strong the evidence for them is./
+#+end_quote
+
 - Dawkins notes that the first dogs are self-domesticated wolves. As food source became stable, wolves became less risk-averse, having less tendency to flee while eating, and hence more tame.
 - Pleiotropy
+
+#+begin_quote
+  /If the history-deniers who doubt the fact of evolution are ignorant of biology, those who think the world began less than ten thousand years ago are worse than ignorant, they are deluded to the point of perversity. They are denying not only the facts of biology but those of physics, geology, cosmology, archaeology, history and chemistry as well./
+#+end_quote
+
 - There is more than sufficient evidence for evolution even without fossil record. The presence or absence of such is largely irrelevant to the theory of evolution. The discovery of fossil is mostly just a bonus, and gaps in the fossil record is not enough to disprove evolution.
 - This also means that absence of the so-called missing link between primates and humans is not a disproof of evolution. In fact, it's not necessary at all to prove evolution, which is already true with or without such a missing link.
+
+#+begin_quote
+  /Like any poison, antibiotics are likely to be dosage dependent. A sufficiently high dose will kill all the bacteria. A sufficiently low dose will kill none. An intermediate dose will kill some, but not all. If there is genetic variation among bacteria, such that some are more susceptible to the antibiotic than others, an intermediate dose will be tailor-made to select in favour of genes for resistance. When the doctor tells you to finish taking the pills, it is to increase the chances of killing all the bacteria and avoid leaving behind resistant, or semi-resistant, mutants./
+#+end_quote
+
 - There are so-called pseudogenes that don't do anything but still exist within the genetic makeup.
 - Flightless birds in New Zealand aren't flightless just because of lack of predator. In fact, the ancestors of moa are already flightless even before reaching new zealand when it was still part of Gondwana.
 - Dawkins contends that there isn't a plausible theory for the origin of life, and it's for the better that the subject remain a mystery. If such a highly plausible theory exists, then life in other planets should be more common.
+
+#+begin_quote
+  /Even if it were true that evolution, or the teaching of evolution, encouraged immorality, that would not imply that the theory of evolution was false. It is quite astonishing how many people cannot grasp this simple point of logic./
+#+end_quote
+
+#+begin_quote
+  /We are surrounded by endless forms, most beautiful and most wonderful, and it is no accident, but the direct consequence of evolution by non-random natural selection – the only game in town, the greatest show on Earth./
+#+end_quote
 
 
 
@@ -1889,6 +1927,51 @@ there could be no genuine reconciliation without truth./
 
 - John Stuart Mill was a classical liberal, in the sense that he championed freedom of expression, women's rights, abolition of slavery, and even nonconformity.
 - Mill's father was an associate of Bentham the utilitarian. Bentham's philosophy eventually trickled down to the younger Mill, who advocated consequentialism: morality is judged by its consequences.
+- Karl Marx, early on in his life, was part of the Young Hegelians who adopted Hegel's dialectic methodology. This dialectic view is foundational to Marx's legacy.
+- The context of Marx's famous quote that religion is "the opium of the people" was not merely a direct attack on theism. In his view, religion is what people subscribe to in order to alleviate their suffering. The goal should be to destroy the sources of suffering, which will in turn render the "opium" useless.
+  
+#+begin_quote
+ /An underlying assumption of all Marx’s work is that economic systems up to and including capitalism are unjust and oppressive, and that communism, properly realized, would be a good state of affairs, because it would be premised upon the mutuality of human beings – fellowship, sharing and true freedom. The question whether there are kinds of society that could be just and humanly good without requiring that we wait to see if utopian hopes for human nature can come true remains as the more immediate question requiring answer./
+#+end_quote
+
+#+begin_quote
+  /Around the name ‘Friedrich Nietzsche’ plays a romance of genius and madness, of profound insight and philosophical revolution. His writings have the vatic character of the Old Testament prophets – deliberately so: his longest book, Thus Spake Zarathustra, is cast in the form of a revelation brought down from the mountains by a seer. It does not impugn the originality and power of Nietzsche’s thought to say that he was a dramatist of ideas as much as a philosopher. Indeed in utterance, in appearance and in biography he is the paradigm of thinker as lightning flash, deliberately shocking those who encounter him, either into outrage or into a different way of thinking./
+#+end_quote
+
+- Allegations of anti-Semitism against Nietzsche are based on twisted interpretations of his works. His sister, who is anti-Semitic, edited and published his works for malicious goals.
+- Ethics is about character, morals is about actions.
+- Nietzsche's main thesis throughout his works is the rejection of morals grounded on Judaeo-Christian traditions. That is, all previous responses against theism are themselves also flawed, for they hinge on a reality dominated by Judaeo-Christian morals.
+- Despite the impression from even his contemporaries, this author notes that an analysis of Nietzsche's philosophy would conclude that he is in fact /not/ a nihilist.
+
+#+begin_quote
+  /Nietzsche insists instead that the will to overcome this frustration, to fight and conquer it so that one can live, create and succeed, is the ethical way. To strive and to desire, to wish to grow and expand, are worthy things; to be one who strives and thereby overcomes the barriers to growth and expansion is to be an Übermensch – ‘Superman’ in the sense of ‘superior man’ – and thus truly moral./
+#+end_quote
+
+- Idealism grew out of reaction to empiricism. As opposed to empiricist concept of reality as materialist, idealism posits that reality is mental.
+- 20th century philiosophy features the division between Analytic and Continental philosophy. The author doesn't go into detail of how exactly to demarcate them.
+- But Analytic is somehow more cohesive than Continental. Also, Analytic is mainly Anglophone in origin, as its founder is Bertrand Russell. Continental is more grounded to 19th century German and French philosophies.
+- One distinction is that Analytic focuses more on formal logic and goes into detail a lot. Continental has broader themes, and can be more ambiguous and even too academic.
+- Russell spent his life vigorously campaigning for progressive values, including women's rights and nuclear disarmament. Interestingly, he was jailed for opposition against the First World War. I don't immediately recall reading about this one.
+
+#+begin_quote
+  /A transcendental argument is one that takes something X accepted as being the case, and examines what must also be the case as a condition for X to be the case. It is an argument that works backwards, so to speak, to the necessary conditions of X. A trivial example would be: you are reading these words, so we can know that it is true that you were born and have survived so far, since you could not be reading these words otherwise./
+#+end_quote
+
+- Logicism asserts that logic is the foundation of (pure) mathematics, and it's a notion that Russell worked on during the development of his work Principia Mathematica.
+
+#+begin_quote
+  /Logicism was motivated by the desire to solve two large puzzles about mathematics, one epistemological, the other metaphysical. The epistemological puzzle is: What justifies us in claiming to know mathematical truths such as 1 + 1 = 2? The metaphysical puzzle is, What are the entities or objects referred to in mathematics? The puzzles connect: we would be justified in claiming to know that 1 + 1 = 2 only if we know what ‘1’ and ‘2’ are, together with how we understand ‘+’ and ‘=’./
+#+end_quote
+
+#+begin_quote
+  /The world consists of a plurality of things each possessed of qualities and standing in relations to other things. A description of the world would require to be more than just a list of objects, but an explanation of their qualities and relations too. Things with their qualities and relations are constituents of facts, and facts are expressed by propositions. Propositions which express ‘basic facts’, that is, which simply assert that something has a certain quality or stands in a certain relation to some other thing, Russell called ‘atomic propositions’. When atomic propositions are combined together by means of the logical words ‘and’, ‘or’ and ‘if … then …’ they constitute complex or ‘molecular’ propositions. These are exceedingly important because the possibility of inference depends on them. Finally there are ‘general propositions’ such as ‘all men are mortal,’ and they require acceptance of some general principles in addition to the empirical evidence provided by acquaintance with the objects and properties referred to in atomic propositions./
+#+end_quote
+
+#+begin_quote
+  /Russell never thought of himself as a moral philosopher, though he was certainly a moralist – not of a puritanical kind; quite the contrary – but in fact he made genuine contributions to moral theory, anticipating emotivism (the idea that ethical judgments are disguised expressions of how the judger feels about the matter in question) and ‘error theory’ (the view, associated mainly with J. L. Mackie, that because ethical judgments are not objective, they are false)./
+#+end_quote
+
+- Though not a moral philosopher, part of Bertrand Russell's enduring legacies are his views on morality.
 
 
 
@@ -2826,9 +2909,6 @@ fundamental change must cease to function. And when that occurs, the community w
 #+end_quote
 
 #+begin_quote
-  /Over the course the nineteenth century, the Eastern
-  Question referred to the variable resilience of the Ottoman Empire, the physical, economic, strategic, and diplomatic linchpin at the nexus of powerful competing European interests and desires./
-
   /The Eastern Question became a question when it began to show signs of vulnerability—including the losses of the Crimean Khanate, southern Ukraine, and Bessarabia in defeats to the Russian Empire between 1768–1812—and expansionist European empires began to vie to exploit its weaknesses./
 #+end_quote
 
