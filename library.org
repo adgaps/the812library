@@ -1972,6 +1972,52 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - Though not a moral philosopher, part of Bertrand Russell's enduring legacies are his views on morality.
+- Gottlob Frege created a system of formal notation for logic, which Russell later improved on.
+
+#+begin_quote
+  /In the process of developing his logic and the ideas necessary for applying it to his chief aim, which was to demonstrate the identity of logic and arithmetic (which is the same as saying: to demonstrate that arithmetic can be reduced to logic, which is analytic), Frege also developed a philosophy of language; and this aspect of his achievement is of equal importance. He arrived at a philosophy of language through the necessity of having to explain reference – how a term refers to objects or concepts – and this in turn required devising a theory of sense, which is – to speak very roughly at this juncture – what one has to know about a term to be able to identify what it refers to./
+#+end_quote
+
+#+begin_quote
+  /The richness and technicality of the debate that has sprung from Frege’s work are a testament to its significance. It is another illustration of the fact that, even though the goal of an endeavour might not be reached, the journey undertaken towards it can be very fruitful./
+#+end_quote
+
+- GE Moore developed the concept of Naturalistic Fallacy, which argues that "goodness" cannto be defined without reference to itself.
+- Non-cognitivism is a concept in ethics which states that moral judgments are reflection not of true/false values but of emotional and pyschological inclinations of the individual.
+
+#+begin_quote
+  /As might be guessed from this sketch, Wittgenstein was an unsettled individual, a haunted one – some surmise that it was because of his homosexuality, a persecuted condition in those days, about which he might have suffered guilt. He was also an unsettling one, exercising a powerful hold over students who fell under his spell. His reputation, begun by the admiration of Russell and Moore in his early Cambridge days, confirmed by the difficult and vatic Tractatus, was amplified to the proportions of a cult by his devoted students and epigones, who imitated his way of speaking and gesturing, and treated philosophy as if it were wholly a matter of understanding, agreeing with and expounding Wittgenstein’s views. The spell lasted for a generation after his death, sustained by a series of books made out of his voluminous notes, and by a number of influential followers who carried on interpreting his views and applying his methods./
+#+end_quote
+
+#+begin_quote
+  /The fundamental idea in the Tractatus, acquired from Russell, is that language has an underlying structure, inspection of which shows what can be meaningfully said. For Wittgenstein what can be said is the same as what can be thought, so once one has shown what can meaningfully be said, one has shown the limits of thought. Beyond these limits language and thought are meaningless. It is in this outer zone, he argued, that traditional philosophical problems arise, as the result of trying to say the unsayable and think the unthinkable./
+#+end_quote
+
+#+begin_quote
+  /Through the articles and books by its members, conferences and its journal Erkenntnis the Logical Positivists caught a tide at a significant moment: physics in the first three decades of the twentieth century had made giant strides, and the Positivists’ question – why has philosophy not made progress as science has? (the same question Kant asked in the eighteenth century) – was answered by themselves: because it was still mired in metaphysics, and had not clarified the question of what demarcates genuinely meaningful questions and answers from spurious ones./
+#+end_quote
+
+#+begin_quote
+  /The Logical Positivism of the Vienna Circle is the view that the only forms of genuine knowledge come from empirical science, from systematically and logically organized examination of natural phenomena. A corollary is the rejection of metaphysics and theology as sources of knowledge, whatever other uses, if any, they might have./
+#+end_quote
+
+- A critical concept for Positivism is the verification principle: what is the role of verification in the factual accuracy of a statement?
+- Part of the problem is that despite Positivism emphasizing empiricism especially for science, issues with verification arise as general scientific theories and concepts are not always absolutely certain.
+- History also takes a hit, with the question of how to verify and establish certainty on the past if it's not something that can be directly observed, and is heavily reliant on evidence both currently present and possibly discoverable in the future.
+- Rudolf Carnap attempted to solve this by classifying expressions into observational and theoretical ones. The issue with this is that many scientific statements that might seem observational, upon deeper inspection, are actually very theoretical.
+- Karl Popper developed a reverse version of verificationism, called falsificationism. Instead of trying to confirm the truth of a hypothesis, Popper suggested looking for ways to falsify it.
+- The issue with verificationism, according to Popper, is that one instinctively works to make a hypothesis valid, making it circular. With falsificationism, the hypothesis stays valid until proven otherwise.
+
+#+begin_quote
+  /In arguing that science proceeds by the deductive technique of seeking to falsify hypotheses, thereby showing that the traditional view of science as inductive is incorrect, Popper suggested that we should construe science as a sequence of ‘conjectures and refutations’ (this phrase constitutes the title of one of his books). We have a problem, and try to solve it by conjecturing what the solution might be. We test the conjecture; a negative outcome refutes it, a positive outcome ‘corroborates’ but does not confirm it; it might still be refuted by further evidence./
+#+end_quote
+
+#+begin_quote
+  /It would be natural to think that the more probable an hypothesis seems, the better justified we are in accepting it if it is in competition with a less probable-seeming one. But Popper argued that improbable hypotheses are scientifically preferable, on the grounds that there is an inverse relationship between an hypothesis’ probability and its informational content: the more information it contains, the more ways it might be wrong; and therefore the more valuable it is to science if it resists efforts to falsify it. Because a scientific theory cannot be conclusively established as true, Popper invoked the idea of ‘verisimilitude’ or ‘truth-likeness’ to characterize good scientific theories – ‘good scientific theories’ being those that resist stringent efforts to refute them./
+#+end_quote
+
+- A criticism of Popper's falsificationism is that a theory cannot simply be rendered invalid by smaller contravening observations. Rather, the entire theory must consistently fail on many parts for it to be debunked.
+- The author then notes Thomas Kuhn's contributing work on paradigms, in his book *Structure of Scientific Revolutions*, which I've already read!
 
 
 
@@ -2679,15 +2725,13 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 #+begin_quote
-  /One aspect of the parallelism must already be apparent. Political revolutions are inaugurated by a growing sense, often restricted to a segment of the political community, that existing institutions have ceased adequately to meet the problems posed by an environment that they have in part created. In much the same way, scientific revolutions are inaugurated by a growing sense, again often restricted to a narrow subdivision of the scientific community, that an existing paradigm has
-ceased to function adequately in the exploration of an aspect of nature to which that paradigm itself had previously led the way. In both political and scientific development the sense of malfunction that can lead to crisis is prerequisite to revolution./
+  /One aspect of the parallelism must already be apparent. Political revolutions are inaugurated by a growing sense, often restricted to a segment of the political community, that existing institutions have ceased adequately to meet the problems posed by an environment that they have in part created. In much the same way, scientific revolutions are inaugurated by a growing sense, again often restricted to a narrow subdivision of the scientific community, that an existing paradigm has ceased to function adequately in the exploration of an aspect of nature to which that paradigm itself had previously led the way. In both political and scientific development the sense of malfunction that can lead to crisis is prerequisite to revolution./
 #+end_quote
 
 - Author casts doubt on the idea that history of science is cumulative. Old theories don't just get superseded by better ones. Instead, old theories are completely replaced by new ones, because two paradigms cannot coexist, only one is correct.
 
 #+begin_quote
-  /If positivistic restrictions on the range of a theory’s legitimate applicability are taken literally, the mechanism that tells the scientific community what problems may lead to
-fundamental change must cease to function. And when that occurs, the community will inevitably return to something much like its pre-paradigm state, a condition in which all members practice science but in which their gross product scarcely resembles science at all. Is it really any wonder that the price of significant scientific advance is a commitment that runs the risk of being wrong?/
+  /If positivistic restrictions on the range of a theory’s legitimate applicability are taken literally, the mechanism that tells the scientific community what problems may lead to fundamental change must cease to function. And when that occurs, the community will inevitably return to something much like its pre-paradigm state, a condition in which all members practice science but in which their gross product scarcely resembles science at all. Is it really any wonder that the price of significant scientific advance is a commitment that runs the risk of being wrong?/
 #+end_quote
 
 #+begin_quote
@@ -2714,7 +2758,7 @@ fundamental change must cease to function. And when that occurs, the community w
 
 - Paradigms don't always prevail and triumph through scientific pursuit. In many cases, human connection is what ultimately gets the job done. This can be through persuasion with publications and lectures. But it could also be through personal communication, and at times even through just the force of reputation.
 - One significant factor for adoption of new paradigm is when it's able to solve the biggest problems of the old paradigm.
-- Another consideration for adopting the new paradigm is aesthetics or beauty. This now ties in with Hossenfelder's thesis, who rejects this mindset.
+- Another consideration for adopting the new paradigm is aesthetics or beauty. This now ties in with Hossenfelder's thesis, which rejects this mindset.
 
 #+begin_quote
   /The early versions of most new paradigms are crude. By the time their full aesthetic appeal can be developed, most of the community has been persuaded by other means. Nevertheless, the importance of aesthetic considerations can sometimes be decisive. Though they often attract only a few scientists to a new theory, it is upon those few that its ultimate triumph may depend. If they had not quickly taken it up for highly individual reasons, the new candidate for paradigm might never have been sufficiently developed to attract the allegiance of the scientific community as a whole./
@@ -2763,7 +2807,7 @@ fundamental change must cease to function. And when that occurs, the community w
   /Because of the costs of war, the overall pie to be divided between belligerents after war is smaller than it was before the war. In other words, war is a/ negative /sum game. If both sides knew how the pie would be divided after the war, both would be better off if they divided the pie accordingly before the war. Although their share of the pie would be the same, they would be dividing a larger pie and would therefore gain in absolute terms. In other words, because fighting is inefficient ex post there should exist ex ante bargains that rational states would both prefer to war./
 #+end_quote
 
-- Ok I did not expect there to be actual data analysis and statistics in here lol. Though this feels like a show of how data science can be used for historical research, which is interesting for a book published in 2000.
+- Ok I did not expect there to be actual data analysis and statistics in here lol. This feels like a show of how data science can be used for historical research, which is interesting for a book published in 2000.
 - In the data analysis, Marcos regime was tagged as mixed power that transitioned into dictatorship after moderate defeat in the Vietnam War. Uhm... okay. That's a weird way of looking at it, but okay.
 - The significance of this is that it would make him an exception in the author's thesis about mixed regimes suffering the most in a moderate defeat. In fact, the author tagged Marcos and South Korea's Park Chung-hee as the outliers for the group.
 - So the author started with this thesis, /then/ chose WW1 as primary case study - not the other way around. This is important context that I admittedly didn't realize early on - this isn't quite a WW1 book, as much as it's a general war studies book.
@@ -2792,15 +2836,15 @@ fundamental change must cease to function. And when that occurs, the community w
   /Germany's increased territorial demands at the end of 1916, such as the additional land demanded from Poland, were intended to reward the populace in the form of land grants and settlements. Other demands, such as increased economic penetration of Poland and Austria-Hungary, the treaty of commerce with Russia, the exploitation of Belgian mineral resources, and compensations for German losses in other countries, were intended to prevent higher postwar taxes and, through a stronger economy, improved wages./
 #+end_quote
 
-- The author argued that Hindenburg's reputation was used as an insurance for their war aims. Hindenburg, though himself taking on extremist positions in  terms of war conduct and aims, is considered a competent leader across the political spectrum, not just among conservatives but also among the moderates. This meant that in the event Hindenburg has to endorse a "meager peace", his reputation alone would be enough to convince the populace to accept such outcome.
+- The author argued that Hindenburg's reputation was used as an insurance for their war aims. Hindenburg, though himself taking on extremist positions in terms of war conduct and aims, is considered a competent leader across the political spectrum, not just among conservatives but also among the moderates. This meant that in the event Hindenburg has to endorse a "meager peace", his reputation alone would be enough to convince the populace to accept such outcome.
 - Russia is classified as mixed regime. It's authoritarian in theory, but by the beginning of the 20th century Imperial Russia has become an inefficient police state, unable to effectively stave off widespread opposition at times.
-- Even before the war, Russian leadership was aware that they have slim chances of suppressing a peasant revolution. As war went on, they increased war aims as a way to capture popular support, to no avail. By 1916, it was clear that war defeat would result in a revolution that topples the Trarist regime, and they will be unable to prevent such a scenario.
-- Third Republic political makeup is kinda similar in the Philippines today lol. Politicians switch alliances when convenient, and there's a ton or parties in the Parliament, making it a very pluralistic system. The stability of the Third Republic is that successive Cabinets featured the same set of personalities over and over.
+- Even before the war, Russian leadership was aware that they have slim chances of suppressing a peasant revolution. As war went on, they increased war aims as a way to capture popular support, to no avail. By 1916, it was clear that war defeat would result in a revolution that topples the Tsarist regime, and they will hardly be able to prevent such a scenario.
+- French Third Republic political makeup is kinda similar in the Philippines today lol. Politicians switch alliances when convenient, and there's a ton or parties in the Parliament, making it a very pluralistic system. The stability of the Third Republic is that successive Cabinets featured the same set of personalities over and over.
 
 #+begin_quote
   /Compared to Germany, there was little reason to fear a socialist revolution in France. Not only was the existing nonexclusionary structure willing to co-opt individual socialists and socialist ideas, the basis of socialist support was also much weaker./
 
-  /In general, pressure groups were much weaker and less important players in France than in either Germany or Britain, adn as a result, political cleavages did not harden into solid social blocs./
+  /In general, pressure groups were much weaker and less important players in France than in either Germany or Britain, and as a result, political cleavages did not harden into solid social blocs./
 #+end_quote
 
 #+begin_quote
@@ -2836,7 +2880,7 @@ fundamental change must cease to function. And when that occurs, the community w
   /British war aims were formulated to contain not just the Central Powers but also Britain's wartime allies. This dynamic was a crucial factor in the government's reluctance to discuss its war aims in the first place and helped keep those aims vague./
 #+end_quote
 
-- Britain wanted to maximize American participation to their advantage by pursuing amalgamation: keep the American forces plenty enough to cover manpower shortages, but small enough that the US cannot have greater influence in possible postwar bargaining. The author then notes that at one point in late 1917, Britain has little problem bringing in 500k American troops to Europe when necessity came up.
+- Britain wanted to maximize American participation to their advantage by pursuing amalgamation: keep the American forces plenty enough to cover manpower shortages, but small enough that the US cannot have greater influence in possible postwar bargaining. The author then notes that at one point in late 1917, Britain had little problem bringing in 500k American troops to Europe when necessity came up.
 - The British government proved willing to make domestic concessions to aid the conduct of war. In particular, mass conscription was supplemented with universal suffrage and large scale social welfare programs that extended beyond the war.
 - Britain was very concerned about international consequences of the war, and their status as a great power. The British are afraid of Germany being vindicated for violating Belgian neutrality, and its precedence for further German imperial designs in Europe. But also, the British were fearful that Russia's victory over the Ottoman Empire would be a major threat to the British Raj, while also throwing off the balance of power in the Mediterranean.
 
@@ -2848,7 +2892,7 @@ fundamental change must cease to function. And when that occurs, the community w
   /It is striking to note how the British were willing to offer the very thing the German leaders wanted to avoid at all costs: a far-reaching reform of the franchise. This willingness to offer concessions, seen in combination with Britain's prewar political difficulties, clearly shows that it is indeed regime type and not the presence or absence of prewar crises that caused the different reactions to unfavorable new information of Germany and Britain. While Germany increased its war aims to cover the costs of war, Britain lowered its war aims./
 #+end_quote
 
-- Lenin knew that Russian Army has become too weak to fight, and continuing the war will inevitably result in massive Russian defeat and collpase of the newly-established Soviet state. He instead banked on a future reversal of fortunes.
+- Lenin knew that Russian Army has become too weak to fight, and continuing the war will inevitably result in massive Russian defeat and collapse of the newly-established Soviet state. He instead banked on a future reversal of fortunes.
 - For their part, Germany could've extracted more favorable terms from Brest-Litovsk. They chose not to, and tried to settle the treaty sooner. This is because they desperately need to transfer a vast amount of troops to the Western Front, and pressing for more demands will just further delay the mobilization plans.
 - On the other hand, Germany did not try to offer peace with the Western Allies because they need the higher war aims to cover the costs of war and buy off domestic opposition. Ludendorff has also already been planning new offensives on the West at the time of Brest-Litovsk, and he wanted to make the gamble that the offensive could give Germany a victory and better position to bargain.
 
