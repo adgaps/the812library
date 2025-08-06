@@ -2018,6 +2018,53 @@ there could be no genuine reconciliation without truth./
 
 - A criticism of Popper's falsificationism is that a theory cannot simply be rendered invalid by smaller contravening observations. Rather, the entire theory must consistently fail on many parts for it to be debunked.
 - The author then notes Thomas Kuhn's contributing work on paradigms, in his book *Structure of Scientific Revolutions*, which I've already read!
+- Towards the last part of his career, Wittgenstein modified his earlier beliefs on language. Initially, he argued that language has an underlying structure that holds the key to understanding it. Now, he argued that instead of  asingle such structure, there are various contexts where each word assumes a specific role, and when taken out of this context, the word starts to mean differently.
+- From this new Wittgensteinian view of language came a strand of Analytic Philosophy known as "ordinary language" philosophy. It rejected the need for formal logic as a unifying language for philosophy, and insisted that ordinary or common language is enough, provided proper nuance and context are applied.
+
+#+begin_quote
+  /Examining language and the way it is used is our access to examining how we think, and our thought reveals what we take the world to be, and why we think of it that way. In effect, therefore, you could say that an examination of our language is an examination of our world – of our world, the phenomenal reality we live in and talk about, leaving it to a further and different project (science) to formulate ways of thinking about what the world is (so to speak) noumenally: the structure and properties of reality behind and beyond everyday experience./
+#+end_quote
+
+- Gilbert Ryle illustrated this type of philosophy by invoking the metaphor of a logical geography, where meaning is mapped out according to its context, but is not apart from the map itself.
+- He levied criticism on Descartes' mind-body dualism, arguing that the mind and its mental capacities cannot be taken separately from each other.
+- Ryle's Regress: if an intelligent act be performed, does it necessarily mean it is borne out of an intelligent mental planning? If so, then shouldn't such planning, because it's intelligent, also be preceeded by an intelligent mental pre-planning? And so on...
+
+#+begin_quote
+  /J. L. Austin (1911–60) must be distinguished from the nineteenth-century jurisprudent John Austin, and his book Sense and Sensibilia must be distinguished from Jane Austen’s novel Sense and Sensibility. The punning title of Austin’s book has been fruitful in moments of tutorial comedy. It was published in the same year, 1962, as his other book, How to Do Things with Words, both of them appearing posthumously./
+#+end_quote
+
+- I skipped most of the following chapters because my mind literally cannot comprehend philosophy of languages, or at how technical and too specific the discussions are.
+- 20th century advances in neurology and related sciences provided impetus for philosophy of the mind, specifically for the view that mental functions are hinged on physical aspects.
+
+#+begin_quote
+  /The idea that mental states cause behaviour, and that we explain and predict behaviour by ascribing it to mental states as its inner origin, is such a natural one that it constitutes the ordinary assumed view of most people. We are on the whole rather good at interpreting and predicting others’ behaviour, and the ready use of concepts of desire, belief, intention, hunger, lust, hope, misery, joy and other inner states of mind is said to constitute a ‘folk psychology’ that we pick up as we develop from infancy onwards./
+#+end_quote
+
+- The entire section on Philosophy of Mind is, uhm, mind-boggling lol. But despite all the theories, ultimately the concept of folk psychology, though not perfect, is still the simplest and best explanation for how the mind works.
+
+#+begin_quote
+  /A distinction is standardly drawn between ‘normative ethics’ – ethical theories or systems offering themselves as guides or, in the case of religious ethics, demands, about how to live – and ‘metaethics’, which is philosophical analysis of ethical concepts and language, typically without any normative ambitions. Almost all ethical thinking in twentieth-century Analytic philosophy is metaethics, at least until the last few decades when ‘applied ethics’, addressing dilemmas in medical practice, business, war, scientific research, and more, began to grow in influence alongside the increasingly technical refinement of metaethical debate./
+#+end_quote
+
+
+
+* THE HOUSES OF HISTORY
+** /Anna Green; Kathleen Troup/
+
+
+#+begin_quote
+  /Both past and present are always intertwined in historical practice. Historians seek to understand people whose lives and sensibilities were very different to their own. We also try to make sense of the present by investigating the processes of change over time that contributed to shaping the world in which we live. Both these activities are conducted with historical hindsight, which consists of at least two interrelated dimensions. Each new generation of historians brings different questions to the study of the past, drawing upon their own collective experiences and socio-economic contexts. In addition, new scholars critically engage with and respond to the perspectives of the earlier generation. The questions that emerge from this process generate new interpretations or analyses that make connections, or identify patterns of change, of which our historical actors were not always aware./
+#+end_quote
+
+- four themes
+  - context
+  - temporal framework
+  - causation
+  - subjectivities
+
+#+begin_quote
+  /During the late twentieth century, orthodox empirical historians were riven by disagreement over the ideas and implications of poststructuralism. Empiricism and poststructuralism are, in pure form, conflicting epistemologies. The first is based upon the belief that it is possible to reconstruct the past from surviving evidence, that historians are able to gain access to aspects of a real past. In contrast, poststructuralists argue that our understanding of the past, and our sources, are framed through structures of language and discourse, and that there is no access to an unmediated past. These two perspectives are encapsulated in the terminology of reconstruction (empiricist) and representation (poststructuralist)./
+#+end_quote
 
 
 
@@ -2097,6 +2144,21 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Norman author’s vision of the king as a persona geminata is ontological and, as an effluence of a sacramental and liturgical action performed at the altar, it is liturgical as well. His vision is, on the whole, more closely related to the liturgy, to the holy action which itself is image and reality at the same time, than to the distinction of functional capacities and constitutional competencies, or to the concepts of office and dignity as opposed to man./
+#+end_quote
+
+
+
+* THE LANDSCAPE OF HISTORY
+** /John Lewis Gaddis/
+
+#+begin_quote
+  /We know these things about the future only from having learned about the past: without it we’d have no sense of even these fundamental truths, to say nothing of the words with which to express them, or even of who or where or what we are. We know the future only by the past we project into it. History, in this sense, is all we have./
+#+end_quote
+
+- The disadvantage of being an observer in the present is that you only see within the extent of your field of vision. A historian, by contrast, has the advantage of seeing past events from multiple perspectives.
+
+#+begin_quote
+  /If you think of the past as a landscape, then history is the way we represent it, and it’s that act of representation that lifts us above the familiar to let us experience vicariously what we can’t experience directly: a wider view./
 #+end_quote
 
 
