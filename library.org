@@ -420,7 +420,7 @@
 #+end_quote
 
 #+begin_quote
-  /In this middle period of the war, between late 1914 and the next major turning point in spring 1917, the powers created a style of combat that in retrospect seemed to encapsulate the conflict as a whole. Its key features were escalation and stalemate, both sides applying rising levels of violence yet failing to terminate the impasse. The war became more nearly total and more global, and from these characteristics much of its enduring impact followed. Yet the  equilibrium was not static but dynamic, the initiative passing back and forth as each side strove to pre-empt or thwart the other’s gambits and attempted new expedients to catch its adversary off balance./
+  /In this middle period of the war, between late 1914 and the next major turning point in spring 1917, the powers created a style of combat that in retrospect seemed to encapsulate the conflict as a whole. Its key features were escalation and stalemate, both sides applying rising levels of violence yet failing to terminate the impasse. The war became more nearly total and more global, and from these characteristics much of its enduring impact followed. Yet the seeming equilibrium was not static but dynamic, the initiative passing back and forth as each side strove to pre-empt or thwart the other’s gambits and attempted new expedients to catch its adversary off balance./
 #+end_quote
 
 #+begin_quote
@@ -2046,6 +2046,42 @@ there could be no genuine reconciliation without truth./
   /A distinction is standardly drawn between ‘normative ethics’ – ethical theories or systems offering themselves as guides or, in the case of religious ethics, demands, about how to live – and ‘metaethics’, which is philosophical analysis of ethical concepts and language, typically without any normative ambitions. Almost all ethical thinking in twentieth-century Analytic philosophy is metaethics, at least until the last few decades when ‘applied ethics’, addressing dilemmas in medical practice, business, war, scientific research, and more, began to grow in influence alongside the increasingly technical refinement of metaethical debate./
 #+end_quote
 
+#+begin_quote
+  /The basic idea that moral statements are expressions of attitude invites criticism on the grounds that it is no better than a ‘hurray–boo’ theory which does nothing to address why we might sometimes wish to say ‘hurray’ and sometimes ‘boo’. Adding that we want others to join us in our hurrays and boos does not help. Arbitrary facts about our personal biographies might explain our personal inclinations in the matter, but in the absence of any other reasons (let alone good and cogent ones) for saying ‘hurray’ and ‘boo’ and wanting others to join in, how does this amount to an ethical theory?/
+#+end_quote
+
+- Deontology: Kant: rule-based
+- Consequentialism: utilitarianism: results-based
+- Virtue Ethics: Aristotle: person-based
+
+#+begin_quote
+  /Virtues are character traits such as honesty, integrity, courage, prudence, kindness, a sense of justice, self-restraint or continence and the like. From these character traits flow the virtuous behaviour associated with them. A virtuous person keeps promises and honours obligations not because it is a duty to do so or because the consequences are preferable to those that follow from not doing so, but because she is a person of integrity./
+#+end_quote
+
+- Political philosophy became more marginalized in the 20th century because of the rise of political science. The former dealt with fundamental theories; the latter, with structural aspects.
+
+#+begin_quote
+  /Almost everything about the distinction drawn between the public and private spheres instantiates powerful traditional views about masculine and feminine roles, to the detriment of the autonomy and equality of opportunity of women. While the governing conception of society is predicated on this structure, talk of equality and justice will continue to be strongly skewed by it./
+#+end_quote
+
+#+begin_quote
+  /Feminist philosophy arose contemporaneously with the increasing influence of social and political feminism in the second half of the twentieth century, and is set to be a major component of all future thinking. What compels the interest in feminist epistemology and value theory is the achievement of feminist political theory in tackling the fundamental barrier to both. This is one of the most significant developments in philosophy in the later part of the twentieth century. The auguries suggest that feminist perspectives will have a position of fundamental importance in the history of twenty-first-century philosophy when it comes to be written./
+#+end_quote
+
+#+begin_quote
+  /In ordinary experience and in our naturalistic, scientific investigations of the world, we are conscious of  and states-of-affairs outside us and indeed within us – an itch, a pain, a hunger pang. This is the ‘natural attitude’. Phenomenology does not investigate these matters. It investigates consciousness itself. To focus just on the nature of consciousness requires a ‘reduction’, a withdrawing of attention from anything other than consciousness itself so that only it is under examination. One does this by the epoche or suspension of attention to everything that is not consciousness itself, by ‘bracketing’ all considerations of the representational content of consciousness or what it is related to. ‘Bracketing’ is not a denial of the reality of things, but a way of holding them in abeyance so that they do not distract attention from the invariant features of consciousness, which is what the phenomenological reduction is seeking to make visible. This marks a sharp distinction between psychology as an empirical science from phenomenology as a ‘pure’ science in the Kantian sense, that is, which addresses only the nature and conditions of consciousness as such, shrived of any considerations of what it represents or connects with./
+#+end_quote
+
+- One-fourth of my way through the Continental Philosophy chapter, and I have yet to grasp a concept I can explain in my own words lol.
+- An interesting footnote comment by the author regarding Jean-Paul Sartre's stint in a French resistance group:
+
+#+begin_quote
+  /The fate of reputations will always swing in posthumous helplessness between admirers, hostiles, revisionists, people seeking book contracts – and the merciless exposures effected by time./
+#+end_quote
+
+- In Sartre's concept of consciousness, in-itself is the actuality of being, and for-itself is the dynamic potentiality of being.
+- Albert Camus' central philosophical argument, exemplified by Sisyphus, is that man and nature both have no intrinsic meaning, and it is this absurdity that one must learn to accept.
+
 
 
 * THE HOUSES OF HISTORY
@@ -2064,6 +2100,12 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /During the late twentieth century, orthodox empirical historians were riven by disagreement over the ideas and implications of poststructuralism. Empiricism and poststructuralism are, in pure form, conflicting epistemologies. The first is based upon the belief that it is possible to reconstruct the past from surviving evidence, that historians are able to gain access to aspects of a real past. In contrast, poststructuralists argue that our understanding of the past, and our sources, are framed through structures of language and discourse, and that there is no access to an unmediated past. These two perspectives are encapsulated in the terminology of reconstruction (empiricist) and representation (poststructuralist)./
+#+end_quote
+
+- Leopold von Ranke emphasized exclusive use of primary sources for writing history, and the idea of doing so /wie es eigentlich gewesen/.
+
+#+begin_quote
+  /Agreement among historians is remarkably difficult to achieve, and historical events are open to a multiplicity of interpretations. The same evidence can generate two quite different stories about the past, and problems arise when these are incompatible./
 #+end_quote
 
 
