@@ -18,7 +18,7 @@ Books are organized alphabetically. These are a mix of stuff I've read since 201
 
 These notes are taken as I go through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
 
-Some books are heavily noted, some aren't. I'm not very consistent about these, and there are also personal circumstances that could've affected my note taking routine.
+Some books are heavily noted, some aren't. In general, books that I read and reread /after/ the Library file is created, will have more detailed notes.
 
 Many minor errors and typos may take time to be corrected, or for such corrections to be pushed to commit.
 
@@ -28,10 +28,10 @@ Many minor errors and typos may take time to be corrected, or for such correctio
 As I build this library, I will think of other "features" I can add to make this easier for me to peruse. 
 
 Some ideas I'm considering for the immediate and near future:
-- Reorganize the "General" heading in Library file.
+
 - Highlighting the quotes I like most.
 
-**** *CREATED: 26 MAY 2025
+**** *CREATED: 26 MAY 2025*
 **** *EDITOR: GNU EMACS 30.1*
 
 

@@ -1,6 +1,6 @@
 #+TITLE: LIBRARY
 #+AUTHOR: adrian
-#+DESCRIPTION: This Library system is a curation of quotes from the books I've read, as well as my personal commentaries and thoughts.
+#+DESCRIPTION: This Library system is a curation of quotes from, and notes for, the books I've read. 
 
 * GENERAL
 - Org File
@@ -355,7 +355,7 @@
 #+end_quote
 
 #+begin_quote
-  /Cemeteries in medieval Avignon were well integrated into the fabric of urban life... Traditionally, urban cemeteries were open spaces, and as population grew, so did the demand for their space. Medieval cemeteries hosted many economic and social activities, an uncomfortable thought for our modern Western society, so sheltered from the sight of death./
+  /Cemeteries in medieval Avignon were well integrated into the fabric of urban life. Traditionally, urban cemeteries were open spaces, and as population grew, so did the demand for their space. Medieval cemeteries hosted many economic and social activities, an uncomfortable thought for our modern Western society, so sheltered from the sight of death./
 #+end_quote
 
 #+begin_quote
@@ -2081,6 +2081,19 @@ there could be no genuine reconciliation without truth./
 
 - In Sartre's concept of consciousness, in-itself is the actuality of being, and for-itself is the dynamic potentiality of being.
 - Albert Camus' central philosophical argument, exemplified by Sisyphus, is that man and nature both have no intrinsic meaning, and it is this absurdity that one must learn to accept.
+- Author explicitly mentions that he excluded "religious thinkers" who posited theistic answers to philosophical problems. Which would explain why Blaise Pascal and Søren Kierkegaard are conspicously absent in this book. Fair enough. But it still gave me a chuckle haha.
+- For Derrida, there exists a gap between what a signifier is trying to convey, and what the sign accomplishes to the observer's understanding. He calls this gap the différance.
+
+#+begin_quote
+  /Like the Ganges’ many mouths, Continental philosophy’s varieties of thought proliferated so diversely in the second half of the twentieth century that an account of them is in danger of mutating into a general history of ideas./
+#+end_quote
+
+- Henri Bergson was a celebrity of his time, a thinker who defended free will and intuition. Famously he debated Einstein on various topics, including free will and the nature of time.
+- It may have been that the debate caused a dent on Einstein's work on general relativity. He won the Nobel Prize in 1923, but for general physics contributions and specifically for photoelectric effect, /not/ for the general relativity.
+
+#+begin_quote
+  /The point of genuine philosophical importance repeatedly made by [Foucault's] work is that power – whatever form this power takes: institutional, political, personal, in diffuse, covert, unobvious and non-institutional forms as well as recognizable and structured ones – determines what is to count as knowledge, madness, crime or acceptable sexual expression; and this alerts us to the perennial need to resist, to be suspicious and alert./
+#+end_quote
 
 
 
@@ -2099,6 +2112,10 @@ there could be no genuine reconciliation without truth./
   - subjectivities
 
 #+begin_quote
+  /The experience or knowledge of the repression, violence, and war of the twentieth century had a profound impact on the thinking of more than one generation of historians in many different parts of the world. Progressive historians in the United States and Whig historians in England largely retained faith in the positive evolution of mankind in the first half of the twentieth century. But after the First World War, the Great Depression of the 1930s, the Second World War and the Holocaust, and struggles for colonial independence, historians coming to maturity in the post-war period increasingly became less enamoured of theories of progress, less inclined to believe in a trajectory of human betterment./
+#+end_quote
+
+#+begin_quote
   /During the late twentieth century, orthodox empirical historians were riven by disagreement over the ideas and implications of poststructuralism. Empiricism and poststructuralism are, in pure form, conflicting epistemologies. The first is based upon the belief that it is possible to reconstruct the past from surviving evidence, that historians are able to gain access to aspects of a real past. In contrast, poststructuralists argue that our understanding of the past, and our sources, are framed through structures of language and discourse, and that there is no access to an unmediated past. These two perspectives are encapsulated in the terminology of reconstruction (empiricist) and representation (poststructuralist)./
 #+end_quote
 
@@ -2106,6 +2123,30 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Agreement among historians is remarkably difficult to achieve, and historical events are open to a multiplicity of interpretations. The same evidence can generate two quite different stories about the past, and problems arise when these are incompatible./
+#+end_quote
+
+#+begin_quote
+  /Fundamentally, poststructuralism supports a relativist position and destroys any claim to historical objectivity. Not only are multiple and sometimes mutually exclusive interpretations possible, they are inevitable, and the truth of an interpretation cannot be verified. All histories are equally representative of reality and therefore equally fictitious./
+#+end_quote
+
+#+begin_quote
+  /In theory one interpretation cannot be privileged over another, and it can be argued that those interpretations which have been thus privileged in the past owe their position to their conformity to one or another discourse of power./
+#+end_quote
+
+#+begin_quote
+  /While the operation of power within societies tends to reinforce the dominant discourse of that society, for Foucault power did not operate from above through a single agency (such as ‘the government’) but worked diffusely, locally; resistance occurred similarly, in a series of local disruptive struggles rather than in a mighty dialectical engagement./
+#+end_quote
+
+- As per the author's suggestion, I first read the chapters on empiricism (chapter 2) and poststructuralism (chapter 11) before proceeding to the normal order.
+
+#+begin_quote
+  /For Marx, the rest of society – the superstructure of political institutions and legal systems – were derived from the forces and relations of production. In other words, he did not ascribe an independent existence to the realm of human consciousness and ideas, but perceived these as arising out of our material existence and the relationships of production./
+#+end_quote
+
+- This quote is from an essay by Christopher Hill:
+
+#+begin_quote
+  /Codes of morals are always bound up with a given social order. Feudal society had been dominated by custom, tradition. Money had been comparatively unimportant. It was an outrage to the morals of such a society that men’s rents should be sharply raised, and that if they could not pay, they should be turned out on the roads to beg, steal or starve. In time, the needs of growing capitalism produced a new morality – the morality of “God helps those who help themselves.” But in the sixteenth century the idea that profit was more important than human life, so familiar to us that we have lost our sense of moral indignation, was very new and very shocking./ 
 #+end_quote
 
 
