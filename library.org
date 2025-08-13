@@ -382,6 +382,12 @@
 #+end_quote
 
 #+begin_quote
+  /I have sought to represent it as a totality, and therefore emphasized the underlying processes and decisions that equipped millions of men with devastating firepower, set them in mortal combat against each other, and held them in the most appalling conditions for year after year./
+#+end_quote
+
+- I would personally assess this book as being top-heavy, that is, much emphasis is placed on the political aspects. But this isn't contradictory to the author's goal. It's actually fundamentally the same: he laid out the "underlying processes and decisions" which are, indeed, the ones that the political and military leaders are responsible for.
+
+#+begin_quote
   /The conventions and rituals of warfare were familiar parts of Europe’s life, and the memory of previous conflicts integral to its culture. Until the eighteenth century it had known few years in which none of its great powers were engaged in fighting. Only since then had the modern pattern emerged of  decades of peace punctuated by successively more total wars. Peace – even in the simple sense of the absence of killing – was a modern phenomenon, and Europe had never known anything comparable to the great peace that ended in 1914./
 #+end_quote
 
@@ -657,7 +663,9 @@
   /Whereas most previous studies of the origins of the war had concentrated on the diplomatic interplay between all the powers, Fischer exploited the new archival sources to highlight the connections between foreign and domestic policy in one country. He inspired a succession of comparable studies of pre-1914 foreign policy and of war aims in the other powers. Hence during the 1970s and 1980s the diplomatic history of the war’s origins, course, and aftermath was substantially rewritten, while the intensification of the superpower arms race in the era of Euromissiles and the Strategic Defense Initiative stimulated interest among political scientists in 1914 analogies. The new research uncovered more  of pre-war contingency planning for a European conflict, but little for any premeditated decision to launch one, and it suggested that war aims in the Allied countries were more tentative, defensive, and detached from domestic conflicts than they were in  None the less, all the belligerent governments paid close attention to their political objectives, and examination of the other powers reinforced Fischer’s essential insight that the killing was begun and prolonged through deliberate political will./
 #+end_quote
 
-- Author notes that while most facets of the First World War hav ebeen receiving steady attention in the recent decades, there's still much unexplored regarding its economic history.
+- Author notes that while most facets of the First World War have been receiving steady attention in the recent decades, there's still much unexplored regarding its economic history.
+- One good reason for recommending this book as overview for WW1 is the discussion of the War's historiography, in the conclusion section. It helps contextualize the discussions that have developed since, and also shaped this book's role as a more modern synthesis of the subject.
+- Granted, this book was for 2004, so it's not the most recent available (as of 2025). But I do think it's still a really solid overview even now.
 
 #+begin_quote
   /To an extent, as the inter-war revisionists argued, the war was indeed the child of fear and insecurity, born of an international system based on armed and sovereign states, in which the developing nineteenth-century forces of democratization and economic integration failed to eclipse the balance of power system. All the European powers contributed to the growth of tension in the pre-1914 decade. None the less, the fundamental contention of the Versailles ‘war-guilt’ article was justified, and the work of writers such as Albertini and Fischer has confirmed it. The rulers of Austria–Hungary and Germany did not predetermine before 1914 their decision to resort to force, but in the July–August crisis they made a decision to start a Balkan war and to accept the risk that it would escalate into a European one. Certainly both governments felt threatened, but for neither was this much of a mitigating circumstance./
@@ -665,6 +673,101 @@
 
 #+begin_quote
   /It might seem easiest to adopt the absolute pacifist position – that in no circumstances can force ever be justified – were it not for the evidence that inaction may lead to even greater evils. Yet any decision for war must confront the historical evidence that it is a fearfully blunt instrument, the repercussions of whose use cannot reliably be predicted and which may make matters even worse. Intrinsic to all military undertakings, however legitimate their motives, is the risk that they will violate the principle of proportionality between ends and means, and that they too will lead to a bad war and a bad peace. The 1914–18 conflict and the settlement that followed it remain archetypes of both, and the insights to be gained from studying them have a universal applicability, if only as a distant but a forceful warning./
+#+end_quote
+
+
+
+* CONTINENTAL PHILOSOPHY: A VERY SHORT INTRODUCTION
+** /Simon Critchley/
+
+#+begin_quote
+  /There is a gap in much philosophy between theoretical questions of how one knows what one knows, and more practical or existential questions of what it might mean to lead a good or fulfilled human life. Much mainstream philosophy has given up the task of trying to integrate knowledge and wisdom into a single synoptic vision./
+#+end_quote
+
+- For the ancients, philosophy is a practical science, concerned with the meaning and pursuit of a good life. For non-philosophers today, philosophy is perceived as being concerned with those same questions.
+- The author however argues that professional philosophy today has retreated from such concerns, leaving it to self-help and New Age gurus. To an extent, professional philosophers may even balk at the thought of their discipline as being about how to live well.
+- Part of the reason for philosophy's retreat is the rise of modern science. The idea that truth has to be empirically verifiable and grounded on scientific method meant that philosophy has lost its longstanding domain, and has been relegated to thought experiments.
+
+#+begin_quote
+  /I do not think that the question of the meaning of life is reducible to empirical investigation. It is just not a causal matter. There is, I think, a gap between knowledge and wisdom: not an explanatory gap that might be closed by producing a better, more comprehensive theory, but more of a felt gap. If all epistemic worries are to be resolved empirically by scientific enquiry, then we might feel that even if – one fine and beautiful morning – all those worries were resolved, then this would somehow still be irrelevant to the question of wisdom, to the question of knowing in what exactly a good human life might consist./
+#+end_quote
+
+#+begin_quote
+  /If what is mistaken in much contemporary philosophy is its infatuation with science, which leads to scientism, then the equally mistaken rejection of science leads to obscurantism./
+#+end_quote
+
+#+begin_quote
+  /My contention is that what philosophy should be thinking through at present is this dilemma which on the one side threatens to turn us into beasts, and on the other side into lunatics. This means that the question of wisdom, and its related question of the meaning of life, should at the very least move closer to the centre of philosophical activity and not be treated with indifference, embarrassment, or even contempt. The appeal of much that goes under the name of Continental philosophy, in my view, is that it attempts to unify or at least move closer together questions of knowledge and wisdom, of philosophical truth and existential meaning./
+#+end_quote
+
+- Author argues that Continental Philosophy, as a philosophical tradition, began with Kant in 1781. What followed since then have been over two centuries of back-and-forth that center on Kant's philosophy.
+- In his first Critique, Kant lays out the dualism of experience and reason. In the third Critique, Kant proposes Judgment as the unifier of those two.
+- On one hand, a strand of Continental philosophy critiqued Kant's dualist theory. On the other hand, another strand, which evolved into German idealism, proposed a different unifier than Judgment.
+  - Kant: Judgment
+  - Hegel: Spirit
+  - Schopenhauer: Will
+  - Nietzsche: Power
+  - Marx: Praxis
+  - Freud: Unconscious
+  - Heidegger: Being
+
+#+begin_quote
+  /The question of the status of reason and rationality versus the irrationality of much of human existence is a conflict that is at the heart of disagreements in the Continental tradition to this day, for example in the modernism/postmodernism debate that defined much of the 1980s and early 1990s./
+#+end_quote
+
+#+begin_quote
+  /There is something ultimately parochial and intellectually cowardly about identifying oneself with either side of a perceived philosophical divide, because it prevents the possible intellectual challenges that would be the consequence of a dialogue outside of one’s professional entrenchments./
+#+end_quote
+
+#+begin_quote
+  /The influence of Continental philosophy in the English speaking world, particularly in its more recent Francophone versions, is arguably much stronger outside philosophy departments than within them, where it has decisively influenced many theoretical innovations in the humanities and social sciences: in literary theory, art history and theory, social and political theory, cultural studies, historiography, religious studies, and anthropology, not to mention debates in fine art, architecture, feminism, and psychoanalysis. Revealingly and significantly, the reception of Continental thought in the English speaking world has, for the most part, taken place outside of philosophy departments./
+#+end_quote
+
+- So funny and somehow apt that the author would take a Hegelian view on the Analytic-Continental divide: Both sides are legitimate cultures of philosophy, and it's through dialogue and friendly antagonism that the gap could be narrowed and understanding be achieved.
+
+#+begin_quote
+  /It is arguable that there is too great a propensity towards commentary to the detriment of originality in contemporary Continental philosophy in the English-speaking world. But what is lacking in such a criticism (and in Rorty’s criterion) is the recognition of a distinct practice of philosophy with a quite different sense of the importance of translation, commentary, interpretation, tradition, and history for contemporary philosophical research. It is not that philosophy in the Continental tradition is dismissive of problems – far from it – it is rather that problems are often approached textually and contextually, and therefore demand a different mode of treatment, one that might appear more indirect./
+#+end_quote
+
+#+begin_quote
+  /The texts of the Continental tradition make up a kind of documentary archive of philosophical problems, with a distinct relation to their context and our own and marked by a strong consciousness of history. We will use different resources in this archive at different times, depending on the nature of the problems we are confronted with and seeking to think through. But what characterizes many of the texts in this archive is that – like those of Hegel, Marx, and Nietzsche – they are characterized by a strong historical self-consciousness that will not allow them to be read without reference to their context or our own./
+#+end_quote
+
+#+begin_quote
+  /One might say that the gain of the Continental tradition is that it allows one to focus on the essentially historical nature of philosophy as a practice and the essentially historical nature of the philosopher who engages in this practice. This is the insight into what is usually called ‘historicity’./
+#+end_quote
+
+- In a twist that I legit did not expect, it now all comes back round to history as a discipline. I somehow stumbled upon the "right" side of philosophy for me to dive into.
+
+#+begin_quote
+  /The appeal to tradition need not at all be traditional, insofar as what the notion of tradition is attempting to recover is something missing, forgotten, or repressed in contemporary life. As such, the appeal to tradition need not be some conservative acquiescence in the face of the past, but can rather take the form of a critical confrontation with the history of philosophy and history as such./
+#+end_quote
+
+#+begin_quote
+  /Philosophy in the Continental tradition has an emancipatory intent. For a philosopher, the real crisis would be a situation where crisis was not recognized. In such a world, philosophy would have no purpose, other than as a historical curiosity, an intellectual distraction, or a technical means of sharpening one’s common sense./
+#+end_quote
+
+- The problem for post-Kantian philosophers is that Kant posed some questions and issues related to dualism, but did not offer any substantially good resolution. So the Continental branch of philosophy has to grapple with how to deal with these issues.
+
+#+begin_quote
+  /Nihilism is the breakdown of the order of meaning, where all that was posited as a transcendent source of value in pre-Kantian metaphysics becomes null and void, where there are no cognitive skyhooks upon which to hang a meaning for life. All transcendent claims for a meaning to life have been reduced to mere values – in Kant the reduction of God and the immortality of the soul to the status of postulates of pure practical reason – and those values have become incredible, standing in need of what Nietzsche calls ‘transvaluation’ or ‘revaluation’./
+#+end_quote
+
+#+begin_quote
+  /That is, philosophy is a critique of existing social praxis, as a variety of unfree or unjust praxis, that aspires towards some goal of individual or collective emancipation. The traditions differ – and differ utterly – in what they think such emancipation might consist in./
+#+end_quote
+
+- Rudolf Carnap: empiricism
+- Martin Heidegger: hermeneutics
+- Carnap and the Vienna Circle regarded metaphysics as inferior to empirical science, even meaningless.
+- The two sides' political alignments would prove powerful in how later generations view their philosophies: The Vienna Circle, mostly Jews, adopted leftist ideals and fled from Germany in the 1930s. Heidegger, a bona fide member of the Nazi Party, would become a stain on the metaphysics camp.
+
+#+begin_quote
+ /The interest of the Heidegger–Carnap conflict does not consist in deciding who is right and who is wrong, but rather in viewing that conflict as a definitive expression of both a philosophical problematic and a cultural pathology that are still very much with us. If this is not recognized, then we risk a fruitless philosophical stalemate, namely the stand-off between scientism on the one hand and obscurantism on the other./
+#+end_quote
+n
+#+begin_quote
+  /Continental philosophy has been reduced to a list of proper names, with various competing methodologies attached, that one could survey with enthusiasm, bewilderment, or indifference during one or a series of introductory courses, or by reading books like this one. In my view, it is no longer a question of worshipping a series of proper names, but of doing something with what they left behind; doing creative, inventive thematic work and not restricting oneself to translation and commentary. Philosophy must be clearly argued conceptual creation in critical relation to given traditions of thinking, and not a melancholic mourning for missed opportunities or a mere technique for sharpening one’s common sense./
 #+end_quote
 
 
@@ -807,6 +910,15 @@
 - Copernicus has formed his heliocentric model decades before publishing it. For various reasons, he dragged his foot on the publication. The author implicitly argues that Copernicus would've been more well-received if he published earlier, during more accomodating conditions under friendlier church leaders. This argument does have some hindsight bias.
 - Copernicus' protege, Rheticus, consulted a protestant friend named Andreus Osiander to review the work. Osiander offered to write a preface, in which he downplayed the impact of the work, insisting that readers treat it more as thought experiment rather than actual truth. Rheticus declined, but the preface somehow got into the final version anyway. Osiander's preface has both undermined the book's scientific value, while also further degrading copernicus' reputation with the church authorities, all within the unfolding drama of Reformation and Counter-Reformation.
 - Galileo's trial was an issue of the Church imposing both theological and philosophical authority over the field of sciences. It was less about what his work actually says, but about who decides its merits. It does make me feel bad for Galileo, as he seem to have been a good Catholic until the end.
+
+
+
+* MAOISM
+** /Julia Lovell/
+
+#+begin_quote
+  /For Maoism is an unstable political creed that simultaneously reveres centralised party and mass leadership, collective obedience and anti-state rebellion. In its global journeys, Maoism has served causes that questioned or attacked existing governments; in its country of origin, it has created an omnipotent party state. It has lionised peasant revolution, while winning many of its followers or sympathisers from educated elites (Louis Althusser, Jean-Paul Sartre, Michel Foucault, Baburam Bhattarai, Abimael Guzmán) – it has been a revolution spread through books./
+#+end_quote
 
 
 
@@ -1875,6 +1987,7 @@ there could be no genuine reconciliation without truth./
   /Neither Kant nor his contemporaries thought that they lived in an enlightened age. By ‘enlightenment’ they meant the lessening of darkness, the beginning of the spread of light. The human mind was starting to shrug off the rule of arbitrary authority in the spheres of thought and belief. Intellectual immaturity is characterized by a need for direction from others; intellectual maturity is characterized by independence./
 #+end_quote
 
+- It's interesting to note that the author portrayed Kant as being most influential for his contributions on ethics. Or, in a sense, that Kant's works are notable for the parts that tackle ethics.
 - Diderot's /Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers/ was a project to collate Enlightenment thinking and present key concepts and ideas through rigorously written entries.
 
 #+begin_quote
@@ -2148,6 +2261,8 @@ there could be no genuine reconciliation without truth./
 #+begin_quote
   /Codes of morals are always bound up with a given social order. Feudal society had been dominated by custom, tradition. Money had been comparatively unimportant. It was an outrage to the morals of such a society that men’s rents should be sharply raised, and that if they could not pay, they should be turned out on the roads to beg, steal or starve. In time, the needs of growing capitalism produced a new morality – the morality of “God helps those who help themselves.” But in the sixteenth century the idea that profit was more important than human life, so familiar to us that we have lost our sense of moral indignation, was very new and very shocking./ 
 #+end_quote
+
+- The Annales school introduced the concept of a total history, where various multiple facets of historical past are presented and arranged. Bloch and Febvre used various themes and topics to frame this totality. Braudel used time, portraying a history of the Mediterranean region across centuries.
 
 
 
