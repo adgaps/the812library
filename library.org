@@ -660,15 +660,23 @@
 #+end_quote
 
 #+begin_quote
-  /Whereas most previous studies of the origins of the war had concentrated on the diplomatic interplay between all the powers, Fischer exploited the new archival sources to highlight the connections between foreign and domestic policy in one country. He inspired a succession of comparable studies of pre-1914 foreign policy and of war aims in the other powers. Hence during the 1970s and 1980s the diplomatic history of the war’s origins, course, and aftermath was substantially rewritten, while the intensification of the superpower arms race in the era of Euromissiles and the Strategic Defense Initiative stimulated interest among political scientists in 1914 analogies. The new research uncovered more  of pre-war contingency planning for a European conflict, but little for any premeditated decision to launch one, and it suggested that war aims in the Allied countries were more tentative, defensive, and detached from domestic conflicts than they were in  None the less, all the belligerent governments paid close attention to their political objectives, and examination of the other powers reinforced Fischer’s essential insight that the killing was begun and prolonged through deliberate political will./
+  /Whereas most previous studies of the origins of the war had concentrated on the diplomatic interplay between all the powers, Fischer exploited the new archival sources to highlight the connections between foreign and domestic policy in one country. He inspired a succession of comparable studies of pre-1914 foreign policy and of war aims in the other powers. Hence during the 1970s and 1980s the diplomatic history of the war’s origins, course, and aftermath was substantially rewritten, while the intensification of the superpower arms race in the era of Euromissiles and the Strategic Defense Initiative stimulated interest among political scientists in 1914 analogies. The new research uncovered more  of pre-war contingency planning for a European conflict, but little for any premeditated decision to launch one, and it suggested that war aims in the Allied countries were more tentative, defensive, and detached from domestic conflicts than they were in Germany. None the less, all the belligerent governments paid close attention to their political objectives, and examination of the other powers reinforced Fischer’s essential insight that the killing was begun and prolonged through deliberate political will./
 #+end_quote
 
 - Author notes that while most facets of the First World War have been receiving steady attention in the recent decades, there's still much unexplored regarding its economic history.
 - One good reason for recommending this book as overview for WW1 is the discussion of the War's historiography, in the conclusion section. It helps contextualize the discussions that have developed since, and also shaped this book's role as a more modern synthesis of the subject.
 - Granted, this book was for 2004, so it's not the most recent available (as of 2025). But I do think it's still a really solid overview even now.
+- Author notes three takeaways from the cultural turn of WW1 historiography:
+  - WW1 as mark of the rise of modernism;
+  - shift in language and method of remembrance through the subsequemt decades;
+  - individual soldiers' perspectives on the War, like their experience during and after the conflict.
 
 #+begin_quote
   /To an extent, as the inter-war revisionists argued, the war was indeed the child of fear and insecurity, born of an international system based on armed and sovereign states, in which the developing nineteenth-century forces of democratization and economic integration failed to eclipse the balance of power system. All the European powers contributed to the growth of tension in the pre-1914 decade. None the less, the fundamental contention of the Versailles ‘war-guilt’ article was justified, and the work of writers such as Albertini and Fischer has confirmed it. The rulers of Austria–Hungary and Germany did not predetermine before 1914 their decision to resort to force, but in the July–August crisis they made a decision to start a Balkan war and to accept the risk that it would escalate into a European one. Certainly both governments felt threatened, but for neither was this much of a mitigating circumstance./
+#+end_quote
+
+#+begin_quote
+  /Now that decades of historical research have stripped away the encrustations of hindsight and better enabled us to see the struggle as it appeared to the contemporaries who waged it, the governments seem more purposive, the armed forces more adaptive, and the ordinary soldiers and civilians more willing and informed participants than once was thought. These changes of perspective have made it easier to understand both how the massacre could happen and why it was so difficult to stop./
 #+end_quote
 
 #+begin_quote
@@ -919,6 +927,21 @@ n
 #+begin_quote
   /For Maoism is an unstable political creed that simultaneously reveres centralised party and mass leadership, collective obedience and anti-state rebellion. In its global journeys, Maoism has served causes that questioned or attacked existing governments; in its country of origin, it has created an omnipotent party state. It has lionised peasant revolution, while winning many of its followers or sympathisers from educated elites (Louis Althusser, Jean-Paul Sartre, Michel Foucault, Baburam Bhattarai, Abimael Guzmán) – it has been a revolution spread through books./
 #+end_quote
+
+- For a few years since inception, the CCP was more intellectual and less violent, its members mostly nonchalant and had little expectations. It was in the wake of the 1927 massacre of Communists that the Party became convinced of the need to raise an army and resort to violent struggle.
+- Mao was a lot more grassroots and peasant-centric in his ways than other Communist leaders over the world; in contrast, Lenin and Stalin ruled the Soviet Union, and dictated over the Comintern branches in multiple countries, from within Kremlin.
+- The Rectification Purge of 1942-1943 was a combination of "thought reform" and lynching, aimed at imposing absolute fealty to Mao and the CCP. The manner of intimidation and intimidation tactics used to keep comrades in line later gained notoriety in the West, and in the US it was given a new name: "brainwashing".
+
+#+begin_quote
+  /The consolidation of the PRC coincided with a global upsurge in decolonisation across Africa, Asia and the Middle East in the wake of the Second World War. That context did not exist for the Soviet Union’s own anti-imperial ventures in the 1920s. Even though nationalists in, for example, Indonesia had already authored their own strongly anti-colonial movements in the 1920s and 30s, and even though at no point in its history did the CCP contribute as much materially to global anti-colonial rebellions as the Soviet Union – which also funnelled millions of roubles per year, in addition to military aid and training, to the Chinese revolution during the 1920s alone – this historical coincidence enabled the PRC under Mao to present itself as the global headquarters of anti-imperialism./
+#+end_quote
+
+#+begin_quote
+  /Between 1949 and 1976, the CCP created a lavish and exhaustively orchestrated hospitality machine, designed to distract from or conceal discordant realities, and to cater to the whims of carefully chosen foreign guests, in the hope and expectation that, on leaving the Chinese state, they would proselytise the virtues of the Communists and their government. In this, they drew but also elaborated on the machinery built through the 1920s and 30s by the Soviet Union./
+#+end_quote
+
+- The author basically makes a case for Edgar Snow's "Red Star Over China" as a significant influence in spread of Maoism, and in positive portrayal of Mao Zedong to the world.
+- Overall I think Snow and his work was judged quite fairly. It is influential, but ultimately Snow had some lapses that helped hide the ugly and evil side of Mao and the CCP.
 
 
 
