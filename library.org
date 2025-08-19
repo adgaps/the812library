@@ -773,7 +773,7 @@
 #+begin_quote
  /The interest of the Heidegger–Carnap conflict does not consist in deciding who is right and who is wrong, but rather in viewing that conflict as a definitive expression of both a philosophical problematic and a cultural pathology that are still very much with us. If this is not recognized, then we risk a fruitless philosophical stalemate, namely the stand-off between scientism on the one hand and obscurantism on the other./
 #+end_quote
-n
+
 #+begin_quote
   /Continental philosophy has been reduced to a list of proper names, with various competing methodologies attached, that one could survey with enthusiasm, bewilderment, or indifference during one or a series of introductory courses, or by reading books like this one. In my view, it is no longer a question of worshipping a series of proper names, but of doing something with what they left behind; doing creative, inventive thematic work and not restricting oneself to translation and commentary. Philosophy must be clearly argued conceptual creation in critical relation to given traditions of thinking, and not a melancholic mourning for missed opportunities or a mere technique for sharpening one’s common sense./
 #+end_quote
@@ -942,6 +942,104 @@ n
 
 - The author basically makes a case for Edgar Snow's "Red Star Over China" as a significant influence in spread of Maoism, and in positive portrayal of Mao Zedong to the world.
 - Overall I think Snow and his work was judged quite fairly. It is influential, but ultimately Snow had some lapses that helped hide the ugly and evil side of Mao and the CCP.
+- The fear of massive brainwashing campaigns, especially on Korean War POWs, prompted the US government to conduct secretive projects to reverse-engineer Communist brainwashing. MK-Ultra is one such project.
+- Though Eisenhower's domino theory is most associated with the Vietnam War, it originated with fears of the consequence of Malayan Emergency, the Malayan Communist Party's campaign against British colonial rule.
+- In the 1950s, Mao set up an academy to educate and train Communists from all over Asia. Some of its graduates include Mohit Sen of India, and Chen Ping of Malaya, later also the initiator of the Malayan Emergency.
+- CCP's support of overseas Communist Parties were secondary to China's self-interest. Many times the CCP nudged its foreign comrades to tone down revolutionary activities to fit Beijing's current diplomatic needs.
+- Mao had much pressing internal needs to focus on during the late 1940s to early 1950s, and almost didn't support Kim Il-Sung in the Korean War.
+- Sino-North Korean relations at this period were more patchy than usually known in the West, and the author even argues that Pyongyang is diplomatically much closer to Moscow than to Beijing. Kim is himself handpicked by Stalin, and had a hard time gaining Mao's support.
+
+#+begin_quote
+  /Mao was, therefore, bounced into the Korean War – not as part of a long-term conspiracy, but through Stalin’s self-interested impulses and instinct for playing on Mao’s status-conscious desire to claim leadership of the Asian revolution. Given that Mao and his immediate lieutenants had already committed themselves so publicly to leading the world revolution – with their Beijing training courses, their proclamations about the relevance of China to oppressed people in Asia – their international revolutionary credentials would have been shredded had they not stepped into the war. Stalin and Kim, in short, created a conflict that impinged not only on one of China’s most sensitive, complex frontiers – the Korean–Soviet–Chinese border – but also on Mao’s self-image. The Chinese were thus forced to rescue Kim when the war turned against the North Koreans./
+#+end_quote
+
+- North Korea maintains a presence in Africa until today, in the form of monument building. North Koreans built many large scale "revolutionary" statues and monuments across the continent.
+
+#+begin_quote
+  /High Maoism – as I call it here – showcased a peculiar form of internationalism: universal in theory, parochial in practice. It made a utopian case for the global relevance of Maoism, while engaging in petty doctrinal disputes with the Soviet Union. It bid for a world role while destroying China’s diplomatic relations in almost every part of the world. It shouted about universal solidarity while asserting Mao’s planetary leadership. It was often more about domestic/ amour propre /than international realpolitik./
+#+end_quote
+
+- Mao was the one who coined the term "de-Stalinization", and rejected such policy which Khrushchev pursued after taking power.
+
+#+begin_quote
+  /Indonesia was the test case in China’s post-Soviet foreign policy: a key strategic target for exporting the wisdom and superiority of the Maoist model. Leading Indonesian Communists were intoxicated by the militant rhetoric of Mao’s revolution in the early 1960s. It encouraged and inspired them to confront the Indonesian military; this decision in turn gave the army a pretext to trigger the horrors of 1965. Without Maoism, Indonesia’s catastrophe in 1965 is hard to imagine./
+#+end_quote
+
+- The extent of CCP's involvement in September 30th incident remains unclear. But it's likely that Mao at a minimum approved of the coup attempt, which was executed by a small faction within the PKI.
+- Mao initiated decades of Chinese foreign policy in Africa, pouring vast amounts of aid to the continent, in exhange for influence and control of raw materials. In fact China spent a greater percentage of their budget for foreign aid than wealthier Western countries, at a time when the Chinese people themselves desperately need the finances.
+- I probably would struggle with the Africa chapter if I haven't read an African history book before. But I finished reading *The Fate of Africa* weeks prior, so I am now acquainted with the persons and events discussed in this chapter.
+- China's push for African influence is definitely more nuanced than common perspectives from either ends of the spectrum. It's likely that CCP genuinely wanted to promote Maoism in a continent already predisposed to welcoming anti-Western rhetoric.
+- One more significant result of China's pivot to Africa is official UN recognition of PRC (vs. ROC). In 1971, it was the African states that tipped the scales to favor Beijing, finally earning them a seat not only in UN itself but also in the Security Council.
+
+#+begin_quote
+  /It was Maoist China’s threatening potential that helped create world-changing events: the Vietnam War, and its many consequences (the global protest movements of 1968, Watergate, the US’s unconscionable decision to prop up the exiled Khmer Rouge insurgency through the 1980s). Together, they significantly undermined US power and prestige in the world./
+#+end_quote
+
+- The situation in Indochina during the Cold War was less straightforward than Western analysts saw. The domino theory held sway to some extent, in that both China and Vietnam actually partly subscribed to it. However, both China and Cambodia also viewed Vietnam as an expansionist power.
+- After the fall of Vietnam, instead of dominoes falling, what resulted was even more conflict within Indochina, now between Vietnam and Cambodia. Interestingly, US foreign policy under Kissinger threw support behind Cambodia against Vietnam.
+
+#+begin_quote
+  /Though discredited today, the domino theory gave a fairly accurate account of Chinese Communist ambitions in Indochina. Confidential conversations between Chinese and Vietnamese leaders from the 1950s to the 1970s turned regularly to an overarching project of world revolution. The horror of the Vietnam War was explicitly justified because, in Zhou Enlai’s words, it was fought ‘for the world revolution’ as well as for Vietnam. It was, in China’s view, a key domino whose fall would have ramifications for the rest of Asia./
+#+end_quote
+
+
+- In the 1954 Geneva Conference after the Dien Bien Phu debacle, the CCP urged the North Vietnamese communists to postpone Indochinese unification, lest they invite a united front of the US and Western powers.
+
+#+begin_quote
+  /Although the DRV was eager to export Communist-led insurgency to Laos and Cambodia, to create an ‘Indochina Federation’, Zhou Enlai and his fellow Chinese diplomats were wary of a Vietnamese-dominated military alliance between the three countries, and had done their best to shut the idea down. The Vietnamese Communists would always resent the Chinese for pressuring them to accept a suboptimal outcome – a divided Vietnam – at a time when they were confident that reunification by force was within reach./
+#+end_quote
+
+- The DRV continued to desire immediate unification, even as the US began intensifying its military campaign. The Sino-Soviet split further fueled Vietnamese animosity, as China insisted on blocking Soviet aid to Indochina.
+- More importantly, the Vietnamese were not completely blind to the failures of Mao's Great Leap Forward. Ironically, the Vietnamese communists were becoming more disillusioned with the CCP at the same time that Western sentiment begins swaying in favor of the Vietnamese and Maoism.
+- The falling out between Vietnam and China became more evident after the end of Vietnam War, as China now pivoted towards Cambodia. In a geopolitical sense, China's goal was to use Cambodia as lynchpin against an expansionist Vietnam. Within the CCP, Mao considered Pol Pot's Cambodia as the best culmination of Maoism outside China.
+
+#+begin_quote
+  /While the culture and politics of Cultural Revolution China permeated Western radicalism during the 1960s and 70s, this remains one of the significantly under-told stories of this epochal moment of cultural revolution. Mao and his ideas of continuous, peasant revolution appealed to both left-wing rebels, and civil rights campaigners. Within Europe, Mao’s Cultural Revolution galvanised Dadaist student protest, nurtured feminist and gay rights activism, and legitimised urban guerrilla terrorism. In the United States, it bolstered a broad programme of anti-racist civil rights campaigns, as well as sectarian Marxist–Leninist party-building./
+#+end_quote
+
+- Part of the author's general thesis in the book is that Maoism is so understudied and largely ignored, despite having very wide and deep repercussions throughout the Cold War and beyond.
+
+#+begin_quote
+  /Since the quashing of the Hungarian uprising in 1956 and with the invasion of Czechoslovakia in 1968, the Soviet Union no longer represented an emancipatory alternative to the forces of capitalist oppression. The People’s Republic of China – bigger than Vietnam, more remote than Cuba, more radical than them both – looked the best option./
+#+end_quote
+
+- Maoism provided a framework and platform with which discontented people were able to voice their criticisms of the prevailing system. In the US, this meant anti-Vietnam protests and civil rights movement.
+
+#+begin_quote
+  /When asked why he had a poster of Mao on the wall of his apartment, the Black Panther Eldridge Cleaver replied: ‘Because Mao Zedong is the baddest motherfucker on planet earth.’/
+#+end_quote
+
+#+begin_quote
+  /In this utopian, politically promiscuous phase, many radical students in Germany, France, Italy and Norway picked up on the superficial, anarchic aspects of Maoism that appealed, and overlooked the rest. To be fair, they were not the first Westerners to exoticise China for their own purposes. Since the West began engaging in concerted outreach towards China – with the sixteenth-century launch of missionary overtures – the ‘celestial empire’ has been viewed by churchmen, merchants and philosopher-intellectuals as a potent dreamland of near-paradisiacal opportunity: for Christian conversion, for economic profit, for lessons in government. The embrace of Maoism by Western radicals is therefore a recent repeat of an age-old predisposition towards identifying conveniently remote, exotic China as a repository of political, social, cultural and economic virtue. The Cultural Revolution fever of the 1960s and beyond once more showcased the ability of Westerners to create an imaginary China largely divorced from empirical reality./
+#+end_quote
+
+#+begin_quote
+  /After 1968, Cultural Revolution Maoism in Western Europe and the US discovered its authoritarian roots. Mao the provocative jester became Mao the tough party man. As the student movement lost momentum or disintegrated in the face of state repression, Mao and the CCP provided a blueprint for creating disciplined, militarised parties that could carry out grass-roots revolutionary work in factories – and sometimes the countryside – and orchestrate confrontational street protests./
+#+end_quote
+
+- The failure of the 1968 protests throughout the world, but most especially in Europe, pushed Maoists into adopting more violent methods for struggle. This fueled the rise of terrorist groups in the 1970s and 1980s.
+
+#+begin_quote
+  /It is true that the countercultural rebellion of which Maoism was a part decisively eroded social and cultural conservatism in the United States and Western Europe, and that the effects of this liberalisation are discernible in public life today./
+#+end_quote
+
+#+begin_quote
+  /Mao-style criticism/self-criticism later blurred into the confessional habits of therapy and self-help. The Cultural Revolution-inspired dissent of the 1960s and 70s contributed to reforms of secondary and higher education, to make teaching methods and curricula more participatory, more representative, more accountable to diverse communities. African or Chinese American activists (such as John Bracey, at the University of Massachusetts from 1972), who stayed in the educational system rather than joining radical parties, contributed to the struggle for black and ethnic studies in universities./
+#+end_quote
+
+#+begin_quote
+  /The type of political activism practised in these parties was not, in any case, practically sustainable over the long term. It was divisive and time-consuming. There wasn’t much money in it. By the late 1970s this first generation of would-be revolutionaries were hitting thirty and were starting to think about families, careers and pensions. And much of this activism ran out of steam when governments in countries badly affected by left-wing terrorism cracked down hard on these groups, and anyone deemed to be a sympathiser./
+#+end_quote
+
+- Even for the Maoists themselves, it's widely acknowledged that the division that Maoism caused within the left has aided the subsequent resurgence of conservatism, especially during the Reagan and Thatcher regimes.
+
+#+begin_quote
+  /The Cultural Revolution’s rhetoric of anti-authoritarian rebellion inspired revolts outside China that took aim at a broad range of political, cultural and social custom: at domestic and foreign policy; colonial rule; electoral representation; relations between the sexes; education, film and literature. The impact of the Cultural Revolution (upper case) is part of a much more diffuse (and often liberalising) process of cultural revolution (lower case) that has transformed society, culture and politics since the 1960s, especially in the developed West. In countries riven by deep historical, ethnic or socio-economic fault (post-fascist Germany and Italy; post-segregation America; post-independence India), the Cultural Revolution’s legitimisation of political violence served as the spark that lit a prairie fire – a fire that in some instances is still burning today./
+#+end_quote
+
+#+begin_quote
+  /Across the Latin American left as a whole, Mao’s analysis of pre-revolutionary China resonated in a continent marked by inequality and US economic domination. Mao’s China was lionised as a state that had broken with Western dependence and bid for self-sufficiency through the economic miracle of the Great Leap Forward./
+#+end_quote
 
 
 
