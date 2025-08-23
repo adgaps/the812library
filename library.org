@@ -1041,6 +1041,77 @@
   /Across the Latin American left as a whole, Mao’s analysis of pre-revolutionary China resonated in a continent marked by inequality and US economic domination. Mao’s China was lionised as a state that had broken with Western dependence and bid for self-sufficiency through the economic miracle of the Great Leap Forward./
 #+end_quote
 
+- One advantage that the /Sendero Luminoso/ held is its academic origins. Abimael Guzman used his position as professor to recruit peers and students. Later the organization would grow by recruiting more intellectuals, which made it easier to convince average folks to side with them.
+- This was also a double-edged sword, as the party leadership is decisively non-proletarian, and the higher-ups held a condescending view of the ordinary peasants.
+- On describing women's roles within the /Sendero Luminoso/, the author used the term "Machismo-Leninismo", which I think is clever and appropriate for the context.
+- An accident of circumstances that aided the rise of /senderistas/ is the political climate of the 1980s. Military dictatorship has recently ended, and the new democratic government is both burdened by security issues and aversion to heavy-handed law enforcement.
+- Guzman's primary strategy is to utilize an overwhelming amount of violence, that the state is also then forced to resort to scorched earth tactics to purge the insurgency. It worked, and immensely helped the senderistas while further eroding trust on the government.
+
+#+begin_quote
+  /Shining Path, from the start, was no mass line, but rather a centralised, top-down model, in which local communities were both idealised and dictated to. In other words, Guzmán yearned for the ‘blank page’ so beloved of Mao, on which he could write beautiful, new things. It was Guzmán’s frustrated encounter with a Peruvian society that was far from blank that generated the atrocities of Shining Path./
+#+end_quote
+
+- The extreme violence and suffering that haunted Peru throughout the /senderistas'/ insurgency ended rather quickly. In 1992 Guzman, struck with psoriasis, was captured and presented to the public, his physical form a far cry from his past known appearances.
+- After his capture, the /Sendero Luminoso/ lost momentum and its multiple fronts folded within months. Guzman himself publicly called on his followers to negotiate with the government.
+- The most lasting legacy of /Sendero Luminoso/ is the erosion of democracy, which also lead to the rise of dictator Alberto Fujimori, under whom Guzman was captured. Fujimori fled after a decade of rule, having left Peru saddled with debt and massive corruption.
+
+#+begin_quote
+  /The Maoist insurgency in central eastern India today would not have been possible without the intersection of three elements in the 1960s: the existence of an impatient, militant wing of the Communist Party of India (CPI), a deep socio-economic and political crisis in India two decades after independence, and the eagerness of the Chinese Communist Party to support rhetorically (and in limited ways materially) an Indian revolution inspired by Maoist revolutionary strategies./
+#+end_quote
+
+- A 1967 peasant protest in Naxalbari that was violently suppressed by state police ignited the violent Maoist insurgency in India. These insurgents have since become known as the Naxalites.
+- The group's leader, Charu Mazumdar, desperately wanted to leave his lasting legacy, and be as admired as Chairman Mao. This lead to disorganized and sometimes contradictory actions, like assassinations of fellow communists from another CPI faction. It also lead to the fallout with his deputy, Kanu Sanyal.
+- Even worse, in the 1972 Pakistani war against Bangladeshis, China out of its own geopolitical interests sided with Pakistan. This forced the Naxalites to take the same side as Beijing, in the process tolerating Pakistani abuses against the Bangladeshi rebels. This eroded the group's moral credibility even among other Indian communists.
+- Mazumdar was captured in 1972, and likely due to his lifelong health woes, died a few days later. Afterwards, the Naxalites continued to split into multiple factions, and consequent Maoist violence involved inter-faction conflicts.
+- One interesting takeaway from this book is the Maoist origin of the term "semi-colonial, semi-feudal", often parroted by left-wing groups here in the Philippines: /mala-kolonyal, mala-pyudal/.
+- Maoist insurgency flared up again since the 1990s, as consequence of New Delhi's more liberalizing economic policies. In particular, the government sought to clear the mineral-rich states of Maoist rebellion so large-scale mining concessions can be properly set up.
+- The relative success of Maoism in Nepal is due to rather peculiar conditions throughout its history. The monarchy clamped down on anti-monarchy dissent, but generally tolerated Maoism. But also, the Nepalese communists are splintered across several factions, and didn't engage in open armed rebellion until 1996.
+
+#+begin_quote
+  /The Nepali state was neglectful at best, exploitative and aggressive at worst. Those who clung on to power in Kathmandu hardly represented the socio-economic and ethnic diversity of the population in general; taxes were used to develop urban, rather than rural areas. The dysfunctionality of Nepal’s democracy, meanwhile, prevented (indeed still prevents) most administrations from pursuing the kind of coherent socio-economic reform programmes the country needed. The democratically elected governments formed after the restoration of multi-party politics in 1990 were mostly unstable coalitions. Between 1994 and 1999 alone, Nepal had at least (depending on how you count them) three different governments, rising and falling amid corruption scandals, cynical factionalism and votes of no-confidence./
+#+end_quote
+
+- Despite some relatively peaceful upstart, in the 1990s Maoism bcame more coercive and violent, and in 1996 Nepal devolved into civil war.
+- The civil war ultimately ended with multi-party democracy and abolition of the monarchy. And while much progress has been made in social justice, decades-long systemic issues remained, hampered by Maoist emphasis on military methods for problem-solving.
+- As part of China's "de-Maoification", records of CCP support for many Maoist groups abroad were expunged or tucked away within the archives. The CCP stopped funding these movements, and pursued pragmatic relations with right-wing governments.
+
+#+begin_quote
+  /But Mao was never purged from PRC politics. The Soviet Union could discard Stalin and still have Lenin as revolutionary founder; the CCP only had Mao./
+#+end_quote
+
+#+begin_quote
+  /Convinced that the survival of the CCP depended on the spread of material prosperity, [Deng Xiaoping] called for an end to ideological hang-ups about the capitalist nature of economic liberalisation, and for an unleashing of market forces to achieve ‘faster, better, deeper’ economic growth. To Deng, it was irrelevant whether the economic means were capitalist or socialist, provided that the political end of preserving party rule was achieved./
+#+end_quote
+
+- The rise of the Internet provided platform for neo-Maoists, who criticized modern China and denounced major figures.
+- Xi Jinping marked the return of Mao-style governance, as his government deliberately employed, and continues to employ, Maoist rhetoric in nearly every facet of the regime.
+
+#+begin_quote
+  /There is a frightening simplicity to these neo-Maoists’ analyses and analogies. However well educated or well read they claim to be, they suffer from a failure of imagination about the effects of political violence and untrammelled power in the hands of a party or individual./
+#+end_quote
+
+- Despite all his parading of Maoism and Mao-style leadership, Xi is ultimately himself a victim of the Cultural Revolution, his family having suffered along the way. In 2016, on the 50th anniversary of the Cultural Revolution, state media's official stance is a condemnation of the Revolution's excesses.
+
+#+begin_quote
+  /Mao, his strategies and political model remain central to the legitimacy and functioning of China’s Communist government. For decades, Western analysts have been too quick to overlook or dismiss the persistent influence of the Maoist heritage in contemporary China. In this book, I have argued that Maoism has been underestimated not just as a Chinese but also as a global phenomenon. I have sought to re-centre its ideas and experiences as major forces of the recent past, present and future that have shaped – and are shaping – the world, as well as China./
+#+end_quote
+
+#+begin_quote
+  /Mao’s revolution of 1949 – coinciding with the onset of decolonisation – exercised a particular and enduring appeal within the polarised context of the Cold War. As dozens of new countries (often underdeveloped, and predominantly rural) broke out of European and Japanese empires and searched for workable state-building models, many were suspicious of American intentions and unwilling to embrace the Europeanised blueprints of Soviet Russia. Mao’s revolution, by contrast, represented an alternative apparently suited to poor, agrarian states that had suffered at the hands of colonialism./
+#+end_quote
+
+#+begin_quote
+  /Mao’s key idea about the need for violent rebellion to sweep away social injustice and his practical strategies to achieve this aim – party-building, mass work, protracted guerrilla warfare – have attracted the discontented across decades and territories. Educated persuaders have used these emotional ideas to galvanise insurgencies, sometimes with enormous bloodshed. But except in China, Maoist insurgencies have failed to translate into stable political power./
+#+end_quote
+
+#+begin_quote
+  /The story of Maoism’s international travels reveals also the PRC’s repertoire of global interventions. It undermines the historical orthodoxy – propagated by China but widely accepted in the West – that Mao-era China had no engagement with the world beyond its borders./
+#+end_quote
+
+#+begin_quote
+  /Perhaps we should get used to the contradictions of Maoism. It looks like they will be with us for some time yet./
+#+end_quote
+
 
 
 * MEDIEVAL CHRISTIANITY
@@ -3155,6 +3226,91 @@ there could be no genuine reconciliation without truth./
 #+begin_quote
   /A scientific community consists, on this view, of the practitioners of a scientific specialty. To an extent unparalleled in most other fields, they have undergone similar educations and professional initiations; in the process they have absorbed the same technical literature and drawn many of the same lessons from it. Usually the boundaries of that standard literature mark the limits of a scientific subject matter, and each community ordinarily has a subject matter of its own./
 #+end_quote 
+
+
+
+* TO EXPLAIN THE WORLD
+** /Steven Weinberg/
+
+#+begin_quote
+  /Before history there was science, of a sort. At any moment nature presents us with a variety of puzzling phenomena: fire, thunderstorms, plagues, planetary motion, light, tides, and so on. Observation of the world led to useful generalizations: fires are hot; thunder presages rain; tides are highest when the Moon is full or new, and so on. These became part of the common sense of mankind. But here and there, some people wanted more than just a collection of facts. They wanted to explain the world./
+#+end_quote
+
+#+begin_quote
+  /The word “discovery” in the subtitle is also problematic. I had thought of using The Invention of Modern Science as a subtitle. After all, science could hardly exist without human beings to practice it. I chose “Discovery” instead of “Invention” to suggest that science is the way it is not so much because of various adventitious historic acts of invention, but because of the way nature is. With all its imperfections, modern science is a technique that is sufficiently well tuned to nature so that it works—it is a practice that allows us to learn reliable things about the world. In this sense, it is a technique that was waiting for people to discover it./
+#+end_quote
+
+#+begin_quote
+  /In telling this story, I will be coming close to the dangerous ground that is most carefully avoided by contemporary historians, of judging the past by the standards of the present. This is an irreverent history; I am not unwilling to criticize the methods and theories of the past from a modern viewpoint. I have even taken some pleasure in uncovering a few errors made by scientific heroes that I have not seen mentioned by historians./
+#+end_quote
+
+- I like this. The author is very clear about how he tackles the work, and I respect that. This is the kind of history I love reading, the one where the author actually takes a stand, but hopefully also presents facts and arguments in good faith.
+
+#+begin_quote
+  /Science is not now what it was at its start. Its results are impersonal. Inspiration and aesthetic judgment are important in the development of scientific theories, but the verification of these theories relies finally on impartial experimental tests of their predictions. Though mathematics is used in the formulation of physical theories and in working out their consequences, science is not a branch of mathematics, and scientific theories cannot be deduced by purely mathematical reasoning. Science and technology benefit each other, but at its most fundamental level science is not undertaken for any practical reason. Though science has nothing to say one way or the other about the existence of God or an afterlife, its goal is to find explanations of natural phenomena that are purely naturalistic. Science is cumulative; each new theory incorporates successful earlier theories as approximations, and even explains why these approximations work, when they do work./
+#+end_quote
+
+- Two points:
+  - Hossenfelder, in her attack on aesthetics, also interviewed Weinberg and argued with him on the value of beauty in science.
+  - Science as a cumulative process is the opposite of how Kuhn sees the history of science. For Kuhn, science isn't cumulative because the old, once replaced by a newer paradigm, is thrown away.
+
+#+begin_quote
+  /The equations of our theories have certain simplicities, for instance treating certain species of particles in the same way, but these simplicities are not shared by the solutions of the equations, which govern actual phenomena./
+
+  /The a priori presumption in favor of principles of symmetry arose from many years of experience in searching for physical principles that describe the real world, and broken as well as unbroken symmetries are validated by experiments that confirm their consequences. They do not involve value judgments of the sort we apply to human affairs./
+#+end_quote
+
+- The primary difference between ancient Greek science and modern science is that the former never bothered to prove its theories.
+
+#+begin_quote
+  /Today we test our speculations about nature by using proposed theories to draw more or less precise conclusions that can be tested by observation. This did not occur to the early Greeks, or to many of their successors, for a very simple reason: they had never seen it done./
+#+end_quote
+
+#+begin_quote
+  /There remains a poetic element in modern physics. We do not write in poetry; much of the writing of physicists barely reaches the level of prose. But we seek beauty in our theories, and use aesthetic judgments as a guide in our research. Some of us think that this works because we have been trained by centuries of success and failure in physics research to anticipate certain aspects of the laws of nature, and through this experience we have come to feel that these features of nature’s laws are beautiful. But we do not take the beauty of a theory as convincing evidence of its truth./
+#+end_quote
+
+- Greek mathematics is mainly based on geometry.
+
+#+begin_quote
+  /Mathematics is the means by which we deduce the consequences of physical principles. More than that, it is the indispensable language in which the principles of physical science are expressed. It often inspires new ideas about the natural sciences, and in turn the needs of science often drive developments in mathematics./
+
+  /But mathematics is not a natural science. Mathematics in itself, without observation, cannot tell us anything about the world. And mathematical theorems can be neither verified nor refuted by observation of the world./
+#+end_quote
+
+#+begin_quote
+  /Where conflicts now sometimes arise between mathematicians and scientists, it is generally over the issue of mathematical rigor. Since the early nineteenth century, researchers in pure mathematics have regarded rigor as essential; definitions and assumptions must be precise, and deductions must follow with absolute certainty. Physicists are more opportunistic, demanding only enough precision and certainty to give them a good chance of avoiding serious mistakes./
+#+end_quote
+
+#+begin_quote
+  /Plato and Aristotle were both realists, but in quite different senses. Plato was a realist in the medieval sense of the word: he believed in the reality of abstract ideas, in particular of ideal forms of things. It is the ideal form of a pine tree that is real, not the individual pine trees that only imperfectly realize this form. It is the forms that are changeless, in the way demanded by Parmenides and Zeno. Aristotle was a realist in a common modern sense: for him, though categories were deeply interesting, it was individual things, like individual pine trees, that were real, not Plato’s forms./
+#+end_quote
+
+#+begin_quote
+  /There was no conception in the ancient or medieval world of science as something distinct from philosophy. Thinking about the natural world was philosophy. As late as the nineteenth century, when German universities instituted a doctoral degree for scholars of the arts and sciences to give them equal status with doctors of theology, law, and medicine, they invented the title “doctor of philosophy.” When philosophy had earlier been compared with some other way of thinking about nature, it was contrasted not  science, but with mathematics./
+#+end_quote
+
+#+begin_quote
+  /What is important in science (I leave philosophy to others) is not the solution of some popular scientific problems of one’s own day, but understanding the world. In the course of this work, one finds out what sort of explanations are possible, and what sort of problems can lead to those explanations. The progress of science has been largely a matter of discovering what questions should be asked./
+#+end_quote
+
+#+begin_quote
+  /My purpose here in judging the past by the standards of the present is to come to an understanding of how difficult it was for even very intelligent persons like Aristotle to learn how to learn about nature. Nothing about the practice of modern science is obvious to someone who has never seen it done./
+#+end_quote
+
+#+begin_quote
+  /It was essential for the discovery of science that religious ideas be divorced from the study of nature. This divorce took many centuries, not being largely complete in physical science until the eighteenth century, nor in biology even then./
+#+end_quote
+
+- I agree on this. Religion acts as a boundary for pursuit of knowledge, in that it starts lays out intellectual activities that are and are not permissible. Science needs to do away with such boundaries to advance, and the Scientific Revolution had to be disentangled from religion for it to truly flourish.
+- Now of course as a Catholic myself, despite what I just stated, I don't exactly consider religious boundaries to be bad. In the context of science, it's useful to peel off the limits to an extent. But anyway this isn't something I'd like to elaborate in here haha.
+
+#+begin_quote
+  /It is not that the modern scientist makes a decision from the start that there are no supernatural persons. That happens to be my view, but there are good scientists who are seriously religious. Rather, the idea is to see how far one can go without supposing supernatural intervention. Only in this way can we do science, because once one invokes the supernatural, anything can be explained, and no explanation can be verified. This is why the “intelligent design” ideology being promoted today is not science—it is rather the abdication of science./
+#+end_quote
+
+- The Moon is much easier to observe and reliably track across longer periods of time than the Sun. Hence, the most common type of calendar in the ancient world is lunar.
+- Another significant difference between ancient and modern science is treatment of uncertainty. Ancient scholars never tried to seriously verify their calculations or even explore any possible uncertainties. In modern science, theories and calculations go through rigorous checks for imperfections, and such discrepancies have to be properly acknowledged and taken into account.
 
 
 
