@@ -3312,6 +3312,50 @@ there could be no genuine reconciliation without truth./
 - The Moon is much easier to observe and reliably track across longer periods of time than the Sun. Hence, the most common type of calendar in the ancient world is lunar.
 - Another significant difference between ancient and modern science is treatment of uncertainty. Ancient scholars never tried to seriously verify their calculations or even explore any possible uncertainties. In modern science, theories and calculations go through rigorous checks for imperfections, and such discrepancies have to be properly acknowledged and taken into account.
 
+#+begin_quote
+  /Much of the story of the emergence of modern science deals with the effort, extending over two millennia, to explain the peculiar motions of the planets./
+#+end_quote
+
+#+begin_quote
+  /We criticize a proposed theory as fine-tuned when its features are adjusted to make some things equal, without any understanding of why they should be equal. The appearance of fine-tuning in a scientific theory is like a cry of distress from nature, complaining that something needs to be better explained./
+#+end_quote
+
+- Author notes that an "intellectual schism" that began in classical antiquity would continue on until Copernicus. The schism is based on how to approach astronomy:
+  - Aristotelian theory: philosophers/physicians
+  - Ptolemaic theory: astronomers/mathematicians
+
+#+begin_quote
+  /There is testimony to the influence of Arab science on Europe in a long list of words derived from Arabic originals: not only algebra and algorithm, but also names of stars like Aldebaran, Algol, Alphecca, Altair, Betelgeuse, Mizar, Rigel, Vega, and so on, and chemical terms like alkali, alembic, alcohol, alizarin, and of course alchemy./
+#+end_quote
+
+- Aquinas sought to reconcile Aristotelianism with Christianity, through his work Summa Theologica. After hsi death, for some time Aquinas' work was banned and condemned. The condemnation was lifted later, alongside his canonization, and Thomism became integral to Catholic theology thereon.
+- Author contends that while this condemnation is usually glossed over, it's actually a pretty big deal. Had the condemnation not been lifted, scientific progress would've been severely hampered, and Christianity at large would've been as opposed to science as Islam is.
+- Author makes this interesting speculation that "the center of scientific work shifter eastward" as a result of the Hundred Years' War. I kinda don't buy it, but it's a curious thing that I might look into in the future.
+
+#+begin_quote
+  /Whatever the scientific revolution was or was not, it began with Copernicus./
+#+end_quote
+
+- Author focuses on the Commentariolus (vs. De revolutionibus) as Copernicus' landmark work. The argument is that it's in the Commentariolus that the fundamentals of Copernican theory is laid out, and it's also an expansion of Ptolemaic theory in a way.
+
+#+begin_quote
+  /Copernicus could not claim in the Commentariolus that his scheme fitted observation better than that of Ptolemy. For one thing, it didn’t. Indeed, it couldn’t, since for the most part Copernicus based his theory on data he inferred from Ptolemy’s Almagest, rather than on his own observations. Instead of appealing to new observations, Copernicus pointed out a number of his theory’s aesthetic advantages./
+#+end_quote
+
+#+begin_quote
+  /The theory of Copernicus provides a classic example of how a theory can be selected on aesthetic criteria, with no experimental evidence that favors it over other theories. The case for the Copernican theory in the Commentariolus was simply that a great deal of what was peculiar about the Ptolemaic theory was explained at one blow by the revolution and rotation of the Earth, and that the Copernican theory was much more definite than the Ptolemaic theory about the order of the planets and the sizes of their orbits./
+#+end_quote
+
+#+begin_quote
+  /Some distinguished physicists deplore the idea of a multiverse, because they cannot reconcile themselves to the possibility that there are constants of nature that can never be calculated. It is true that the multiverse idea may be all wrong, and so it would certainly be premature to give up the effort to calculate all the physical constants we know about. But it is no argument against the multiverse idea that it would make us unhappy not to be able to do these calculations. Whatever the final laws of nature may be, there is no reason to suppose that they are designed to make physicists happy./
+#+end_quote
+
+- A quote from Kepler's Astronomia Nova, worth quoting here:
+
+#+begin_quote
+  /Advice for idiots. But whoever is too stupid to understand astronomical science, or too weak to believe Copernicus without [it] affecting his faith, I would advise him that, having dismissed astronomical studies, and having damned whatever philosophical studies he pleases, he mind his own business and betake himself home to scratch in his own dirt patch./
+#+end_quote
+
 
 
 * WAR AND PUNISHMENT
