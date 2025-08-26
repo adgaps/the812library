@@ -913,11 +913,33 @@
 ** /Nicholas Spencer/
 
 - The book's title comes from Stephen Jay Gould's description of science and religion as being "non-overlapping magisteria".
+
+#+begin_quote
+  /as is frustratingly often the case with history, the truth is rather more complex and convoluted than the myths. Neither the specific encounters nor the master narrative hung from them turns out to be the morality play that has passed into the popular imagination./
+#+end_quote
+
 - The main narrative of war between science and religion began in the wake of Darwin's work on theory of evolution. Medieval examples, like with Galileo and Copernicus, were revived in the 19th century in the course of evolution debates.
+
+#+begin_quote
+  /Myth-busting is helpful and can be fun but it can still leave a rather negative impression in the mind. Religion wasn’t quite as destructive of science as we have been led to believe. Hallelujah! Rejoice! In actual fact, for much of history, religion wasn’t just ‘not at war’ with science, but it actively supported it, serving to legitimise, preserve, encourage and develop scientific ideas and activities./
+#+end_quote
+
+#+begin_quote
+  /Time and time again, it is the concept of the human – our makeup, origins, purpose, dignity and uniqueness (or lack thereof) – that emerges from the debate. Time and again, when it seemed as if people were arguing about the power of the planets, the composition of the body, the order of the cosmos, the design of nature, the origin of life, the age of rocks or the development of species, they were really talking about the nature of the human beast./
+#+end_quote
+
 - It was a biographer of Columbus, Washington Irving, that popularized the false notion that flat earth belief was widespread prior to the discovery of the New World.
 - Copernicus has formed his heliocentric model decades before publishing it. For various reasons, he dragged his foot on the publication. The author implicitly argues that Copernicus would've been more well-received if he published earlier, during more accomodating conditions under friendlier church leaders. This argument does have some hindsight bias.
 - Copernicus' protege, Rheticus, consulted a protestant friend named Andreus Osiander to review the work. Osiander offered to write a preface, in which he downplayed the impact of the work, insisting that readers treat it more as thought experiment rather than actual truth. Rheticus declined, but the preface somehow got into the final version anyway. Osiander's preface has both undermined the book's scientific value, while also further degrading copernicus' reputation with the church authorities, all within the unfolding drama of Reformation and Counter-Reformation.
 - Galileo's trial was an issue of the Church imposing both theological and philosophical authority over the field of sciences. It was less about what his work actually says, but about who decides its merits. It does make me feel bad for Galileo, as he seem to have been a good Catholic until the end.
+
+#+begin_quote
+  /The real victim was not religion or even Catholicism but history, with the complex, colourful, ambiguous and hopelessly entangled histories of science and religion reduced to a single narrative of uniform conflict./
+#+end_quote
+
+#+begin_quote
+  /Nobody found or lost God on account of relativity or quantum theory. For all that the new physics adjusted the foundations of reality, few imagined that it brought the religious house down, if only because there was no longer one built above it. Newton had famously claimed that he had had his eye on how his system might work ‘with considering men for the belief of a Deity’, but after the work of Laplace and the fall of Paley, no one based their religion on Newtonian physics. And that meant that when physics was remodelled in the early twentieth century, there were no religious beliefs or doctrines built on it that could come crashing down./
+#+end_quote
 
 
 
@@ -2445,8 +2467,7 @@ there could be no genuine reconciliation without truth./
 - As per the author's suggestion, I first read the chapters on empiricism (chapter 2) and poststructuralism (chapter 11) before proceeding to the normal order.
 
 #+begin_quote
-  /For Marx, the rest of society – the superstructure of political institutions and legal systems – were derived from the forces and relations of production. In other words, he did not ascribe an independent existence to the realm of human consciousness and ideas, but perceived these as arising out of our material c
-existence and the relationships of production./
+  /For Marx, the rest of society – the superstructure of political institutions and legal systems – were derived from the forces and relations of production. In other words, he did not ascribe an independent existence to the realm of human consciousness and ideas, but perceived these as arising out of our material existence and the relationships of production./
 #+end_quote
 
 - This quote is from an essay by Christopher Hill:
