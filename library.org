@@ -2445,7 +2445,8 @@ there could be no genuine reconciliation without truth./
 - As per the author's suggestion, I first read the chapters on empiricism (chapter 2) and poststructuralism (chapter 11) before proceeding to the normal order.
 
 #+begin_quote
-  /For Marx, the rest of society – the superstructure of political institutions and legal systems – were derived from the forces and relations of production. In other words, he did not ascribe an independent existence to the realm of human consciousness and ideas, but perceived these as arising out of our material existence and the relationships of production./
+  /For Marx, the rest of society – the superstructure of political institutions and legal systems – were derived from the forces and relations of production. In other words, he did not ascribe an independent existence to the realm of human consciousness and ideas, but perceived these as arising out of our material c
+existence and the relationships of production./
 #+end_quote
 
 - This quote is from an essay by Christopher Hill:
@@ -3354,6 +3355,93 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Advice for idiots. But whoever is too stupid to understand astronomical science, or too weak to believe Copernicus without [it] affecting his faith, I would advise him that, having dismissed astronomical studies, and having damned whatever philosophical studies he pleases, he mind his own business and betake himself home to scratch in his own dirt patch./
+#+end_quote
+
+#+begin_quote
+  /The work of Copernicus and Kepler made a case for a heliocentric solar system based on mathematical simplicity and coherence, not on its better agreement with observation./
+#+end_quote
+
+#+begin_quote
+  /Focal length is a length that characterizes the optical properties of a lens. For a convex lens, it is the distance behind the lens at which rays that enter the lens in parallel directions converge. For a concave lens that bends converging rays into parallel directions, the focal length is the distance behind the lens at which the rays would have converged if not for the lens. The focal length depends on the radius of curvature of the lens and on the ratio of the speeds of light in air and glass./
+#+end_quote
+
+- One crucial factor for Galileo's later plight is that he transferred professorship from Padua, administered by the Republic of Venice, to Florence. Venice has less papal interference than the rest of Italian peninsula, and being in Florence made Galileo more vulnerable to attack from the Church.
+
+#+begin_quote
+  /There are moments in history when a new technology opens up large possibilities for pure science. The improvement of vacuum pumps in the nineteenth century made possible experiments on electrical discharges in evacuated tubes that led to the discovery of the electron. The Ilford Corporation’s development of photographic emulsions allowed the discovery of a host of new elementary particles in the decade following World War II. The development of microwave radar during that war allowed microwaves to be used as a probe of atoms, providing a crucial test of quantum electrodynamics in 1947. And we should not forget the gnomon. But none of these new technologies led to scientific results as impressive as those that flowed from the telescope in the hands of Galileo./
+#+end_quote
+
+- Another crucial mistake Galileo committed was that he refuted a mathematical theory put forward by a Jesuit. Such theory also originates from Tycho Brahe. Galileo, ironically, is actually the one who got it wrong.
+
+#+begin_quote
+  /One new thing about experimentation in the seventeenth century was eagerness to make public use of its results in judging the validity of physical theories./
+#+end_quote
+
+- This above quote also supports one of the main theses of /Wootton's/ *The Invention of Science*, in the emergence of a public and communal undertaking of science as proof of a Scientific Revolution.
+
+#+begin_quote
+  /Not even Galileo’s experiments with inclined planes illustrate so well the new aggressive style of experimental physics as these experiments on air pressure. No longer were natural philosophers relying on nature to reveal its principles to casual observers. Instead Mother Nature was being treated as a devious adversary, whose secrets had to be wrested from her by the ingenious construction of artificial circumstances./
+#+end_quote
+
+- Author outright says he thinks Francis Bacon and Rene Descartes' contributions to modern science are overrated lol.
+
+#+begin_quote
+  /Progress depends on a blend of observation or experiment, which may suggest general principles, and of deductions from these principles that can be tested against new observations or experiments. The search for knowledge of practical value can serve as a corrective to uncontrolled speculation, but explaining the world has value in itself, whether or not it leads directly to anything useful./
+#+end_quote
+
+#+begin_quote
+  /Descartes’ greatest contribution was the invention of a new mathematical method, now known as analytic geometry, in which curves or surfaces are represented by equations that are satisfied by the coordinates of points on the curve or surface. “Coordinates” in general can be any numbers that give the location of a point, such as longitude, latitude, and altitude, but the particular kind known as “Cartesian coordinates” are the distances of the point from a center along a set of fixed perpendicular directions./
+#+end_quote
+
+#+begin_quote
+  /Descartes and Bacon are only two of the philosophers who over the centuries have tried to prescribe rules for scientific research. It never works. We learn how to do science, not by making rules about how to do science, but from the experience of doing science, driven by desire for the pleasure we get when our methods succeed in explaining something./
+#+end_quote
+
+#+begin_quote
+  /Newton was not a talented holdover from a magical past. Neither a magician nor an entirely modern scientist, he crossed the frontier between the natural philosophy of the past and what became modern science. Newton’s achievements, if not his outlook or personal behavior, provided the paradigm that all subsequent science has followed, as it became modern./
+#+end_quote
+
+#+begin_quote
+  /A flat piece of glass does not separate the colors, because although each color is bent by a slightly different angle on entering the glass, they are all bent back to their original direction on leaving it. Because the sides of a prism are not parallel, light rays of different color that are refracted differently on entering the glass reach the prism’s surface on leaving the prism at angles that are not equal to the angles of refraction on entering, so when these rays are bent back on leaving the prism the different colors are still separated by small angles./
+#+end_quote
+
+- Who invented calculus, Newton or Leibniz? The Royal Society concluded in favor of Newton.
+- However, as it turns out, the anonymous committee that decided it was stacked with Newton supporters. The final report was drafter by Newton himself. The anonymous review that supported the report was also written by Newton.
+- The concensus today is that both Newton and Leibniz invented calculus independently. The one result that did favor Leibniz is that it was him who coined the name calculus. 
+
+#+begin_quote
+  /The decision to go public is generally a critical element in the process of scientific discovery. It represents a judgment by the author that the work is correct and ready to be used by other scientists. For this reason, the credit for a scientific discovery today usually goes to the first to publish./
+#+end_quote
+
+#+begin_quote
+  /Physical theories are validated when they give us the ability to calculate enough things that are sufficiently simple to allow reliable calculations, even if we can’t calculate everything that we might want to calculate./
+#+end_quote
+
+#+begin_quote
+  /The Principia established the laws of motion and the principle of universal gravitation, but that understates its importance. Newton had given to the future a model of what a physical theory can be: a set of simple mathematical principles that precisely govern a vast range of different phenomena./
+#+end_quote
+
+#+begin_quote
+  /Natural philosophers on the Continent  hanging on to an old ideal for science, going back to the Hellenic age, that scientific theories should ultimately be founded solely on reason. We have learned to give this up. Even though our very successful theory of electrons and light can be deduced from the modern standard model of elementary particles, which may (we hope) in turn eventually be deduced from a deeper theory, however far we go we will never come to a foundation based on pure reason. Like me, most physicists today are resigned to the fact that we will always have to wonder why our deepest theories are not something different./
+#+end_quote
+
+#+begin_quote
+  /It is never safe simply to reject a theory that has as many impressive successes in accounting for observation as Newton’s had. Successful theories may work for reasons not understood by their creators, and they always turn out to be approximations to more successful theories, but they are never simply mistakes./
+#+end_quote
+
+- I like how the author just casually mentions that /he/ coined the term Standard Model for fundamental quantum physics.
+- Author goes into detailed defense of Newtonian physics, and argues that Einstein's general relativity, contrary to common perception, actually supports Newton's theory very well.
+
+#+begin_quote
+  /I cannot tell why it was Isaac Newton in late-seventeenth-century England who discovered the classical laws of motion and gravitation, I think I know why these laws took the form they did. It is, very simply, because to a very good approximation the world really does obey Newton’s laws./
+#+end_quote
+
+#+begin_quote
+  /Nothing like modern science was conceived as a goal in the ancient world or the medieval world. Indeed, even if our predecessors could have imagined science as it is today, they might not have liked it very much. Modern science is impersonal, without room for supernatural intervention or (outside the behavioral sciences) for human values; it has no sense of purpose; and it offers no hope for certainty./
+#+end_quote
+
+#+begin_quote
+  /The world acts on us like a teaching machine, reinforcing our good ideas with moments of satisfaction. After centuries we learn what kinds of understanding are possible, and how to find them. We learn not to worry about purpose, because such worries never lead to the sort of delight we seek. We learn to abandon the search for certainty, because the explanations that make us happy never are certain. We learn to do experiments, not worrying about the artificiality of our arrangements. We develop an aesthetic sense that gives us clues to what theories will work, and that adds to our pleasure when they do work. Our understandings accumulate. It is all unplanned and unpredictable, but it leads to reliable knowledge, and gives us joy along the way./
 #+end_quote
 
 
