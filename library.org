@@ -1420,6 +1420,68 @@
 
 
 
+* PARIS 1919
+** /Margaret MacMillan/
+
+#+begin_quote
+  /In diplomacy, as in life itself, one often learns more from failures than from successes. Triumphs will seem, in retrospect, to be foreordained, a series of brilliant actions and decisions that may in fact have been lucky or inadvertent, whereas failures illuminate paths and pitfalls to be avoided— in the parlance of modern bureaucrats, lessons learned./
+#+end_quote
+
+#+begin_quote
+  /Some of the most intractable problems of the modern world have roots in decisions made right after the end of the Great War. Among them one could list the four Balkan wars between 1991 and 1999; the crisis over Iraq (whose present borders resulted from Franco-British rivalries and casual mapmaking); the continuing quest of the Kurds for self-determination; disputes between Greece and Turkey; and the endless struggle between Arabs and Jews over land that each thought had been promised them./
+#+end_quote
+
+- The above quotes are from the Foreword, written by Richard Holbrooke.
+
+#+begin_quote
+  /For six months in 1919, Paris was the capital of the world. The Peace Conference was the world’s most important business, the peacemakers its most powerful people. They met day after day. They argued, debated, quarreled and made it up again. They created new countries and new organizations. They dined together  went to the theater together, and between January and June, Paris was at once the world’s government, its court of appeal and its parliament, the focus of its fears and hopes. Officially, the Peace Conference lasted into 1920, but those first six months are the ones that count,  the key decisions were taken and the crucial chains of events set in motion. The world has never seen anything quite like it and never will again./
+#+end_quote
+
+#+begin_quote
+  /For four years the most advanced nations in the world had poured out their men, their wealth, the fruits of their industry, science and technology, on a war that may have started by accident but was impossible to stop because the two sides were too evenly balanced. It was only in the summer of 1918, as Germany’s allies faltered and as the fresh American troops poured in, that the Allies finally gained the upper hand./
+#+end_quote
+
+- The Paris Conference was planned to start out with a preliminary phase, to draft the terms, then present them to the other parties for negotiation. Instead, the preliminary discussions dragged on and became "the real thing". The agreement presented to Germany was not a draft; it was the final treaty.
+
+#+begin_quote
+  /People said at the time, as they have ever since, that the peacemakers took too long and that they got it wrong. It has become a commonplace to say that the peace settlements of 1919 were a failure, that they led directly to the Second World War. That is to overestimate their power./
+#+end_quote
+
+#+begin_quote
+  /There were two realities in the world of 1919, and they did not always mesh. One was in Paris and the other was on the ground, where people were making their own decisions and fighting their own battles./
+#+end_quote
+
+#+begin_quote
+  /It is tempting to say that the United States lost an opportunity to bend Europe to its will before the competing ideologies of fascism and communism could take hold. That is to read back into the past what we know about American power after another great war. In 1945, the United States was a superpower and the European nations were much weakened. In 1919, however, the United States was not yet significantly stronger than the other powers. The Europeans could ignore its wishes, and they did./
+#+end_quote
+
+- When Wilson attended the Paris Conference, he became the first US president to visit Europe while in office.
+- Wilson was president of Princeton University, and transformed it into a prominent institution.
+
+#+begin_quote
+  /Wilson wanted power and he wanted to do great works. What brought the two sides of his character together was his ability, self-deception perhaps, to frame his decisions so that they became not merely necessary, but morally right./
+#+end_quote
+
+- Wilson liked to emphasize the concept of self-determination, but it was vague and ambiguous. He insisted on the principle as applied to Poland, but did little for Ireland.
+
+#+begin_quote
+  /American exceptionalism has always had two sides: the one eager to set the world to rights, the other ready to  its back with contempt if its message should be ignored./
+
+  /Faith in their own exceptionalism has sometimes led to a certain obtuseness on the part of Americans, a tendency to preach at other nations rather than listen to them, a tendency as well to assume that American motives are pure where those of others are not. And Wilson was very American./
+#+end_quote
+
+#+begin_quote
+  /It was easy to mock Wilson, and many did. It is also easy to forget how important his principles were in 1919 and how many people, and not just in the United States, wanted to believe in his great dream of a better world. They had, after all, a terrible reference point in the ruin left by the Great War. Wilson kept alive the hope that human society, despite the evidence, was getting better, that nations would one day live in harmony. In 1919, before disillusionment had set in, the world was more than ready to listen to him./
+#+end_quote
+
+- Neither Wilson nor Lloyd George wanted the post-war conference to be held in Paris; a neutral city would've generally been the first and best option. But Clemenceau insisted, and so the Paris Conference came to be.
+
+#+begin_quote
+  /People have often assumed that, because Lloyd George opposed the Boer War, he was not an imperialist. This is not quite true. In fact, he had always taken great pride in the empire, but he had never thought it was being run properly. It was folly to try to manage everything from London and, he argued, an expensive folly at that.  would keep the empire strong was to allow as much local self-government as possible and to have an imperial policy only on the important issues, such as defense and a common foreign policy./
+#+end_quote
+
+
+
 * RUSSIA'S WAR
 ** /Richard Overy/
 
