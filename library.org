@@ -10,6 +10,15 @@
 
 
 
+* CHANGELOG
+- Only latest changes here, mainly for reference purposes
+- Updated:
+  - Cataclysm
+  - Paris 1919
+- Fixed typos and formatting
+
+
+
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
 
@@ -464,7 +473,7 @@
 
 - Although it can be argued that the Allies would've used lethal gases anyway, it was Germany that initiated its use, and therefore were the unfortunate ones to be leveld with war crime charges for it.
 - Aerial warfare was still in its infancy in the First World War, and hardly helped either side. The British enjoyed massive air superiority in Somme, but it proved barely useful for them.
-- Aircrafts, however, proved more useful for mapping and surveillance. Aerial mapping was instrumental in producing more accurate battlefield maps, which translated to more accurate artillery firing.
+- However, aircrafts proved more useful for mapping and surveillance. Aerial mapping was instrumental in producing more accurate battlefield maps, which translated to more accurate artillery firing.
 
 #+begin_quote
   /Despite the vastly different operational circumstances outside Europe, Western Front tactical conditions still tended to develop wherever modern weapons and high force-to-space ratios coexisted./
@@ -482,7 +491,7 @@
   /Digging in reduced casualties between battles and slowed down the rate of attrition. Whether it saved lives over the war as a whole is debatable./
 #+end_quote
 
-- It was only in the recent decades that individual solider experiences, told through diaries and memoirs, received more spotlight in the study of First World War history.
+- It was only in the recent decades that individual soldier experiences, told through diaries and memoirs, received more spotlight in the study of First World War history.
 
 #+begin_quote
   /Post-traumatic stress disorder, to give its modern name to the condition labelled ‘shell shock’ in the English-speaking countries, had doubtless existed in earlier conflicts, but had not been diagnosed as such. It was exacerbated by the special conditions of static warfare in which soldiers endured repeated bombardments in confined spaces with little control over their fate, and lived day after day in close proximity to their comrades’ decomposing remains./
@@ -520,7 +529,7 @@
 #+end_quote
 
 - Officially, the Catholic Church under Pope Benedict XV maintained a neutral stance on the War. Realistically, many Catholics, including clergy, in all belligerent states supported their country's cause.
-- Censorship was widely employed by belligerent governments, both to suppress criticism and to dampen the extent of losses.
+- Censorship was widely employed by belligerent governments, both to suppress criticism and to hide the extent of losses.
 
 #+begin_quote
   /For the Irish, for women’s leaders, and for trade unionists the political truce of 1914 was a temporary measure, accepted without prejudice to their ultimate objectives. Once the war settled down to a stalemate, their loyalty might be expected to falter./
@@ -546,8 +555,8 @@
 #+end_quote
 
 - Though the convoy system adopted in 1917 was crucial in reducing shipping losses, it was not the sole factor that helped the Allies. While designed to deter U-boat attacks on merchant ships, the U-boats themselves were dealt with by sea mines, coupled with slower rate of production.
-- Petain's solution to the 1917 mutinies was a combination of accomodation to some of the soldiers' grievances, while also punishing some mutiny leaders as form of deterrence. Overall his strategy was successful, and the issue gradually died down within the year.
-- I'm only lightly touching this section for the year 1917, because the author also has a book specifically for that year of the War. I've read it before, I'll just reread it some other time.
+- Petain's solution to the 1917 mutinies was a combination of accomodation to some of the soldiers' grievances, and punishment for some mutiny leaders as form of deterrence. Overall his strategy was successful, and the issue gradually died down within the year.
+- I'm only lightly touching this section for the year 1917, because the author also has a book specifically for that year of the War. I've read it before, I'll just revisit it some other time.
 
 #+begin_quote
   /A Russian civil war was always likely after the Bolshevik Revolution, given Lenin’s incomplete control of the country and his contempt for his opponents. The Czech revolt both made it possible for the Allies to intervene and gave them a motive, as well as escalating the civil war to a bigger and more savage stage./
@@ -572,7 +581,6 @@
 #+begin_quote
   /Whereas the Austro-Hungarian revolutions had been led by pre-formed national committees, the German uprising surprised even the left-wing parties, resembling Russia’s February Revolution rather than that of October. It originated from a mutiny in the fleet, provoked by secret plans for a naval offensive, or Flottenvorstoss, against Britain. Once more a misjudged military initiative made Germany’s situation worse than if no action had been taken, and this time the damage was fatal./
 #+end_quote
-
 
 #+begin_quote
   /The pandemic was overshadowed by the war at the time as it has been since, perhaps because it was a natural calamity rather than a man-made one, perhaps because most of the dead were not in the west, and perhaps because the world had grown callous. November 1918 was a strange, sad time, another moment of mass hysteria but quite different from that of July 1914./
@@ -601,7 +609,7 @@
 - The more central concern for Japan was the issue of Shandong in China. The Japanese wanted to keep it, and convinced the Allies that they will negotiate its return to China in the future. Wilson dissented, but wanting to keep Tokyo in the conference, he ultimately acquiesced.
 
 #+begin_quote
-  /Although the Allies agreed to hold their Arab territories as League of Nations ‘A’ manpdates, which were supposed to be allocated in accordance with the population’s wishes, the report of the King–Crane Commission (composed of two Americans who sounded out local opinion) was disregarded. King and Crane advised  Syria should become a constitutional monarchy under Sharif Hussein’s son Faisal, with the United States or Britain as the mandatory power; and that Arab opinion opposed Jewish immigration into Palestine. Yet  ended up under French rule, and over the next two decades the  of Jews in Palestine multiplied by a factor of nine./
+  /Although the Allies agreed to hold their Arab territories as League of Nations ‘A’ mandates, which were supposed to be allocated in accordance with the population’s wishes, the report of the King–Crane Commission (composed of two Americans who sounded out local opinion) was disregarded. King and Crane advised that Syria should become a constitutional monarchy under Sharif Hussein’s son Faisal, with the United States or Britain as the mandatory power; and that Arab opinion opposed Jewish immigration into Palestine. Yet Syria ended up under French rule, and over the next two decades the number of Jews in Palestine multiplied by a factor of nine./
 #+end_quote
 
 #+begin_quote
@@ -630,7 +638,7 @@
 - The large amount of casualties left by the War necessitated a new form of welfare, one aimed at caring for the War veterans.
 - Radical left-wing movements arose immediately following the War, but beaten back by right-wing counteroffensives by early 1920s. In general, moderates partial to the status quo dominated the 1920s. However, right-wing politics also gradually became more intensified.
 - European economic growth was much slower in the interwar period than either before WW1 or after WW2. Part of this is because of surplus productions and financial volatility.
-- Despite the signs of economic recovery in the late 1920s, in general the economic issues caused by the war weren't resolved and merely alleviated.
+- Despite the signs of economic recovery in the late 1920s, in general the economic issues caused by the war weren't resolved and were merely slightly alleviated.
 - When the Great Depression arrived in Europe, it hit the continent very hard. This was further compounded by the countries' refusal to cooperate with each other due to lingering postwar animosity.
 
 #+begin_quote
@@ -640,20 +648,16 @@
 #+end_quote
 
 - Pacifism became more widepread in Britain and its territories, fueled by disillusionment from the War. Economic hardships also contributed to unwillingness to assert the terms of Versailles, and made appeasement an attractive policy until 1938.
-- The US also became more isolationist in the interwar period.
-- The retreat of Britain and the United States also affected France's disposition, which tried to forestall conflict by being lenient on the enforcement of Versailles treaty. All these combined precisely at the time when Hitler was rising, thus they were unable to stop him before Hitler achieved full control of Germany.
-- The prevalence of the "stab in the back" mindset also deterred opposition against Hitler, further strengthening his base.
+- As the 1920s progressed, American opinion of the War veered towards disillusionment and abhorrence. The conflict was seen as unnecessary, and isolationism as foreign policy gained traction. It even became commonplace to blame bankers and arms manufacturers for the US entry into the War.
+- The retreat of Britain and the United States also affected France's disposition, which tried to forestall conflict by being lenient on the enforcement of Versailles treaty.
+- All these combined precisely at the time when Hitler was rising, thus they were unable to stop him in gaining full control of Germany. The prevalence of the "stab in the back" mindset also deterred opposition against Hitler, further strengthening his base.
 - After the Second World War, its memory and lessons supplanted those of the First. The 1914-1918 conflict became less significant, and when drawing lessons to past conflicts, future leaders and policymakers went as far back as the interwar period but rarely delved in the First World War.
-
-#+begin_quote
-  /During the Second World War and – more surprisingly – for a decade afterwards, little of note was published about its predecessor. Even among academic historians, the First World War seemed overshadowed and neglected. Only from around 1960 did a second wave of work begin, which arguably has maintained its momentum ever since./
-#+end_quote
 
 #+begin_quote
   /After 1945 most West German historians still denied Berlin’s primary responsibility in 1914, blaming systemic factors and asserting that none of the powers had wanted war./
 #+end_quote
 
-- Fritz Fischer's work on the origins and war aims of Germany fully blamed the country for initiating the First World War. It continues to spark debates to this day.
+- Fritz Fischer's work on the origins and war aims of Germany fully blamed the country for initiating the First World War. The work continues to spark debates to this day.
 
 #+begin_quote
   /Even though his first book has better withstood criticism, it overstated the unanimity within the Berlin elite and understated the resemblances between Germany’s war aims and those of the Allies. None the less, most German historians came round to its more nuanced assessment of Germany’s role in the July crisis, and (despite some important qualifications by subsequent writers) much of its analysis of the scope of German wartime ambitions has survived unchallenged./
@@ -665,11 +669,11 @@
 
 - Author notes that while most facets of the First World War have been receiving steady attention in the recent decades, there's still much unexplored regarding its economic history.
 - One good reason for recommending this book as overview for WW1 is the discussion of the War's historiography, in the conclusion section. It helps contextualize the discussions that have developed since, and also shaped this book's role as a more modern synthesis of the subject.
-- Granted, this book was for 2004, so it's not the most recent available (as of 2025). But I do think it's still a really solid overview even now.
+- Granted, this book was from 2004, so it's not the most recent available (as of 2025). There's also been so much newer works about the First World War in general during its centennial period (2014-2018). I do think it's still a really solid overview, though not the first one I would recommend to a general reader (my first recommendation would be *A World Undone* by /GJ Meyer/).
 - Author notes three takeaways from the cultural turn of WW1 historiography:
   - WW1 as mark of the rise of modernism;
-  - shift in language and method of remembrance through the subsequemt decades;
-  - individual soldiers' perspectives on the War, like their experience during and after the conflict.
+  - shift in language and method of remembrance through the subsequent decades;
+  - greater incorporation of individual soldiers' perspectives on the War, like their experience during and after the conflict.
 
 #+begin_quote
   /To an extent, as the inter-war revisionists argued, the war was indeed the child of fear and insecurity, born of an international system based on armed and sovereign states, in which the developing nineteenth-century forces of democratization and economic integration failed to eclipse the balance of power system. All the European powers contributed to the growth of tension in the pre-1914 decade. None the less, the fundamental contention of the Versailles ‘war-guilt’ article was justified, and the work of writers such as Albertini and Fischer has confirmed it. The rulers of Austria–Hungary and Germany did not predetermine before 1914 their decision to resort to force, but in the July–August crisis they made a decision to start a Balkan war and to accept the risk that it would escalate into a European one. Certainly both governments felt threatened, but for neither was this much of a mitigating circumstance./
@@ -1478,6 +1482,54 @@
 
 #+begin_quote
   /People have often assumed that, because Lloyd George opposed the Boer War, he was not an imperialist. This is not quite true. In fact, he had always taken great pride in the empire, but he had never thought it was being run properly. It was folly to try to manage everything from London and, he argued, an expensive folly at that.  would keep the empire strong was to allow as much local self-government as possible and to have an imperial policy only on the important issues, such as defense and a common foreign policy./
+#+end_quote
+
+#+begin_quote
+  /Recognition in Paris, the center of world power, was important for established states, and crucial for what the peacemakers christened “states in process of formation.” With the collapse of Russia, and the disintegration of Austria-Hungary and the Ottoman empire, there were many of these. Just standing in front of the Supreme Council to present a case was validation of a sort—and good for reputations back home./
+#+end_quote
+
+- Herbert Hoover was put in charge of Allied relief administration, tasked with managing food and aid distribution across war-torn Europe.
+- When the Paris Conference started, Russia had no representatives. The country, now ruled by the Bolsheviks, is in disarray, and the rest of the Allies only have scant and sporadic rumor-filled information abotu what's happening in Russia.
+- Clemenceau's view is that Russia under Lenin has betrayed the Allies by signing Brest-Litovsk.
+- By the time the Conference started, the Allies already have troops on Russia to fend off the Bolsheviks' extreme methods. They are also providing aid to anti-Bolshevik Russian forces.
+
+#+begin_quote
+  /The survivors of the Great War were weary and anxious. Apparently solid structures, empires, their civil services and their armies, had melted away and in many parts of Europe it was not clear what was to take their place. Europe had been a place of unsatisfied longings before the war—of socialists hoping for a better world, of labor for better conditions, of nationalists for their own homes—and those longings emerged again with greater force because in the fluid world of 1919 it was possible to dream of great change—or have nightmares about the collapse of order./
+#+end_quote
+
+#+begin_quote
+  /Churchill, Britain’s secretary of state for war during the Peace Conference, was one of the few to grasp that Lenin’s Bolshevism was something new on the political scene, that beneath the Marxist rhetoric was a highly disciplined, highly centralized party grasping at every lever of power it could secure. Motivated by the distant goal of a perfect world, it did not care what methods it used./
+
+  /Lenin and his colleagues were prepared to destroy whatever stood in the way of that vision, whether the institutions of Russian society or the Russians themselves./
+#+end_quote
+
+#+begin_quote
+  /Throughout the Peace Conference, Allied policy toward Russia remained inconsistent and incoherent, not firm enough to overthrow the Bolsheviks but sufficiently hostile to convince them, with unfortunate consequences, that the Western powers were their implacable enemies./
+#+end_quote
+
+- Multiple times the Allies tried to make peace with the Soviet regime, but met with opposition from other Allies and also from anti-Soviet Russians. The Conference ended with simply broad and vague recommendations on future agreements with Russia.
+
+#+begin_quote
+  /It is hard today to imagine that such a project could have been taken seriously. Only a handful of eccentric historians still bother to study the League of Nations. Its archives, with their wealth of materials, are largely unvisited. Its very name evokes images of earnest bureaucrats, fuzzy liberal supporters, futile resolutions, unproductive fact-finding missions and, above all, failure: Manchuria in 1931, Ethiopia in 1935 and, most catastrophic of all, the outbreak of the Second World War a mere twenty years after the first one had ended./
+#+end_quote
+
+- The "best" legacy of the League of Nations is its form as an experiment. It failed, but it was through the failure that the much stronger United Nations rose from.
+- Part of Wilson's idealism is his belief that the League would grow to be a dynamic and healthy platform for mutual respect and communication among nations, whatever their differences may be. This is also why he left much of his design for the League vague and ambiguous.
+- This, however, became part of its problem, as there were much confusion as to what role it should take and what methods it should utilize in resolving disputes and enforcing international rules.
+- Lord Robert Cecil and General Jan Smuts both saw the benefit of the League in protecting the British Empire, so they eagerly helped out in ironing its specifics. Wilson liked both men, so he agreed to their assistance.
+- French proposal to set up a League army and enforce mandatory arbitration was turned down by both US and Britain. They saw it as French excuse to further pin down Germany. The US also didn't want to be dictated upon on issues of foreign intervention.
+- Another major failing of the League was, because of Great Power fears of being overriden by the "lesser" nations, they insisted on unanimity on certain situations. This significantly crippled the League's powers to enforce its terms.
+- Mandates were proposed as a way to manage territories without directly colonizing or annexing them. Either European powers or the League itself can take charge of administering a mandate, until such time that its natives are able to govern themselves.
+- Yugoslavia was already in existence when the Paris Conference began. The delegation is composed of the various nationalities in the newly created state, headed by Serbia's former prime minister, Nicola Pašić.
+
+#+begin_quote
+  /To all the Balkan nations, the disappearance of Austria-Hungary was as exhilarating an opportunity as the defeats of the Ottoman empire before the war. Each wanted as much as it could get: self-determination for itself but not for its neighbors. Already during that confused period in October 1918 when Austria-Hungary sued for peace and then vanished from history, Balkan governments had started to stake out possession, moving their armies in. New bodies popped up like mushrooms after a storm: workers’ councils, soldiers’ councils, councils of Croats, Macedonians, Greeks. It was not clear who was behind them, but there seemed no end to them and no limit to their demands./
+#+end_quote
+
+#+begin_quote
+  /Unfortunately, the truth about populations in the Balkans was not easily discovered. The practice of defining oneself by nationality was so new that many inhabitants of the Balkans still thought of themselves primarily in terms of their region or clan or, as they had done under the Turks, of their religion./
+
+  /On the population maps of the Balkans the patterns were rather pretty, a pointillist scattering of colors and an occasional bold blob. On the ground it was less pretty, a stew of suspicions and hatreds bubbling away./
 #+end_quote
 
 
