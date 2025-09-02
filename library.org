@@ -11,13 +11,13 @@
 
 
 * CHANGELOG
-- Only latest changes here, mainly for reference purposes
-- Updated:
+- Only latest changes here, for easier tracking.
+- Updated
+  - An Essay on the Development of Christian Doctrine
   - Cataclysm
   - Paris 1919
-- Fixed typos and formatting
 
-
+    
 
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
@@ -310,9 +310,12 @@
 * AN ESSAY ON THE DEVELOPMENT OF CHRISTIAN DOCTRINE
 ** /St. John Henry Newman/
 
+#+begin_quote
+  /History is not a creed or a catechism; it gives lessons rather than rules; it does not bring out clearly upon the canvass the details which were familiar to the ten thousand minds of whose combined movements and fortunes it treats./
+#+end_quote
+
 - An important note for this book: I read this years ago, with a copy I got from Kindle store. Now in 2025, I am revisiting it with an ebook copy from a different source.
 - Newman's work has received modifications throughout its multiple editions. This is relevant here because the first copy I read is the second edition, and my current copy is the sixth edition.
-- To this note, there will be a mix here of quotes from my older edition, and from the newer one I'm currently perusing.
 - The often-quoted passage from this book, especially among the Catholic audience is:
 
 #+begin_quote
@@ -320,10 +323,7 @@
 #+end_quote
 
 - This quote is from the sixth edition I'm currently reading. My first copy /did not/ have this passage.
-  
-#+begin_quote
-  /History is not a creed or a catechism; it gives lessons rather than rules; it does not bring out clearly upon the canvass the details which were familiar to the ten thousand minds of whose combined movements and fortunes it treats./
-#+end_quote
+- As I am now revisiting the book using the sixth edition, this is where my quotes will be lifted from. Except one: the very first quote in this book entry. That one is from the second edition, and I intend to keep that version here.
 
 
 
@@ -456,6 +456,12 @@
 - Japan's entry to the war is fueled by both desire to dominate China and to gain international recognition as equals with the Western Powers. They had little to lose for joining, and more to gain especially if their side wins. Finally, Japan is uniquely distant from the main theaters of war, so they are relatively insulated from its worse effects while enjoying the advantage of expanding their sphere of influence with minimal European intervention.
 - Armenians were conscripted by both Russian and Ottoman Armies to their side. The Ottoman government did not like that Armenians in Russian territory refused to rebel against Russia. The policy of retribution and eventually genocide spread throughout 1915, and Ottomans justified it as reponse against rebellion and disloyalty.
 - Incompatibility and scale of each side's war aims is not enough to explain the failure of diplomacy in ending the War. The war aims of the First World War were much more modest than those of the Second World War.
+
+#+begin_quote
+  /War aims were necessarily hypothetical and transitory sets of options. Few entailed unconditional commitments. The peace terms governments envisaged varied with their military and diplomatic prospects, as well as with their appraisal of domestic opinion. Ultimately their objectives were products of the fear and insecurity that had haunted the great powers before the July crisis and that developments since had intensified, though they were also characteristic expressions of European nationalism and imperialism./
+#+end_quote
+
+- The stalemate persisted because the Allies refused to make separate peace, while also having their own war aims that they expect would be realized only through victory and postwar settlement.
 
 #+begin_quote
   /If war aims determined what the fighting was for, strategy decided where and when it happened. Yet governments oversaw the commanders’ key decisions, and the basic strategic choices made in the war were as much political as technical. Moreover (and this is often overlooked), the two sides’ strategies interacted, each reflecting an appraisal of the other’s intentions. Both the Allies and the Central Powers committed themselves to mounting levels of violence, culminating in the massive Western and Eastern Front battles of 1916. And when these battles failed to bring decisive results, both approached strategic bankruptcy. Once again the underlying themes here are therefore stalemate and escalation./
@@ -1530,6 +1536,48 @@
   /Unfortunately, the truth about populations in the Balkans was not easily discovered. The practice of defining oneself by nationality was so new that many inhabitants of the Balkans still thought of themselves primarily in terms of their region or clan or, as they had done under the Turks, of their religion./
 
   /On the population maps of the Balkans the patterns were rather pretty, a pointillist scattering of colors and an occasional bold blob. On the ground it was less pretty, a stew of suspicions and hatreds bubbling away./
+#+end_quote
+
+- Rumania came into the war when they thought the situation fortuitous, in 1916 as the Allies were gaining ground. But once the situation reversed, Rumania ended up being overrun by the Central Powers.
+- In 1918, Rumania struck a deal with the Central Powers and dropped out of the conflict, much to the Allies' annoyance. Funny enough, to make sure they can keep the deals made with the Allies, Rumania again declared war on Germany a day before the armistice was signed.
+
+#+begin_quote
+  /In the gilt and tapestries of the banqueting room at the Quai d’Orsay, the Rumanian commission got out the maps, read the submissions, heard the witnesses and tried to impose a rational order on an irrational world./
+#+end_quote
+
+#+begin_quote
+  /Of all the victors at the Peace Conference, Rumania made by far the greatest gains, doubling in population and in size. Moreover, it has, unusually, managed to hang on to most of its gains. Bessarabia, it is true, went back to the Soviet Union after the Second World War. The Soviets also took about half of the Bukovina in the north, and the Bulgarians took back part of the disputed Dobrudja in the south. But Rumania still holds its greatest gain: Transylvania./
+#+end_quote
+
+- Disarmament of German Army was considered paramount to lasting peace. But the delegates couldn't agree on the specifics. Ferdinand Foch was tasked to provide recommendations. But both Lloyd George and Clemenceau didn't trust Foch enough and ended up compromising on the disarmament.
+- France insisted on securing the Rhineland, with internal disagreements on the form and method. Wilson wanted the issue to be resolved by the League and not unilaterally by the French.
+- Ultimately, the terms for German disarmament were approved, after being used as bargaining chip with Wilson in exchange for the League's covenant. Germany was to be left with an army that's marginally more miltiaraized than a police force.
+
+#+begin_quote
+  /Although historians are increasingly coming to the conclusion that the burden was never as great as Germany and its sympathizers claimed, reparations remain the preeminent symbol of the peace made in Paris.3 While most of the 440 clauses of the Treaty of Versailles have long been forgotten, the handful dealing with reparations stand, in what is still the received view, as evidence of a vindictive, shortsighted and poisonous document./
+#+end_quote
+
+#+begin_quote
+  /The peacemakers appalled Keynes. They fretted about revenge while European civilization tottered on the brink of collapse./
+#+end_quote
+
+#+begin_quote
+  /It is easy with hindsight to say that the victors should have been less concerned with making Germany pay and should have concentrated more on getting Europe going again. But after a war that had brought destruction on such a scale and shaken European society so deeply, how could political leaders speak of forgetting? In any case, public opinion would simply not allow them to do so./
+#+end_quote
+
+#+begin_quote
+  /In the defeated Germany of 1919, conservatives protested loudly against any attempts to raise taxes or to default on government bonds, while the left pushed for benefits for veterans and widows and orphans, subsidized food and increased wages. The government meekly acquiesced to both, and Germany’s deficit climbed until, by 1921,  amounted to two thirds of the budget. There was little incentive to cut expenditures or raise taxes merely to pay reparations./
+#+end_quote
+
+- Article 231 established the culpability of Germany and its allies for initiating the war. This is the infamous "war guilt clause."
+- Article 232 acknowledged Germany's limited capacity to pay reparations, and delineated the damages that would be paid for.
+- One of the legal counsel in charge for the war reparations section in John Foster Dulles, future State Secretary to Eisenhower and instrumental to US Cold War foreign policy.
+- The issue of Saar was settled with French advantage; they kept ownership of the lucrative coal mines, and the region was placed under League supervision. The French also kept possession of the primary bridgeheads, to be evacuated gradually throughout a 15-year period.
+
+#+begin_quote
+  /The rebirth of poland was one of the great stories of the Paris Peace Conference. It was also a source of endless difficulties. The commission on the borders of the new Poland had more meetings than any other at the conference./
+
+  /The peacemakers were reaching out hundreds of miles from Paris to impose order on a protean world of shifting allegiances, civil wars, refugees and bandit gangs, where the collapse of old empires had left law and order, trade and communications in shreds./
 #+end_quote
 
 
