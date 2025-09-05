@@ -13,11 +13,9 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
-  - An Essay on the Development of Christian Doctrine
-  - Cataclysm
   - Paris 1919
 
-    
+
 
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
@@ -635,7 +633,7 @@
 #+end_quote
 
 - Germany's inability to pay war reparations after 1921 led to France occupying the Ruhr mines in 1923. This in turn caused greater financial strain for the Weimar Republic, which ran into hyperinflation.
-- In the US, hundreds of thousands of Black population resettled from the south to the north. Race-related violence spread throughout the country, with the KKK being re-restablished on a national scale. Wilson did not do enough to help out the Blacks.
+- In the US, hundreds of thousands of Black population resettled from the south to the north. Race-related violence spread throughout the country, with the KKK being re-established on a national scale. Wilson did not do enough to help out the Blacks.
 
 #+begin_quote
   /The establishment of a pervasive cult of war commemoration had the potential to act as a conservative, patriotic, integrative force, and governments deliberately encouraged it with this intention. The phenomenon of ‘remembrance’ was one of the most striking novelties of the decade, and it carried a special emotional charge because of the conflict’s human balance sheet./
@@ -1578,6 +1576,119 @@
   /The rebirth of poland was one of the great stories of the Paris Peace Conference. It was also a source of endless difficulties. The commission on the borders of the new Poland had more meetings than any other at the conference./
 
   /The peacemakers were reaching out hundreds of miles from Paris to impose order on a protean world of shifting allegiances, civil wars, refugees and bandit gangs, where the collapse of old empires had left law and order, trade and communications in shreds./
+#+end_quote
+
+- Unlike with the rest of Eastern Europe, Czechoslovakia got off relatively easy and breezed through its territorial issues. Some factors that aided them include: declaration of sovereignty prior to the war's end; good relations with the Allies; their willing role as buffer against Bolshevism; relative lack of infighting, and good relatations between the Czech and Slovakian sides; among others.
+- Even long before 1914, unity within the Austro-Hungarian empire has always been unsteady and tenuous. Franz Joseph did his best to keep things intact, but beneath the surface, nationalist movements sprang up and gained traction.
+
+#+begin_quote
+  /In the last years of the peace, Austria-Hungary went from one political and constitutional crisis to the next. The Great War simply gave the final blow./
+#+end_quote
+
+#+begin_quote
+  /Although Austria-Hungary bore as much responsibility as Germany for the fatal series of events that led to the outbreak of war in 1914, by 1918 even its enemies saw it as very much the junior partner, dragged along by and increasingly subordinate to an expansionist Germany hell-bent on the conquest of Europe./
+#+end_quote
+
+#+begin_quote
+  /The Allies had also decided that Austria would not be allowed to join up with Germany. This was not something they had anticipated having to do. They had not after all expected that there would be an Austria at all. Nor had the German-speaking Austrians, apart from a handful of right-wing nationalists, shown much inclination to join Germany. They were after all the dominant group in a great empire./
+
+  /Unlike Czechs or Poles or Slovenes, German-speakers had never developed such a community. Who would need them when, as looked increasingly likely, there were no more emperors? How would they live among a Slavic majority? The German-Austrians faced a bleak future, whether or not Austria-Hungary survived, and it was out of that pessimism that the demand for Anschluss with Germany burgeoned./
+#+end_quote
+
+- Austria got off with relatively tame terms, compared with Germany and even Hungary. Austria even gained a small strip of land. The Allies were more lenient towards Austria, and brought the burden more towards Hungary.
+
+#+begin_quote
+  /Austria’s first experience with independence was not happy. In the 1920s its economy staggered from crisis to crisis, tided over by parsimonious loans from the powers. Even before the Depression unemployment ran at well over 10 percent a year. In March 1938, when Hitler, with the connivance of the Austrian Nazis, moved in, Austrians, if they were not Jewish or communist, greeted Anschluss with relief. Hitler made a triumphal march from his birthplace just over the Austrian border to Vienna as ecstatic crowds cheered and threw flowers. Even rational men such as Renner were briefly swept up. In 1945 a chastened Austria regained its separate existence and an old Renner became its president. There has been little talk of Anschluss since./
+#+end_quote
+
+- In a way, Hungary's fall into Bolshevism was partly caused by insufficient aid from the Allies. This is also exacerbated by how much more aid Austria got in comparison.
+- Bela Kun's communist Hungary survived for only a few months, before being overrun by Rumanians. Other neighbors like Czechoslovakia and Poland also helped themselves.
+
+#+begin_quote
+  /Of all the Allies, Belgium had suffered the greatest material losses at Germany’s hands. Except for a tiny scrap extending inland from the coast toward Ypres, the country had been completely occupied during the war. While much of the Allied propaganda about German behavior in Belgium was false, not all of it was. Germany had brutally and efficiently stripped the country bare./
+#+end_quote
+
+- Throughout the Paris Conference, one major shortcoming that would negatively affect many of the states included in the Treaty is that the Council of Four is almost always preoccupied with bigger issues. Smaller states with "smaller" issues are constantly pushed to the side.
+- Italy insisted on getting the terms agreed upon in the secret Treaty of London in 1915. Wilson rejected the secret treaty, while also denying to have seen the document (he did). Even worse for the Conference, Italy also insisted on territories not included in the secret treaty, which further strained relations with Wilson.
+- The issue on Fiume became a rallying cry for various factions within Italy, most of all the fascists. They were lead by Gabriele D'Annunzio.
+- In the wake of the fall of Orlando government over Italy's failure to secure their terms in Versailles, D'Annunzio took amtters to his own hands and with his followers marched to successfully seize control of Fiume. It was this triumphant march that later inspired one of his followers, Benito Mussolini, to do the same in 1922, this time to seize power in Rome itself.
+
+#+begin_quote
+  /Westerners dealing with Japan tended to fall back on stereotypes about the mysterious East. So much about Japan was curious, including its status in the world. Was it a major power or not? And was it entitled to have the same number of delegates as the other Great Powers? There were arguments both ways./
+#+end_quote
+
+#+begin_quote
+  /In 1868 reforming nobles seized power from the old Tokugawa regime in the name of an old schoolmate  Saionji, now the Meiji emperor. Saionji fought on their side in the brief civil war that followed. In 1868 reforming nobles seized power from the old Tokugawa regime in the name of an old schoolmate of Saionji, now the Meiji emperor. Saionji fought on their side in the brief civil war that followed./
+
+  /The Meiji Restoration (the misleading name given to the coup) saw the start of an extraordinary national effort as young Japanese were shipped abroad by the hundreds to study and Western experts were paid handsomely to come to Japan so that their brains could be picked./
+
+  /Japan chose Britain as a model for its navy, Prussia for its army and its constitution, the United States for its banking system and the world at large for its economy./
+#+end_quote
+
+- Despite Japan's rapid rise in power and economy in the decades after the Meiji Restoration, the empire still felt doubtful and insecure about its reputation abroad. The Japanese hoped to be viewed as equals by the Great Powers, but it didn't happen.
+
+#+begin_quote
+  /Shortly before the war’s end a Japanese journal asked leading figures what, in their opinion, Japan should get out of the war. The answers showed a considerable pessimism about Japan’ international position and about the designs of Britain and the United States in Asia. The fears of an anti-Japan coalition of white powers were not as fanciful as they seemed. By the end of the war even responsible  leaders had reluctantly come to the conclusion that there might have to be a showdown one day./
+
+  /Japan’s dilemma, which was to become more acute by the 1930s, was whether to trust the white powers, work with them in strengthening the international order, or assume that it had better look out for itself./
+#+end_quote
+
+- Even prior to 1914, relations between Japan and the United States have been rather uneasy. The Japanese were being treated unequally in the US. Both countries have also been building up military power in the Pacific region.
+- Japan proposed a racial equality clause in the Treaty, which became a point of contention as it would be a major issue for the Great Powers and their relation towards their colonial subjects.
+- The racial equality clause actually won the vote among the delegates, but Wilson unilaterally rejected it, so it ultimately didn't make it to the final treaty.
+- The defeat of the equality clause adversely affected the liberal voices in Japan, and further strengthened the nationalistic and militaristic factions. This paved way to the rise of aggressive militarization in the 1930s, culminating in Japan joining the Axis powers in World War 2.
+
+#+begin_quote
+  /For all the bluster with which the kaiser had demanded concessions in Shantung, the German government showed considerable tact in the years before 1914 in dealing with the Chinese authorities. It allowed Chinese troops to guard its railway line and mines when it could have insisted on its own soldiers; it gave up the right to build other lines; and it let Tsingtao become part of the Chinese customs system rather than keeping it as a free port. The result was that by 1914 German concessions were much more limited than they had been under the agreement of 1898 and Sino-German relations were relatively amicable./
+#+end_quote
+
+- Japan came to the Allies' aid in the First World War, by expelling the Germans from Shantung. The Japanese used this opportunity to further intensify their control within China.
+- In 1915, Japan tried to exact greater concessions from the Chinese government, but failed due to American objections. From then on, US and Japan would occasionally have diplomatic quarrels over China and the rest of the Pacific, and would be a factor for their disposition toward each other until WW2.
+- Japan's desire for control of Shantung was reluctantly affirmed in the Paris Conference. The Council of Four didn't want the Japanese to reject the treaty over the non-inclusion of racial equality clause, so they had to compromise on the issue of Shantung.
+- The protests in China that followed, especially the one on 4th  of May 1919, plunged the countrry further into chaos and infighting. In its midst, a nationalistic and anti-Western people found refuge in the promise of communism, as brough in from their neighbor Russia.
+- Despite their victory in securing Shantung, Japan nonetheless came to be seen in more negative light by the Western powers.
+- Even in America, the surrender of Shantung to the Japanese proved unpopular. Some members of the American delegation even resigned in protest.
+
+#+begin_quote
+  /Venizelos was Greece’s greatest asset and, in the long run, its greatest liability. Without him Greece would never have won what it did at the conference table; without him it would not have tried to swallow so much of Asia Minor.
+#+end_quote
+
+#+begin_quote
+  /For all the talk of ancient Greece, the country at the Peace Conference was new and shaky. As in the dreams of the other Balkan countries, the glories of the past compensated for the imperfections of the present./
+#+end_quote
+
+#+begin_quote
+  /If Greece was golden, Turkey was shrouded in darker memories: a tangle of ferocious riders from Central Asia; the crescent flags waving outside Vienna; the massacres of the Bulgarians in the 1870s and, much more recently, of thousands of Armenians. Its sultan was the heir to the great and ruthless warlords who had made Europe tremble. (In fact, he was a shambling middle-aged man with rheumatism.) One of the Allied nightmares during the recent war had been that the sultan, who as caliph was the spiritual leader of Muslims all over the world, would call on all those millions to fight against Britain in India, or France in North Africa. Ottoman Turkey stood for Islam against Christianity, and now there was a chance to win a victory in that centuries-long clash of civilizations./
+#+end_quote
+
+- The big mistake with Greek demands in the Conference, which would only present its undoing years later, is that the proposed country stretched out way too much. It covered some territories that caused disputes with its neighbors, though Greece would still come out with big gains through the treaty.
+- When the Ottoman Empire, now ruled by a caretaker government, sent our peace feelers towards the final weeks of the War, they reached out to Britain. So it was the British who set up the negotiations, and the French, being sidelined, protested.
+- The British insisted on full disarmament of the Ottoman military, and British control of the government. This angered Turkish nationalists, foremost of whom is Mustafa Kemal.
+
+#+begin_quote
+  /France had considerable interests in the Ottoman empire, from the protection of fellow Christians to the extensive French investments. For France, though, what happened to the Ottoman empire or in the Balkans was much less important than dealing with Germany. Clemenceau, whatever his colonial lobby thought, would compromise with Britain because he needed its support in Europe. While he did not want to see the Asian part of Turkey disappear completely, Clemenceau did not, at least initially, have strong views about Greek claims there./
+#+end_quote
+
+- The fate of Armenia was also discussed in the Conference. Initially there were speculations and plans for an American mandate, which the Armenians themselves also hoped for. But nothing came of it.
+
+#+begin_quote
+  /Many other schemes for the Ottoman empire were floating around the conference rooms and dinner tables in Paris that spring./
+
+  /If all the claims, protectorates, independent states and mandates that were discussed actually had come into existence, a very odd little Turkey in the interior of Anatolia would have been left, with no straits, no Mediterranean coast, a truncated Black Sea coast, and no Armenian or Kurdish territories in the northeast./
+#+end_quote
+
+#+begin_quote
+  /Like so many of the other deals that haunted the Peace Conference as unwelcome guests, Sykes-Picot was made in the midst of the war, when promises were cheap and the prospect of defeat very real./
+#+end_quote
+
+- Control of Middle East's oil resources also became a contentious factor in the region's partitioning. In particular, Mosul was one region that the British made sure will fall under their control.
+
+#+begin_quote
+  /At the San Remo Conference in April 1920, where the terms of the treaty with the Ottoman empire were approved, the British and French, their differences temporarily forgotten, awarded themselves mandates, the British for Palestine and Mesopotamia, the French for Syria. In theory these were not valid until they were confirmed by the League of Nations. Not surprisingly, a League dominated by Britain and France did this in 1922./
+#+end_quote
+
+#+begin_quote
+  /Britain and France paid a price for their role in the peace settlements in the Middle East. The French never completely pacified Syria, and it never paid for itself. The British pulled back in Iraq and Jordan as quickly as they could, but they found they were stuck with Palestine and an increasingly poisonous atmosphere between Arabs and Jews. The Arab world as a whole never forgot its betrayal and Arab hostility came to focus on the example of Western perfidy nearest at hand, the Zionist presence in Palestine. Arabs also remembered the brief hope of Arab unity at the end of the war. After 1945, those resentments and that hope continued to shape the Middle East./
 #+end_quote
 
 
