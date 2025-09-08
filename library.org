@@ -14,7 +14,9 @@
 - Only latest changes here, for easier tracking.
 - Updated
   - Paris 1919
-
+- New
+  - Seeing Further
+- Fixed typos and formatting
 
 
 * AMERICAN REVOLUTIONS
@@ -1691,6 +1693,67 @@
   /Britain and France paid a price for their role in the peace settlements in the Middle East. The French never completely pacified Syria, and it never paid for itself. The British pulled back in Iraq and Jordan as quickly as they could, but they found they were stuck with Palestine and an increasingly poisonous atmosphere between Arabs and Jews. The Arab world as a whole never forgot its betrayal and Arab hostility came to focus on the example of Western perfidy nearest at hand, the Zionist presence in Palestine. Arabs also remembered the brief hope of Arab unity at the end of the war. After 1945, those resentments and that hope continued to shape the Middle East./
 #+end_quote
 
+- The rise of nationalism was a double-edged sword for the Jews. On one hand, it has fueled the idea of Zionism and the desire for a Jewish homeland, creating a new thread of unity among the scattered Jewsih population.
+- On the other hand, nationalism also worked the same for other ethnic groups in Europe, and further intensified anti-semitism, which in turn also pushed the Jews even more towards Zionism.
+
+#+begin_quote
+  /The British, of course, had created their own dilemma by making promises during the war that they could not now fulfill. On the one hand they had supported a Jewish homeland on land largely inhabited by Arabs, and on the other they had encouraged the Arabs to revolt against their Ottoman rulers with the promise of Arab independence./
+#+end_quote
+
+#+begin_quote
+  /The fate of Palestine rested, as it had done for centuries, with outside powers and in 1919 that meant mainly Britain and France./
+#+end_quote
+
+- The existence of Jewish Palestine has galvanized opposition from the Palestinian Arabs, and their public demonstrations and occasional riots have caused worry for the British, who are governing the region as a mandate.
+
+#+begin_quote
+  /From June 1919 onward, the fate of the remainder of the Ottoman empire depended less and less on what was happening in Paris and more and more on Atatürk’s moves. Two different worlds—one of international conferences, lines on maps, peoples moving obediently into this country or that, and the other of a people shaking off their Ottoman past and awakening as a Turkish nation—were heading toward collision. In Paris, the powers continued on their way, largely unaware of what was stirring to the east. The horse-trading of hypothetical mandates went merrily on./
+#+end_quote
+
+#+begin_quote
+  /Britain was the only one of the powers with more than a passing interest in seeing a Kurdistan on the map. The United States, sympathetic to the Armenians, had no love for the Kurds. The French had put in a claim for a mandate mainly as a bargaining tool; when Britain confirmed its possession of Syria in the autumn of 1919, France dropped any pretense of interest. It continued, however, to oppose a British mandate over Kurdistan./
+#+end_quote
+
+- In the final days before presenting the terms to Germany, Marshal Ferdinand Foch made one final plea to use the Rhineland as buffer zone. The plea was rejected.
+- He commented that the Germans next time will be much wiser, and will march through northern France. It was precisely what Nazi Germany did in 1940.
+
+#+begin_quote
+  /Their country, most Germans believed, had surrendered on the understanding that the Fourteen Points would be the basis for the peace treaty./
+
+  /The country would undoubtedly have to pay some sort of indemnity, but nothing toward the costs of the war. It would become a member of the League of Nations. It would keep its colonies. And the principle of self-determination would work in its favor. German Austria should be allowed to decide whether to join its German cousins. German-speaking areas in West Prussia and Silesia would, of course, remain German. In Alsace-Lorraine, the predominantly German parts would also be able to vote on their future./
+#+end_quote
+
+#+begin_quote
+  /In the first months of the peace the Germans clutched the Fourteen Points like a life raft, with very little sense that their victors might not see things the same way. So many of the familiar landmarks—kaiser, army, bureaucracy—had been obliterated. That brought unsettling hopes and fears./
+
+  /Political parties across the spectrum floundered as they tried to redefine themselves. There was a widespread fear that German society was done for; the old moral standards had dissolved. There was also, perhaps understandably, a reluctance to think seriously about the future, especially the one that was being shaped in Paris./
+#+end_quote
+
+- Germany was able to skirt through the disarmament clause on both a widespread and secretive scale. Or rather, the circumventions they employed somehow escaped the Allies' notice.
+- One ingenious way the Germans did so is by setting up German-owned factories in neutral countries that produced parts of tanks and submarines.
+
+#+begin_quote
+  /With different leadership in the Western democracies, with stronger democracy in Weimar Germany, without the damage done by the Depression, the story might have turned out differently. And without Hitler to mobilize the resentments of ordinary Germans and to play on the guilty consciences of so many in the democracies, Europe might not have had another war so soon after the first. The Treaty of Versailles is not to blame. It was never consistently enforced, or only enough to irritate German nationalism without limiting German power to disrupt the peace of Europe./
+#+end_quote
+
+#+begin_quote
+  /Between January and June 1919, the peacemakers had accomplished an enormous amount: a League of Nations and an International Labour Organization, mandates handed out, the Germany treaty finished, the treaties with Austria, Hungary, Bulgaria and Ottoman Turkey nearly done—but there were many loose ends. Russia’s borders were still fluctuating and it was not clear which of its states along the periphery would keep their new independence. Finland? Ukraine? Georgia? Armenia? In the wreckage of empires in the center of Europe the borders were still being disputed. And the decision, taken so lightly, to let the Greeks land in Smyrna had set off a chain of explosions that would not end until 1923./
+#+end_quote
+
+#+begin_quote
+  /Self-determination, that noble ideal, produced dreadful offspring when it was wedded to ethnic nationalism./
+#+end_quote
+
+#+begin_quote
+  /Later it became commonplace to blame everything that went wrong in the 1920s and 1930s on the peacemakers and the settlements they made in Paris in 1919, just as it became easy to despair of democracy. Pointing the finger and shrugging helplessly are effective ways of avoiding responsibility./
+
+  /That is to ignore the actions of everyone— political leaders, diplomats, soldiers, ordinary voters—for twenty years between 1919 and 1939./
+#+end_quote
+
+#+begin_quote
+  /The peacemakers, however, had to deal with reality, not what might have been. They grappled with huge and difficult questions. How can the irrational passions of nationalism or religion be contained before they do more damage? How can we outlaw war? We are still asking those questions./
+#+end_quote
+
 
 
 * RUSSIA'S WAR
@@ -1703,6 +1766,19 @@
 - In the 1920s, Germany and the Soviet Union formed a military collaboration. For the Soviet Union, it was meant to introduce western military technologies to the Soviet Army. And for Germany, they primarily positioned military training and production within the Soviet territory in order to evade Versailles restrictions on rearmament.
 - In 1939, Stalin initiated talks with Britain and France for a defense pact against Nazi Germany. The Western nations were lukewarm on the offer. They also had different expectations for the alliance; the West wants a diplomatic deterrent against Hitler, but the Soviet Union wants an actual war coalition to fight Germany head-on.
 - The offer for alliance fell apart when the Soviets realized how little the West's military preparations were, not to mention how unwilling Britain and France are to match Soviet military strength. At around this same time, Germany began reaching out to the Soviet Union for a possible non-aggression pact, which  ultimately became the Molotov-Ribbentrop Pact.
+
+
+
+* SEEING FURTHER
+** /Bill Bryson/
+
+#+begin_quote
+  /The remarkable feature of Bayes’ theorem is that it had no practical applications in his own lifetime. Although simple cases yield simple sums, most uses demand serious computational power to do the volume of calculations. So in Bayes’ day it was simply an interesting but largely pointless exercise./
+#+end_quote
+
+#+begin_quote
+  /The Royal Society (it became royal with the granting of a charter by Charles II in 1662) invented scientific publishing and peer review. It made English the primary language of scientific discourse, in place of Latin. It systematised experimentation. It promoted – indeed, insisted upon – clarity of expression in place of high-flown rhetoric. It brought together the best thinking from all over the world. It created modern science./
+#+end_quote
 
 
 
@@ -2033,7 +2109,7 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - The Schlieffen Plan, ambitious and well-crafted as it was, ultimately remained deeply flawed until its implementation. Until the end of his life, Schlieffen agonized with how to transport all the troops needed for a lightning victory, in a short period of time, within the cramped space between northern France and Germany.
-- Author notes that full details of Serbian govenrment's involvement in the assassination of Archduke Franz Ferdinand II is not established. I think The Sleepwalkers does show how closely connected it is. Nevertheless, Austria-Hungary let its inherent suspicion (or hatred) of Serbia to frame its judgment on how to respond.
+- Author notes that full details of Serbian govenrment's involvement in the assassination of Archduke Franz Ferdinand II is not established. I think *The Sleepwalkers* does show how closely connected it is. Nevertheless, Austria-Hungary let its inherent suspicion (or hatred) of Serbia to frame its judgment on how to respond.
 - The author is of the opinion that had Austria-Hungary retaliated immediately, the rest of Europe would have tolerated it at the minimum. The argument hinges on an immediate attack not being reliant on Germany's tacit support, which would've triggered certain alliances and treaties.
 
 #+begin_quote
@@ -3823,7 +3899,7 @@ there could be no genuine reconciliation without truth./
   /In the period between May-June and November 1917, a deep feeling of depression spread over France. With the repeated promises that victory was near and that the next offensive would be the last now totally discredited, the French populace became unwilling to bear quietly any longer the privations imposed by the war./
 #+end_quote
 
-- By early 1918, the French public actually has more information about an vimpending German offensive than the Geman populace themselves.
+- By early 1918, the French public actually has more information about an impending German offensive than the Geman populace themselves.
 - Overall, throughout the war the French government was more worried about international consequences rather than domestic ones. France was more concerned with the balance of powers in Europe and beyond, and less on how the people themselves would react to either victory or defeat.
 - Initial French war aims included the return of Alsace-Lorraine's 1790 borders. As war went on, and as pessimism crept in, the demand was revised down to 1870 Alsace-Lorraine, which had substantially smaller portion of the Saar coalfields.
 - Author countered the argument that Alsace-Lorraine was used to buy off the populace and prevent popular unrest. The author argued that there was no major popular pressure from any sector to recover the region. Or rather, the French government did not feel significant threat of overthrow due to an inability to take Alsace-Lorraine. The region's primary significance is strategic and economic, and pressure from below did not affect such considerations.
@@ -4026,7 +4102,7 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 #+begin_quote
-  /But, in finally forgoing the myth that the region’s "Fall" is because of the original sin of imposed, artificial borders, we can  that the Middle East is neither perpetually cursed by the Great War legacy nor think that its salvation lies in either external powers or local actors simply redrawing these boundaries. The deeper issue is political. Being able to see how new worlds were created in the Middle East in the Long Great War helps us see that they can be reimagined and remade now and in the future—and therein lies hope./
+  /But, in finally forgoing the myth that the region’s "Fall" is because of the original sin of imposed, artificial borders, we can see that the Middle East is neither perpetually cursed by the Great War legacy nor think that its salvation lies in either external powers or local actors simply redrawing these boundaries. The deeper issue is political. Being able to see how new worlds were created in the Middle East in the Long Great War helps us see that they can be reimagined and remade now and in the future—and therein lies hope./
 #+end_quote
 
 

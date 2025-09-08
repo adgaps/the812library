@@ -12,13 +12,13 @@ In any case, if you are curious and wish to make sense of this ever growing org 
 
 * GUIDE
 
-I mainly read history books, so that's what most of these books will be about. Some of my most read topics include: the First World War; the Middle Ages; and history of Christianity, among others.
+I mainly read history books, so that's what most of these books will be about. Specifically, there will be a lot of books on the First World War, as well as the history of Christianity and the history of science, among others.
 
 Books are organized alphabetically. These are a mix of stuff I've read since 2017, when I started keeping track of my books. Books and notes are constantly added, as I consolidate both past and recent notes I've made across various media and note taking apps.
 
 These notes are taken as I go through the books. Quotes are passages that piqued my interest and generally are ones that sound cool enough for me to preserve for posterity. I also try my best to pinpoint the author's main thesis, and directly quote them if possible.
 
-Some books are heavily noted, some aren't. In general, books that I read and reread /after/ the Library file is created, will have more detailed notes.
+Some books are heavily noted, some aren't. In general, books that I read and reread /after/ the Library file is created, will have more detailed notes. Additionally, I focus on noting down ideas and contexts, and less on minute details like people and dates.
 
 Many minor errors and typos may take time to be corrected, or for such corrections to be pushed to commit.
 
