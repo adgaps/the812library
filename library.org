@@ -13,10 +13,8 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
-  - Paris 1919
-- New
   - Seeing Further
-- Fixed typos and formatting
+
 
 
 * AMERICAN REVOLUTIONS
@@ -1772,12 +1770,106 @@
 * SEEING FURTHER
 ** /Bill Bryson/
 
+- This book is a collection of essays from various science writers, with Bryson being the lead editor.
+
 #+begin_quote
   /The remarkable feature of Bayes’ theorem is that it had no practical applications in his own lifetime. Although simple cases yield simple sums, most uses demand serious computational power to do the volume of calculations. So in Bayes’ day it was simply an interesting but largely pointless exercise./
 #+end_quote
 
 #+begin_quote
   /The Royal Society (it became royal with the granting of a charter by Charles II in 1662) invented scientific publishing and peer review. It made English the primary language of scientific discourse, in place of Latin. It systematised experimentation. It promoted – indeed, insisted upon – clarity of expression in place of high-flown rhetoric. It brought together the best thinking from all over the world. It created modern science./
+#+end_quote
+
+- Three defining characteristics of the Royal Society
+  - internationalism: very welcoming of foreign intellectuals.
+  - egalitarianism: social status is not a determinant of membership, and many of its most luminary figures were not born from rich families.
+  - longevity: the Royal Society still stands today.
+- In its early years, the Royal Society fellows met and performed experiments and discussed theories and observations, all simply for learning and amazement. There was hardly any systematic routine, the meetings were not highly organized and were at times impromptu.
+- Newton's work on refraction of light is what initially caught the Society's attention to him, and also became source of rivalry with Robert Hooke.
+
+#+begin_quote
+  /Swift’s projectors show the same confusion in their understanding of ordinary human desires and fears. Their greatest offence is not against morals: instead they are offenders against common sense – what Swift might have called merely ‘sense’. They don’t intend to cause harm, but by refusing to admit the adverse consequences of their actions, they cause it anyway./
+#+end_quote
+
+#+begin_quote
+  /That our cosmos is a homogeneous space ruled everywhere by the same physical laws. Such continuity is logically necessary if humans are ever to travel to the stars or communicate extraterrestrially. So essential is the idea of spatial homogeneity to modern science it has been named ‘the cosmological principle’ and it serves as the foundation of our faith that if indeed we are not alone then we will share something meaningful with our alien confrères – the Laws of Nature./
+#+end_quote
+
+#+begin_quote
+  /In the realms of both science fiction and science practice the importance of this principle is hard to overstate, for it underpins physicists’ confidence that the patterns of behaviour discovered here on Earth will govern distant worlds.
+#+end_quote
+
+#+begin_quote
+  /The magnitude of the transformation taking place in the sixteenth and seventeenth centuries was not lost on any of its participants. Copernicus, Kepler, Descartes, Galileo and Newton all understood that what was at stake in the revolution under way was the fate of the Christian soul. Each of these men stood on the side of God and argued that the emerging cosmology supported a case for the divine. What all of them feared was a universe stripped of spirit. They believed in a Holy Spirit whose Love informed the world and in the immanent spirits of their fellow human beings; in ‘the new astronomy’ they saw the reflected glory of their Creator, whose presence in the material universe supported their faith in Christianity’s promise of the soul’s eternal salvation./
+#+end_quote
+
+- Margaret Wertheim argues that the impetus for astronomy is a drive for searching the boundaries of the physical universe, and that this search for the physicality is in turn influenced by the shift to realistic art in the Middle Ages.
+
+#+begin_quote
+  /Newton showed that the same force of gravity that makes an apple fall to the ground also operates to keep the Moon revolving around the Earth and the planets orbiting the Sun. Newton’s law (a Pythagorean triumph if ever there was one) demonstrated an essential continuity, for if gravity operates between celestial bodies then they too must be mundane matter like the pebble that rolls down a hill. Moreover, once astronomers abandoned the medieval distinction between earthly and celestial space, there was no longer any reason to imagine a limit to the physical world. Why should physical space not go on for ever? By the end of the eighteenth century, that view had become scientific orthodoxy./
+#+end_quote
+
+#+begin_quote
+  /Descartes failed in the same sense that Newton failed; his theological trappings were stripped away by later generations who took what he had done and used it to promulgate a purely secular cosmology. Since the Enlightenment we have come to use the word ‘cosmos’ to mean the purely physical world and ‘cosmology’ to mean our concept of the material domain alone. We have forgotten the wider picture in which ‘the cosmos’ encompassed multiple levels of being; we tell ourselves that older cosmologies are childish tales and that we moderns supposedly have outgrown these stories and faced reality ‘squarely’ to work out where we ‘truly’ are./
+#+end_quote
+
+#+begin_quote
+  /For medieval Christians, a dualistic conception of the human person went hand in hand with a dualistic spatial scheme; with the advent of a purely physicalist world picture it has become increasingly difficult to argue for the reality of any kind of non-physical dimension to human existence./
+#+end_quote
+
+- Newton was a very authoritative figure, in the sense that he didn't shy away from using his status and influence to serve his purposes. The lopsided conflict with Leibniz over the origins of calculus is proof of this.
+- But Neal Stephenson, who contributed this essay, didn't focus on that conflict. Instead he talked about /another/ run-in that Leibniz had against the Newtonian side.
+- In a private letter to his student Caroline, Princess of Wales, Leibniz warned her against the rise of atheism in England. And more importantly, Leibniz casted Newton's religiosity in a negative light.
+- A Newton supporter, Samuel Clarke, rebutted these claims. In the Leibniz-Clarke correspondence, the two men fought each other over many issues that touch science and religion, ending months later with Leibniz's death.
+
+#+begin_quote
+  /In the day of Newton and Leibniz, metaphysics had been as respectable as mathematics, but the hard-headed empiricists of the scientific world began to kick dirt on it during the nineteenth century and, in the first half of the twentieth, the logical positivists buried it. And indeed, Leibniz’s work seems unsound at best, ludicrous at worst, by the scientific standards of the era before relativity, quantum mechanics and Gödel’s proof./
+#+end_quote
+
+#+begin_quote
+  /A straightforward way of defining metaphysics is as the set of assumptions and practices present in the scientist’s mind before he or she begins to do science. There is nothing wrong with making such assumptions, as it is not possible to do science without them./
+#+end_quote
+
+#+begin_quote
+  /Even the hardest of hard sciences is replete with assumptions that may fairly be classified as metaphysical. Almost all mathematicians, for example, presume that they are discovering, rather than creating, mathematical truths./
+#+end_quote
+
+- Leibniz's work on metaphysics was buried for centuries. Kant revived it, only to also demolish it. Russell reintroduced Leibniz to the 20th century world through adoption of his mathematical logic.
+
+#+begin_quote
+  /Leibniz’s most fundamental assumption, namely that the universe makes sense and that the human has the power to make sense of it and that, consequently, pure metaphysics is no waste of time, remains perhaps the central question of all science./
+#+end_quote
+
+- One major achievement of the Royal Society is the successful fusion of rationalism (math) with empiricism (experiment).
+- Interestingly, even as Rebecca Goldstein has acknowledged the split between rationalists adn empiricists at this time (late 17th century), she identified the curious geography of this split: rationalists tend to be from continental Europe, and empiricists tend to be from England.
+- This, to me, shows that the Analytic-Continental divide in philosophy goes farther beyond Kant.
+
+#+begin_quote
+  /The mathematical expression of the physical allows for what logic could never accomplish: the generation of new descriptions, going beyond the observable. It is the relations between these mathematical properties which, expressed as equations, remain constant between instances, yielding universal laws of nature. And it is these laws that supplant teleology in the new conception of explanation./
+#+end_quote
+
+#+begin_quote
+  /For both the new rationalists and the new empiricists there was a veil of subjectivity separating the observer from the observed. In this way the two orientations, no matter how distinct their intellectual temperaments, shared a central attitude that went beyond their mere opposition to the old system and explains why they were, even if rivals, also potential allies. Both insisted, against the old system, on more assertiveness. Mathematics, as opposed to inert logic, inserted a generative power into physical description. Experiments, as opposed to passive observation, allow us to wrest the physical facts from illusory experience./
+#+end_quote
+
+#+begin_quote
+  /We also live in an age when expert disagreement is wrongly treated as a sign of fatal ignorance and when it’s hard to make space for all the groups who care about the sciences’ direction. The problem lies in the relation between matters of fact, powerful because they seem to escape from human interests, and matters of concern, which count because people find them so interesting./
+#+end_quote
+
+#+begin_quote
+  /Collections provide the ground truth on which hypotheses are built. Physics has laboratories; systematic biology has collections. It would be misleading to claim that the millions of specimens stored in cabinets and bottles in the galleries of national natural history museums are all, individually, as important as the type specimen of Archaeopteryx. But well localised, properly documented natural history archives have been, and continue to be, central to understanding many kinds of scientific questions: the course of evolution; the relationships between animals and plants (the ‘tree of life’); biogeography and biodiversity; how climate change has affected the biota. Human memories are short and inaccurate. Our shifting perceptions need to be tested against archives which are – as near as possible – permanent records of the fauna and flora./
+#+end_quote
+
+- Interesting that Joseph Banks, botanist and Royal Society president, has been heavily discussed in three consecutive chapters.
+
+#+begin_quote
+  /Linnaeus’ methods have rubbed awkwardly up against twentieth-century phylogenetics – but that is another matter. From the point of view of collections what Linnaeus provided was a system – a hierarchy – that fed into practical arrangement. The higher levels of the Linnaean system – genera, families and so on – became an effective way of organising the mass of material that was being provided by 1770 from the fruits of global exploration: herbaria, museum galleries and gardens alike./
+
+  /Linnaeus’ contribution was far more than that little label stuck in the flower bed beside a strange herb – he was the intellectual designer of the garden as a whole./
+#+end_quote
+
+#+begin_quote
+  /At a time when international travel was expensive, arduous, and almost impossible to remote areas, collections provided the only access for many observers to a true picture of biological diversity./
 #+end_quote
 
 
