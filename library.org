@@ -14,7 +14,8 @@
 - Only latest changes here, for easier tracking.
 - Updated
   - Seeing Further
-
+  - The Houses of History
+- Fixed typos and formatting
 
 
 * AMERICAN REVOLUTIONS
@@ -1872,6 +1873,74 @@
   /At a time when international travel was expensive, arduous, and almost impossible to remote areas, collections provided the only access for many observers to a true picture of biological diversity./
 #+end_quote
 
+#+begin_quote
+  /Was Darwin the most revolutionary scientist ever? If, by revolutionary, we mean the scientist whose discovery initiated the most seismic overturning of pre-existing science, the honour would at least be contested by Newton, Einstein, and the architects of quantum theory. Those same physicists might have outclassed Darwin in sheer intellectual firepower. But Darwin probably did revolutionise the worldview of people outside science more comprehensively than any other scientist. He may be only one plausible candidate for the most important or most revolutionary scientist ever, but Darwin has a strong claim to be the most seditious./
+#+end_quote
+
+- Guess who wrote the chapter for Darwin? Of course it's Richard Dawkins haha.
+- Dawkins acknowledges that both Darwin and Alfred Russel Wallace independently came up with the same theory, much like Newton and Leibniz on calculus.
+- Evolution /per se/, and natural selection /per se/ weren't new during Darwin's (and Wallace's) time. Others, Charles Darwin's grandfather Erasmus, have already theorized those two concepts. The truly revolutionary concept that the two men came up with is that natural selection and evolution could be potent enough to explain every aspect of biological functions that would've been seen as "designed" by a deity.
+
+#+begin_quote
+  /Natural selection carves and whittles gene pools into shape, working away through geological time. It is an image that might have seemed strange to Darwin. But I think he would have come to love it./
+#+end_quote
+
+- A Dawkins piece that didn't attack religion (at least not in any remotely obvious way). Damn who would've thought haha.
+
+#+begin_quote
+  /It is increasingly unclear whether patterns of biodiversity and the extent to which the numbers and the relative abundance of species in a community reflect ‘definite laws’ à la Darwin, rather than a chance assemblage of species, of the kind that might be blown on to an island. We do not know why some communities are diverse and some not, some efficient and others less so, some filled with disease and others plagued by predators, and some resilient but others exceeding fragile. Even the consistency that impressed the young naturalist – the vast variety of the unspoiled and generous tropics – appears less impressive than once it did. Ecology, which once saw ordered communities moving through predictable stages to a more or less stable climax, their structure determined by energy flow or predator pressure, now accepts that many may be little more than a random bunch of functionally equivalent creatures and that changes in space or time may often result from accident./
+#+end_quote
+
+- While it's generally accepted that the tropics tend to be biodiversity hotspots, the actual dynamics that make a certain region biodiverse is still largely inconsistent and unpredictable.
+
+#+begin_quote
+  /Opinions may differ on the boundaries of human dignity, but it is surely right that these boundaries feature in any consideration of what we might and might not make. And the desirability of a technological goal is not to be determined simply by a health-and-safety or cost-benefit analysis, but by a careful consideration of the difficult question of whether it seems likely in the long term, on balance, to serve human welfare and well-being. The disturbing aspect of Bacon’s utopian scientific writings is often not so much what they consider possible, but how readily he assumes that humankind has the wisdom to handle such power./
+#+end_quote
+
+#+begin_quote
+  /Science is about making stuff, just as much as it is about understanding stuff. The two go hand in hand, and always have done. Francis Bacon implied as much; but in the twenty-first century, disciplines such as nanotechnology, quantum information technology and synthetic biology are blurring as never before the false distinctions between thinking and doing./
+#+end_quote
+
+- The Copernican Revolution geve rise to the Copernican principle, which states that our cosmological situation, whether as inhabitants of Earth, or as a planet within the solar system, is in a typical situation within the universe, and should not be singled out as being special or unique.
+- One major objection for the Copernican principle would be the presence (or absence) of life. Throughout the centuries, and especially since the 20th century, the sentiment has shifted many times, and today it's arguably partial towards the principle.
+
+#+begin_quote
+  /When it comes to intelligent life, the status of the Copernican principle is very uncertain indeed. Even if life has got going on many planets, there is no known law or principle that compels it to evolve intelligence or sentience. The Darwinian mechanism implies that evolution is blind; nature cannot ‘look ahead’ and strive for the goal of intelligence, or any other trait. So there will be no progressive trend towards sentient beings like ourselves, unless it comes about because natural selection strongly favours certain features and structures, or if there are yet-to-be-discovered principles of organisation at work in nature./
+#+end_quote
+
+#+begin_quote
+  /As far as we can tell, our planetary system, galaxy and galactic environs are unexceptional out as far as our most powerful instruments can penetrate, over twelve billion light years. But our biological situation remains unresolved. The universe might be teeming with life, or it may turn out that life is very rare – intelligent life more so. It is even conceivable that we are alone in the vastness of space. If so, history will have turned a curious full circle. Before Copernicus, people believed that humans and their planet occupied pole position in the universe. It may yet be that we are privileged after all, in being the only place in the universe with intelligent life./
+#+end_quote
+
+#+begin_quote
+  /Today’s mathematics is intimately bound up with two key areas of human knowledge and activity: the natural world, and the society in which we live. Human understanding of our planet, and our universe, rests heavily on the shoulders of mathematics. So does the day-to-day working of our world. Take the hidden mathematics away, and today’s world would fall to pieces. That statement applies to a lot of the apparently esoteric parts of the subject, as well as the more obviously applicable ones – partly because mathematics is an interconnected whole, but also because the esoteric concepts are often general and very powerful./
+#+end_quote
+
+- Scientific laws are fundamentally statements of pattern. We study nature for such patterns, and expect them to apply consistently. Our world is built upon these proven patterns.
+
+#+begin_quote
+  /Universal laws of Nature should be just that – universal – they should not just exist in special forms for some privileged observers at special locations, or who are moving in particular ways, in the universe. Alas, Newton’s laws do not have this democratic property. They only have simple forms for privileged observers who are moving in a special way, neither rotating nor accelerating with respect to the distant ‘fixed’ stars. So there were privileged observers in Newton’s universe for whom all the laws of motion look simple./
+#+end_quote
+
+- A simpler explanation of this quote: if you observe a moving car, you will observe motion, because relative to the moving car you are either stationary or moving at a slower speed. If, however, you are in a fast moving car, everything slower will appear almost if not completely immobile.
+- This is also part of the issue of classical Newtonian physics, in that it's hard to apply to particle physics. You cannot observe subatomic motion because they are too small, and even for something like gravitational force, its classic value is too large for subatomic precision.
+
+#+begin_quote
+  /The particle physicist works closest to the laws of Nature themselves, and so is especially impressed by their unity, simplicity and symmetry. But the biologist, the economist, or the meteorologist is occupied with the study of the complex outcomes of the laws, rather than with the laws themselves. As a result, it is the complexities of Nature, rather than her laws, that impress them most./
+#+end_quote
+
+#+begin_quote
+  /For all that it is an image of the whole, the vision of the Earth from space is necessarily partial. By leaving things out, it makes the Earth too easy to objectify, too easy to hold at a distance, too easy to idealise. It needs to be offset by a deeper sense of the world as it is felt from the inside, and as it extends out of view into past and future. Because of the changes we are putting the planet through, we need as many ways of looking at and thinking about it as we can find. We need ways to see it as a history, a system, and a set of choices, not just a thing of beauty – one which, from our astronomical perspective, we seem already to have left. There are other ways to see the beauty of the world than in the rear-view mirror of progress./
+#+end_quote
+
+#+begin_quote
+  /To focus on the planet, and not on its people, is wrong; to assume that their interests are identical is to ascribe to the planet attributes it does not possess. It is not an abstracted Earth floating in the velvet vault of space that needs protecting; it’s the people inhabiting that world who are at risk of harm, particularly poor people who lack the resources to adapt, to migrate or otherwise to opt out of what is happening to them./
+#+end_quote
+
+#+begin_quote
+  /In the purely human realm, cyclic theories of history tend to engender a feeling of hopelessness – the cycle will roll on, regardless. But, perhaps surprisingly, a view of the Earth that focuses on its relentless cycles and the flows of energy that drive them can be empowering. It is a view of the planet in which we are already involved, for good or ill, and to which we can make changes for better or for worse. These are cycles we can use./
+#+end_quote
+
 
 
 * THE END OF EMPIRES AND A WORLD REMADE
@@ -2873,6 +2942,16 @@ there could be no genuine reconciliation without truth./
   /Both past and present are always intertwined in historical practice. Historians seek to understand people whose lives and sensibilities were very different to their own. We also try to make sense of the present by investigating the processes of change over time that contributed to shaping the world in which we live. Both these activities are conducted with historical hindsight, which consists of at least two interrelated dimensions. Each new generation of historians brings different questions to the study of the past, drawing upon their own collective experiences and socio-economic contexts. In addition, new scholars critically engage with and respond to the perspectives of the earlier generation. The questions that emerge from this process generate new interpretations or analyses that make connections, or identify patterns of change, of which our historical actors were not always aware./
 #+end_quote
 
+#+begin_quote
+  /One criticism often made of the historical profession is that the theorization upon which historical accounts are constructed is rarely made explicit, in contrast to the cognate disciplines referred to earlier./
+
+  /Critics attribute this disciplinary omission to the institutional forces that influence what is produced, from peer expectations to the needs of commercial publishers. In the absence of explicit theorization in a historical text, it can be difficult to identify the theory or concepts upon which it rests./
+#+end_quote
+
+#+begin_quote
+  /Empiricism and poststructuralism are, in pure form, conflicting epistemologies. The first is based upon the belief that it is possible to reconstruct the past from surviving evidence, that historians are able to gain access to aspects of a real past. In contrast, poststructuralists argue that our understanding of the past, and our sources, are framed through structures of language and discourse, and that there is no access to an unmediated past. These two perspectives are encapsulated in the terminology of reconstruction (empiricist) and representation (poststructuralist)./
+#+end_quote
+
 - four themes
   - context
   - temporal framework
@@ -3375,7 +3454,7 @@ there could be no genuine reconciliation without truth./
   /Rearmament was consistently rejected by the left. Pacifism predominated. Yet liberals and socialists sincerely believed in collective security, even though it could not be ensured without force of arms. This fundamental paradox was never resolved, ultimately rendering the reformist left utterly impotent and therefore to be discarded as irrelevant./
 #+end_quote
 
-- Author primarily argues that Communism revolution has always been an objective of the Soviet Union, from Lenin to Gorbachev. It was however a matter of how it's achieved and how propitious it is to pursue it.
+- Author primarily argues that Communis trevolution has always been an objective of the Soviet Union, from Lenin to Gorbachev. It was however a matter of how it's achieved and how propitious it is to pursue it.
 - The issue, the author argues, is that both the contemporaries and the future historians neglected this underlying sentiment because the Soviet Union wasn't able to effectively perform their revolutionary duties. Ineffectiveness of conduct does not mean the conduct wasn't intentional.
 
 #+begin_quote
@@ -3422,7 +3501,7 @@ there could be no genuine reconciliation without truth./
 - British-Soviet antagonism came to blows in the 1925 uprising in China.
 
 #+begin_quote
-  /The postwar system of collective security centred on the League of Nations could work only if the great powers on its council behaved responsibly in pursuit of their  national interests and in indifferently sanctioning those states that misbehaved. Thus the entire structure in Geneva hinged upon the decisions of a few who would act without bias and in everyone’s long-term interest, regardless of conditions prevailing at home and abroad. In the conduct of international relations, this was too much to ask. And what the impact of the Great Depression clearly demonstrated from 1929 was that if the world economy and the international trading system broke down, so did the open-ended commitment to maintaining the international political order./
+  /The postwar system of collective security centred on the League of Nations could work only if the great powers on its council behaved responsibly in pursuit of their own national interests and in indifferently sanctioning those states that misbehaved. Thus the entire structure in Geneva hinged upon the decisions of a few who would act without bias and in everyone’s long-term interest, regardless of conditions prevailing at home and abroad. In the conduct of international relations, this was too much to ask. And what the impact of the Great Depression clearly demonstrated from 1929 was that if the world economy and the international trading system broke down, so did the open-ended commitment to maintaining the international political order./
 #+end_quote
 
 #+begin_quote
