@@ -13,9 +13,10 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
+  - Paris 1919
   - Seeing Further
-  - The Houses of History
 - Fixed typos and formatting
+
 
 
 * AMERICAN REVOLUTIONS
@@ -1520,7 +1521,7 @@
 
 - The "best" legacy of the League of Nations is its form as an experiment. It failed, but it was through the failure that the much stronger United Nations rose from.
 - Part of Wilson's idealism is his belief that the League would grow to be a dynamic and healthy platform for mutual respect and communication among nations, whatever their differences may be. This is also why he left much of his design for the League vague and ambiguous.
-- This, however, became part of its problem, as there were much confusion as to what role it should take and what methods it should utilize in resolving disputes and enforcing international rules.
+- This, however, became part of its problem, as there was much confusion as to what role it should take and what methods it should utilize in resolving disputes and enforcing international rules.
 - Lord Robert Cecil and General Jan Smuts both saw the benefit of the League in protecting the British Empire, so they eagerly helped out in ironing its specifics. Wilson liked both men, so he agreed to their assistance.
 - French proposal to set up a League army and enforce mandatory arbitration was turned down by both US and Britain. They saw it as French excuse to further pin down Germany. The US also didn't want to be dictated upon on issues of foreign intervention.
 - Another major failing of the League was, because of Great Power fears of being overriden by the "lesser" nations, they insisted on unanimity on certain situations. This significantly crippled the League's powers to enforce its terms.
@@ -1537,8 +1538,8 @@
   /On the population maps of the Balkans the patterns were rather pretty, a pointillist scattering of colors and an occasional bold blob. On the ground it was less pretty, a stew of suspicions and hatreds bubbling away./
 #+end_quote
 
-- Rumania came into the war when they thought the situation fortuitous, in 1916 as the Allies were gaining ground. But once the situation reversed, Rumania ended up being overrun by the Central Powers.
-- In 1918, Rumania struck a deal with the Central Powers and dropped out of the conflict, much to the Allies' annoyance. Funny enough, to make sure they can keep the deals made with the Allies, Rumania again declared war on Germany a day before the armistice was signed.
+- Romania came into the war when they thought the situation fortuitous, in 1916 as the Allies were gaining ground. But once the situation reversed, Romania ended up being overrun by the Central Powers.
+- In 1918, Romania struck a deal with the Central Powers and dropped out of the conflict, much to the Allies' annoyance. Funny enough, to make sure they can keep the deals made with the Allies, Romania again declared war on Germany a day before the armistice was signed.
 
 #+begin_quote
   /In the gilt and tapestries of the banqueting room at the Quai d’Orsay, the Rumanian commission got out the maps, read the submissions, heard the witnesses and tried to impose a rational order on an irrational world./
@@ -1553,7 +1554,7 @@
 - Ultimately, the terms for German disarmament were approved, after being used as bargaining chip with Wilson in exchange for the League's covenant. Germany was to be left with an army that's marginally more miltiaraized than a police force.
 
 #+begin_quote
-  /Although historians are increasingly coming to the conclusion that the burden was never as great as Germany and its sympathizers claimed, reparations remain the preeminent symbol of the peace made in Paris.3 While most of the 440 clauses of the Treaty of Versailles have long been forgotten, the handful dealing with reparations stand, in what is still the received view, as evidence of a vindictive, shortsighted and poisonous document./
+  /Although historians are increasingly coming to the conclusion that the burden was never as great as Germany and its sympathizers claimed, reparations remain the preeminent symbol of the peace made in Paris. While most of the 440 clauses of the Treaty of Versailles have long been forgotten, the handful dealing with reparations stand, in what is still the received view, as evidence of a vindictive, shortsighted and poisonous document./
 #+end_quote
 
 #+begin_quote
@@ -1565,13 +1566,13 @@
 #+end_quote
 
 #+begin_quote
-  /In the defeated Germany of 1919, conservatives protested loudly against any attempts to raise taxes or to default on government bonds, while the left pushed for benefits for veterans and widows and orphans, subsidized food and increased wages. The government meekly acquiesced to both, and Germany’s deficit climbed until, by 1921,  amounted to two thirds of the budget. There was little incentive to cut expenditures or raise taxes merely to pay reparations./
+  /In the defeated Germany of 1919, conservatives protested loudly against any attempts to raise taxes or to default on government bonds, while the left pushed for benefits for veterans and widows and orphans, subsidized food and increased wages. The government meekly acquiesced to both, and Germany’s deficit climbed until, by 1921, it amounted to two thirds of the budget. There was little incentive to cut expenditures or raise taxes merely to pay reparations./
 #+end_quote
 
-- Article 231 established the culpability of Germany and its allies for initiating the war. This is the infamous "war guilt clause."
+- Article 231 established the culpability of Germany and its allies for initiating the war. This is the infamous "war guilt clause".
 - Article 232 acknowledged Germany's limited capacity to pay reparations, and delineated the damages that would be paid for.
-- One of the legal counsel in charge for the war reparations section in John Foster Dulles, future State Secretary to Eisenhower and instrumental to US Cold War foreign policy.
-- The issue of Saar was settled with French advantage; they kept ownership of the lucrative coal mines, and the region was placed under League supervision. The French also kept possession of the primary bridgeheads, to be evacuated gradually throughout a 15-year period.
+- One of the legal counsel in charge for the war reparations section is John Foster Dulles, future State Secretary to Eisenhower and instrumental to US Cold War foreign policy.
+- The issue of Saar was settled with French advantage: they kept ownership of the lucrative coal mines, and the region was placed under League supervision. The French also kept possession of the primary bridgeheads, to be evacuated gradually throughout a 15-year period.
 
 #+begin_quote
   /The rebirth of poland was one of the great stories of the Paris Peace Conference. It was also a source of endless difficulties. The commission on the borders of the new Poland had more meetings than any other at the conference./
@@ -1579,7 +1580,7 @@
   /The peacemakers were reaching out hundreds of miles from Paris to impose order on a protean world of shifting allegiances, civil wars, refugees and bandit gangs, where the collapse of old empires had left law and order, trade and communications in shreds./
 #+end_quote
 
-- Unlike with the rest of Eastern Europe, Czechoslovakia got off relatively easy and breezed through its territorial issues. Some factors that aided them include: declaration of sovereignty prior to the war's end; good relations with the Allies; their willing role as buffer against Bolshevism; relative lack of infighting, and good relatations between the Czech and Slovakian sides; among others.
+- Unlike with the rest of Eastern Europe, Czechoslovakia got off relatively easy and breezed through its territorial issues. Some factors that aided them include: declaration of sovereignty prior to the war's end; good relations with the Allies; their willing role as buffer against Bolshevism; relative lack of infighting; and good relations between the Czech and Slovakian sides, among others.
 - Even long before 1914, unity within the Austro-Hungarian empire has always been unsteady and tenuous. Franz Joseph did his best to keep things intact, but beneath the surface, nationalist movements sprang up and gained traction.
 
 #+begin_quote
@@ -1612,7 +1613,7 @@
 - Throughout the Paris Conference, one major shortcoming that would negatively affect many of the states included in the Treaty is that the Council of Four is almost always preoccupied with bigger issues. Smaller states with "smaller" issues are constantly pushed to the side.
 - Italy insisted on getting the terms agreed upon in the secret Treaty of London in 1915. Wilson rejected the secret treaty, while also denying to have seen the document (he did). Even worse for the Conference, Italy also insisted on territories not included in the secret treaty, which further strained relations with Wilson.
 - The issue on Fiume became a rallying cry for various factions within Italy, most of all the fascists. They were lead by Gabriele D'Annunzio.
-- In the wake of the fall of Orlando government over Italy's failure to secure their terms in Versailles, D'Annunzio took amtters to his own hands and with his followers marched to successfully seize control of Fiume. It was this triumphant march that later inspired one of his followers, Benito Mussolini, to do the same in 1922, this time to seize power in Rome itself.
+- In the wake of the fall of Orlando government over Italy's failure to secure their terms in Versailles, D'Annunzio took matters to his own hands and, together with his followers, marched to successfully seize control of Fiume. It was this triumphant march that later inspired one of his followers, Benito Mussolini, to do the same in 1922, this time to seize power in Rome itself.
 
 #+begin_quote
   /Westerners dealing with Japan tended to fall back on stereotypes about the mysterious East. So much about Japan was curious, including its status in the world. Was it a major power or not? And was it entitled to have the same number of delegates as the other Great Powers? There were arguments both ways./
@@ -1646,7 +1647,7 @@
 - Japan came to the Allies' aid in the First World War, by expelling the Germans from Shantung. The Japanese used this opportunity to further intensify their control within China.
 - In 1915, Japan tried to exact greater concessions from the Chinese government, but failed due to American objections. From then on, US and Japan would occasionally have diplomatic quarrels over China and the rest of the Pacific, and would be a factor for their disposition toward each other until WW2.
 - Japan's desire for control of Shantung was reluctantly affirmed in the Paris Conference. The Council of Four didn't want the Japanese to reject the treaty over the non-inclusion of racial equality clause, so they had to compromise on the issue of Shantung.
-- The protests in China that followed, especially the one on 4th  of May 1919, plunged the countrry further into chaos and infighting. In its midst, a nationalistic and anti-Western people found refuge in the promise of communism, as brough in from their neighbor Russia.
+- The protests in China that followed, especially the one on the 4th of May 1919, plunged the countrry further into chaos and infighting. In its midst, a nationalistic and anti-Western people found refuge in the promise of communism, as brought in from their neighbor Russia.
 - Despite their victory in securing Shantung, Japan nonetheless came to be seen in more negative light by the Western powers.
 - Even in America, the surrender of Shantung to the Japanese proved unpopular. Some members of the American delegation even resigned in protest.
 
@@ -1939,6 +1940,22 @@
 
 #+begin_quote
   /In the purely human realm, cyclic theories of history tend to engender a feeling of hopelessness – the cycle will roll on, regardless. But, perhaps surprisingly, a view of the Earth that focuses on its relentless cycles and the flows of energy that drive them can be empowering. It is a view of the planet in which we are already involved, for good or ill, and to which we can make changes for better or for worse. These are cycles we can use./
+#+end_quote
+
+#+begin_quote
+  /Human beings fear endings, but also crave them. The forbidden thrill of the death-wish stalks many imagined apocalypses, literary, Christian, scientific and filmic; disaster movies do good box office because, in the safety of the present, we can look at the unimaginably terrifying future, and experience the excitement without being annihilated./
+#+end_quote
+
+#+begin_quote
+  /Perhaps also, in stressful times, people start to crave an ending because its arrival would spare them from the fear of it, and fear, a dynamic emotion alerting us that things are about to get worse, is something human beings find peculiarly hard to tolerate. When fear is at its worst, death can start to beckon, slyly whispering that it would be a relief. Readers of thrillers and crime novels, unable to bear the waiting, sometimes skip to the end to know the worst./
+#+end_quote
+
+#+begin_quote
+  /Despite the large uncertainties in many parts of the climate science and policy assessments to date, uncertainty is no longer a responsible justification for delay./
+#+end_quote
+
+#+begin_quote
+  /In their careers, astronomers discern the grand gyre of worlds. But planning, building, flying and analysing a single mission to the outer solar system commands the better part of a professional life. Future technologies beyond the chemical rocket may change this, but there are vaster spaces beckoning beyond which can still consume a career. A mission scientist invests the kernel of his most productive life in a single gesture toward the infinite./
 #+end_quote
 
 
@@ -2740,7 +2757,7 @@ there could be no genuine reconciliation without truth./
 - Hegel believes the Prussia of his time has achieved the culmination of this historical pattern, as the 'Geist' has reached the fulfillment of its dialectical journey.
 - The exact meaning of 'Geist' isn't fully known. For the most part, a good approximation seems to be a 'cosmic consciousness'.
 - Absolute freedom means absolute knowledge. The culmination of the Geist's journey is the attainment of such absoluteness.
-- Hegel's philosophy of history is a teological narrative of the culmination of Geist.
+- Hegel's philosophy of history is a teleological narrative of the culmination of Geist.
 
 #+begin_quote
   /In Hegel the entire history of the world – as the history of the development of Geist’s increasing self-awareness – is to be understood in terms of the constant evolution of new syntheses out of clashes of opposites./
@@ -2785,7 +2802,7 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - Idealism grew out of reaction to empiricism. As opposed to empiricist concept of reality as materialist, idealism posits that reality is mental.
-- 20th century philiosophy features the division between Analytic and Continental philosophy. The author doesn't go into detail of how exactly to demarcate them.
+- 20th century philosophy features the division between Analytic and Continental philosophy. The author doesn't go into detail of how exactly to demarcate them.
 - But Analytic is somehow more cohesive than Continental. Also, Analytic is mainly Anglophone in origin, as its founder is Bertrand Russell. Continental is more grounded to 19th century German and French philosophies.
 - One distinction is that Analytic focuses more on formal logic and goes into detail a lot. Continental has broader themes, and can be more ambiguous and even too academic.
 - Russell spent his life vigorously campaigning for progressive values, including women's rights and nuclear disarmament. Interestingly, he was jailed for opposition against the First World War. I don't immediately recall reading about this one.
@@ -2819,7 +2836,7 @@ there could be no genuine reconciliation without truth./
   /The richness and technicality of the debate that has sprung from Frege’s work are a testament to its significance. It is another illustration of the fact that, even though the goal of an endeavour might not be reached, the journey undertaken towards it can be very fruitful./
 #+end_quote
 
-- GE Moore developed the concept of Naturalistic Fallacy, which argues that "goodness" cannto be defined without reference to itself.
+- GE Moore developed the concept of Naturalistic Fallacy, which argues that "goodness" cannot be defined without reference to itself.
 - Non-cognitivism is a concept in ethics which states that moral judgments are reflection not of true/false values but of emotional and pyschological inclinations of the individual.
 
 #+begin_quote
@@ -2854,8 +2871,8 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - A criticism of Popper's falsificationism is that a theory cannot simply be rendered invalid by smaller contravening observations. Rather, the entire theory must consistently fail on many parts for it to be debunked.
-- The author then notes Thomas Kuhn's contributing work on paradigms, in his book *Structure of Scientific Revolutions*, which I've already read!
-- Towards the last part of his career, Wittgenstein modified his earlier beliefs on language. Initially, he argued that language has an underlying structure that holds the key to understanding it. Now, he argued that instead of  asingle such structure, there are various contexts where each word assumes a specific role, and when taken out of this context, the word starts to mean differently.
+- The author then notes /Thomas Kuhn's/ contributing work on paradigms, in his book *Structure of Scientific Revolutions*, which I've already read!
+- Towards the last part of his career, Wittgenstein modified his earlier beliefs on language. Initially, he argued that language has an underlying structure that holds the key to understanding it. Now, he argued that instead of a single such structure, there are various contexts where each word assumes a specific role, and when taken out of this context, the word starts to mean differently.
 - From this new Wittgensteinian view of language came a strand of Analytic Philosophy known as "ordinary language" philosophy. It rejected the need for formal logic as a unifying language for philosophy, and insisted that ordinary or common language is enough, provided proper nuance and context are applied.
 
 #+begin_quote
@@ -3845,7 +3862,7 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - I agree on this. Religion acts as a boundary for pursuit of knowledge, in that it starts lays out intellectual activities that are and are not permissible. Science needs to do away with such boundaries to advance, and the Scientific Revolution had to be disentangled from religion for it to truly flourish.
-- Now of course as a Catholic myself, despite what I just stated, I don't exactly consider religious boundaries to be bad. In the context of science, it's useful to peel off the limits to an extent. But anyway this isn't something I'd like to elaborate in here haha.
+- Now of course as a Catholic myself, despite what I just stated, I don't exactly consider religious boundaries to be bad. In the context of science, it's useful to peel off the limits to an extent. But anyway this isn't something I'd like to elaborate in here.
 
 #+begin_quote
   /It is not that the modern scientist makes a decision from the start that there are no supernatural persons. That happens to be my view, but there are good scientists who are seriously religious. Rather, the idea is to see how far one can go without supposing supernatural intervention. Only in this way can we do science, because once one invokes the supernatural, anything can be explained, and no explanation can be verified. This is why the “intelligent design” ideology being promoted today is not science—it is rather the abdication of science./
@@ -3878,7 +3895,7 @@ there could be no genuine reconciliation without truth./
   /Whatever the scientific revolution was or was not, it began with Copernicus./
 #+end_quote
 
-- Author focuses on the Commentariolus (vs. De revolutionibus) as Copernicus' landmark work. The argument is that it's in the Commentariolus that the fundamentals of Copernican theory is laid out, and it's also an expansion of Ptolemaic theory in a way.
+- Author focuses on the Commentariolus (vs. /De revolutionibus/) as Copernicus' landmark work. The argument is that it's in the Commentariolus that the fundamentals of Copernican theory is laid out, and it's also an expansion of Ptolemaic theory in a way.
 
 #+begin_quote
   /Copernicus could not claim in the Commentariolus that his scheme fitted observation better than that of Ptolemy. For one thing, it didn’t. Indeed, it couldn’t, since for the most part Copernicus based his theory on data he inferred from Ptolemy’s Almagest, rather than on his own observations. Instead of appealing to new observations, Copernicus pointed out a number of his theory’s aesthetic advantages./
@@ -3892,7 +3909,7 @@ there could be no genuine reconciliation without truth./
   /Some distinguished physicists deplore the idea of a multiverse, because they cannot reconcile themselves to the possibility that there are constants of nature that can never be calculated. It is true that the multiverse idea may be all wrong, and so it would certainly be premature to give up the effort to calculate all the physical constants we know about. But it is no argument against the multiverse idea that it would make us unhappy not to be able to do these calculations. Whatever the final laws of nature may be, there is no reason to suppose that they are designed to make physicists happy./
 #+end_quote
 
-- A quote from Kepler's Astronomia Nova, worth quoting here:
+- A quote from Kepler's /Astronomia Nova/, worth quoting here:
 
 #+begin_quote
   /Advice for idiots. But whoever is too stupid to understand astronomical science, or too weak to believe Copernicus without [it] affecting his faith, I would advise him that, having dismissed astronomical studies, and having damned whatever philosophical studies he pleases, he mind his own business and betake himself home to scratch in his own dirt patch./
