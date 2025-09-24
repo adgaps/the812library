@@ -13,10 +13,8 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
-  - Paris 1919
-  - Seeing Further
-- Fixed typos and formatting
-
+- New
+  - Introduction to Christianity
 
 
 * AMERICAN REVOLUTIONS
@@ -886,6 +884,27 @@
 
 - It is precisely in the idea of nationalism being "imagined" that it is an expression of unity and selfless love. Nation invites belongingness and inclusivity. In contrast, racism seeks to exclude and discriminate, to highlight the unchosen qualities, especially race and color, and use it to impose fear and division.
 - Author also highlights Makario Sakay's Constitution for the Tagalog Republic, to emphasize that reverse racism is hardly ever a thing, and that the sense of nationalism among colonials actually harbored a sense of equality among all races.
+
+
+
+* INTRODUCTION TO CHRISTIANITY
+** /Pope Benedict XVI (Joseph Ratzinger)/
+
+#+begin_quote
+  /If, on the one hand, the believer can perfect his faith only on the ocean of nihilism, temptation, and doubt, if he has been assigned the ocean of uncertainty as the only possible site for his faith, on the other, the unbeliever is not to be understood undialectically as a mere man without faith. Just as we have already recognized that the believer does not live immune to doubt but is always threatened by the plunge into the void, so now we can discern the entangled nature of human destinies and say that the nonbeliever does not lead a sealed-off, self-sufficient life, either./
+
+  /It is not until belief is rejected that its unrejectability becomes evident./
+#+end_quote
+
+- Religion and belief are not necessarily the same. The Old Testament, for example, is presented not as a set of beliefs but as a set of /laws/.
+
+#+begin_quote
+  /Belief signifies the decision that at the very core of human existence there is a point that cannot be nourished and supported on the visible and tangible, that encounters and comes into contact with what cannot be seen and finds that it is a necessity for its own existence./
+#+end_quote
+
+#+begin_quote
+  /Belief has always had something of an adventurous break or leap about it, because in every age it represents the risky enterprise of accepting what plainly cannot be seen as the truly real and fundamental. Belief was never simply the attitude automatically corresponding to the whole slant of human life; it has always been a decision calling on the depths of existence, a decision that in every age demanded a turnabout by man that can only be achieved by an effort of will./
+#+end_quote
 
 
 
