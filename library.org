@@ -14,7 +14,7 @@
 - Only latest changes here, for easier tracking.
 - Updated
 - New
-  - Introduction to Christianity
+  - Genghis Khan and the Making of the Modern World
 
 
 * AMERICAN REVOLUTIONS
@@ -785,6 +785,26 @@
 #+begin_quote
   /Continental philosophy has been reduced to a list of proper names, with various competing methodologies attached, that one could survey with enthusiasm, bewilderment, or indifference during one or a series of introductory courses, or by reading books like this one. In my view, it is no longer a question of worshipping a series of proper names, but of doing something with what they left behind; doing creative, inventive thematic work and not restricting oneself to translation and commentary. Philosophy must be clearly argued conceptual creation in critical relation to given traditions of thinking, and not a melancholic mourning for missed opportunities or a mere technique for sharpening one’s common sense./
 #+end_quote
+
+
+
+* GENGHIS KHAN AND THE MAKING OF THE MODERN WORLD
+** /Jack Weatherford/
+
+#+begin_quote
+  /Fate did not hand Genghis Khan his destiny; he made it for himself./
+#+end_quote
+
+- The author has an idolizing tone to his narrative.
+- One unique aspect of Genghis Khan's story, unlike for other famous conquerors, is that he was already at least 50 years old when he began his campaign across Asia and Europe.
+- Genghis Khan was buried in an unmarked grave in his homeland. The region was henceforth known as the Ikh Khorig, "The Great Taboo", and access beyond his close family is strictly prohibited.
+- Even after Soviet takeover of Mongolia, the region remained off-limits, and renamed Highly Restricted Area. The main reason for Soviet restriction is to prevent a surge of Mongolian nationalism centred on Genghis Khan's reputation.
+
+#+begin_quote
+  /Genghis Khan recognized that warfare was not a sporting contest or a mere match between rivals; it was a total commitment of one people against another. Victory did not come to the one who played by the rules; it came to the one who made the rules and imposed them on his enemy. Triumph could not be partial. It was complete, total, and undeniable—or it was nothing. In battle, this meant the unbridled use of terror and surprise. In peace, it meant the steadfast adherence to a few basic but unwavering principles that created loyalty among the common people. Resistance would be met with death, loyalty with security./
+#+end_quote
+
+- The narrative focus on Bukhara is important for two reasons. One, it's the only city that Genghis Khan personally conquered, and made as example for the rest of his targets and enemies. Second, Bukhara was ruled by his direct descendants well until 1920, when the last emir was overthrown by the Soviets.
 
 
 
