@@ -14,7 +14,8 @@
 - Only latest changes here, for easier tracking.
 - Updated
 - New
-  - Genghis Khan and the Making of the Modern World
+  - The Rise and Fall of the Great Powers
+
 
 
 * AMERICAN REVOLUTIONS
@@ -3396,6 +3397,23 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Conquest, colonization, Christianization: the techniques of settling in new land, the ability to maintain cultural identity through legal forms and nurtured attitudes, the institutions and outlook required to confront the strange or abhorrent, to repress it and live with it, the law and religion as well as the guns and ships. The European Christians who sailed to the coasts of the Americas, Asia and Africa in the fifteenth and sixteenth centuries came from a society that was already a colonizing society. Europe, the initiator of one of the world’s major processes of conquest, colonization and cultural transformation, was also the product of one./
+#+end_quote
+
+
+
+* THE RISE AND FALL OF THE GREAT POWERS
+** /Paul Kennedy/
+
+#+begin_quote
+  /The argument in this book has been that there exists a dynamic for change, driven chiefly by economic and technological developments, which then impact upon social structures, political systems, military power, and the position of individual states and empires./
+#+end_quote
+
+#+begin_quote
+  /The second major argument of this book has been that this uneven pace of economic growth has had crucial long-term impacts upon the relative military power and strategical position of the members of the states system./
+#+end_quote
+
+#+begin_quote
+  /There looms today a tension between a nation’s existence in an anarchic military-political world and its existence in a laissez-faire economic world; between on the one hand its search for strategic security, as represented by its investment in the latest weapon systems and in its large-scale diversion of national resources to the armed forces, and on the other hand its search for economic security, as represented by an enhanced national prosperity, which depends upon  (which in turn flows from new methods of production and wealth creation), upon increased output, and  flourishing internal and external demand—all of which may be damaged by excessive spending upon armaments. Precisely because a top-heavy military establishment may slow down the rate of economic growth and lead to a decline in the nation’s share of world manufacturing output, and therefore wealth, and therefore power, the whole issue becomes one of the balancing the short-term security afforded by large defense  against the longer-term security of rising production and income./
 #+end_quote
 
 
