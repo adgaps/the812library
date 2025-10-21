@@ -13,8 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
-- New
-  - The Rise and Fall of the Great Powers
+  - Genghis Khan and the Making of the Modern World
 
 
 
@@ -806,6 +805,10 @@
 #+end_quote
 
 - The narrative focus on Bukhara is important for two reasons. One, it's the only city that Genghis Khan personally conquered, and made as example for the rest of his targets and enemies. Second, Bukhara was ruled by his direct descendants well until 1920, when the last emir was overthrown by the Soviets.
+
+#+begin_quote
+  /Despite the plague and collapse of the commercial system, revolts, and the subsequent dismemberment of the Mongol Empire, even the rebels seemed reluctant to let the old empire go completely. The new rulers hung on to the trappings and illusions of the old system to legitimize their own new rule. The facade of the Mongol Empire continued standing long after the internal structure had collapsed and the Mongols were all gone./
+#+end_quote
 
 
 
