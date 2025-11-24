@@ -12,9 +12,10 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
+- New
+  - Wonderful Life
 - Updated
   - Genghis Khan and the Making of the Modern World
-
 
 
 * AMERICAN REVOLUTIONS
@@ -808,6 +809,14 @@
 
 #+begin_quote
   /Despite the plague and collapse of the commercial system, revolts, and the subsequent dismemberment of the Mongol Empire, even the rebels seemed reluctant to let the old empire go completely. The new rulers hung on to the trappings and illusions of the old system to legitimize their own new rule. The facade of the Mongol Empire continued standing long after the internal structure had collapsed and the Mongols were all gone./
+#+end_quote
+
+#+begin_quote
+  /The writing of history proved too important to allow each civilization to proceed in its own manner and according to the conventions developed in their literary traditions. To control the way that they themselves were presented to their subjects, the Mongols had to make the local standards on writing history correlate and articulate with the Mongol story. Written history was much more than a means of recording information; it served as a tool to legitimize the ruling dynasty and spread propaganda about its great conquests and achievements. For the Mongols, written history also became an important tool in learning about other nations in order to conquer and rule them more effectively./
+#+end_quote
+
+#+begin_quote
+  /The great actors of history cannot be neatly tucked between the covers of a book and filed away like so many pressed botanical specimens. Their actions cannot be explained according to a specific timetable like the coming and going of so many trains. Although scholars may designate the beginning and ending of an era with exact precision, great historical events, particularly those that erupt suddenly and violently, build up slowly, and, once having begun, never end. Their effects linger long after the action faded from view./
 #+end_quote
 
 
@@ -4204,6 +4213,19 @@ there could be no genuine reconciliation without truth./
 #+end_quote
 
 - In the conclusion, the author explicitly states that he puts the war blame on Germany, and that the regime's mixed form is what caused them to continue fighting despite the prevailing conditions.
+
+
+
+* WONDERFUL LIFE
+** /Stephen Jay Gould/
+
+#+begin_quote
+  /Intellectual transformations often remain under the surface. They ooze and diffuse into scientific consciousness, and people may slowly move from one pole to another, having never heard the call to arms./
+#+end_quote
+
+#+begin_quote
+  /All interesting issues in natural history are questions of relative frequency, not single examples. Everything happens once amidst the richness of nature. But when an unanticipated phenomenon occurs again and again—finally turning into an expectation—then theories are overturned./
+#+end_quote
 
 
 
