@@ -12,10 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - Wonderful Life
 - Updated
-  - Genghis Khan and the Making of the Modern World
+  - Wonderful Life
 
 
 * AMERICAN REVOLUTIONS
@@ -4225,6 +4223,14 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /All interesting issues in natural history are questions of relative frequency, not single examples. Everything happens once amidst the richness of nature. But when an unanticipated phenomenon occurs again and again—finally turning into an expectation—then theories are overturned./
+#+end_quote
+
+#+begin_quote
+  /Our most precious hope for the history of life, a hope that we would relinquish with greatest reluctance, involves the concepts of progress and predictability. Since the human mind arose so late, and therefore threatens to demand interpretation as an accidental afterthought in a quirky evolutionary play, we are incited to dig in our heels all the harder and to postulate that all previous life followed a sensible order implying the eventual rise of consciousness. The greatest threat lies in a history of numerous possibilities, each sensible in itself after the fact, but each utterly unpredictable at the outset—and with only one (or a very few) roads leading to anything like our exalted state./
+#+end_quote
+
+#+begin_quote
+  /Isolated genius, despite the romantic myths, usually does little by itself./
 #+end_quote
 
 
