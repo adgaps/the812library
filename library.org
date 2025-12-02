@@ -12,8 +12,20 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
+- New
+  - A Brief History of Time
 - Updated
   - Wonderful Life
+
+
+
+* A BRIEF HISTORY OF TIME
+** /Stephen Hawking/
+
+#+begin_quote
+  /Ever since the dawn of civilization, people have not been content to see events as unconnected and inexplicable. They have craved an understanding of the underlying order in the world. Today we still yearn to know why we are here and where we came from. Humanity’s deepest desire for knowledge is justification enough for our continuing quest. And our goal is nothing less than a complete description of the universe we live in./
+#+end_quote
+
 
 
 * AMERICAN REVOLUTIONS
@@ -4231,6 +4243,14 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Isolated genius, despite the romantic myths, usually does little by itself./
+#+end_quote
+
+#+begin_quote
+  /Most of us are not naive enough to believe the old myth that scientists are paragons of unprejudiced objectivity, equally open to all possibilities, and reaching conclusions only by the weight of evidence and logic of argument. We understand that biases, preferences, social values, and psychological attitudes all play a strong role in the process of discovery. However, we should not be driven to the opposite extreme of complete cynicism—the view that objective evidence plays no role, that perceptions of truth are entirely relative, and that scientific conclusions are just another form of aesthetic preference. Science, as actually practiced, is a complex dialogue between data and preconceptions./
+#+end_quote
+
+#+begin_quote
+  /We are the offspring of history, and must establish our own paths in this most diverse and interesting of conceivable universe—one indifferent to our suffering, and therefore offering us maximal freedom to thrive, or to fail, in our own chosen way./
 #+end_quote
 
 
