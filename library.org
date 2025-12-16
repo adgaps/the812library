@@ -13,10 +13,8 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - A Brief History of Time
-- Updated
-  - Wonderful Life
-
+  - The Origins of the First World War
+- fixed typos and formatting
 
 
 * A BRIEF HISTORY OF TIME
@@ -1860,7 +1858,7 @@
 #+end_quote
 
 #+begin_quote
-  /In the realms of both science fiction and science practice the importance of this principle is hard to overstate, for it underpins physicists’ confidence that the patterns of behaviour discovered here on Earth will govern distant worlds.
+  /In the realms of both science fiction and science practice the importance of this principle is hard to overstate, for it underpins physicists’ confidence that the patterns of behaviour discovered here on Earth will govern distant worlds./
 #+end_quote
 
 #+begin_quote
@@ -1905,7 +1903,7 @@
 #+end_quote
 
 - One major achievement of the Royal Society is the successful fusion of rationalism (math) with empiricism (experiment).
-- Interestingly, even as Rebecca Goldstein has acknowledged the split between rationalists adn empiricists at this time (late 17th century), she identified the curious geography of this split: rationalists tend to be from continental Europe, and empiricists tend to be from England.
+- Interestingly, even as Rebecca Goldstein has acknowledged the split between rationalists and empiricists at this time (late 17th century), she identified the curious geography of this split: rationalists tend to be from continental Europe, and empiricists tend to be from England.
 - This, to me, shows that the Analytic-Continental divide in philosophy goes farther beyond Kant.
 
 #+begin_quote
@@ -1942,7 +1940,7 @@
 
 - Guess who wrote the chapter for Darwin? Of course it's Richard Dawkins haha.
 - Dawkins acknowledges that both Darwin and Alfred Russel Wallace independently came up with the same theory, much like Newton and Leibniz on calculus.
-- Evolution /per se/, and natural selection /per se/ weren't new during Darwin's (and Wallace's) time. Others, Charles Darwin's grandfather Erasmus, have already theorized those two concepts. The truly revolutionary concept that the two men came up with is that natural selection and evolution could be potent enough to explain every aspect of biological functions that would've been seen as "designed" by a deity.
+- Evolution /per se/, and natural selection /per se,/ weren't new during Darwin's (and Wallace's) time. Others, like Charles Darwin's grandfather Erasmus, have already theorized those two concepts. The truly revolutionary concept that the two men came up with is that natural selection and evolution could be potent enough to explain every aspect of biological functions that would've been seen as "designed" by a deity.
 
 #+begin_quote
   /Natural selection carves and whittles gene pools into shape, working away through geological time. It is an image that might have seemed strange to Darwin. But I think he would have come to love it./
@@ -3419,6 +3417,21 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Conquest, colonization, Christianization: the techniques of settling in new land, the ability to maintain cultural identity through legal forms and nurtured attitudes, the institutions and outlook required to confront the strange or abhorrent, to repress it and live with it, the law and religion as well as the guns and ships. The European Christians who sailed to the coasts of the Americas, Asia and Africa in the fifteenth and sixteenth centuries came from a society that was already a colonizing society. Europe, the initiator of one of the world’s major processes of conquest, colonization and cultural transformation, was also the product of one./
+#+end_quote
+
+
+
+* THE ORIGINS OF THE FIRST WORLD WAR
+** /Gordon Martel/
+
+- Unless noted otherwise, these quotes are from a later edition of the book, where James Joll is also co-author. The physical book that I actually own and peruse is the first edition, with come differences in content and where Martel is sole author.
+
+#+begin_quote
+  /Statesmen seldom act on the basis of simple legal commitments, and even when we unravel the entangling alliances and alignments that tied the states of Europe to one another, we shall only discover another layer of more fundamental – and more profound – questions that require answers if we are to understand how a great European war began in August 1914./
+#+end_quote
+
+#+begin_quote
+  /It may now be difficult for us to imagine a time and a place in which war was not only acceptable but popular. For students, the greater the gap in time between themselves and their subject, the more difficult it is to recapture the attitudes and the ideas that made up the emotional world in which Europeans lived early in this century. Two world wars, numerous revolutions, a great depression, the advent of atomic weapons, bloody ethnic conflicts and the rise of widespread terrorism separate us psychologically from the men and women of 1914. The kind of thinking that led people to rejoice at the prospect of war is now difficult to recapture – but rejoice many of them did: there was dancing in the streets and spontaneous demonstrations of support for governments throughout Europe; men flocked to recruiting offices, fearful that the war might end before they had the opportunity to fight; there was a spirit of festival and a sense of community in all European cities as old class divisions and political rivalries were replaced by patriotic fervour. Students seeking to understand the origins of the First World War must be sensitive to the emotional distance that separates them from their forebears./
 #+end_quote
 
 
