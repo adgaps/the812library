@@ -13,8 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - The Origins of the First World War
-- fixed typos and formatting
+  - Age of Wonder
 
 
 * A BRIEF HISTORY OF TIME
@@ -22,6 +21,27 @@
 
 #+begin_quote
   /Ever since the dawn of civilization, people have not been content to see events as unconnected and inexplicable. They have craved an understanding of the underlying order in the world. Today we still yearn to know why we are here and where we came from. Humanity’s deepest desire for knowledge is justification enough for our continuing quest. And our goal is nothing less than a complete description of the universe we live in./
+#+end_quote
+
+
+
+* AGE OF WONDER
+** /Richard Holmes/
+
+#+begin_quote
+  /The notion of an infinite, mysterious Nature, waiting to be discovered or seduced into revealing all her secrets, was widely held. Scientific instruments played an increasingly important role in this process of revelation, allowing man not merely to extend his senses passively-using the telescope, the microscope, the barometer-but to intervene actively, using the voltaic battery, the electrical generator, the scalpel or the air pump. Even the Montgolfier balloon could be seen as an instrument of discovery, or indeed of seduction./
+#+end_quote
+
+#+begin_quote
+  /The scientific revolution of the late seventeenth century had promulgated an essentially private, elitist, specialist form of knowledge. Its lingua franca was Latin, and its common currency mathematics. Its audience was a small (if international) circle of scholars and savants. Romantic science, on the other hand, had a new commitment to explain, to educate, to communicate to a general public./
+#+end_quote
+
+#+begin_quote
+  /Romanticism introduced three important themes into science biography. First, the ‘Newton syndrome’, the notion of ‘scientific genius’, in which science is largely advanced by a small number of preternaturally gifted (and usually isolated) individuals. Second, the existence of the ‘Eureka moment’, in which great discoveries are made without warning (or much preparation) in a sudden, blazing instant of revelation and synthesis. Third, the ‘Frankenstein nightmare’, in which all scientific progress is really a disguised form of destruction./
+#+end_quote
+
+#+begin_quote
+  /By the end of the 1820s British science had lost its three international stars, the three scientific knights whose names had been renowned throughout Europe. The deaths of Joseph Banks in 1820, William Herschel in 1822, and finally of Humphry Davy in 1829, marked the passing of an age. The idea that they had between them created a distinctively British science was itself part of Banks’s great bequest to the nation. But with these departures its future seemed uncertain, and its reputation undefended./
 #+end_quote
 
 
