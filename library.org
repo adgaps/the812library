@@ -13,7 +13,10 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
+  - The Panda's Thumb
+- Updated (and moved)
   - Age of Wonder
+
 
 
 * A BRIEF HISTORY OF TIME
@@ -21,27 +24,6 @@
 
 #+begin_quote
   /Ever since the dawn of civilization, people have not been content to see events as unconnected and inexplicable. They have craved an understanding of the underlying order in the world. Today we still yearn to know why we are here and where we came from. Humanity’s deepest desire for knowledge is justification enough for our continuing quest. And our goal is nothing less than a complete description of the universe we live in./
-#+end_quote
-
-
-
-* AGE OF WONDER
-** /Richard Holmes/
-
-#+begin_quote
-  /The notion of an infinite, mysterious Nature, waiting to be discovered or seduced into revealing all her secrets, was widely held. Scientific instruments played an increasingly important role in this process of revelation, allowing man not merely to extend his senses passively-using the telescope, the microscope, the barometer-but to intervene actively, using the voltaic battery, the electrical generator, the scalpel or the air pump. Even the Montgolfier balloon could be seen as an instrument of discovery, or indeed of seduction./
-#+end_quote
-
-#+begin_quote
-  /The scientific revolution of the late seventeenth century had promulgated an essentially private, elitist, specialist form of knowledge. Its lingua franca was Latin, and its common currency mathematics. Its audience was a small (if international) circle of scholars and savants. Romantic science, on the other hand, had a new commitment to explain, to educate, to communicate to a general public./
-#+end_quote
-
-#+begin_quote
-  /Romanticism introduced three important themes into science biography. First, the ‘Newton syndrome’, the notion of ‘scientific genius’, in which science is largely advanced by a small number of preternaturally gifted (and usually isolated) individuals. Second, the existence of the ‘Eureka moment’, in which great discoveries are made without warning (or much preparation) in a sudden, blazing instant of revelation and synthesis. Third, the ‘Frankenstein nightmare’, in which all scientific progress is really a disguised form of destruction./
-#+end_quote
-
-#+begin_quote
-  /By the end of the 1820s British science had lost its three international stars, the three scientific knights whose names had been renowned throughout Europe. The deaths of Joseph Banks in 1820, William Herschel in 1822, and finally of Humphry Davy in 1829, marked the passing of an age. The idea that they had between them created a distinctively British science was itself part of Banks’s great bequest to the nation. But with these departures its future seemed uncertain, and its reputation undefended./
 #+end_quote
 
 
@@ -2040,6 +2022,47 @@
 
 
 
+* THE AGE OF WONDER
+** /Richard Holmes/
+
+#+begin_quote
+  /The notion of an infinite, mysterious Nature, waiting to be discovered or seduced into revealing all her secrets, was widely held. Scientific instruments played an increasingly important role in this process of revelation, allowing man not merely to extend his senses passively-using the telescope, the microscope, the barometer-but to intervene actively, using the voltaic battery, the electrical generator, the scalpel or the air pump. Even the Montgolfier balloon could be seen as an instrument of discovery, or indeed of seduction./
+#+end_quote
+
+#+begin_quote
+  /The scientific revolution of the late seventeenth century had promulgated an essentially private, elitist, specialist form of knowledge. Its lingua franca was Latin, and its common currency mathematics. Its audience was a small (if international) circle of scholars and savants. Romantic science, on the other hand, had a new commitment to explain, to educate, to communicate to a general public./
+#+end_quote
+
+#+begin_quote
+  /Romanticism introduced three important themes into science biography. First, the ‘Newton syndrome’, the notion of ‘scientific genius’, in which science is largely advanced by a small number of preternaturally gifted (and usually isolated) individuals. Second, the existence of the ‘Eureka moment’, in which great discoveries are made without warning (or much preparation) in a sudden, blazing instant of revelation and synthesis. Third, the ‘Frankenstein nightmare’, in which all scientific progress is really a disguised form of destruction./
+#+end_quote
+
+#+begin_quote
+  /Ballooning produced a new, and wholly unexpected, vision of the earth. It had been imagined that it would reveal the secrets of the heavens above, but in fact it showed the secrets of the world beneath. The early aeronauts suddenly saw the earth as a giant organism, mysteriously patterned and unfolding, like a living creature. For the first time the impact of man on nature was clearly revealed: the ever-expanding relationship of towns to countryside, roads to rivers, cultivated fields to forests, and the development of industry./
+#+end_quote
+
+#+begin_quote
+  /Ballooning proved to have extraordinary theatrical power to attract crowds, embody longing, and mix terror and the sublime with farce. It became showmanship, carnival, pure euphoria. A successful balloon launch, in the hands of one of the early masters like Pilâtre, Lunardi or Blanchard, became a communal expression of hope and wonder, of courage and comedy. The balloon crowd (especially in Paris) foreshadowed another kind of crowd-the revolutionary crowd. It contained elements of prophecy, both political and scientific. It was like a collective gasp of hope and longing./
+#+end_quote
+
+#+begin_quote
+  /The gratification of the love of knowledge is delightful to every refined mind; but a much higher motive is offered in indulging it, when that knowledge is felt to be practical power, and when that power may be applied to lessen the miseries or increase the comforts of our fellow-creatures./
+#+end_quote
+
+#+begin_quote
+  /By the end of the 1820s British science had lost its three international stars, the three scientific knights whose names had been renowned throughout Europe. The deaths of Joseph Banks in 1820, William Herschel in 1822, and finally of Humphry Davy in 1829, marked the passing of an age. The idea that they had between them created a distinctively British science was itself part of Banks’s great bequest to the nation. But with these departures its future seemed uncertain, and its reputation undefended./
+#+end_quote
+
+#+begin_quote
+  /There is a particular problem with finding endings in science. Where do these science stories really finish? Science is truly a relay race, with each discovery handed on to the next generation. Even as one door is closing, another door is already being thrown open. So it is with this book. The great period of Victorian science is about to begin. The new stories are passed into the hands of Michael Faraday, John Herschel, Charles Darwin… and the world of modern science begins to rush towards us./
+#+end_quote
+
+#+begin_quote
+  /The old, rigid debates and boundaries-science versus religion, science versus the arts, science versus traditional ethics-are no longer enough. We should be impatient with them. We need a wider, more generous, more imaginative perspective. Above all, perhaps, we need the three things that a scientific culture can sustain: the sense of individual wonder, the power of hope, and the vivid but questing belief in a future for the globe./
+#+end_quote
+
+
+
 * THE END OF EMPIRES AND A WORLD REMADE
 ** /Martin Thomas/
 
@@ -3452,6 +3475,25 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /It may now be difficult for us to imagine a time and a place in which war was not only acceptable but popular. For students, the greater the gap in time between themselves and their subject, the more difficult it is to recapture the attitudes and the ideas that made up the emotional world in which Europeans lived early in this century. Two world wars, numerous revolutions, a great depression, the advent of atomic weapons, bloody ethnic conflicts and the rise of widespread terrorism separate us psychologically from the men and women of 1914. The kind of thinking that led people to rejoice at the prospect of war is now difficult to recapture – but rejoice many of them did: there was dancing in the streets and spontaneous demonstrations of support for governments throughout Europe; men flocked to recruiting offices, fearful that the war might end before they had the opportunity to fight; there was a spirit of festival and a sense of community in all European cities as old class divisions and political rivalries were replaced by patriotic fervour. Students seeking to understand the origins of the First World War must be sensitive to the emotional distance that separates them from their forebears./
+#+end_quote
+
+
+
+* THE PANDA'S THUMB
+** /Stephen Jay Gould/
+
+#+begin_quote
+ /Our textbooks like to illustrate evolution with examples of optimal design—nearly perfect mimicry of a dead leaf by a butterfly or of a poisonous species by a palatable relative. But ideal design is a lousy argument for evolution, for it mimics the postulated action of an omnipotent creator. Odd arrangements and funny solutions are the proof of evolution—paths that a sensible God would never tread but that a natural process, constrained by history, follows perforce./
+#+end_quote
+
+- Main thesis is that evolution's best evidences aren't the "perfect" designs, but the imperfections. They survived despite the apparent lack of benefits for such, because that's how the organisms adopted to local conditions.
+
+#+begin_quote
+  /History is unique and complex. It cannot be reproduced in a flask. Scientists who study history, particularly an ancient and unobservable history not recorded in human or geological chronicles, must use inferential rather than experimental methods. They must examine modern results of historical processes and try to reconstruct the path leading from ancestral to contemporary words, organisms, or landforms. Once the path is traced, we may be able to specify the causes that led history to follow this, rather than another, route./
+#+end_quote
+
+#+begin_quote
+  /Darwin reasoned, if organisms have a history, then ancestral stages should leave remnants behind. Remnants of the past that don’t make sense in present terms—the useless, the odd, the peculiar, the incongruous—are the signs of history. They supply proof that the world was not made in its present form. When history perfects, it covers its own tracks./
 #+end_quote
 
 
