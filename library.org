@@ -12,10 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
+- Updated
   - The Panda's Thumb
-- Updated (and moved)
-  - Age of Wonder
 
 
 
@@ -3494,6 +3492,41 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Darwin reasoned, if organisms have a history, then ancestral stages should leave remnants behind. Remnants of the past that don’t make sense in present terms—the useless, the odd, the peculiar, the incongruous—are the signs of history. They supply proof that the world was not made in its present form. When history perfects, it covers its own tracks./
+#+end_quote
+
+- Alfred Russel Wallace had a more narrow and rigid view of natural selection than Darwin. Wallace believed that evolution indeed moves towards perfection, and any evolutionary trait that may seem unnecessary or vestigial simply can't be explained yet.
+- Ironically, this view is now what's called "Neo Darwinism", despite Darwin himself not subscribing to this view.
+- One main criticism of this theory that Gould advances is with modern humans: our brain is actually smaller compared with the Cro-Magnon ancestors.
+
+#+begin_quote
+  /The nature of scientific creativity is both a perennial topic of discussion and a prime candidate for seeking a golden mean. The two extreme positions have not been directly competing for allegiance of the unwary. They have, rather, replaced each other sequentially, with one now in the ascendency, the other eclipsed./
+#+end_quote
+
+- inductivism: science is built on accumulation of facts, and scientists arrived at their theories by collecting more facts and data. No part is reserved for human ingenuity and luck; the facts simply presented themselves.
+- eurekaism: science is a series of fortunate and chance encounters and discoveries. Scientists achieved their breakthrough by being at the right place at the right time, under the right circumstances.
+- Darwin didn't immediately arrive at his full theory of natural selection in his voyage. After returning to England, he spent the next two years studying his data, which is how he gradually formed his theory.
+- The author's assertion in this chapter is very intriguing. Darwin, in his later autobiography, recounted his past work with a more teleological sense. In reality, based on his own diaries, the theory of natural selection was formed rather more slowly and with less sense of certainty.
+- Hence, the author argued that Darwin's autobiography isn't the most accurate way of looking at the man's legacy. Darwin, without an outright intent of malice, told a much different story of his work.
+
+#+begin_quote
+  /Nature’s oddities are more than good stories. They are material for probing the limits of interesting theories about life’s history and meaning./
+#+end_quote
+
+#+begin_quote
+  /Organisms are much more than amalgamations of genes. They have a history that matters; their parts interact in complex ways. Organisms are built by genes acting in concert, influenced by environments, translated into parts that selection sees and parts invisible to selection. Molecules that determine the properties of water are poor analogues for genes and bodies. I may not be the master of my fate, but my intuition of wholeness probably reflects a biological truth./
+#+end_quote
+
+- Richard Dawkins, in his book Selfish Gene, argued that the gene is the basic unit of natural selection. The body is just a house for the genes. But the actual evolution is traced through genes passed along across generations.
+- Gould rejects this thesis. He notes that Dawkins ascribes too much significance to genes. The genes do not know the actual external conditions that influence evolutionary traits and behavior.
+
+#+begin_quote
+  /The thought of France’s finest anthropologists arguing passionately about the meaning of a dead colleague’s hat could easily provoke the most misleading and dangerous inference of all about history—a view of the past as a domain of naïve half-wits, the path of history as a tale of progress, and the present as sophisticated and enlightened./
+
+  /But if we laugh with derision, we will never understand. Human intellectual capacity has not altered for thousands of years so far as we can tell. If intelligent people invested intense energy in issues that now seem foolish to us, then the failure lies in our understanding of their world, not in their distorted perceptions./
+#+end_quote
+
+#+begin_quote
+  /I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops./
 #+end_quote
 
 
