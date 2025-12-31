@@ -3529,6 +3529,48 @@ there could be no genuine reconciliation without truth./
   /I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops./
 #+end_quote
 
+#+begin_quote
+  /Science is an inferential exercise, not a catalog of facts. Numbers, by themselves, specify nothing. All depends upon what you do with them./
+#+end_quote
+
+- /Natura non facit saltum/: nature does not make leaps
+
+#+begin_quote
+  /Events that “cannot happen” according to received wisdom
+rarely gain respectability by a simple accumulation of
+evidence for their occurrence; they require a mechanism to
+explain how they can happen./
+#+end_quote
+
+- /Nullius addictus jurare in verba magistri/: "I am not bound to swear allegiance to the words of any master."
+- Jared Diamond jumpscare lol. An essay written in the late 1970s cited Diamond's 1966 study of a tribe in New Guinea. Apparently this guy's actually been in the academe for so long.
+
+#+begin_quote
+  /I am, as several other essays emphasize, an advocate of the position that science is not an objective, truth-directed machine, but a quintessentially human activity, affected by passions, hopes, and cultural biases. Cultural traditions of thought strongly influence scientific theories, often directing lines of speculation, especially (as in this case) when virtually no data exist to constrain either imagination or prejudice./
+
+  /Gradualism, the idea that all change must be smooth, slow, and steady, was never read from the rocks. It represented a common cultural bias, in part a response of nineteenth-century liberalism to a world in revolution. But it continues to color our supposedly objective reading of life’s history./
+#+end_quote
+
+#+begin_quote
+  /It is easy to dismiss a crazy theory with laughter that debars any attempt to understand a man’s motivation—and the nummulosphere is a crazy theory. I find that few men of imagination are not worth my attention. Their ideas may be wrong, even foolish, but their methods often repay a close study. Few honest passions are not based upon some valid perception of unity or some anomaly worthy of note. The different drummer often beats a fruitful tempo./
+#+end_quote
+
+#+begin_quote
+  /Great thinkers are never passive before facts. They ask questions of nature; they do not follow her humbly. They have hopes and hunches, and they try hard to construct the world in their light. Hence, great thinkers also make great errors./
+#+end_quote
+
+#+begin_quote
+  /Modern historians of science have more respect for such inspired errors. They made sense in their own time; that they don’t in ours is irrelevant. Our century is no standard for all ages; science is always an interaction of prevailing culture, individual eccentricity, and empirical constraint./
+#+end_quote
+
+#+begin_quote
+  /Science contains few outright fools. Errors usually have their good reasons once we penetrate their context properly and avoid judgment according to our current perception of “truth.” They are usually more enlightening than embarrassing, for they are signs of changing contexts. The best thinkers have the imagination to create organizing visions, and they are sufficiently adventurous (or egotistical) to float them in a complex world that can never answer “yes” in all detail. The study of inspired error should not engender a homily about the sin of pride; it should lead us to a recognition that the capacity for great insight and great error are opposite sides of the same coin—and that the currency of both is brilliance./
+#+end_quote
+
+#+begin_quote
+  /Orthodoxy can be as stubborn in science as in religion. I do not know how to shake it except by vigorous imagination that inspires unconventional work and contains within itself an elevated potential for inspired error./
+#+end_quote
+
 
 
 * THE RISE AND FALL OF THE GREAT POWERS
