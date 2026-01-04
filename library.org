@@ -3571,6 +3571,14 @@ explain how they can happen./
   /Orthodoxy can be as stubborn in science as in religion. I do not know how to shake it except by vigorous imagination that inspires unconventional work and contains within itself an elevated potential for inspired error./
 #+end_quote
 
+#+begin_quote
+  /Complex structures, once totally lost in evolution, do not reappear in the same form. This statement invokes no mysterious directional force in evolution, but merely asserts a claim based upon mathematical probability. Complex parts are built by many genes, interacting in complex ways with the entire developmental machinery of an organism. If dismantled by evolution, how could such a system be built again, piece by piece?/
+#+end_quote
+
+#+begin_quote
+  /Geology has no more important lesson to teach than the vastness of time. We have no trouble getting our conclusions across intellectually—4.5 billion years rolls easily off the tongue as an age for the earth. But intellectual knowledge and gut appreciation are very different things. As a sheer number, 4.5 billion is incomprehensible, and we resort to metaphor and image to emphasize just how long the earth has existed and just how insignificant the length of human evolution has been—not to mention the cosmic millimicrosecond of our personal lives./
+#+end_quote
+
 
 
 * THE RISE AND FALL OF THE GREAT POWERS
