@@ -12,8 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- Updated
-  - The Panda's Thumb
+- New
+  - Our Cosmic Habitat
+- Fixed formatting
 
 
 
@@ -985,7 +986,7 @@
 - The book's title comes from Stephen Jay Gould's description of science and religion as being "non-overlapping magisteria".
 
 #+begin_quote
-  /as is frustratingly often the case with history, the truth is rather more complex and convoluted than the myths. Neither the specific encounters nor the master narrative hung from them turns out to be the morality play that has passed into the popular imagination./
+  /As is frustratingly often the case with history, the truth is rather more complex and convoluted than the myths. Neither the specific encounters nor the master narrative hung from them turns out to be the morality play that has passed into the popular imagination./
 #+end_quote
 
 - The main narrative of war between science and religion began in the wake of Darwin's work on theory of evolution. Medieval examples, like with Galileo and Copernicus, were revived in the 19th century in the course of evolution debates.
@@ -1486,6 +1487,23 @@
 
 #+begin_quote
   /The past is emphatically not destiny and the UN’s origins need not shape its future. But without some knowledge of the context from which it emerged, we are likely simply to continue rehearsing the arguments of the past rather than to move successfully beyond them./
+#+end_quote
+
+
+
+* OUR COSMIC HABITAT
+** /Martin Rees/
+
+#+begin_quote
+  /Our universe could have turned out to be an anarchic place, where atoms and the forces governing them are bafflingly different elsewhere in the cosmos from those we can study locally. But atoms in the most distant galaxies seem identical to those in our laboratories. Without this simplifying feature, we would have made far less progress in understanding our cosmic environment./
+#+end_quote
+
+#+begin_quote
+  /Twentieth-century physics rests on two great foundations: the quantum principle (governing the “inner space” of atoms) and Einstein’s relativity theory, which describes time, outer space, and gravity but doesn’t incorporate quantum effects. The structures erected on these foundations are still disjoint. Until there is a unified theory of the forces governing both cosmos and microworld, we won’t be able to understand the fundamental features of our universe: these features were imprinted on it at the very beginning, when everything was so squeezed that quantum fluctuations could shake the entire universe./
+#+end_quote
+
+#+begin_quote
+  /In this book I argue that the multiverse concept is already part of empirical science: we may already have intimations of other universes, and we could even draw inferences about them and about the recipes that led to them. In an infinite ensemble, the existence of some universes that are seemingly fine-tuned to harbor life would occasion no surprise; our own cosmic habitat would plainly belong to this unusual subset. Our entire universe is a fertile oasis within the multiverse./
 #+end_quote
 
 
@@ -3536,10 +3554,7 @@ there could be no genuine reconciliation without truth./
 - /Natura non facit saltum/: nature does not make leaps
 
 #+begin_quote
-  /Events that “cannot happen” according to received wisdom
-rarely gain respectability by a simple accumulation of
-evidence for their occurrence; they require a mechanism to
-explain how they can happen./
+  /Events that “cannot happen” according to received wisdom rarely gain respectability by a simple accumulation of evidence for their occurrence; they require a mechanism to explain how they can happen./
 #+end_quote
 
 - /Nullius addictus jurare in verba magistri/: "I am not bound to swear allegiance to the words of any master."
