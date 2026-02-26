@@ -13,9 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - Our Cosmic Habitat
-- Fixed formatting
-
+  - The Mathematical Experience
 
 
 * A BRIEF HISTORY OF TIME
@@ -1505,6 +1503,8 @@
 #+begin_quote
   /In this book I argue that the multiverse concept is already part of empirical science: we may already have intimations of other universes, and we could even draw inferences about them and about the recipes that led to them. In an infinite ensemble, the existence of some universes that are seemingly fine-tuned to harbor life would occasion no surprise; our own cosmic habitat would plainly belong to this unusual subset. Our entire universe is a fertile oasis within the multiverse./
 #+end_quote
+
+- Black holes may seem exotic and strange. But ironically, we know relatively more about black holes, and with greater certainty, than other cosmic bodies like galaxies and stars.
 
 
 
@@ -3476,6 +3476,31 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /Conquest, colonization, Christianization: the techniques of settling in new land, the ability to maintain cultural identity through legal forms and nurtured attitudes, the institutions and outlook required to confront the strange or abhorrent, to repress it and live with it, the law and religion as well as the guns and ships. The European Christians who sailed to the coasts of the Americas, Asia and Africa in the fifteenth and sixteenth centuries came from a society that was already a colonizing society. Europe, the initiator of one of the world’s major processes of conquest, colonization and cultural transformation, was also the product of one./
+#+end_quote
+
+
+
+* THE MATHEMATICAL EXPERIENCE
+** Philip Davis, Reuben Hersh
+
+#+begin_quote
+/Mathematics builds on itself; it is aggregative. Algebra builds on arithmetic. Geometry builds on arithmetic and on algebra. Calculus builds on all three. Topology is an offshoot of geometry, set theory, and algebra. Differential equations builds on calculus, topology, and algebra./
+#+end_quote
+
+#+begin_quote
+  /Proof serves many purposes simultaneously. In being exposed to the scrutiny and judgment of a new audience, the proof is subject to a constant process of criticism and revalidation. Errors, ambiguities, and misunderstandings are cleared up by constant exposure. Proof is respectability. Proof is the seal of authority./
+
+  /Proof, in its best instances, increases understanding by revealing the heart of the matter. Proof suggests new mathematics. The novices who studies proofs gets closer to the creation of new mathematics. Proof is mathematical power, the electric voltage of the subject which vitalizes the static assertions of the theorems./
+
+  /Finally, proof is ritual, and a celebration of the power of pure reason. Such an exercise in reassurance may be very necessary in view of all the messes that clear thinking clearly gets us into./
+#+end_quote
+
+#+begin_quote
+  /Aesthetic judgment exists in mathematics, is of importance, can be cultivated, can be passed from generation to generation, from teacher to student, from author to reader. But there is very little formal description of what it is and how it operates. Textbooks and monographs are devoid of comments on the aesthetic side of their topics, yet the aesthetic resides in the very manner of doing and the selection of what is done./
+#+end_quote
+
+#+begin_quote
+  /A sense of strong personal aesthetic delight derives from the phenomenon that can be termed "order out of chaos". To some extent the whole object of mathematics is to create order where previously chaos seemed to reign, to extract structure and invariance from the midst of disarray and turmoil./
 #+end_quote
 
 
