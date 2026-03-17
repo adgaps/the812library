@@ -12,8 +12,7 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - The Mathematical Experience
+- fixed formatting
 
 
 * A BRIEF HISTORY OF TIME
@@ -961,7 +960,7 @@
 #+end_quote
 
 #+begin_quote
-  /In the twentieth century, aesthetic appeal morphed from a bonus of scientific theories to a guide in their construction until, finally, aesthetic principles turned into mathematical requirements. Today we don’t reflect on arguments from beauty anymore—their nonscientific origins have gotten“lost in math.”/
+  /In the twentieth century, aesthetic appeal morphed from a bonus of scientific theories to a guide in their construction until, finally, aesthetic principles turned into mathematical requirements. Today we don’t reflect on arguments from beauty anymore—their nonscientific origins have gotten “lost in math.”/
 #+end_quote
 
 #+begin_quote
