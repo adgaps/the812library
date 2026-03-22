@@ -12,7 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- fixed formatting
+- New
+  - Astrophysics for People in a Hurry
+  - Just Six Numbers
 
 
 * A BRIEF HISTORY OF TIME
@@ -329,6 +331,29 @@
 
 - This quote is from the sixth edition I'm currently reading. My first copy /did not/ have this passage.
 - As I am now revisiting the book using the sixth edition, this is where my quotes will be lifted from. Except one: the very first quote in this book entry. That one is from the second edition, and I intend to keep that version here.
+
+
+
+* ASTROPHYSICS FOR PEOPLE IN A HURRY
+** Neil DeGrasse Tyson
+
+#+begin_quote
+  /The universe is under no obligation to make sense to you./
+#+end_quote
+
+#+begin_quote
+  /In the beginning, nearly fourteen billion years ago, all the space and all the matter and all the energy of the known universe was contained in a volume less than one-trillionth the size of the period that ends this sentence./
+#+end_quote
+
+#+begin_quote
+  /The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them./
+
+  /In other words, after the laws of physics, everything else is opinion./
+#+end_quote
+
+#+begin_quote
+  /The sphere to end all spheres—the largest and most perfect of them all—is the entire observable universe./
+#+end_quote
 
 
 
@@ -943,6 +968,29 @@
 
 #+begin_quote
   /Belief has always had something of an adventurous break or leap about it, because in every age it represents the risky enterprise of accepting what plainly cannot be seen as the truly real and fundamental. Belief was never simply the attitude automatically corresponding to the whole slant of human life; it has always been a decision calling on the depths of existence, a decision that in every age demanded a turnabout by man that can only be achieved by an effort of will./
+#+end_quote
+
+
+
+* JUST SIX NUMBERS
+** Martin Rees
+
+#+begin_quote
+  /Science advances by discerning patterns and regularities in nature, so that more and more phenomena can be subsumed into general categories and laws. Theorists aim to encapsulate the essence of the physical laws in a unified set of equations, and a few numbers. There is still some way to go, but progress is remarkable./
+#+end_quote
+
+#+begin_quote
+  /It is gratifying - and sometimes obscured by the hype that accompanies the biggest projects - that not all important discoveries demand the largest and most expensive equipment. Persistent and ingenious scien- tists can still achieve a lot with innovative but modest instruments on the ground./
+#+end_quote
+
+#+begin_quote
+  /The amazing and fascinating complexity of biological evolution, and the variety of life on Earth, makes us realize that everything in the inanimate world is, in comparison, very simple. And this simplicity - or, at least,/ relative /simplicity - is a feature of the objects that astronomers study. Things are hard to understand because they are/ complex, /not because they are/ big. /The challenge of fully elucidating how atoms assembled themselves - here on Earth, and perhaps on other worlds - into living beings intricate enough to ponder their origins is more daunting than anything in cosmology. For just that reason, I don't think it's presumptuous to aspire to understand our large-scale universe./
+#+end_quote
+
+#+begin_quote
+  /Peculiar and counterintuitive though they are, black holes are actually simpler to describe than any other celestial object. The Earth's structure depends on its history, and on what it's made of; similarly sized planets orbiting other stars would assuredly be very different. And the Sun, basically a huge globe of gas exhibiting continuous turbulence and flaring on its surface, would look different if it contained a different 'mix' of atoms. But a black hole loses all 'memory' of how it was formed and quickly settles down to a standard smooth state described just by two quantities: how much mass went into it, and how fast it is spinning./
+
+  /Black holes are as standardized as elementary particles. Einstein's theory tells us exactly how they distort space and time, and what shape their 'surface' is./
 #+end_quote
 
 
