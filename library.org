@@ -12,9 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - Astrophysics for People in a Hurry
-  - Just Six Numbers
+- Updated
+  - Our Cosmic Habitat
 
 
 * A BRIEF HISTORY OF TIME
@@ -1552,6 +1551,14 @@
 #+end_quote
 
 - Black holes may seem exotic and strange. But ironically, we know relatively more about black holes, and with greater certainty, than other cosmic bodies like galaxies and stars.
+
+#+begin_quote
+  /Progress in astronomy does not come from armchair theorists, even when they are aided by teraflop computers: it mainly depends on observations and on high-precision instruments right at the limit of technology. Astronomy has a longer history than any other science, except perhaps medicine. It was the first to involve precise measurement, and perhaps the first to do more good than harm. It was certainly the first to need large instruments. Astronomical artifacts—astrolabes, clocks, and telescopes—have been (and still are) monuments to human ingenuity and, as a bonus, often of great aesthetic appeal as well./
+#+end_quote
+
+#+begin_quote
+  /Astronomy and cosmology have a high profile and a positive image, in contrast to the ambivalence with which the public perceives, for instance, genetics or nuclear science. The essence of the new discoveries and concepts in these cosmic sciences can be conveyed, free of technicalities, to a wide general audience. I am uneasy, however, about the media’s portrayal of the subject: all too often, claims are hyped up, only to be retracted later, with the retraction usually being more subdued. When this happens, it is often the scientists themselves (or their press offices) who are at fault, not the journalists: indeed, journalists may soon become as skeptical of some researchers as they routinely are of politicians. Exaggerated claims about cosmology plainly are not as damaging as, for instance, misleading reports about medical research that raise false hopes of miracle cures. But it is in the cosmologists’ own interest to avoid hype. If we claim too often to make breakthroughs that overthrow all previous ideas, we’ll surely lose even the credibility that we deserve. Cosmologists thus should not blur the distinction between what is well established and what is conjectural. Otherwise there are two downsides. On the one hand, flaky ideas may gain undue credence: on the other hand, robust skeptics, realizing that parts of the subject are indeed still speculative, may fail to appreciate that other parts are firmly battle tested./
+#+end_quote
 
 
 
