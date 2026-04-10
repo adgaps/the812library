@@ -12,8 +12,11 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- Updated
-  - Our Cosmic Habitat
+- New
+  - Fateful Choices
+- fixed formatting for some author fields
+    
+
 
 
 * A BRIEF HISTORY OF TIME
@@ -819,6 +822,21 @@
 
 
 
+* FATEFUL CHOICES
+** /Ian Kershaw/
+
+#+begin_quote
+  /In looking at the history of wars, perhaps even more than at history generally, there is an almost inbuilt teleological impulse, which leads us to presume that the way things turned out is the only way they could have turned out./
+
+  /A decision implies that there were choices to be made, alternatives available. To the actors concerned, even the most ideologically committed (or blinkered), vital considerations were at stake, crucial assessments to be made, big risks to be taken. There was no inexorable path to be followed./
+#+end_quote
+
+#+begin_quote
+  /It could fairly be claimed that historians implicitly operate with short-range counterfactuals in terms of alternatives to immediate important occurrences or developments. Otherwise, they are unable fully to ascertain the significance of what actually did take place./
+#+end_quote
+
+
+
 * GENGHIS KHAN AND THE MAKING OF THE MODERN WORLD
 ** /Jack Weatherford/
 
@@ -972,7 +990,7 @@
 
 
 * JUST SIX NUMBERS
-** Martin Rees
+** /Martin Rees/
 
 #+begin_quote
   /Science advances by discerning patterns and regularities in nature, so that more and more phenomena can be subsumed into general categories and laws. Theorists aim to encapsulate the essence of the physical laws in a unified set of equations, and a few numbers. There is still some way to go, but progress is remarkable./
@@ -3535,7 +3553,7 @@ there could be no genuine reconciliation without truth./
 
 
 * THE MATHEMATICAL EXPERIENCE
-** Philip Davis, Reuben Hersh
+** /Philip Davis, Reuben Hersh/
 
 #+begin_quote
 /Mathematics builds on itself; it is aggregative. Algebra builds on arithmetic. Geometry builds on arithmetic and on algebra. Calculus builds on all three. Topology is an offshoot of geometry, set theory, and algebra. Differential equations builds on calculus, topology, and algebra./
