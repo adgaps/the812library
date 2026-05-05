@@ -12,10 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
+- Updated
   - Fateful Choices
-- fixed formatting for some author fields
-    
 
 
 
@@ -833,6 +831,10 @@
 
 #+begin_quote
   /It could fairly be claimed that historians implicitly operate with short-range counterfactuals in terms of alternatives to immediate important occurrences or developments. Otherwise, they are unable fully to ascertain the significance of what actually did take place./
+#+end_quote
+
+#+begin_quote
+  /Mussolini has often been portrayed as merely an opportunist, a dictator without driving ideological motivation and with simply an eye on the main chance, an exclusive focus on prestige, personal grandeur and power for its own sake. But this is to underestimate him. Entry into the war did not amount for Mussolini just to seizing the opportunity, important though the precise timing of intervention was. It was an inevitable step if his grandiose aims of an Italian imperium centred on the Mediterranean, erected on the ashes of the British and French Empires and the basis for making Italy a world power in deed and not just in presumption, were ever to be realized. It was the logical outcome of the pretensions he had harboured since coming to power almost two decades earlier./
 #+end_quote
 
 
