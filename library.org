@@ -13,7 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - Updated
-  - Fateful Choices
+  - A Brief History of Time
 
 
 
@@ -24,7 +24,9 @@
   /Ever since the dawn of civilization, people have not been content to see events as unconnected and inexplicable. They have craved an understanding of the underlying order in the world. Today we still yearn to know why we are here and where we came from. Humanity’s deepest desire for knowledge is justification enough for our continuing quest. And our goal is nothing less than a complete description of the universe we live in./
 #+end_quote
 
-
+#+begin_quote
+  /In general, quantum mechanics does not predict a single definite result for an observation. Instead, it predicts a number of different possible outcomes and tells us how likely each of these is./
+#+end_quote
 
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
