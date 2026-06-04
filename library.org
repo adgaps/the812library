@@ -12,8 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- Updated
-  - A Brief History of Time
+- New
+  - The Fabric of the Cosmos
 
 
 
@@ -1524,7 +1524,7 @@
 #+end_quote
 
 #+begin_quote
-  /Then strength of local, cellular, politics, plus the extension of literate practices to ever-wider social groups, plus a continuing high-equilibrium economic system, plus a newly intrusive state, made possible by taxation, communications and, once again, literacy, helped to create political systems across Europe which allowed engagement, nearly everywhere. This marks the last century of the middle ages, not the supposedly late medieval features which mark so many textbooks: crisis, or anxiety, or the Renaissance, or a sense that the continent was, somehow, waiting for the Reformation and European global conquest. And it is one of the main elements that the medieval period handed on to future generations./
+  /The strength of local, cellular, politics, plus the extension of literate practices to ever-wider social groups, plus a continuing high-equilibrium economic system, plus a newly intrusive state, made possible by taxation, communications and, once again, literacy, helped to create political systems across Europe which allowed engagement, nearly everywhere. This marks the last century of the middle ages, not the supposedly late medieval features which mark so many textbooks: crisis, or anxiety, or the Renaissance, or a sense that the continent was, somehow, waiting for the Reformation and European global conquest. And it is one of the main elements that the medieval period handed on to future generations./
 #+end_quote
 
 
@@ -2201,6 +2201,27 @@
 
 #+begin_quote
   /Imperialist thinking shaped ideas about how sovereign statehood should be constituted and when independent nations should be recognized. Its traces were evident in everything from the constitutional plans of late colonial reformists and the calamities of partition to the developmental projects and human rights discourses promoted by supranational agencies and NGOs in the 1960s and beyond. The decolonizing world was assigned junior status within this global political geography, its elevation to full integration dependent on foreign-led modernization, capital investment, and technology transfer./
+#+end_quote
+
+
+
+* THE FABRIC OF THE COSMOS
+** /Brian Greene/
+
+#+begin_quote
+  /Space and time capture the imagination like no other scientific subject. For good reason. They form the arena of reality, the very fabric of the cosmos. Our entire existence — everything we do, think, and experience — takes place in some region of space during some interval of time. Yet science is still struggling to understand what space and time actually are./
+#+end_quote
+
+#+begin_quote
+  /To Isaac Newton, space and time simply were — they formed an inert, universal cosmic stage on which the events of the universe played themselves out. To his contemporary and frequent rival Gottfried Wilhelm von Leibniz, "space" and "time" were merely the vocabulary of relations between where objects were and when events took place. Nothing more. But to Albert Einstein, space and time were the raw material underlying reality. Through his theories of relativity, Einstein jolted our thinking about space and time and revealed the principal part they play in the evolution of the universe. Ever since, space and time have been the sparkling jewels of physics. They are at once familiar and mystifying; fully understanding space and time has become physics' most daunting challenge and sought-after prize./
+#+end_quote
+
+#+begin_quote
+  /A magnetic field provides a magnet what an army provides a dictator and what an auditor provides the IRS: influence beyond their physical boundaries, which allows force to be exerted out in the "field". That is why a magnetic field is also called a force field./
+#+end_quote
+
+#+begin_quote
+  /Speculating about the future of science is an entertaining and constructive exercise. It places our current undertakings in a broader context, and emphasizes the overarching goals toward which we are slowly and deliberately working. But when such speculation turns to the future of spacetime itself, it takes on an almost mystical quality; we're considering the fate of the very things that dominate our sense of reality./
 #+end_quote
 
 
