@@ -12,8 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - The Fabric of the Cosmos
+- Updated
+  - The Rise and Fall of the Great Powers
 
 
 
@@ -3720,6 +3720,10 @@ there could be no genuine reconciliation without truth./
 
 * THE RISE AND FALL OF THE GREAT POWERS
 ** /Paul Kennedy/
+
+#+begin_quote
+  /The relative strengths of the leading nations in world affairs never remain constant, principally because of the uneven rate of growth among different societies and of the technological and organizational breakthroughs which bring a greater advantage to one society than to another./
+#+end_quote
 
 #+begin_quote
   /The argument in this book has been that there exists a dynamic for change, driven chiefly by economic and technological developments, which then impact upon social structures, political systems, military power, and the position of individual states and empires./
