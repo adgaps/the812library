@@ -1,4 +1,4 @@
-#+TITLE: LIBRARY
+ #+TITLE: LIBRARY
 #+AUTHOR: adrian
 #+DESCRIPTION: This Library system is a curation of quotes from, and notes for, the books I've read. 
 
@@ -12,8 +12,11 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
+- New
+  - On the Origin of Time
+  - The Anatomy of Historical Knowledge
 - Updated
-  - The Rise and Fall of the Great Powers
+  - The Fabric of the Cosmos
 
 
 
@@ -1557,6 +1560,35 @@
 
 
 
+* ON THE ORIGIN OF TIME
+** /Thomas Hertog/
+
+#+begin_quote
+  /Ever since Galileo and Newton, physics has been based on a dualism of some sort, in that it has relied on a fundamental separation between two distinct sources of information. First, there are the laws of evolution, mathematical equations that prescribe how physical systems change in time from one state to another. Second, there are boundary conditions, a concise description of the state of a system at a given moment in time. The laws of evolution take that state and evolve it, either backward or forward in time, to determine what the system was like at an earlier moment or what it will be at a later moment. It is the combination of the laws of evolution and the boundary conditions that yields the framework for prediction on which physics and cosmology pride themselves./
+#+end_quote
+
+#+begin_quote
+  /The picture suggested by the Standard Model of particle physics, applied in the melting pot of the hot big bang, is that the universe wasn't born with the values of the particle masses and force strengths that we have today. Instead these are properties of a broken-symmetry state that only congealed when the universe expanded and cooled. This is a profound insight. It tells us that in the very earliest stages of cosmic expansion some of the basic structure of the physical laws co-evolved with the universe they governed./
+#+end_quote
+
+#+begin_quote
+  /It is one of the most surprising features of quantum mechanics that the experimenter's observing and measuring enter explicitly in the process of prediction./
+#+end_quote
+
+#+begin_quote
+  /A quantum universe constantly puts itself together, piece by piece, out of a haze of possibilities, somewhat like a forest emerging out of the fog on a damp gray morning. Its history is not how we usually think of history, as a sequence of one thing happening after another. Rather it is a marvelous synthesis that includes us and in which what unfolds now retroactively shapes what was back then. This top-down element gives observers, in the quantum sense, a subtle creative role in cosmic affairs. It imbues cosmology with a delicate subjective touch. We — in our observership — are quite literally involved in the making of cosmic history./
+#+end_quote
+
+#+begin_quote
+  /A black hole in general relativity is the ultimate trash can, with a singularity in the interior that has an infinite capacity to absorb and destroy all information faling into it./
+#+end_quote
+
+#+begin_quote
+  /The storage capacity of black holes isn't determined by their interior volume but by the area of their horizon surface. It is as if black holes do not have an interior but are holograms./
+#+end_quote
+
+
+
 * OUR COSMIC HABITAT
 ** /Martin Rees/
 
@@ -2155,6 +2187,15 @@
 
 
 
+* THE ANATOMY OF HISTORICAL KNOWLEDGE
+** /Maurice Mandelbaum/
+
+#+begin_quote
+  /When one take into account the interplay of general and special histories, and the fact that although sequential, explanatory, and interpretive inquiries are diverse in form they cannot exist in complete isolation from one another, the anatomy of historical knowledge reveals a unity of purpose and a unity of method: to understand the concrete nature of societies, the changes they have undergone, and the cultural products they have produced./ 
+#+end_quote
+
+
+
 * THE END OF EMPIRES AND A WORLD REMADE
 ** /Martin Thomas/
 
@@ -2221,7 +2262,19 @@
 #+end_quote
 
 #+begin_quote
+  /A common misconception is that the big bang provides a theory of cosmic origins. It doesn't. The big bang is a theory that delineates cosmic evolution from a split second after whatever happened to bring the universe into existence, but it says nothing at all about time zero itself./
+#+end_quote
+
+#+begin_quote
   /Speculating about the future of science is an entertaining and constructive exercise. It places our current undertakings in a broader context, and emphasizes the overarching goals toward which we are slowly and deliberately working. But when such speculation turns to the future of spacetime itself, it takes on an almost mystical quality; we're considering the fate of the very things that dominate our sense of reality./
+#+end_quote
+
+#+begin_quote
+  /Just as you may seek a second opinion to corroborate a medical diagnosis, physicists, too, seek second opinions when they come upon data or theories that point towards puzzling results. Of these second opinions, the most convincing are those that reach the same conclusion from a point of view that differs sharply from the original analysis. When the arrows of explanation converge on one spot from different angles, there's a good chance that they're pointing at the scientific bull's-eye./
+#+end_quote
+
+#+begin_quote
+  /But for me, there would be nothing more poetic, no outcome more graceful, no unification more complete, than for us to confirm our theories of the ultra-small - our theories about the ultramicroscopic makeup of space, time, and matter - by turning our most powerful telescopes skyward and gazing silently at the stars./
 #+end_quote
 
 

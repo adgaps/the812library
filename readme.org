@@ -25,11 +25,7 @@ Many minor errors and typos may take time to be corrected, or for such correctio
 
 * FUTURE
 
-As I build this library, I will think of other "features" I can add to make this easier for me to peruse. 
-
-Some ideas I'm considering for the immediate and near future:
-
-- Highlighting the quotes I like most.
+I have a Github pages project partly meant to showcase these quotes in a more presentable way. This repository's future will be tied to that other project, and right now I don't rule out the possibility of sunsetting this library in the near future.
 
 **** *CREATED: 26 MAY 2025*
 **** *EDITOR: GNU EMACS 30.1*
