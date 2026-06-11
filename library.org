@@ -12,11 +12,7 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - On the Origin of Time
-  - The Anatomy of Historical Knowledge
-- Updated
-  - The Fabric of the Cosmos
+- fixed some entries on Paris 1919
 
 
 
@@ -1630,7 +1626,7 @@
 - The above quotes are from the Foreword, written by Richard Holbrooke.
 
 #+begin_quote
-  /For six months in 1919, Paris was the capital of the world. The Peace Conference was the world’s most important business, the peacemakers its most powerful people. They met day after day. They argued, debated, quarreled and made it up again. They created new countries and new organizations. They dined together  went to the theater together, and between January and June, Paris was at once the world’s government, its court of appeal and its parliament, the focus of its fears and hopes. Officially, the Peace Conference lasted into 1920, but those first six months are the ones that count,  the key decisions were taken and the crucial chains of events set in motion. The world has never seen anything quite like it and never will again./
+  /For six months in 1919, Paris was the capital of the world. The Peace Conference was the world’s most important business, the peacemakers its most powerful people. They met day after day. They argued, debated, quarreled and made it up again. They created new countries and new organizations. They dined together, went to the theater together, and between January and June, Paris was at once the world’s government, its court of appeal and its parliament, the focus of its fears and hopes. Officially, the Peace Conference lasted into 1920, but those first six months are the ones that count,  the key decisions were taken and the crucial chains of events set in motion. The world has never seen anything quite like it and never will again./
 #+end_quote
 
 #+begin_quote
@@ -1661,7 +1657,7 @@
 - Wilson liked to emphasize the concept of self-determination, but it was vague and ambiguous. He insisted on the principle as applied to Poland, but did little for Ireland.
 
 #+begin_quote
-  /American exceptionalism has always had two sides: the one eager to set the world to rights, the other ready to  its back with contempt if its message should be ignored./
+  /American exceptionalism has always had two sides: the one eager to set the world to rights, the other ready to turn its back with contempt if its message should be ignored./
 
   /Faith in their own exceptionalism has sometimes led to a certain obtuseness on the part of Americans, a tendency to preach at other nations rather than listen to them, a tendency as well to assume that American motives are pure where those of others are not. And Wilson was very American./
 #+end_quote
@@ -1761,7 +1757,7 @@
 - The issue of Saar was settled with French advantage: they kept ownership of the lucrative coal mines, and the region was placed under League supervision. The French also kept possession of the primary bridgeheads, to be evacuated gradually throughout a 15-year period.
 
 #+begin_quote
-  /The rebirth of poland was one of the great stories of the Paris Peace Conference. It was also a source of endless difficulties. The commission on the borders of the new Poland had more meetings than any other at the conference./
+  /The rebirth of Poland was one of the great stories of the Paris Peace Conference. It was also a source of endless difficulties. The commission on the borders of the new Poland had more meetings than any other at the conference./
 
   /The peacemakers were reaching out hundreds of miles from Paris to impose order on a protean world of shifting allegiances, civil wars, refugees and bandit gangs, where the collapse of old empires had left law and order, trade and communications in shreds./
 #+end_quote
@@ -1806,7 +1802,7 @@
 #+end_quote
 
 #+begin_quote
-  /In 1868 reforming nobles seized power from the old Tokugawa regime in the name of an old schoolmate  Saionji, now the Meiji emperor. Saionji fought on their side in the brief civil war that followed. In 1868 reforming nobles seized power from the old Tokugawa regime in the name of an old schoolmate of Saionji, now the Meiji emperor. Saionji fought on their side in the brief civil war that followed./
+  /In 1868 reforming nobles seized power from the old Tokugawa regime in the name of an old schoolmate of Saionji, now the Meiji emperor. Saionji fought on their side in the brief civil war that followed./
 
   /The Meiji Restoration (the misleading name given to the coup) saw the start of an extraordinary national effort as young Japanese were shipped abroad by the hundreds to study and Western experts were paid handsomely to come to Japan so that their brains could be picked./
 
@@ -1838,7 +1834,7 @@
 - Even in America, the surrender of Shantung to the Japanese proved unpopular. Some members of the American delegation even resigned in protest.
 
 #+begin_quote
-  /Venizelos was Greece’s greatest asset and, in the long run, its greatest liability. Without him Greece would never have won what it did at the conference table; without him it would not have tried to swallow so much of Asia Minor.
+  /Venizelos was Greece’s greatest asset and, in the long run, its greatest liability. Without him Greece would never have won what it did at the conference table; without him it would not have tried to swallow so much of Asia Minor./
 #+end_quote
 
 #+begin_quote
@@ -2191,7 +2187,7 @@
 ** /Maurice Mandelbaum/
 
 #+begin_quote
-  /When one take into account the interplay of general and special histories, and the fact that although sequential, explanatory, and interpretive inquiries are diverse in form they cannot exist in complete isolation from one another, the anatomy of historical knowledge reveals a unity of purpose and a unity of method: to understand the concrete nature of societies, the changes they have undergone, and the cultural products they have produced./ 
+  /When one take into account the interplay of general and special histories, and the fact that although sequential, explanatory, and interpretive inquiries are diverse in form they cannot exist in complete isolation from one another, the anatomy of historical knowledge reveals a unity of purpose and a unity of method: to understand the concrete nature of societies, the changes they have undergone, and the cultural products they have produced./
 #+end_quote
 
 
