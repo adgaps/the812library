@@ -1,4 +1,4 @@
- #+TITLE: LIBRARY
+#+TITLE: LIBRARY
 #+AUTHOR: adrian
 #+DESCRIPTION: This Library system is a curation of quotes from, and notes for, the books I've read. 
 
@@ -12,8 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- fixed some entries on Paris 1919
-
+- New
+  - The Sleepwalkers
+fixed typos
 
 
 * A BRIEF HISTORY OF TIME
@@ -2516,13 +2517,13 @@ there could be no genuine reconciliation without truth./
 ** /John Keegan/
 
 #+begin_quote
-  /The First World War inaugurated the manufacture of mass death that the Second brought to a pitiless consummation./
+   /The First World War inaugurated the manufacture of mass death that the Second brought to a pitiless consummation./
 #+end_quote
 
 #+begin_quote
   /The First, unlike the Second World War, saw no systematic displacement of populations, no deliberate starvation, no expropriation, little massacre or atrocity. It was, despite the efforts by state propaganda machines to prove otherwise, and the cruelties of the battlefield apart, a curiously civilised war./
 
-  /Yet it damaged civilisation, the rational and liberal civilisation of the European enlightenment, permanently for the worse and, through the damage done, world civilisation also. Pre-war Europe, imperial though it was in its relations with most of the world beyond the continent, offered respect to the principles of constitutionalism, the rule of law and representative government. Post-war Europe rapidly relinquished nconfidence in such principles./
+  /Yet it damaged civilisation, the rational and liberal civilisation of the European enlightenment, permanently for the worse and, through the damage done, world civilisation also. Pre-war Europe, imperial though it was in its relations with most of the world beyond the continent, offered respect to the principles of constitutionalism, the rule of law and representative government. Post-war Europe rapidly relinquished confidence in such principles./
 #+end_quote
 
 - Author considers the Armenian genocide to have been more closely related to the Ottoman Imperial system than to the greater context of the First World War.
@@ -3875,6 +3876,19 @@ there could be no genuine reconciliation without truth./
 
 #+begin_quote
   /This historical account seeks not to return to the past but to bring the best of the secular Enlightenment with us into the future./
+#+end_quote
+
+
+
+* THE SLEEPWALKERS
+** /Christopher Clark/
+
+#+begin_quote
+  /The debate over why [the First World War] happened began before the first shots were fired and has been running ever since. It has spawned an historical literature of unparalleled size, sophistication and moral intensity. For international theorists the events of 1914 remain the political crisis par excellence, intricate enough to accommodate any number of hypotheses./
+#+end_quote
+
+#+begin_quote
+  /The protagonists of 1914 were sleepwalkers, watchful but unseeing, haunted by dreams, yet blind to the reality of the horror they were about to bring into the world./
 #+end_quote
 
 
