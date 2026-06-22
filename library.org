@@ -12,9 +12,10 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - The Sleepwalkers
-fixed typos
+- Updated
+  - Maoism
+- minor fixes
+
 
 
 * A BRIEF HISTORY OF TIME
@@ -1084,7 +1085,11 @@ fixed typos
 ** /Julia Lovell/
 
 #+begin_quote
-  /For Maoism is an unstable political creed that simultaneously reveres centralised party and mass leadership, collective obedience and anti-state rebellion. In its global journeys, Maoism has served causes that questioned or attacked existing governments; in its country of origin, it has created an omnipotent party state. It has lionised peasant revolution, while winning many of its followers or sympathisers from educated elites (Louis Althusser, Jean-Paul Sartre, Michel Foucault, Baburam Bhattarai, Abimael Guzmán) – it has been a revolution spread through books./
+  /For many growing up in the developing world between the 1950s and 1970s, Mao-era China did not (and still does not) represent a basket case, but rather an admirable, independent alternative to the political models the US and USSR. It provided an example of a poor, agrarian country persecuted by Western or Japanese expansionism standing up for itself in the world./
+#+end_quote
+
+#+begin_quote
+  /Maoism is an unstable political creed that simultaneously reveres centralised party and mass leadership, collective obedience and anti-state rebellion. In its global journeys, Maoism has served causes that questioned or attacked existing governments; in its country of origin, it has created an omnipotent party state. It has lionised peasant revolution, while winning many of its followers or sympathisers from educated elites (Louis Althusser, Jean-Paul Sartre, Michel Foucault, Baburam Bhattarai, Abimael Guzmán) – it has been a revolution spread through books./
 #+end_quote
 
 - For a few years since inception, the CCP was more intellectual and less violent, its members mostly nonchalant and had little expectations. It was in the wake of the 1927 massacre of Communists that the Party became convinced of the need to raise an army and resort to violent struggle.
