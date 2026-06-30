@@ -12,9 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- Updated
-  - Maoism
-- minor fixes
+- New
+  - Darwin's Dangerous Idea
+- fixed typos and missing words
 
 
 
@@ -819,6 +819,19 @@
 
 #+begin_quote
   /Continental philosophy has been reduced to a list of proper names, with various competing methodologies attached, that one could survey with enthusiasm, bewilderment, or indifference during one or a series of introductory courses, or by reading books like this one. In my view, it is no longer a question of worshipping a series of proper names, but of doing something with what they left behind; doing creative, inventive thematic work and not restricting oneself to translation and commentary. Philosophy must be clearly argued conceptual creation in critical relation to given traditions of thinking, and not a melancholic mourning for missed opportunities or a mere technique for sharpening one’s common sense./
+#+end_quote
+
+
+
+* DARWIN'S DANGEROUS IDEA
+** /Daniel Dennett/
+
+#+begin_quote
+  /Science is not done by quoting authorities, however eloquent and eminent, and then evaluating their arguments. Scientists do, however, quite properly persist in holding forth, in popular and not-so-popular books and essays, putting forward their interpretations of the work in the lab and the field, and trying to influence their fellow scientists./
+#+end_quote
+
+#+begin_quote
+  /There is no such thing as a sound Argument from Authority, but authorities can be persuasive, sometimes rightly and sometimes wrongly./
 #+end_quote
 
 
@@ -2315,9 +2328,9 @@
 - Throughout the 1960s, British colonies gained independence, through rushed processes that left the new countries with inexperienced bureaucrats and underdeveloped economic autonomy.
 
 #+begin_quote
-  /So rapid was the pace of change that in some cases British officials dealing with arrangements for the transfer of power – new constitutions, elections  parliamentary legislation – were hard pressed  complete them in time./
+  /So rapid was the pace of change that in some cases British officials dealing with arrangements for the transfer of power – new constitutions, elections and parliamentary legislation – were hard pressed  complete them in time./
 
-  /For all the unseemly haste, the transfer of power was accomplished efficiently and with a  amount of goodwill. One by one, the new states emerged amid much jubilation and to the world’s applause./
+  /For all the unseemly haste, the transfer of power was accomplished efficiently and with a remarkable amount of goodwill. One by one, the new states emerged amid much jubilation and to the world’s applause./
 #+end_quote
 
 - From the moment it gained independence, arguably even before, Congo has been mired in political bickering and public chaos.
@@ -2330,7 +2343,7 @@
 - The chaos further worsened, now coupled with international condemnation of Lumumba's death. In 1965, Joseph Mobutu staged a coup and declared himself president.
 
 #+begin_quote
-  /In 1948 Afrikaner Nationalists came to power  their own version of racial rule they called apartheid, determined to ensure white supremacy for all time and to destroy the swart gevaar, the black peril they said white society faced. Stage by stage, the black population was subjected to a vast array of government controls and segregated from whites wherever possible. Every facet of their life – residence, employment, education, public amenities and politics – was regulated to keep them in a strictly subordinate role. In the name of apartheid, more than three million people were uprooted from their homes to satisfy government planners; millions more were imprisoned for infringing apartheid regulations. There was no pretence about the objective./
+  /In 1948 Afrikaner Nationalists came to power bearing their own version of racial rule they called apartheid, determined to ensure white supremacy for all time and to destroy the swart gevaar, the black peril they said white society faced. Stage by stage, the black population was subjected to a vast array of government controls and segregated from whites wherever possible. Every facet of their life – residence, employment, education, public amenities and politics – was regulated to keep them in a strictly subordinate role. In the name of apartheid, more than three million people were uprooted from their homes to satisfy government planners; millions more were imprisoned for infringing apartheid regulations. There was no pretence about the objective./
 #+end_quote
 
 #+begin_quote
@@ -2456,7 +2469,7 @@
 - UN returned in 1992, but had very little resources to make significant help for Somalia.
 - The US became more involved in the UN operations. Initially, they sought to restore order without resorting to violence. To an extent they managed to do so, but had to broker deals with local factions, and forego opportunities to disarm militias.
 - When the UN sought to further extend control over Somalia, the US involvement became more active, and unwittingly lopsided against a specific faction.
-- A failed operation in 1993 to capture militia leader Aideed saw the US elite troops trapped and surrounded by hundreds of milita, with some of their Black Hawk choppers being shot down. The debacle tarnished US operations in Somalia, which President Clinton terminated.
+- A failed operation in 1993 to capture militia leader Aideed saw the US elite troops trapped and surrounded by hundreds of militia, with some of their Black Hawk choppers being shot down. The debacle tarnished US operations in Somalia, which President Clinton terminated.
 - Once US pulled out, other countries also felt they have no need to cooperate with UN peacekeeping operations in Somalia. The whole UN involvement in the country has fallen apart.
 - Clinton modified US policy on UN peacekeeping missions, providing for clear and strict preconditions such as well-defined scope, effective ceasefire plans, and proper exit strategies. Most of all, the operations must serve vital national interests.
 
@@ -2483,13 +2496,12 @@
   /Despite an oil bonanza of $280 billion, the economy was derelict; public services were chronically inefficient; schools and hospitals were decaying; higher education had virtually collapsed; roads were pitted with potholes; the telephone system hardly functioned. There were frequent power cuts; even shortages of domestic petroleum supplies. On average, Nigerians were poorer in 2000 than they had been at the start of the oil boom in the early 1970s./
 #+end_quote
 
-- In the 1990s, Omar al-Bashir's Islamist dictatorship became an incubator for extremist activities. One of the figures involved is Osama bin Laden.
+- In the 1990s, Omar al-Bashir's Islamist dictatorship in Sudan became an incubator for extremist activities. One of the figures involved is Osama bin Laden.
 - Robert Mugabe, upon becoming prime minister of Zimbabwe, initially treated the white population well, even heaping praises and support from both within the country and internationally.
 - However, Mugabe's relentless and violent drive for a one-party state eroded the trust and harmony with the whites. He also later began publicly deriding them as racists, and vowed to crush the white population's dominance on Zimbabwean economy.
 
 #+begin_quote
-  /Though truth might not always lead to reconciliation,
-there could be no genuine reconciliation without truth./
+  /Though truth might not always lead to reconciliation, there could be no genuine reconciliation without truth./
 #+end_quote
 
 - Mandela's presidency was marked by careful compromises and cautious approach to South Africa's various problems.
