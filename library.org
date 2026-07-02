@@ -13,8 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - Darwin's Dangerous Idea
-- fixed typos and missing words
+  - Revising History in Communist Europe
 
 
 
@@ -1953,6 +1952,37 @@
 
 #+begin_quote
   /The peacemakers, however, had to deal with reality, not what might have been. They grappled with huge and difficult questions. How can the irrational passions of nationalism or religion be contained before they do more damage? How can we outlaw war? We are still asking those questions./
+#+end_quote
+
+
+
+* REVISING HISTORY IN COMMUNIST EUROPE
+** /David AJ Reynolds/
+
+#+begin_quote
+  /There was no aspect of culture in which a communsit regime's monopoly was as important as historical memory. While this grip often means the erasure of past events and people, it just as significantly entailed the manner in which an event was conceptualized and the loaded terms used to describe it. The way the past was interpreted and recalled was not a peripheral academic issue, but a deeply political matter that cut to the heart of revolutionary states' legitimacy and authority./
+#+end_quote
+
+#+begin_quote
+  /There was no history more important for communist regimes to control than the story of events almost universally remembered or experienced that had taken place on the watch and under the direction of those regimes. It was one thing to repaint the Reformation or erase Molotov-Ribbentrop, but it was quite another to bend and bury the historical memory of the late 1940s and early 1950s./
+#+end_quote
+
+#+begin_quote
+  /The memory of Stalinism outlasted the policies that created it, the means that delivered it, and the powers that sought to forget it. But efforts to both remember and forget launched a struggle inside communist regimes — and between them and the public — about what these misdeeds were; what they meant for nation, state, and party; and how they should affect what happened next./
+#+end_quote
+
+#+begin_quote
+  /Communism's view of history conceptualized a world in which certain inexorable forces compelled events forward. As the dialectic wheels of history ground ever onward, proletarian revolution emerged as an 'inevitable' response to bourgeois capitalism, destined to destroy it completely and replace it with a new world order defined by Communism. Being part of and serving this gloriously unavoidable process is what it means to be an orthodox Marxist./
+  
+  /Just as revolution is a force of history which revolutionaries serve and align with, counter-revolution is an equally inevitable counter-force to revolution. It is also, therefore, not necessary for counter-revolution (or revolution) to be happening as a definable event for it to be present and influential./
+#+end_quote
+
+#+begin_quote
+  /In communist dogma, counter-revolution objectively has to exist, wherever the force of revolution is manifest, until its eventual defeat; the only debatable points being how it will emerge and who can be considered to have openly and actively aligned themselves with it./
+#+end_quote
+
+#+begin_quote
+  /It is a general feature of communist regimes' historiography that once a revision and new interpretation have been articulated and imposed, it is then mainly stated and rarely explained further. It becomes just another projection of power — not open to discussion./
 #+end_quote
 
 
