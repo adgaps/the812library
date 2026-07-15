@@ -12,9 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - Revising History in Communist Europe
-
+- Updated
+  - Revising History
+  - The Rise and Fall of the Great Powers
 
 
 * A BRIEF HISTORY OF TIME
@@ -1985,6 +1985,14 @@
   /It is a general feature of communist regimes' historiography that once a revision and new interpretation have been articulated and imposed, it is then mainly stated and rarely explained further. It becomes just another projection of power — not open to discussion./
 #+end_quote
 
+#+begin_quote
+  /Communist regimes demanded a monopoly on the definition and memory of the past, along with monopolies on so many parts of life. But there was one crucial element in a show trial in which its construction of the past still depended on the accused and the non-official reality they represented: the confession. This was an essential part of a show trial because rarely did evidence move beyond the circumstantial. The confession affirmed the legitimacy of the process./
+#+end_quote
+
+#+begin_quote
+  /In the light of Europe's twentieth century, it would seem foolhardy for anyone, let alone those engaged in the destruction of previous regimes, ideas, and identities, to imagine the permanence of their own constructions and pretentions. The contested meaning of Hungary's 1956 during the Prague Spring demonstrated that the more powerful an historical symbol, the more subject it is to interpretation and re-interpretation, revision, and reconstruction. In these changeable meanings of the Hungarian uprising lay the definitions, categories, and ideas by which leaders and governments attempted to understand, shape, and define the Prague Spring./
+#+end_quote
+
 
 
 * RUSSIA'S WAR
@@ -3817,6 +3825,18 @@
 
 * THE RISE AND FALL OF THE GREAT POWERS
 ** /Paul Kennedy/
+
+#+begin_quote
+  /To say that Europe’s decentralized states system was the great obstacle to centralization is not, then, a tautology. Because there existed a number of competing political entities, most of which possessed or were able to buy the military means to preserve their independence, no single one could ever achieve the breakthrough to the mastery of the continent./
+#+end_quote
+
+#+begin_quote
+  /Despite his own assumptions of grandeur, Napoleon seems to have become obsessed with Britain at times—with its invulnerability, its maritime dominance, its banks and credit system—and to have yearned to see it all tumble in the dust./
+#+end_quote
+
+#+begin_quote
+  /While it is obvious that no one in 1885 could accurately forecast the ruin and desolation which prevailed in Europe sixty years later, it was the case that many acute observers in the late nineteenth century sensed the direction in which the dynamics of world power were driving. Intellectuals and journalists in particular, but also day-to-day politicians, talked and wrote in terms of a vulgar Darwinistic world of struggle, of success and failure, of growth and decline./
+#+end_quote
 
 #+begin_quote
   /The relative strengths of the leading nations in world affairs never remain constant, principally because of the uneven rate of growth among different societies and of the technological and organizational breakthroughs which bring a greater advantage to one society than to another./
