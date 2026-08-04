@@ -12,9 +12,10 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
+- New
+  - Why the Allies Won
 - Updated
-  - Revising History
-  - The Rise and Fall of the Great Powers
+  - Rise and Fall of the Great Powers
 
 
 * A BRIEF HISTORY OF TIME
@@ -3827,6 +3828,10 @@
 ** /Paul Kennedy/
 
 #+begin_quote
+  /It was war, and the consequences of war, that provided a much more urgent and continuous pressure toward “nation-building” than these philosophical considerations and slowly evolving social tendencies. Military power permitted many of Europe’s dynasties to keep above the great magnates of their land, and to secure political uniformity and authority (albeit often by concessions to the nobility). Military factors—or better, geostrategical factors—helped to shape the territorial boundaries of these new nation-states, while the frequent wars induced national consciousness, in a negative fashion at least, in that Englishmen learned to hate Spaniards, Swedes to hate Danes, Dutch rebels to hate their former Habsburg overlords. Above all, it was war—and especially the new techniques which favored the growth of infantry armies and expensive fortifications and fleets—which impelled belligerent states to spend more money than ever before, and to seek out a corresponding amount in revenues. All remarks about the general rise in government spending, or about new organizations for revenue-collecting, or about the changing relationship between kings and estates in early-modern Europe, remain abstract until the central importance of military conflict is recalled./
+#+end_quote
+
+#+begin_quote
   /To say that Europe’s decentralized states system was the great obstacle to centralization is not, then, a tautology. Because there existed a number of competing political entities, most of which possessed or were able to buy the military means to preserve their independence, no single one could ever achieve the breakthrough to the mastery of the continent./
 #+end_quote
 
@@ -4652,6 +4657,23 @@
 #+end_quote
 
 - In the conclusion, the author explicitly states that he puts the war blame on Germany, and that the regime's mixed form is what caused them to continue fighting despite the prevailing conditions.
+
+
+
+* WHY THE ALLIES WON
+** /Richard Overy/
+
+#+begin_quote
+  /Explanations of Allied success contain a strong element of determinism. We now know the story so well that we do not consider the uncomfortable prospect that other outcomes might have been possible. To ask why the Allies won is to presuppose that they might have lost or, for understandable reasons, that they would have accepted an outcome short of total victory. These were in fact strong possibilities. There was nothing preordained about Allied success./
+#+end_quote
+
+#+begin_quote
+  /If we are to understand why the Allies won we must recognise that material explanations, of resources, of technology, of fighting men, are not enough on their own. There is a moral dimension to warfare inseparable from any understanding of the outcome. Allied populations were sustained by the simple morality of defending themselves against unprovoked assault; Axis populations knew in their hearts that they had been led into campaigns of violence which the rest of the world deplored. If the Axis states had won, the qualms of their populations would not have mattered. But the moral ambiguity underlying that violence surely explains something about why they did not./
+#+end_quote
+
+#+begin_quote
+  /Complete victory was not attained just through the reform of Allied fighting power, and its effective exploitation on the field of battle. The will to win, to continue through periods of intense crisis, stalemate or defeat, to keep the prospect of victory in sight and to mobilise the psychological and moral energies of a people under threat, proved to be inseparable from the ability to fight better./
+#+end_quote
 
 
 
