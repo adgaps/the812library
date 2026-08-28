@@ -13,9 +13,8 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - Why the Allies Won
-- Updated
-  - Rise and Fall of the Great Powers
+  - Undaunted Courage
+
 
 
 * A BRIEF HISTORY OF TIME
@@ -4513,6 +4512,27 @@
 
 #+begin_quote
   /The world acts on us like a teaching machine, reinforcing our good ideas with moments of satisfaction. After centuries we learn what kinds of understanding are possible, and how to find them. We learn not to worry about purpose, because such worries never lead to the sort of delight we seek. We learn to abandon the search for certainty, because the explanations that make us happy never are certain. We learn to do experiments, not worrying about the artificiality of our arrangements. We develop an aesthetic sense that gives us clues to what theories will work, and that adds to our pleasure when they do work. Our understandings accumulate. It is all unplanned and unpredictable, but it leads to reliable knowledge, and gives us joy along the way./
+#+end_quote
+
+
+
+* UNDAUNTED COURAGE
+** /Stephen Ambrose/
+
+#+begin_quote
+  /No man did more for human liberty than Thomas Jefferon, author of the Declaration of Independence and of Virginia's Statute for Religious Freedom, among other gifts to mankind. Few men profited more from human slavery than Thomas Jefferson./
+#+end_quote
+
+#+begin_quote
+  /Since the birth of civilization, there had been almost no changes in commerce or transportation. Americans lived in a free and democratic society, the first in the world since ancient Greece, a society that read Shakespeare and had produced George Washington and Thomas Jefferson, but a society whose technology was barely advanced over that of the Greeks. The Americans of 1801 had more gadgets, better weapons, a superior knowledge of geography, and other advantages over the ancients, but they could not move goods or themselves or information by land or water any faster than had the Greeks and Romans./
+#+end_quote
+
+#+begin_quote
+  /In an age of imperialism, [Jefferson] was the greatest empire builder of the revolution. He thought of the United States as a nation stretching from sea to sea. More than any other man, he made that happen./
+#+end_quote
+
+#+begin_quote
+  /The expedition auhorized by the popularly elected Congress would combine scientific, commercial, and agricultural concerns with geographical discovery and nation-building. All the pillars of Enlightenment thought, summed up with the phrase "useful knowledge", were gathering in the instructions./
 #+end_quote
 
 
