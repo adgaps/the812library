@@ -13,7 +13,7 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - Undaunted Courage
+  - The Church and the Age of Reason
 
 
 
@@ -2245,6 +2245,23 @@
 
 #+begin_quote
   /When one take into account the interplay of general and special histories, and the fact that although sequential, explanatory, and interpretive inquiries are diverse in form they cannot exist in complete isolation from one another, the anatomy of historical knowledge reveals a unity of purpose and a unity of method: to understand the concrete nature of societies, the changes they have undergone, and the cultural products they have produced./
+#+end_quote
+
+
+
+* THE CHURCH AND THE AGE OF REASON
+** /Gerald Cragg/
+
+#+begin_quote
+  /Generalization, of course, is as dangerous as it is easy. It is unjust to bring an indictment against a whole class, since there are always exceptions to every rule. There were bishops who conscientiously administered their sees and faithfully shepherded their flocks, and some of them led lives of apostolic simplicity and sincerity. Certainly they were not the ones who attracted public attention and who determined the character of the church under the ancient regime./
+#+end_quote
+
+#+begin_quote
+  /The evils from which the church suffered sprang from the intimate association of the higher clergy with the classes among which indifference and apathy had made the most rapid strides. The infection of contemporary standards insensibly pervaded the church. Even the exemplary bishops, who did their duty and were devoted to the public good, often appeared self-conscious about their position and slightly apologetic regarding their faith./
+#+end_quote
+
+#+begin_quote
+  /The Age of Reason had carried men over the threshold of the modern world. It had shown them the inadequacy of the old conception of man and the universe, and had furnished them with the essentials of a new outlook. It had shown that scholastic orthodoxy, rearranging the pieces of an ancient puzzle, was not a sufficient instrument of thought or life. It had demonstrated the attractiveness and the limitations of reason; it had even revealed the power of the Romantic spirit. It had not actually provided the answer to man's perennial religious problems, though at one stage it was confident that it had. It provided many of the ingredients that would have to be incorporated in a new interpretation of the faith; it suggested the method that might profitably be used; but it bequeathed to the new age the task of restating the ancient faith in terms intelligible to modern man./
 #+end_quote
 
 
