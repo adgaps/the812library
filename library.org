@@ -13,7 +13,9 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - The Church and the Age of Reason
+  - The Coming of the Revolution
+- Updated
+ - Church in the Age of Reason
 
 
 
@@ -27,6 +29,8 @@
 #+begin_quote
   /In general, quantum mechanics does not predict a single definite result for an observation. Instead, it predicts a number of different possible outcomes and tells us how likely each of these is./
 #+end_quote
+
+
 
 * AMERICAN REVOLUTIONS
 ** /Alan Taylor/
@@ -2261,7 +2265,30 @@
 #+end_quote
 
 #+begin_quote
+  /The religious thought of a century — especially a century marked by such decisive changes — cannot be represented by a brief catalogue of its more eminent thinkers. New forces were transforming the intellectual outlook of western man. Not all were specifically religious in character, but most of them directly or indirectly modified religious beliefs./
+#+end_quote
+
+#+begin_quote
   /The Age of Reason had carried men over the threshold of the modern world. It had shown them the inadequacy of the old conception of man and the universe, and had furnished them with the essentials of a new outlook. It had shown that scholastic orthodoxy, rearranging the pieces of an ancient puzzle, was not a sufficient instrument of thought or life. It had demonstrated the attractiveness and the limitations of reason; it had even revealed the power of the Romantic spirit. It had not actually provided the answer to man's perennial religious problems, though at one stage it was confident that it had. It provided many of the ingredients that would have to be incorporated in a new interpretation of the faith; it suggested the method that might profitably be used; but it bequeathed to the new age the task of restating the ancient faith in terms intelligible to modern man./
+#+end_quote
+
+
+
+* THE COMING OF THE REVOLUTION
+** /Lawrence Henry Gipson/
+
+#+begin_quote
+  /The causes of the Revolution stem first from the effort of the British Government, faced with vast territorial acquisitions in North America at the end of the Great War for the Empire, along with an unprecedented war debt, to organize a more efficient administration on the continent and to make the colonies contribute directly to the support of the enlarged Empire amounts over and beyond the indefinite and indirect contributions already provided through the operation of the old colonial system of controls. Secondly, the causes of the breach can be traced to the radically altered situation of the colonies after 1760, by which date they were at long last relieved of the intense pressure previously exerted along their borders by hostile nations. Thus, at the very time when their dependence upon the mother country had largely disappeared and they felt impelled to demand greater autonomy than ever, the colonials found, instead, that their sphere of freedom of political action was seriously circumscribed by the government at home. Inevitably this led, first of all, to a re-examination by colonial leaders of the implications of the complicated British imperial system; then to challenging the doctrine of the supremacy of Parliament throughout the Empire; finally, to setting forth the counter-doctrine that the assemblies of the colonies were alone the ultimate judges of the extent of authority that the Crown and Parliament of Great Britain would be permitted to exercise within their borders./
+#+end_quote
+
+#+begin_quote
+  /The British Empire in 1763 was perhaps more economically self-contained and more prosperous than any other that had ever before existed. Nor is this all. No better testimony to its enlightened character can be offered that the fact that between 1763 and 1775 there existed not simply one religion, as was the case within the French, Spanish, and Portuguese empires, but four different Christian faiths which were established by law in various areas: the Anglican, the Presbyterian, the Congregational, and the Roman Catholic; while many other faiths were quietly tolerated. In addition there were even colonies with no religious establishment. These varied achievements together with the spirit of enlightenment stamped the old Empire as truly the wonder of the world./
+#+end_quote
+
+#+begin_quote
+  /By 1763 the old British continental colonies were arriving not only at economic maturity, but at political maturity as well./
+
+  /American colonials by and large had a degree of understanding of the problems of statecraft that would have been a matter of surprise to most of the peoples of continental Europe. Only too late did those responsible for British imperial policy come to appreciate that awareness and understanding./
 #+end_quote
 
 
@@ -2270,7 +2297,7 @@
 ** /Martin Thomas/
 
 - Main argument: Decolonization is a "globally connected process".
-- The end of empires, and globalization, are codependent with each other.n
+- The end of empires, and globalization, are codependent with each other.
 - The idea of decolonization is framed on Western imperialist terms. Independence movements inadvertently campaigned for self-governance, but with the same hierarchical system imposed by the colonizers.
 - Imperial protectionism worsened the effects of the Depression especially in the colonial territories. Most colonies experienced famine in the 1930s due to such policies.
 - Overlaps in language and ideology of anticolonialism and communism enabled the mixture of both, and indeed postwar anticolonial movements and figures are often Marxists too. The structure and methods of communist organizations also became crucial in spreading the idea of decolonization.
