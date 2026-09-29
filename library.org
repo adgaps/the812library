@@ -13,9 +13,9 @@
 * CHANGELOG
 - Only latest changes here, for easier tracking.
 - New
-  - The Coming of the Revolution
+  - Europe since 1870
 - Updated
- - Church in the Age of Reason
+  - The Coming of the Revolution
 
 
 
@@ -835,6 +835,15 @@
 
 #+begin_quote
   /There is no such thing as a sound Argument from Authority, but authorities can be persuasive, sometimes rightly and sometimes wrongly./
+#+end_quote
+
+
+
+* EUROPE SINCE 1870
+** /James Joll/
+
+#+begin_quote
+  /While history can be written in terms of vast global movements or of economic cycles in which events such as the Second World War only cause a momentary tremor on the instrument readings, the precise form in which changes occur is determined by the actions of individuals. It would be unrealistic, in writing about a period which starts with Bismarck and in which Lenin and Hitler, to say nothings of Churchill or de Gaulle or Freud or Einstein, are leading figures, to deny the impact of personality on history or to maintain that the course of the twentieth century would have been the same without these particular personalities. If this seems old-fashioned, then this [book] is old-fashioned history./
 #+end_quote
 
 
@@ -2289,6 +2298,14 @@
   /By 1763 the old British continental colonies were arriving not only at economic maturity, but at political maturity as well./
 
   /American colonials by and large had a degree of understanding of the problems of statecraft that would have been a matter of surprise to most of the peoples of continental Europe. Only too late did those responsible for British imperial policy come to appreciate that awareness and understanding./
+#+end_quote
+
+#+begin_quote
+  /What men in the past have believed to be true may well be as important to the historian as the actual truth./
+#+end_quote
+
+#+begin_quote
+  /It is clear that all political communities in a free society—in contrast to a police state—are in the final analysis bound together by self-interest. Therefore, only where this self-interest promotes a sense of solidarity among the members can there be real stability./
 #+end_quote
 
 
