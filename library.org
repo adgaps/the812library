@@ -12,8 +12,8 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- New
-  - The Meaning of the American Revolution
+- Updated
+  - The Coming of the Revolution
 
 
 
@@ -2303,7 +2303,11 @@
 #+end_quote
 
 #+begin_quote
-  /It is clear that all political communities in a free society—in contrast to a police state—are in the final analysis bound together by self-interest. Therefore, only where this self-interest promotes a sense of solidarity among the members can there be real stability./
+  /It is clear that all political communities in a free society — in contrast to a police state — are in the final analysis bound together by self-interest. Therefore, only where this self-interest promotes a sense of solidarity among the members can there be real stability./
+#+end_quote
+
+#+begin_quote
+  /The rupture of the old British Empire did not come about as the result of the actions of wicked men — neither of the King or Lord North, on the one hand, nor of American radicals, on the other — freely as this was charged on both sides of the Atlantic by those whose minds were inflamed. It had its source fundamentally in the fact that America now embodied a mature and powerful English-speaking community with a mind of its own and a future that it considered peculiarly own./
 #+end_quote
 
 
