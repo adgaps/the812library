@@ -12,8 +12,9 @@
 
 * CHANGELOG
 - Only latest changes here, for easier tracking.
-- Updated
-  - The Coming of the Revolution
+- New
+  - The Vertigo Years
+  - The World since 1945
 
 
 
@@ -4369,6 +4370,44 @@
 #+begin_quote
   /A scientific community consists, on this view, of the practitioners of a scientific specialty. To an extent unparalleled in most other fields, they have undergone similar educations and professional initiations; in the process they have absorbed the same technical literature and drawn many of the same lessons from it. Usually the boundaries of that standard literature mark the limits of a scientific subject matter, and each community ordinarily has a subject matter of its own./
 #+end_quote 
+
+
+
+* THE VERTIGO YEARS
+** /Philipp Blom/
+
+#+begin_quote
+  /Today, the period before the outbreak of the First World War is often regarded as idyllic: the time before the fall, the good old days, a/ belle époque /celebrated in lavishly decorated films, a beautiful, intact society about to be shattered by the forces driving it inexorably towards disaster. After 1918, according to this reading of events, the phoenix of modernity arose from the ashes of the old world./
+#+end_quote
+
+#+begin_quote
+  /To most people who lived around 1900 this nostalgic view with its emphasis on solidity and race would have come as a surprise. Their experience of this period was as yet unembellished by reminiscence. It was more raw, and marked by fascinations and fears much closer to our own time. Then as now, rapid changes in technology, globalizations, communication technologies and changes in the social fabric dominated conversations and newspaper articles; then as now, cultures of mass consumption stamped their mark on the time; then as now, the feeling of living in an accelerating world, of speeding into the unknown, was overwhelming./
+#+end_quote
+
+#+begin_quote
+  /Speed and exhilaration, anxiety and vertigo were recurrent themes of the years between 1900 and 1914, during which cities exploded in size and societies were transformed, mass production seized hold of everyday life, newspapers turned into media empires, cinema audiences were in the tens of millions, and globalization brought meat from New Zealand and grain from Canada to British dinner plates, decimating the incomes of the old landed classes and enabling the rise of new kinds of people: engineers, technocrats, city-dwellers. Modernity did not rise virgin-born from the trenches of the Somme. Well before 1914, it had already taken a firm hold on the minds and lives of Europe. The War acted not as a creator, but as a catalyst, forcing old structures to collapse more quickly and new identities to assert themselves more readily./
+#+end_quote
+
+#+begin_quote
+  /Nature abhors a vacuum, and the Emperor's fiction of unity was not sustainable. Instead, individual and competing groups (national, social, or political) filled the Habsburg void with content of their own choosing: with manners, art, hedonism, and ideas of national greatness. All these projections were allowed, as long as nobody called the imperial bluff./
+#+end_quote
+
+#+begin_quote
+  /The mass media had put power on a different footing. The image of power, always paramount in politics, was no longer the domain of official artists and grand projects but was decided in newspaper offices. 'Modern' monarchs like Wilhelm II of Germany did their best to court and use the media to project a persona invented for this purpose, but he too had to learn that this was a dance with a devil who could veer off in a different direction without any prior warning. Spin doctors in every era have known that perception is infinitely more potent than mere fact./
+#+end_quote
+
+
+
+* THE WORLD SINCE 1945
+** /TE Vadney/
+
+#+begin_quote
+  /The West was the most important external force affecting the pattern of Third World development, through centuries of colonialism. It was a fact that Western businesses took more from the Third World than they put in, and that in many places they steadily increased their rate of exploitation. This was hardly surprising, as the purpose of Western trade and investment was to make a profit. But this also meant that the interdependence of the two worlds was anything but mutual./
+#+end_quote
+
+#+begin_quote
+  /In 1945 the goal of the Western imperial powers was to prolong the colonial era or at least to define the terms of Third World independence. The proof was that they were sometimes willing to go to war in order to do so. Even in cases where independence was likely to prove irresistible, it might be important to invoke the colonial option temporarily. This would gain precious time to groom local leaders acceptable to the West, so that when independence was conceded power would not fall into the hands of revolutionaries./
+#+end_quote
 
 
 
